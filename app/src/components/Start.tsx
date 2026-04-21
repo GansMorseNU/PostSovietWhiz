@@ -11,9 +11,7 @@ export function Start({ onQuizMode, onGameMode }: Props) {
   return (
     <div className="container start-container">
       <div className="start-hero">
-        <div className="start-title-badge">
-          <h1 className="start-title">{APP_NAME}</h1>
-        </div>
+        <h1 className="start-title">{APP_NAME}</h1>
       </div>
 
       <div className="start-modes">
