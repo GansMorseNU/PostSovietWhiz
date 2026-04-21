@@ -43,9 +43,9 @@ Google Sheet via Google Apps Script.
 
 ### Current behavior
 
-- If a Google Apps Script endpoint has been configured in `app/src/feedback.ts`,
-  feedback is posted there.
-- If no endpoint is configured yet, feedback is saved locally on the device and can
+- The production app is configured to post feedback to the Google Apps Script endpoint
+  defined in `app/src/feedback.ts`.
+- If that endpoint cannot be reached, feedback is saved locally on the device and can
   be exported from the app home screen as JSON.
 - Any feedback containing `*JGM*` is tagged for **auto-apply on the next update pass**
   instead of going through the normal review queue.

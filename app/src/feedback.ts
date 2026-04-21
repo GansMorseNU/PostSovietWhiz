@@ -66,7 +66,8 @@ export type SubmitFeedbackResult = {
   pendingCount: number;
 };
 
-const DEFAULT_FEEDBACK_ENDPOINT = '';
+const DEFAULT_FEEDBACK_ENDPOINT =
+  'https://script.google.com/macros/s/AKfycbzSTpIfYeY5e_BG76ajU35gwfNwvoSoxsJkIM0szn6wvnqHtBTKxs6XdyGuqM0OVvtr/exec';
 const FEEDBACK_QUEUE_KEY = 'post-soviet-whiz-feedback-queue';
 const FEEDBACK_QUEUE_EVENT = 'post-soviet-whiz-feedback-queue-change';
 

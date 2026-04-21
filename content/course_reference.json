@@ -274,8 +274,8 @@
   ],
   "product_roadmap": {
     "feedback_system": {
-      "status": "partially_implemented",
-      "target": "Question-level feedback modal is live in quiz and game screens. Reports currently queue locally on-device; Google Sheets sync via Apps Script is scaffolded and awaiting endpoint configuration.",
+      "status": "configured",
+      "target": "Question-level feedback modal is live in quiz and game screens. Reports post to the configured Google Apps Script / Google Sheet endpoint, with local-device queue fallback if delivery fails or the endpoint is unavailable.",
       "special_rule": "Feedback containing `*JGM*` should be treated as instructor-approved and auto-applied on the next update pass without separate review. Other feedback stays in the review queue."
     },
     "game_filters": {
