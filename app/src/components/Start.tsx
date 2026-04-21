@@ -1,6 +1,7 @@
 import { APP_NAME } from '../App';
 import { FeedbackStatus } from './FeedbackStatus';
 import { InstallPrompt } from './InstallPrompt';
+import heroBandImg from '../assets/hero-band.jpg';
 
 type Props = {
   onQuizMode: () => void;
@@ -10,6 +11,13 @@ type Props = {
 export function Start({ onQuizMode, onGameMode }: Props) {
   return (
     <div className="container start-container">
+      <div
+        className="start-hero-band"
+        role="img"
+        aria-label="Hammer and sickle on a cracked concrete wall"
+        style={{ backgroundImage: `url(${heroBandImg})` }}
+      />
+
       <div className="start-hero">
         <h1 className="start-title">{APP_NAME}</h1>
       </div>

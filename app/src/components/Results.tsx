@@ -86,7 +86,7 @@ export function Results({
           <div className="results-actions">
             {onContinue && (
               <button className="primary primary-accent" onClick={onContinue}>
-                Next 20 questions
+                Next 10 questions
               </button>
             )}
             {onRedoMissed && (

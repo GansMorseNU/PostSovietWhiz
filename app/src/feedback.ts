@@ -67,7 +67,7 @@ export type SubmitFeedbackResult = {
 };
 
 const DEFAULT_FEEDBACK_ENDPOINT =
-  'https://script.google.com/macros/s/AKfycbzSTpIfYeY5e_BG76ajU35gwfNwvoSoxsJkIM0szn6wvnqHtBTKxs6XdyGuqM0OVvtr/exec';
+  'https://script.google.com/macros/s/AKfycbwayTJFG-d5Nzz7YfBlYUfiOapNbGV0rNvvD_yYMYCBEcFF2uzHbZxYIKgGTDZ8rU5w/exec';
 const FEEDBACK_QUEUE_KEY = 'post-soviet-whiz-feedback-queue';
 const FEEDBACK_QUEUE_EVENT = 'post-soviet-whiz-feedback-queue-change';
 

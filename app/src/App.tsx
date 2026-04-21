@@ -7,6 +7,7 @@ import { Quiz } from './components/Quiz';
 import { Results } from './components/Results';
 import { Game } from './components/Game';
 import { GameSetup } from './components/GameSetup';
+import { shuffleArray } from './util';
 
 export const APP_NAME = 'PostSovietWhiz';
 
@@ -69,7 +70,7 @@ type Screen =
   | { kind: 'game'; filters: Filters };
 
 const bank = questionsData as QuestionBank;
-const QUIZ_BATCH_SIZE = 20;
+const QUIZ_BATCH_SIZE = 10;
 const DEFAULT_FILTERS: Filters = {
   difficulty: 'mix',
   era: 'all',
@@ -114,11 +115,12 @@ function createQuizSession(
   questionPool: Question[],
   batchNumber = 1,
 ): QuizSession {
+  const shuffled = shuffleArray(questionPool);
   return {
     target,
     filters: { ...filters },
-    currentQuestions: questionPool.slice(0, QUIZ_BATCH_SIZE),
-    remainingQuestions: questionPool.slice(QUIZ_BATCH_SIZE),
+    currentQuestions: shuffled.slice(0, QUIZ_BATCH_SIZE),
+    remainingQuestions: shuffled.slice(QUIZ_BATCH_SIZE),
     batchNumber,
     mode: 'standard',
   };
