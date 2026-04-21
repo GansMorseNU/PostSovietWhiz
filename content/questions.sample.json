@@ -13,9 +13,9 @@
           "correct": true
         },
         {
-          "text": "The Communist Party was officially banned in Russia",
+          "text": "The Communist Party of the Soviet Union was permanently banned in Russia",
           "correct": false,
-          "note": "The Communist Party was briefly suspended after the 1991 coup but was not permanently banned; it returned as a political party."
+          "note": "The Communist Party of the Soviet Union was suspended after the 1991 coup, but what later emerged as a major legal party in Russia was the Communist Party of the Russian Federation (KPRF), not a simple restoration of the CPSU."
         },
         {
           "text": "Russia held its first free and fair presidential election",
@@ -174,7 +174,7 @@
       "category": "political_transitions",
       "subcategory": "political_transitions",
       "type": "multiple_choice",
-      "prompt": "Political scientist M. Steven Fish argued that Russia's democratic failure in the 1990s was significantly caused by:",
+      "prompt": "In Democracy Derailed in Russia, political scientist M. Steven Fish argued that Russia's democratic failure in the 1990s was significantly caused by:",
       "choices": [
         {
           "text": "The adoption of a superpresidential constitution that concentrated too much power in the executive",
@@ -196,7 +196,7 @@
           "note": "Fish actually argued that insufficient economic reform, not too-rapid reform, was part of the problem."
         }
       ],
-      "explanation": "In his influential work, M. Steven Fish argued that the 1993 Russian constitution created a 'superpresidential' system that concentrated excessive power in the presidency at the expense of the legislature, parties, and civil society. This institutional imbalance, he contended, was a key factor undermining democratic development in Russia.",
+      "explanation": "In Democracy Derailed in Russia, M. Steven Fish argued that the 1993 Russian constitution created a 'superpresidential' system that concentrated excessive power in the presidency at the expense of the legislature, parties, and civil society. Despite formally being classified as semi-presidential, Fish and many other analysts argue that Russia in practice became superpresidential because the presidency so thoroughly dominated the rest of the political system. This institutional imbalance, he contended, was a key factor undermining democratic development in Russia.",
       "difficulty": "hard",
       "era": "1990s",
       "era_filter_visibility": [
@@ -408,10 +408,10 @@
         {
           "text": "Russia used proportional representation while Ukraine did not",
           "correct": false,
-          "note": "Electoral rules mattered, but they were not the main structural reason Ukraine remained more pluralistic than Russia."
+          "note": "This is too blunt as stated: both countries used changing mixes of proportional representation (PR) and single-member districts across the period, and Ukraine itself used pure PR in the mid-2000s. Electoral rules mattered at the margin, but they were not the main reason Ukraine remained more pluralistic than Russia."
         }
       ],
-      "explanation": "Ukraine's politics were often messy and heavily influenced by oligarchs, but power was dispersed across regions, business groups, and institutions in ways that made full recentralization difficult. Russia, by contrast, saw the Kremlin consolidate authority more successfully in the 2000s through media control, regional recentralization, and tighter management of party competition.",
+      "explanation": "Ukraine's politics were often messy and heavily influenced by oligarchs, but power was dispersed across regions, business groups, and institutions in ways that made full recentralization difficult. Russia, by contrast, saw the Kremlin consolidate authority more successfully in the 2000s through media control, regional recentralization, and tighter management of party competition. Electoral rules varied in both countries and were not irrelevant, but they were secondary to these broader differences in how political and economic power was organized.",
       "difficulty": "hard",
       "era": "2000s",
       "country": "both",
@@ -578,9 +578,9 @@
           "note": "Ukraine remained a unitary state, even though Crimea retained a special autonomous status."
         },
         {
-          "text": "It restored the 2004 Orange Revolution reforms that weakened the presidency",
+          "text": "It gave parliament sole authority to appoint and dismiss the prime minister from the outset",
           "correct": false,
-          "note": "The 2004 reforms came later; the 1996 constitution preceded them and initially strengthened presidential power."
+          "note": "The 1996 constitution did not create that premier-presidential arrangement; it gave the president substantially stronger powers, and later battles over executive authority helped drive subsequent constitutional reforms."
         }
       ],
       "explanation": "Kuchma pushed for a stronger presidency, but Ukraine's 1996 constitution was still more of a compromise than Russia's 1993 settlement. Because it was passed through existing procedures rather than imposed after a violent showdown, it did not carry the same origin story as Russia's superpresidential constitution.",

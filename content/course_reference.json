@@ -324,7 +324,7 @@
     "feedback_system": {
       "status": "configured",
       "target": "Question-level feedback modal is live in quiz and game screens. Reports post to the configured Google Apps Script / Google Sheet endpoint, with local-device queue fallback if delivery fails or the endpoint is unavailable.",
-      "special_rule": "Feedback containing `*JGM*` is tagged as `auto_apply_next_pass` at submission time. The script template now includes a token-protected `doGet` readback path, but the deployed Apps Script must be updated and redeployed before future sessions can automatically pull those items back in and apply them. Other feedback stays in the review queue."
+      "special_rule": "Feedback containing `*JGM*` is tagged as `auto_apply_next_pass` at submission time. The deployed Apps Script now supports token-protected `doGet` readback, so future sessions can pull those items back in and apply them as long as the user provides the private token out of band. Other feedback stays in the review queue."
     },
     "game_filters": {
       "status": "implemented",
