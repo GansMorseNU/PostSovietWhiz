@@ -143,4 +143,6 @@ Start (landing page)
 - Compact permanent course reference now lives in `content/course_reference.json`; raw `CourseMaterials/` remain the deeper source of truth
 - PWA pilot setup is in place for zero-cost link sharing and home-screen install on iPhone and Android
 - Question-level feedback UI is live in quiz and game mode, and feedback now posts to the configured Google Apps Script / Google Sheet endpoint with local fallback if delivery fails
-- Near-term roadmap: use `*JGM*` feedback for auto-apply on the next update pass, add game-mode filters, add quiz batches of 20 with redo-missed flow, and later switch to non-repeating game mode once the bank reaches about 300 questions
+- Game mode now opens with a pre-start filter screen for difficulty, era, and country
+- Quiz mode now runs in 20-question batches and offers continue / redo missed / return-home decisions between batches
+- Near-term roadmap: use `*JGM*` feedback for auto-apply on the next update pass, continue expanding and rebalancing the bank, and later switch to non-repeating game mode once the bank reaches about 300 questions

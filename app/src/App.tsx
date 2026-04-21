@@ -6,6 +6,7 @@ import { Home } from './components/Home';
 import { Quiz } from './components/Quiz';
 import { Results } from './components/Results';
 import { Game } from './components/Game';
+import { GameSetup } from './components/GameSetup';
 
 export const APP_NAME = 'PostSovietWhiz';
 
@@ -44,20 +45,36 @@ export const CATEGORIES: CategoryDef[] = [
 /** Quiz target: 'all' or a category key */
 export type QuizTarget = string;
 
-type Filters = {
+export type Filters = {
   difficulty: DifficultyFilter;
   era: EraFilter;
   country: CountryFilter;
 };
 
+type QuizSession = {
+  target: QuizTarget;
+  filters: Filters;
+  currentQuestions: Question[];
+  remainingQuestions: Question[];
+  batchNumber: number;
+  mode: 'standard' | 'redo';
+};
+
 type Screen =
   | { kind: 'start' }
   | { kind: 'home' }
-  | { kind: 'quiz'; target: QuizTarget; filters: Filters }
-  | { kind: 'results'; answers: Answer[]; target: QuizTarget; filters: Filters }
-  | { kind: 'game' };
+  | { kind: 'quiz'; session: QuizSession }
+  | { kind: 'results'; answers: Answer[]; session: QuizSession }
+  | { kind: 'game_setup' }
+  | { kind: 'game'; filters: Filters };
 
 const bank = questionsData as QuestionBank;
+const QUIZ_BATCH_SIZE = 20;
+const DEFAULT_FILTERS: Filters = {
+  difficulty: 'mix',
+  era: 'all',
+  country: 'all',
+};
 
 /* ------------------------------------------------------------------ */
 /*  Filtering                                                          */
@@ -90,6 +107,29 @@ export const filterQuestions = (
     }
     return true;
   });
+
+function createQuizSession(
+  target: QuizTarget,
+  filters: Filters,
+  questionPool: Question[],
+  batchNumber = 1,
+): QuizSession {
+  return {
+    target,
+    filters: { ...filters },
+    currentQuestions: questionPool.slice(0, QUIZ_BATCH_SIZE),
+    remainingQuestions: questionPool.slice(QUIZ_BATCH_SIZE),
+    batchNumber,
+    mode: 'standard',
+  };
+}
+
+function getMissedQuestions(questions: Question[], answers: Answer[]): Question[] {
+  const missedIds = new Set(
+    answers.filter((answer) => !answer.correct).map((answer) => answer.questionId),
+  );
+  return questions.filter((question) => missedIds.has(question.id));
+}
 
 /* ------------------------------------------------------------------ */
 /*  Pretty names                                                       */
@@ -135,15 +175,14 @@ export const prettyCountry: Record<CountryFilter, string> = {
 
 function screenMode(s: Screen): 'start' | 'quiz' | 'game' {
   if (s.kind === 'start') return 'start';
-  if (s.kind === 'game') return 'game';
+  if (s.kind === 'game' || s.kind === 'game_setup') return 'game';
   return 'quiz';
 }
 
 export function App() {
   const [screen, setScreen] = useState<Screen>({ kind: 'start' });
-  const [difficulty, setDifficulty] = useState<DifficultyFilter>('mix');
-  const [era, setEra] = useState<EraFilter>('all');
-  const [country, setCountry] = useState<CountryFilter>('all');
+  const [quizFilters, setQuizFilters] = useState<Filters>(DEFAULT_FILTERS);
+  const [gameFilters, setGameFilters] = useState<Filters>(DEFAULT_FILTERS);
   const appRef = useRef<HTMLDivElement>(null);
 
   useLayoutEffect(() => {
@@ -152,12 +191,21 @@ export function App() {
   }, [screen.kind]);
 
   const mode = screenMode(screen);
-  const currentFilters: Filters = { difficulty, era, country };
+  const startQuiz = (target: QuizTarget, filters: Filters) => {
+    setScreen({
+      kind: 'quiz',
+      session: createQuizSession(target, filters, filterQuestions(target, filters)),
+    });
+  };
 
   const goBack = () => {
     if (screen.kind === 'quiz' || screen.kind === 'results') {
       setScreen({ kind: 'home' });
     } else if (screen.kind === 'home') {
+      setScreen({ kind: 'start' });
+    } else if (screen.kind === 'game') {
+      setScreen({ kind: 'game_setup' });
+    } else if (screen.kind === 'game_setup') {
       setScreen({ kind: 'start' });
     } else {
       setScreen({ kind: 'start' });
@@ -167,7 +215,7 @@ export function App() {
   const topbarLabel = (): string => {
     if (mode === 'game') return 'Game Mode';
     if (screen.kind === 'home') return 'Quiz Mode';
-    if (screen.kind === 'quiz') return pretty(screen.target);
+    if (screen.kind === 'quiz') return pretty(screen.session.target);
     if (screen.kind === 'results') return 'Results';
     return 'Quiz Mode';
   };
@@ -203,35 +251,54 @@ export function App() {
       {screen.kind === 'start' && (
         <Start
           onQuizMode={() => setScreen({ kind: 'home' })}
-          onGameMode={() => setScreen({ kind: 'game' })}
+          onGameMode={() => setScreen({ kind: 'game_setup' })}
         />
       )}
 
       {screen.kind === 'home' && (
         <Home
-          difficulty={difficulty}
-          onChangeDifficulty={setDifficulty}
-          era={era}
-          onChangeEra={setEra}
-          country={country}
-          onChangeCountry={setCountry}
-          countFor={(target) => filterQuestions(target, currentFilters).length}
-          onStartQuiz={(target) =>
-            setScreen({ kind: 'quiz', target, filters: currentFilters })
+          difficulty={quizFilters.difficulty}
+          onChangeDifficulty={(difficulty) =>
+            setQuizFilters((prev) => ({ ...prev, difficulty }))
+          }
+          era={quizFilters.era}
+          onChangeEra={(era) => setQuizFilters((prev) => ({ ...prev, era }))}
+          country={quizFilters.country}
+          onChangeCountry={(country) => setQuizFilters((prev) => ({ ...prev, country }))}
+          countFor={(target) => filterQuestions(target, quizFilters).length}
+          onStartQuiz={(target) => startQuiz(target, quizFilters)}
+        />
+      )}
+
+      {screen.kind === 'game_setup' && (
+        <GameSetup
+          difficulty={gameFilters.difficulty}
+          onChangeDifficulty={(difficulty) =>
+            setGameFilters((prev) => ({ ...prev, difficulty }))
+          }
+          era={gameFilters.era}
+          onChangeEra={(era) => setGameFilters((prev) => ({ ...prev, era }))}
+          country={gameFilters.country}
+          onChangeCountry={(country) => setGameFilters((prev) => ({ ...prev, country }))}
+          matchingCount={filterQuestions('all', gameFilters).length}
+          onStartGame={() =>
+            setScreen({
+              kind: 'game',
+              filters: { ...gameFilters },
+            })
           }
         />
       )}
 
       {screen.kind === 'quiz' && (
         <Quiz
-          questions={filterQuestions(screen.target, screen.filters)}
+          questions={screen.session.currentQuestions}
           scrollContainerRef={appRef}
           onFinish={(answers) =>
             setScreen({
               kind: 'results',
               answers,
-              target: screen.target,
-              filters: screen.filters,
+              session: screen.session,
             })
           }
         />
@@ -239,17 +306,50 @@ export function App() {
 
       {screen.kind === 'results' && (
         <Results
-          target={screen.target}
-          questions={filterQuestions(screen.target, screen.filters)}
+          target={screen.session.target}
+          mode={screen.session.mode}
+          batchNumber={screen.session.batchNumber}
+          questions={screen.session.currentQuestions}
           answers={screen.answers}
+          remainingCount={screen.session.remainingQuestions.length}
+          onContinue={
+            screen.session.remainingQuestions.length > 0
+              ? () =>
+                  setScreen({
+                    kind: 'quiz',
+                    session: createQuizSession(
+                      screen.session.target,
+                      screen.session.filters,
+                      screen.session.remainingQuestions,
+                      screen.session.batchNumber + 1,
+                    ),
+                  })
+              : undefined
+          }
+          onRedoMissed={
+            getMissedQuestions(screen.session.currentQuestions, screen.answers).length > 0
+              ? () =>
+                  setScreen({
+                    kind: 'quiz',
+                    session: {
+                      ...screen.session,
+                      currentQuestions: getMissedQuestions(
+                        screen.session.currentQuestions,
+                        screen.answers,
+                      ),
+                      mode: 'redo',
+                    },
+                  })
+              : undefined
+          }
           onRestart={() => setScreen({ kind: 'home' })}
         />
       )}
 
       {screen.kind === 'game' && (
         <Game
-          allQuestions={bank.questions}
-          onExit={() => setScreen({ kind: 'start' })}
+          allQuestions={filterQuestions('all', screen.filters)}
+          onExit={() => setScreen({ kind: 'game_setup' })}
           scrollContainerRef={appRef}
         />
       )}

@@ -279,12 +279,12 @@
       "special_rule": "Feedback containing `*JGM*` should be treated as instructor-approved and auto-applied on the next update pass without separate review. Other feedback stays in the review queue."
     },
     "game_filters": {
-      "status": "planned",
-      "target": "Show a filter screen before game mode starts so difficulty, era, and country can constrain the game question pool."
+      "status": "implemented",
+      "target": "Game mode now opens with a filter screen so difficulty, era, and country constrain the question pool before level play begins."
     },
     "quiz_batches": {
-      "status": "planned",
-      "target": "Run quiz mode in batches of 20 questions, then offer continue / redo missed / return home."
+      "status": "implemented",
+      "target": "Quiz mode now runs in batches of 20 questions and offers continue / redo missed / return home choices between batches."
     }
   }
 }

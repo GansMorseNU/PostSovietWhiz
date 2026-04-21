@@ -14,7 +14,7 @@ MVP running with a 197-question sample bank. Customized for PS369 with 3 categor
 
 A compact permanent reference for future low-token authoring sessions now lives at `content/course_reference.json`.
 The app is now configured as an installable PWA for iPhone and Android, with manifest/icons/service worker support and a GitHub Pages deployment workflow in `.github/workflows/deploy-pages.yml`.
-Question-level feedback is now live in quiz mode and game mode, posting to a configured Google Apps Script / Google Sheet endpoint with local-device queue fallback if the endpoint is unavailable.
+Question-level feedback is now live in quiz mode and game mode, posting to a configured Google Apps Script / Google Sheet endpoint with local-device queue fallback if the endpoint is unavailable. Game mode now opens with a filter screen, and quiz mode now runs in 20-question batches with a redo-missed option between batches.
 
 ## Categories
 
@@ -48,8 +48,8 @@ Question-level feedback is now live in quiz mode and game mode, posting to a con
 ## Next steps
 
 - [x] Configure the Google Apps Script Web App URL so feedback syncs from the app into a shared Google Sheet
-- [ ] Add filters to game mode before level start
-- [ ] Change quiz mode to 20-question batches with options to continue and redo missed questions
+- [x] Add filters to game mode before level start
+- [x] Change quiz mode to 20-question batches with options to continue and redo missed questions
 - [ ] Continue rebalancing underrepresented eras and difficulty tiers in the bank, especially the very-hard tier
 - [ ] When the bank reaches about **300 questions**, remind the user to switch game mode to avoid repeats by default
 

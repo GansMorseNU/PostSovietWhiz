@@ -7001,7 +7001,7 @@
       "prompt": "What did the 1987 Intermediate-Range Nuclear Forces (INF) Treaty require the United States and the Soviet Union to do?",
       "choices": [
         {
-          "text": "Eliminate their land-based intermediate-range missiles in Europe",
+          "text": "Eliminate all ground-launched ballistic and cruise missiles with ranges of 500 to 5,500 kilometers",
           "correct": true
         },
         {
@@ -7020,7 +7020,7 @@
           "note": "The treaty eliminated a weapons category, not the Warsaw Pact's institutions."
         }
       ],
-      "explanation": "The INF Treaty was the first arms-control agreement to abolish an entire class of nuclear missiles rather than just cap numbers. It also included intrusive verification measures, which helped build confidence late in the Cold War.",
+      "explanation": "The INF Treaty was the first arms-control agreement to abolish an entire class of nuclear missiles rather than just cap numbers. It required both sides to eliminate all ground-launched ballistic and cruise missiles with ranges of 500 to 5,500 kilometers, and it included intrusive verification measures that helped build confidence late in the Cold War.",
       "difficulty": "easy",
       "era": "soviet",
       "country": "both",

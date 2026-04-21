@@ -338,6 +338,38 @@ img {
   margin: 0;
 }
 
+.game-setup-summary {
+  margin-top: 14px;
+  padding: 22px 22px 24px;
+  border-radius: 16px;
+  background: linear-gradient(135deg, #2c4a6e 0%, #3b6494 100%);
+  color: #f4f1ea;
+}
+
+.game-setup-kicker {
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: #b8cfe0;
+  margin: 0 0 10px;
+}
+
+.game-setup-title {
+  font-family: var(--serif);
+  font-weight: 600;
+  font-size: 26px;
+  margin: 0 0 6px;
+  letter-spacing: -0.01em;
+  line-height: 1.1;
+}
+
+.game-setup-meta {
+  font-size: 14px;
+  color: #d6e4ef;
+  margin: 0;
+}
+
 /* ---------- Quiz ---------- */
 
 .quiz-progress-bar {
@@ -815,6 +847,21 @@ img {
   color: var(--ink);
   font-weight: 600;
 }
+
+.results-actions {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  width: 100%;
+}
+
+.results-actions .primary,
+.results-actions .ghost {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+ }
 
 .review {
   list-style: none;
