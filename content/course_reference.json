@@ -324,7 +324,7 @@
     "feedback_system": {
       "status": "configured",
       "target": "Question-level feedback modal is live in quiz and game screens. Reports post to the configured Google Apps Script / Google Sheet endpoint, with local-device queue fallback if delivery fails or the endpoint is unavailable.",
-      "special_rule": "Feedback containing `*JGM*` should be treated as instructor-approved and auto-applied on the next update pass without separate review. Other feedback stays in the review queue."
+      "special_rule": "Feedback containing `*JGM*` is tagged as `auto_apply_next_pass` at submission time. However, the current Apps Script deployment is write-only, so an admin readback/export path is still needed before future sessions can automatically pull those items back in and apply them. Other feedback stays in the review queue."
     },
     "game_filters": {
       "status": "implemented",

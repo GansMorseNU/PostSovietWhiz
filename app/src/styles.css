@@ -955,24 +955,62 @@ img {
 
 .start-hero {
   text-align: center;
-  margin-bottom: 40px;
+  margin-bottom: 32px;
+}
+
+.start-title-badge {
+  position: relative;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  padding: 26px 28px 22px;
+  border-radius: 24px;
+  overflow: hidden;
+  background:
+    linear-gradient(
+      135deg,
+      rgba(255, 255, 255, 0.92) 0%,
+      rgba(255, 255, 255, 0.92) 16%,
+      #2f61b0 16%,
+      #2f61b0 32%,
+      #cf3d37 32%,
+      #cf3d37 48%,
+      #1e6fc7 48%,
+      #1e6fc7 76%,
+      #f2c63f 76%,
+      #f2c63f 100%
+    );
+  box-shadow: 0 16px 36px rgba(18, 18, 18, 0.12);
+}
+
+.start-title-badge::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background:
+    linear-gradient(
+      135deg,
+      transparent 47%,
+      rgba(17, 24, 39, 0.18) 49%,
+      rgba(17, 24, 39, 0.18) 51%,
+      transparent 53%
+    ),
+    linear-gradient(180deg, rgba(17, 24, 39, 0.12), rgba(17, 24, 39, 0.2));
 }
 
 .start-title {
+  position: relative;
+  z-index: 1;
   font-family: var(--serif);
   font-size: 40px;
   font-weight: 700;
   letter-spacing: -0.025em;
   line-height: 1.05;
-  margin: 0 0 12px;
-}
-
-.start-tagline {
-  font-size: 16px;
-  color: var(--ink-muted);
-  margin: 0 auto;
-  line-height: 1.5;
-  max-width: 320px;
+  margin: 0;
+  color: #ffffff;
+  text-shadow:
+    0 1px 1px rgba(0, 0, 0, 0.45),
+    0 4px 14px rgba(0, 0, 0, 0.34);
 }
 
 .start-modes {

@@ -11,11 +11,9 @@ export function Start({ onQuizMode, onGameMode }: Props) {
   return (
     <div className="container start-container">
       <div className="start-hero">
-        <h1 className="start-title">{APP_NAME}</h1>
-        <p className="start-tagline">
-          Review key concepts from Post-Soviet Politics: Russia, Ukraine, and
-          the Road to War.
-        </p>
+        <div className="start-title-badge">
+          <h1 className="start-title">{APP_NAME}</h1>
+        </div>
       </div>
 
       <div className="start-modes">
