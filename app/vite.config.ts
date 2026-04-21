@@ -2,8 +2,8 @@ import { defineConfig } from 'vite';
 import react from '@vitejs/plugin-react';
 import { VitePWA } from 'vite-plugin-pwa';
 
-const APP_NAME = 'Post-Soviet Politics Whiz';
-const APP_SHORT_NAME = 'PS369 Review';
+const APP_NAME = 'PostSovietWhiz';
+const APP_SHORT_NAME = 'PostSovietWhiz';
 const APP_DESCRIPTION =
   'Review key concepts from Post-Soviet Politics: Russia, Ukraine, and the Road to War.';
 

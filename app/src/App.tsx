@@ -7,7 +7,7 @@ import { Quiz } from './components/Quiz';
 import { Results } from './components/Results';
 import { Game } from './components/Game';
 
-export const APP_NAME = 'Post-Soviet Politics Whiz';
+export const APP_NAME = 'PostSovietWhiz';
 
 /* ------------------------------------------------------------------ */
 /*  Categories                                                         */
