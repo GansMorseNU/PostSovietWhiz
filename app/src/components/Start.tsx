@@ -1,4 +1,3 @@
-import { APP_NAME } from '../App';
 import { FeedbackStatus } from './FeedbackStatus';
 import { InstallPrompt } from './InstallPrompt';
 import heroBandImg from '../assets/hero-band.jpg';
@@ -19,7 +18,10 @@ export function Start({ onQuizMode, onGameMode }: Props) {
       />
 
       <div className="start-hero">
-        <h1 className="start-title">{APP_NAME}</h1>
+        <h1 className="start-title">
+          <span className="start-title-line">Post-Soviet</span>
+          <span className="start-title-line">Whiz</span>
+        </h1>
       </div>
 
       <div className="start-modes">
