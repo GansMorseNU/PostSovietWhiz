@@ -1,14 +1,16 @@
 """Generate app/src/assets/hero-band.jpg from the source JPG.
 
 The source (525x350) has the hammer-and-sickle pushed to the right edge,
-with the top of the sickle only ~23px below the top border. Rendering it
-in a wide CSS band at background-size: cover cuts off the top and bottom
-of the symbol and places it right of center.
+with the top of the sickle only ~23px below the top border. To render it
+in a wide CSS band that stays 220px tall but shows more surrounding
+concrete (so the H&S appears smaller / more zoomed-out), we build a
+larger canvas by tiling a clean concrete slab (leftmost 150px of the
+source, which has no H&S) and pasting the source image on top with the
+H&S centered horizontally and vertically in the canvas.
 
-This script expands the canvas with mirror-flipped concrete on the right,
-top, and bottom so the H&S ends up horizontally centered with comfortable
-concrete padding on every side. The texture is noisy enough that the
-mirror seams are effectively invisible in the final rendered band.
+Seams are low-contrast because the slab is all concrete with cracks,
+and the H&S itself covers the mid-region where seams might otherwise
+meet.
 """
 
 from pathlib import Path
@@ -18,46 +20,61 @@ ROOT = Path(__file__).parent
 SRC = ROOT / "the-hammer-and-sickle-symbol-on-an-old-cracked-concrete-wall-photo.jpg"
 OUT = ROOT.parent / "app" / "src" / "assets" / "hero-band.jpg"
 
-# Source H&S bbox measured earlier: x=[168, 520], y=[23, 304] in 525x350.
-RIGHT_EXT = 175  # enough to mirror the ~168px of left-side concrete
-TOP_EXT = 40
-BOT_EXT = 30
+# H&S bbox measured in source (525x350): x=[168, 520], y=[23, 304].
+HS_CX, HS_CY = 344, 164
+
+# Target canvas. Wider+taller than source so H&S occupies a smaller
+# fraction of the image, which in turn makes it smaller in the 220px
+# CSS band rendered with background-size: cover.
+TARGET_W = 1050
+TARGET_H = 525
+
+# Width of the clean-concrete slab taken from the left side of the
+# source (H&S starts at x=168, so 150 leaves a small safety margin).
+SLAB_W = 150
 
 
-def mirror_extend(img: Image.Image) -> Image.Image:
-    w, h = img.size
-
-    # Right: mirror-flip the leftmost RIGHT_EXT pixels and append.
-    right_flip = img.crop((0, 0, RIGHT_EXT, h)).transpose(Image.FLIP_LEFT_RIGHT)
-    wider = Image.new("RGB", (w + RIGHT_EXT, h))
-    wider.paste(img, (0, 0))
-    wider.paste(right_flip, (w, 0))
-
-    # Top: mirror-flip the top TOP_EXT pixels of the wider image and prepend.
-    top_flip = wider.crop((0, 0, wider.width, TOP_EXT)).transpose(Image.FLIP_TOP_BOTTOM)
-    taller = Image.new("RGB", (wider.width, wider.height + TOP_EXT))
-    taller.paste(top_flip, (0, 0))
-    taller.paste(wider, (0, TOP_EXT))
-
-    # Bottom: mirror-flip the bottom BOT_EXT pixels and append.
-    bot_flip = taller.crop(
-        (0, taller.height - BOT_EXT, taller.width, taller.height)
-    ).transpose(Image.FLIP_TOP_BOTTOM)
-    final = Image.new("RGB", (taller.width, taller.height + BOT_EXT))
-    final.paste(taller, (0, 0))
-    final.paste(bot_flip, (0, taller.height))
-
-    return final
+def build_concrete_strip(slab: Image.Image, width: int) -> Image.Image:
+    """Horizontal strip of given width built by tiling slab with
+    alternating left-right mirrored copies."""
+    sw, sh = slab.size
+    flipped = slab.transpose(Image.FLIP_LEFT_RIGHT)
+    n = (width + sw - 1) // sw
+    strip = Image.new("RGB", (n * sw, sh))
+    for i in range(n):
+        strip.paste(flipped if i % 2 else slab, (i * sw, 0))
+    return strip.crop((0, 0, width, sh))
 
 
 def main() -> None:
     if not SRC.exists():
         raise SystemExit(f"missing source image: {SRC}")
     OUT.parent.mkdir(parents=True, exist_ok=True)
-    img = Image.open(SRC).convert("RGB")
-    out = mirror_extend(img)
-    out.save(OUT, "JPEG", quality=92, optimize=True)
-    print(f"wrote {OUT} ({out.width}x{out.height})")
+    src = Image.open(SRC).convert("RGB")
+    sw, sh = src.size
+
+    px = TARGET_W // 2 - HS_CX
+    py = TARGET_H // 2 - HS_CY
+
+    slab = src.crop((0, 0, SLAB_W, sh))
+    strip = build_concrete_strip(slab, TARGET_W)
+
+    top_pad = py
+    bot_pad = TARGET_H - py - sh
+    top_fill = strip.crop((0, 0, TARGET_W, top_pad)).transpose(Image.FLIP_TOP_BOTTOM)
+    bot_fill = strip.crop(
+        (0, strip.height - bot_pad, TARGET_W, strip.height)
+    ).transpose(Image.FLIP_TOP_BOTTOM)
+
+    bg = Image.new("RGB", (TARGET_W, TARGET_H))
+    bg.paste(top_fill, (0, 0))
+    bg.paste(strip, (0, top_pad))
+    bg.paste(bot_fill, (0, top_pad + strip.height))
+
+    bg.paste(src, (px, py))
+
+    bg.save(OUT, "JPEG", quality=92, optimize=True)
+    print(f"wrote {OUT} ({bg.width}x{bg.height})")
 
 
 if __name__ == "__main__":

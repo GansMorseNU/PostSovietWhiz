@@ -946,7 +946,7 @@ img {
     font-size: 42px;
   }
   .start-title {
-    font-size: 52px;
+    font-size: 34px;
   }
 }
 
@@ -993,13 +993,13 @@ img {
 
 .start-title {
   font-family: var(--display);
-  font-size: 64px;
+  font-size: 40px;
   font-weight: 400;
   letter-spacing: 0.02em;
-  line-height: 0.92;
+  line-height: 1.02;
   margin: 0 0 12px;
   text-transform: uppercase;
-  color: var(--accent);
+  color: var(--ink);
 }
 
 .start-title-line {
