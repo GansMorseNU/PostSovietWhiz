@@ -3,6 +3,7 @@
 # Build artifacts
 app/dist/
 app/node_modules/
+app/tsconfig.tsbuildinfo
 
 # Local environment files
 .env
