@@ -145,7 +145,7 @@ Start (landing page)
 - The new `CourseMaterials/PS369_Handouts/` folder has been converted locally into plain-text extracts plus `handouts_reference.json`; use those machine-readable versions before reopening the raw handout DOCX files
 - PWA pilot setup is in place for zero-cost link sharing and home-screen install on iPhone and Android
 - Question-level feedback UI is live in quiz and game mode, and feedback now posts to the configured Google Apps Script / Google Sheet endpoint with local fallback if delivery fails
-- `*JGM*` feedback is tagged as `auto_apply_next_pass` at submission time, but the currently deployed Apps Script is write-only; future sessions still need an admin readback/export path before those items can be pulled back in automatically
+- `*JGM*` feedback is tagged as `auto_apply_next_pass` at submission time. The script template now includes a token-protected `doGet` readback path, but the deployed Apps Script still has to be updated and redeployed before those items can be pulled back in automatically
 - Game mode now opens with a pre-start filter screen for difficulty, era, and country
 - Quiz mode now runs in 20-question batches and offers continue / redo missed / return-home decisions between batches
 - Near-term roadmap: use `*JGM*` feedback for auto-apply on the next update pass, continue expanding and rebalancing the bank, and later switch to non-repeating game mode once the bank reaches about 300 questions

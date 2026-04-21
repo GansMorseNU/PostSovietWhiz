@@ -1,4 +1,6 @@
 const SHEET_NAME = 'Feedback';
+const READBACK_TOKEN = 'replace-with-a-long-random-secret';
+const DEFAULT_READBACK_LIMIT = 100;
 
 function doPost(e) {
   const sheet = getOrCreateSheet_();
@@ -31,9 +33,69 @@ function doPost(e) {
   ).setMimeType(ContentService.MimeType.JSON);
 }
 
+function doGet(e) {
+  if (!isAuthorizedReadback_(e)) {
+    return jsonResponse_({
+      ok: false,
+      error:
+        'Unauthorized. Provide the correct token query parameter and set READBACK_TOKEN in the Apps Script project.',
+    });
+  }
+
+  const rows = getFeedbackRows_();
+  const workflow = getParameter_(e, 'workflow');
+  const autoApplyOnly = getParameter_(e, 'auto_apply_only') === 'true';
+  const questionId = getParameter_(e, 'question_id');
+  const limit = clampLimit_(Number(getParameter_(e, 'limit')) || DEFAULT_READBACK_LIMIT);
+
+  let filtered = rows;
+  if (workflow) {
+    filtered = filtered.filter((row) => row.workflow === workflow);
+  }
+  if (autoApplyOnly) {
+    filtered = filtered.filter((row) => String(row.auto_apply).toLowerCase() === 'true');
+  }
+  if (questionId) {
+    filtered = filtered.filter((row) => row.question_id === questionId);
+  }
+
+  const items = filtered.slice(-limit).reverse();
+  return jsonResponse_({
+    ok: true,
+    count: items.length,
+    items: items,
+  });
+}
+
 function getOrCreateSheet_() {
   const spreadsheet = SpreadsheetApp.getActiveSpreadsheet();
   return spreadsheet.getSheetByName(SHEET_NAME) || spreadsheet.insertSheet(SHEET_NAME);
+}
+
+function getFeedbackRows_() {
+  const sheet = getOrCreateSheet_();
+  ensureHeaders_(sheet);
+
+  const values = sheet.getDataRange().getValues();
+  if (values.length <= 1) return [];
+
+  const headers = values[0];
+  return values.slice(1).map((row) => {
+    const item = {};
+    headers.forEach((header, index) => {
+      item[header] = row[index];
+    });
+
+    if (item.raw_json) {
+      try {
+        item.raw_json = JSON.parse(item.raw_json);
+      } catch (err) {
+        // Keep the raw string if parsing fails.
+      }
+    }
+
+    return item;
+  });
 }
 
 function ensureHeaders_(sheet) {
@@ -59,4 +121,27 @@ function ensureHeaders_(sheet) {
     'reporter',
     'raw_json',
   ]);
+}
+
+function isAuthorizedReadback_(e) {
+  const token = getParameter_(e, 'token');
+  if (!READBACK_TOKEN || READBACK_TOKEN === 'replace-with-a-long-random-secret') {
+    return false;
+  }
+  return token === READBACK_TOKEN;
+}
+
+function getParameter_(e, key) {
+  return (e && e.parameter && e.parameter[key]) || '';
+}
+
+function clampLimit_(value) {
+  if (!value || isNaN(value)) return DEFAULT_READBACK_LIMIT;
+  return Math.max(1, Math.min(500, value));
+}
+
+function jsonResponse_(payload) {
+  return ContentService.createTextOutput(JSON.stringify(payload, null, 2)).setMimeType(
+    ContentService.MimeType.JSON,
+  );
 }

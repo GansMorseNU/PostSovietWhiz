@@ -60,6 +60,38 @@ Google Sheet via Google Apps Script.
 6. Paste that URL into `DEFAULT_FEEDBACK_ENDPOINT` in `app/src/feedback.ts`.
 7. Rebuild and redeploy the app.
 
+### Fixing the `doGet` / readback issue
+
+The original feedback script only had `doPost`, so the deployed `/exec` URL could accept
+writes but could not return stored feedback rows. The updated template in
+`scripts/google_apps_script_feedback.gs` now includes a token-protected `doGet`.
+
+To enable it:
+
+1. In Apps Script, replace your current script contents with the updated
+   `scripts/google_apps_script_feedback.gs`.
+2. Change `READBACK_TOKEN` near the top of the file to a long random secret that you keep private.
+3. Save the script.
+4. Open **Deploy -> Manage deployments**.
+5. Edit the existing Web App deployment (or create a new deployment) and redeploy it.
+6. Use the same `/exec` base URL, but add query parameters when reading feedback.
+
+Examples:
+
+- All recent feedback:  
+  `https://script.google.com/macros/s/.../exec?token=YOUR_SECRET`
+- Only `*JGM*` / auto-apply items:  
+  `https://script.google.com/macros/s/.../exec?token=YOUR_SECRET&workflow=auto_apply_next_pass`
+- Only auto-apply items for one question:  
+  `https://script.google.com/macros/s/.../exec?token=YOUR_SECRET&workflow=auto_apply_next_pass&question_id=fp_0032`
+
+Optional parameters:
+
+- `workflow=auto_apply_next_pass` or `workflow=review_queue`
+- `auto_apply_only=true`
+- `question_id=...`
+- `limit=50`
+
 ## Rules Embedded in the Pipeline
 These rules are enforced structurally (Layer 1) or by agent prompts (Layers 2-4):
 
