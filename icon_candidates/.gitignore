@@ -1,0 +1,16 @@
+# Scratch outputs — regenerate via build_icon_candidates.py
+icon_v*.png
+icon_candidates_preview.html
+
+# Exploratory HTML / SVG mockups
+landing_*.html
+broken_*.html
+broken_*.svg
+
+# Raw font zips
+fonts/*.zip
+
+# Alternate fonts we didn't pick (keep only fonts/molot/)
+fonts/propaganda/
+fonts/ussr-stencil/
+fonts/kremlin-premier/
