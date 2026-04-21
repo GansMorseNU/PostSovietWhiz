@@ -1,5 +1,6 @@
 import { useEffect, useLayoutEffect, useMemo, useRef, useState, type RefObject } from 'react';
 import type { Answer, Question } from '../types';
+import { FeedbackModal } from './FeedbackModal';
 import { shuffleArray } from '../util';
 
 type Props = {
@@ -14,6 +15,7 @@ export function Quiz({ questions, onFinish, scrollContainerRef }: Props) {
   const [index, setIndex] = useState(0);
   const [answers, setAnswers] = useState<Answer[]>([]);
   const [selected, setSelected] = useState<number | null>(null);
+  const [feedbackOpen, setFeedbackOpen] = useState(false);
   const explanationRef = useRef<HTMLDivElement>(null);
 
   const q = questions[index];
@@ -86,6 +88,15 @@ export function Quiz({ questions, onFinish, scrollContainerRef }: Props) {
         </div>
       )}
 
+      <div className="question-meta-row">
+        <p className="question-meta">
+          Question {index + 1} of {questions.length} · {q.id}
+        </p>
+        <button className="question-feedback-trigger" onClick={() => setFeedbackOpen(true)}>
+          Report
+        </button>
+      </div>
+
       <h2 className="prompt">{q.prompt}</h2>
 
       <ul className="choices">
@@ -139,6 +150,19 @@ export function Quiz({ questions, onFinish, scrollContainerRef }: Props) {
           </div>
         </div>
       )}
+
+      <FeedbackModal
+        isOpen={feedbackOpen}
+        onClose={() => setFeedbackOpen(false)}
+        question={q}
+        context={{
+          surface: 'quiz',
+          questionPosition: { current: index + 1, total: questions.length },
+          selectedChoiceText:
+            answered && selected !== null ? shuffledChoices[selected].text : undefined,
+          wasCorrect: answered ? wasCorrect : undefined,
+        }}
+      />
     </div>
   );
 }

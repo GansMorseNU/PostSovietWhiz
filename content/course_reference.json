@@ -17,22 +17,28 @@
     "question_count": 197,
     "categories": {
       "political_transitions": 72,
-      "economic_transitions": 63,
+      "economic_transitions": 62,
       "foreign_policy": 63
     },
     "eras": {
       "soviet": 35,
       "1990s": 60,
       "2000s": 58,
-      "2010s_plus": 45
+      "2010s_plus": 44
     },
     "difficulties": {
-      "easy": 47,
-      "medium": 88,
+      "easy": 45,
+      "medium": 89,
       "hard": 45,
       "very_hard": 18
     },
-    "rebalancing_note": "Future expansion should especially watch soviet-era coverage and the relatively small very_hard tier."
+    "rebalancing_note": "Future expansion should especially watch soviet-era coverage and the relatively small very_hard tier.",
+    "game_mode_no_repeat_threshold": {
+      "target_question_count": 300,
+      "status": "not_ready",
+      "reason": "200 questions is still too thin for robust non-repeating game mode given the current difficulty mix, especially the small very_hard pool. 500 is not necessary for the first rollout.",
+      "future_rule": "When the bank reaches about 300 questions, remind the user to switch game mode to avoid repeats by default."
+    }
   },
   "question_model": {
     "categories": [
@@ -265,5 +271,20 @@
     "In economic questions, prefer the specific phrase 'economic diversification' when that is the concept being tested.",
     "Do not over-flag serious topics for sensitivity when the wording is clinical and text-only.",
     "For hard and very_hard questions, distractors must be logically consistent and plausible enough that the answer cannot be guessed through absurd elimination."
-  ]
+  ],
+  "product_roadmap": {
+    "feedback_system": {
+      "status": "partially_implemented",
+      "target": "Question-level feedback modal is live in quiz and game screens. Reports currently queue locally on-device; Google Sheets sync via Apps Script is scaffolded and awaiting endpoint configuration.",
+      "special_rule": "Feedback containing `*JGM*` should be treated as instructor-approved and auto-applied on the next update pass without separate review. Other feedback stays in the review queue."
+    },
+    "game_filters": {
+      "status": "planned",
+      "target": "Show a filter screen before game mode starts so difficulty, era, and country can constrain the game question pool."
+    },
+    "quiz_batches": {
+      "status": "planned",
+      "target": "Run quiz mode in batches of 20 questions, then offer continue / redo missed / return home."
+    }
+  }
 }

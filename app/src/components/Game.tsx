@@ -1,5 +1,6 @@
 import React, { useLayoutEffect, useMemo, useRef, useState } from 'react';
 import type { Answer, Question } from '../types';
+import { FeedbackModal } from './FeedbackModal';
 import { GAME_LEVELS, selectQuestionsForLevel, type GameLevel } from '../gameConfig';
 import { shuffleArray } from '../util';
 
@@ -177,6 +178,7 @@ function LevelPlay({
   const [index, setIndex] = useState(0);
   const [answers, setAnswers] = useState<Answer[]>([]);
   const [selected, setSelected] = useState<number | null>(null);
+  const [feedbackOpen, setFeedbackOpen] = useState(false);
   const explanationRef = useRef<HTMLDivElement>(null);
 
   const q = questions[index];
@@ -251,6 +253,15 @@ function LevelPlay({
         </div>
       )}
 
+      <div className="question-meta-row">
+        <p className="question-meta">
+          Question {index + 1} of {questions.length} · {q.id}
+        </p>
+        <button className="question-feedback-trigger" onClick={() => setFeedbackOpen(true)}>
+          Report
+        </button>
+      </div>
+
       <h2 className="prompt">{q.prompt}</h2>
 
       <ul className="choices">
@@ -304,6 +315,20 @@ function LevelPlay({
           </div>
         </div>
       )}
+
+      <FeedbackModal
+        isOpen={feedbackOpen}
+        onClose={() => setFeedbackOpen(false)}
+        question={q}
+        context={{
+          surface: 'game',
+          questionPosition: { current: index + 1, total: questions.length },
+          selectedChoiceText:
+            answered && selected !== null ? shuffledChoices[selected].text : undefined,
+          wasCorrect: answered ? wasCorrect : undefined,
+          gameLevel: { level: level.level, name: level.name },
+        }}
+      />
     </div>
   );
 }

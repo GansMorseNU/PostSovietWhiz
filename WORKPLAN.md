@@ -14,6 +14,7 @@ MVP running with a 197-question sample bank. Customized for PS369 with 3 categor
 
 A compact permanent reference for future low-token authoring sessions now lives at `content/course_reference.json`.
 The app is now configured as an installable PWA for iPhone and Android, with manifest/icons/service worker support and a GitHub Pages deployment workflow in `.github/workflows/deploy-pages.yml`.
+Question-level feedback is now live in quiz mode and game mode, with local-device queueing already working and Google Apps Script / Google Sheets sync scaffolded but not yet configured.
 
 ## Categories
 
@@ -42,13 +43,15 @@ The app is now configured as an installable PWA for iPhone and Android, with man
 - [x] **App name**: PS369 Review
 - [x] **Branding**: Keep crimson accent from GeoWhiz, fits academic theme.
 - [x] **Game mode**: Kept from original with same level structure. Will need more questions to work well.
+- [x] **Future no-repeat trigger**: Do not switch game mode to non-repeating selection yet. Use **~300 total questions** as the reminder threshold for revisiting this; 200 is still too thin for the current difficulty mix, while 500 is unnecessary for the first rollout.
 
 ## Next steps
 
-- [ ] Instructor reviews expanded bank for quality and difficulty calibration
-- [ ] Convert CourseMaterials (.docx/.pptx) to plain text for systematic question generation
-- [ ] Continue rebalancing underrepresented eras and difficulty tiers in the legacy first-batch questions
-- [ ] Consider PWA deployment for student access
+- [ ] Configure the Google Apps Script Web App URL so feedback syncs from the app into a shared Google Sheet
+- [ ] Add filters to game mode before level start
+- [ ] Change quiz mode to 20-question batches with options to continue and redo missed questions
+- [ ] Continue rebalancing underrepresented eras and difficulty tiers in the bank, especially the very-hard tier
+- [ ] When the bank reaches about **300 questions**, remind the user to switch game mode to avoid repeats by default
 
 Grouped into two top-level categories:
 - **Current Flashpoints**: ukraine_russia, israel_palestine, conflict_trends

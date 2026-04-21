@@ -36,6 +36,30 @@ When adding new questions, run this pipeline before merging them into the questi
 Each layer produces a section of the QA report. The report is saved to
 `content/qa_report.md` for user review.
 
+## Feedback collection
+
+The app's user-facing feedback flow is intended to send question-level reports to a
+Google Sheet via Google Apps Script.
+
+### Current behavior
+
+- If a Google Apps Script endpoint has been configured in `app/src/feedback.ts`,
+  feedback is posted there.
+- If no endpoint is configured yet, feedback is saved locally on the device and can
+  be exported from the app home screen as JSON.
+- Any feedback containing `*JGM*` is tagged for **auto-apply on the next update pass**
+  instead of going through the normal review queue.
+
+### Apps Script setup
+
+1. Create a Google Sheet for feedback.
+2. Open **Extensions -> Apps Script**.
+3. Paste in `scripts/google_apps_script_feedback.gs`.
+4. Save and deploy it as a **Web app** with access set to **Anyone**.
+5. Copy the deployed Web App URL.
+6. Paste that URL into `DEFAULT_FEEDBACK_ENDPOINT` in `app/src/feedback.ts`.
+7. Rebuild and redeploy the app.
+
 ## Rules Embedded in the Pipeline
 These rules are enforced structurally (Layer 1) or by agent prompts (Layers 2-4):
 

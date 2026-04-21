@@ -1,4 +1,5 @@
 import { APP_NAME } from '../App';
+import { FeedbackStatus } from './FeedbackStatus';
 import { InstallPrompt } from './InstallPrompt';
 
 type Props = {
@@ -42,6 +43,7 @@ export function Start({ onQuizMode, onGameMode }: Props) {
       </div>
 
       <InstallPrompt />
+      <FeedbackStatus />
 
       <p className="start-footer">
         PS369 · Northwestern University · Spring 2026

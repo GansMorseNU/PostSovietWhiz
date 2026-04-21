@@ -142,3 +142,5 @@ Start (landing page)
 - Game mode functional and now supported by a much deeper bank, though continued expansion will still improve variety
 - Compact permanent course reference now lives in `content/course_reference.json`; raw `CourseMaterials/` remain the deeper source of truth
 - PWA pilot setup is in place for zero-cost link sharing and home-screen install on iPhone and Android
+- Question-level feedback UI is live in quiz and game mode, with local-device queueing already implemented
+- Near-term roadmap: configure Google Sheets feedback sync with `*JGM*` auto-apply on the next update pass, add game-mode filters, add quiz batches of 20 with redo-missed flow, and later switch to non-repeating game mode once the bank reaches about 300 questions
