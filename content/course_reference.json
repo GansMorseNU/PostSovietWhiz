@@ -5,6 +5,8 @@
     "content/course_reference.json",
     "content/schema.md",
     "content/questions.sample.json (targeted searches only)",
+    "CourseMaterials/PS369_Handouts/handouts_reference.json",
+    "CourseMaterials/PS369_Handouts/plain_text/*.txt",
     "CourseMaterials/ only when a fact, wording, or reading assignment needs deeper verification"
   ],
   "course": {
@@ -12,6 +14,51 @@
     "term": "Spring 2026",
     "institution": "Northwestern University",
     "instructor": "Jordan Gans-Morse"
+  },
+  "supplemental_handouts": {
+    "location": "CourseMaterials/PS369_Handouts/handouts_reference.json",
+    "plain_text_dir": "CourseMaterials/PS369_Handouts/plain_text",
+    "status": "converted_to_machine_readable_text",
+    "documents": [
+      {
+        "title": "Explaining the Collapse of the Soviet System",
+        "best_for": [
+          "structural vs contingent explanations",
+          "institutional complementarities",
+          "chain-reaction mobilization",
+          "disaggregating political, economic, and federal collapse"
+        ]
+      },
+      {
+        "title": "Fall of the Eastern Bloc",
+        "best_for": [
+          "Brezhnev Doctrine",
+          "Solidarity and Round Table Talks",
+          "Velvet Revolution",
+          "fall of the Berlin Wall",
+          "Gorbachev and non-intervention"
+        ]
+      },
+      {
+        "title": "Key Historical Events",
+        "best_for": [
+          "Kyivan Rus and competing successor narratives",
+          "Pereyaslav and Andrusovo",
+          "Soviet federalism",
+          "Crimea transfer",
+          "long-run imperial and identity background"
+        ]
+      },
+      {
+        "title": "Political Institutions",
+        "best_for": [
+          "semi-presidentialism",
+          "Russia's superpresidentialism",
+          "Ukraine's constitutional changes in 2004, 2010, and 2014",
+          "PR, SMD, and mixed electoral systems"
+        ]
+      }
+    ]
   },
   "bank_snapshot": {
     "question_count": 197,
@@ -265,6 +312,7 @@
   },
   "authoring_rules": [
     "Read this file first before re-opening raw CourseMaterials.",
+    "Use `CourseMaterials/PS369_Handouts/handouts_reference.json` and the plain-text handout extracts before reopening the raw handout DOCX files.",
     "Use raw CourseMaterials only for fact-checks, exact reading attribution, or disputed wording.",
     "Named-author or specific-argument questions should usually be gated with `era_filter_visibility` based on the syllabus pre-/post-midterm split.",
     "Write prompts as direct factual questions rather than saying 'according to the course' or using similar course-meta framing.",

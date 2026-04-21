@@ -32,6 +32,7 @@ PostSovietApp/
 │   └── class_app_setup_guide.md # Original setup guide from GeoWhiz template
 ├── CourseMaterials/            # PS369 syllabus, lectures, and readings (NOT in app)
 │   ├── PS369_PostSovietPolitics_Spring2026_updated.docx
+│   ├── PS369_Handouts/         # Instructor handouts; local plain-text extracts + handouts_reference.json live here
 │   ├── PS369_LectureMaterials/ # 31 lecture files (.docx, .pptx)
 │   └── PS369_Readings/         # 55+ scholarly readings organized by lecture
 ├── scripts/
@@ -121,7 +122,7 @@ Start (landing page)
 - **Topics**: Soviet collapse, democratic transitions, economic reform, nationalism, NATO enlargement, Putin's authoritarianism, Ukraine's revolutions, the 2022 invasion
 - **Key texts**: Treisman *The Return*; Popova & Shevel *Russia and Ukraine: Entangled Histories, Diverging States*
 - **CourseMaterials folder**: Contains syllabus, 31 lecture files, and 55+ assigned/optional readings
-- **Low-token reference**: Read `content/course_reference.json` before reopening raw `CourseMaterials/`; it captures the syllabus split, core sources already used in the bank, and compact topic scaffolding by category and era
+- **Low-token reference**: Read `content/course_reference.json` before reopening raw `CourseMaterials/`; it captures the syllabus split, core sources already used in the bank, compact topic scaffolding by category and era, and points to the local handout extracts in `CourseMaterials/PS369_Handouts/`
 
 ## Content authoring rules
 
@@ -141,6 +142,7 @@ Start (landing page)
 - Instructor reviewing difficulty calibration and question quality
 - Game mode functional and now supported by a much deeper bank, though continued expansion will still improve variety
 - Compact permanent course reference now lives in `content/course_reference.json`; raw `CourseMaterials/` remain the deeper source of truth
+- The new `CourseMaterials/PS369_Handouts/` folder has been converted locally into plain-text extracts plus `handouts_reference.json`; use those machine-readable versions before reopening the raw handout DOCX files
 - PWA pilot setup is in place for zero-cost link sharing and home-screen install on iPhone and Android
 - Question-level feedback UI is live in quiz and game mode, and feedback now posts to the configured Google Apps Script / Google Sheet endpoint with local fallback if delivery fails
 - Game mode now opens with a pre-start filter screen for difficulty, era, and country

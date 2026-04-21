@@ -15,6 +15,7 @@ MVP running with a 197-question sample bank. Customized for PS369 with 3 categor
 A compact permanent reference for future low-token authoring sessions now lives at `content/course_reference.json`.
 The app is now configured as an installable PWA for iPhone and Android, with manifest/icons/service worker support and a GitHub Pages deployment workflow in `.github/workflows/deploy-pages.yml`.
 Question-level feedback is now live in quiz mode and game mode, posting to a configured Google Apps Script / Google Sheet endpoint with local-device queue fallback if the endpoint is unavailable. Game mode now opens with a filter screen, and quiz mode now runs in 20-question batches with a redo-missed option between batches.
+The local `CourseMaterials/PS369_Handouts/` folder has now been converted into machine-readable plain-text extracts plus a `handouts_reference.json` index so future question-writing can use those handouts without reopening the raw DOCX files first.
 
 ## Categories
 
