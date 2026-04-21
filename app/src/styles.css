@@ -995,35 +995,51 @@ img {
 }
 
 .start-mode-quiz {
-  background: linear-gradient(135deg, #8b1e1e 0%, #a52a2a 100%);
-  color: #f4f1ea;
-  border-color: transparent;
+  background: linear-gradient(
+    180deg,
+    #fbfbfa 0%,
+    #fbfbfa 33.333%,
+    #2f61b0 33.333%,
+    #2f61b0 66.666%,
+    #cf3d37 66.666%,
+    #cf3d37 100%
+  );
+  color: #121212;
+  border-color: #d9d9d7;
+  box-shadow: 0 8px 22px rgba(18, 18, 18, 0.08);
 }
 
 .start-mode-quiz:active {
-  border-color: transparent;
+  border-color: #d9d9d7;
 }
 
 .start-mode-quiz .start-mode-desc {
-  color: #e0c4c4;
+  color: rgba(18, 18, 18, 0.76);
 }
 
 .start-mode-quiz .start-mode-arrow {
-  color: #e0c4c4;
+  color: rgba(18, 18, 18, 0.68);
 }
 
 .start-mode-game {
-  background: linear-gradient(135deg, #2c4a6e 0%, #3b6494 100%);
-  color: #f4f1ea;
-  border-color: transparent;
+  background: linear-gradient(
+    180deg,
+    #1e6fc7 0%,
+    #1e6fc7 50%,
+    #f2c63f 50%,
+    #f2c63f 100%
+  );
+  color: #121212;
+  border-color: rgba(44, 74, 110, 0.18);
+  box-shadow: 0 8px 22px rgba(18, 18, 18, 0.08);
 }
 
 .start-mode-game .start-mode-desc {
-  color: #b8cfe0;
+  color: rgba(18, 18, 18, 0.76);
 }
 
 .start-mode-game .start-mode-arrow {
-  color: #b8cfe0;
+  color: rgba(18, 18, 18, 0.68);
 }
 
 .start-mode-icon {
