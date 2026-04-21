@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/gameconfig.ts","./src/main.tsx","./src/types.ts","./src/util.ts","./src/vite-env.d.ts","./src/components/categorybrowse.tsx","./src/components/game.tsx","./src/components/home.tsx","./src/components/installprompt.tsx","./src/components/quiz.tsx","./src/components/results.tsx","./src/components/start.tsx"],"version":"5.9.3"}

@@ -1,0 +1,12 @@
+.DS_Store
+
+# Build artifacts
+app/dist/
+app/node_modules/
+
+# Local environment files
+.env
+.env.*
+
+# Course source materials stay local
+CourseMaterials/

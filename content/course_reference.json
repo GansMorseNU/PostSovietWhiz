@@ -1,0 +1,267 @@
+{
+  "version": 1,
+  "purpose": "Compact course context for future PS369 question-authoring sessions. Read this before raw CourseMaterials to minimize token use.",
+  "read_order": [
+    "content/course_reference.json",
+    "content/schema.md",
+    "content/questions.sample.json (targeted searches only)",
+    "CourseMaterials/ only when a fact, wording, or reading assignment needs deeper verification"
+  ],
+  "course": {
+    "name": "PS369 Post-Soviet Politics: Russia, Ukraine, and the Road to War",
+    "term": "Spring 2026",
+    "institution": "Northwestern University",
+    "instructor": "Jordan Gans-Morse"
+  },
+  "bank_snapshot": {
+    "question_count": 198,
+    "categories": {
+      "political_transitions": 72,
+      "economic_transitions": 63,
+      "foreign_policy": 63
+    },
+    "eras": {
+      "soviet": 35,
+      "1990s": 60,
+      "2000s": 58,
+      "2010s_plus": 45
+    },
+    "difficulties": {
+      "easy": 47,
+      "medium": 88,
+      "hard": 45,
+      "very_hard": 18
+    },
+    "rebalancing_note": "Future expansion should especially watch soviet-era coverage and the relatively small very_hard tier."
+  },
+  "question_model": {
+    "categories": [
+      "political_transitions",
+      "economic_transitions",
+      "foreign_policy"
+    ],
+    "soviet_collapse_handling": "Soviet-collapse content is distributed across the 3 categories and surfaced through the `soviet` era filter rather than a standalone category.",
+    "eras": [
+      "soviet",
+      "1990s",
+      "2000s",
+      "2010s_plus"
+    ],
+    "countries": [
+      "russia",
+      "ukraine",
+      "both"
+    ]
+  },
+  "syllabus_split": {
+    "lecture_count": 17,
+    "midterm_after_lecture": 9,
+    "reading_based_era_gating": {
+      "pre_midterm_readings": {
+        "lectures": "1-9",
+        "allowed_era_filters": [
+          "soviet",
+          "1990s"
+        ]
+      },
+      "post_midterm_readings": {
+        "lectures": "10-17",
+        "allowed_era_filters": [
+          "2000s",
+          "2010s_plus"
+        ]
+      }
+    },
+    "currently_gated_questions": [
+      {
+        "id": "pt_0005",
+        "source": "Fish, Democracy Derailed in Russia",
+        "allowed_era_filters": [
+          "2000s",
+          "2010s_plus"
+        ]
+      },
+      {
+        "id": "pt_0015",
+        "source": "Way, Pluralism by Default",
+        "allowed_era_filters": [
+          "soviet",
+          "1990s"
+        ]
+      },
+      {
+        "id": "fp_0003",
+        "source": "Mearsheimer, 'Why the Ukraine Crisis Is the West's Fault', Foreign Affairs, 2014",
+        "allowed_era_filters": [
+          "2000s",
+          "2010s_plus"
+        ]
+      },
+      {
+        "id": "fp_0021",
+        "source": "Person and McFaul, What Putin Fears Most",
+        "allowed_era_filters": [
+          "2000s",
+          "2010s_plus"
+        ]
+      },
+      {
+        "id": "fp_0022",
+        "source": "Person and McFaul, What Putin Fears Most",
+        "allowed_era_filters": [
+          "2000s",
+          "2010s_plus"
+        ]
+      },
+      {
+        "id": "fp_0023",
+        "source": "Kuzio, Imperial Nationalism",
+        "allowed_era_filters": [
+          "2000s",
+          "2010s_plus"
+        ]
+      },
+      {
+        "id": "fp_0030",
+        "source": "Person and McFaul, What Putin Fears Most",
+        "allowed_era_filters": [
+          "2000s",
+          "2010s_plus"
+        ]
+      },
+      {
+        "id": "pt_0072",
+        "source": "Maria Popova, Why the Orange Revolution Was Short and Peaceful and Euromaidan Long and Violent",
+        "allowed_era_filters": [
+          "2000s",
+          "2010s_plus"
+        ]
+      }
+    ]
+  },
+  "course_topic_map": {
+    "political_transitions": {
+      "soviet": [
+        "glasnost and televised politics",
+        "Congress of People's Deputies and elite conflict in public",
+        "Yeltsin versus Gorbachev",
+        "Russian and Ukrainian sovereignty declarations",
+        "August 1991 coup and Belovezha Accords"
+      ],
+      "1990s": [
+        "1993 Russian constitutional crisis and superpresidentialism",
+        "competitive politics and weak institutionalization in Ukraine",
+        "pluralism by default",
+        "national identity and language politics",
+        "post-Soviet state-building divergence"
+      ],
+      "2000s": [
+        "Putin's recentralization and managed democracy",
+        "party-system control and media control",
+        "Orange Revolution",
+        "Yushchenko-Yanukovych institutional conflict",
+        "comparative regime divergence between Russia and Ukraine"
+      ],
+      "2010s_plus": [
+        "Euromaidan and protest cycles",
+        "elite fragmentation versus coercive cohesion",
+        "decommunization",
+        "post-2014 civic identity shifts",
+        "Zelensky-era electoral and party dynamics"
+      ]
+    },
+    "economic_transitions": {
+      "soviet": [
+        "shortage economy and late-Soviet reform dilemmas",
+        "overindustrialization",
+        "500-day plan",
+        "shock therapy versus gradualism",
+        "institutional sequencing problems"
+      ],
+      "1990s": [
+        "price liberalization",
+        "voucher privatization and loans-for-shares",
+        "oligarch formation",
+        "weak tax collection and fiscal crisis",
+        "GKOs and the 1998 crash"
+      ],
+      "2000s": [
+        "commodity boom and growth rebound",
+        "state capitalism and the oligarch-state bargain",
+        "Yukos as a political-economy turning point",
+        "comparative Russia-Ukraine growth under strong external conditions",
+        "continued regional economic interdependence"
+      ],
+      "2010s_plus": [
+        "sanctions and import substitution",
+        "post-2014 Ukrainian reform pressures",
+        "energy dependence and restructuring",
+        "Ukrainian tech-sector growth",
+        "war-related economic adjustment"
+      ]
+    },
+    "foreign_policy": {
+      "soviet": [
+        "Gorbachev's new thinking",
+        "loosening Soviet control over Eastern Europe",
+        "Baltics and the weakening union center",
+        "late-Soviet external retrenchment"
+      ],
+      "1990s": [
+        "fluid post-Cold War order",
+        "Budapest Memorandum",
+        "Black Sea Fleet and Crimea-related disputes",
+        "Ukraine's multivector policy",
+        "NATO enlargement and GUAM"
+      ],
+      "2000s": [
+        "gas disputes",
+        "color revolutions as a Kremlin threat perception",
+        "NATO Bucharest summit",
+        "2008 Russia-Georgia war",
+        "Medvedev Doctrine and privileged interests"
+      ],
+      "2010s_plus": [
+        "Crimea and Donbas",
+        "Minsk process",
+        "Kerch Strait incident",
+        "Normandy and Paris summit diplomacy",
+        "paths to the full-scale war"
+      ]
+    }
+  },
+  "canonical_sources": {
+    "political_transitions": [
+      "Course lectures",
+      "Maria Popova & Oxana Shevel, Russia and Ukraine: Entangled Histories, Diverging States",
+      "Daniel Treisman, The Return: Russia's Journey from Gorbachev to Medvedev",
+      "Way, Pluralism by Default",
+      "Fish, Democracy Derailed in Russia",
+      "Levitsky and Way, Competitive Authoritarianism",
+      "Kulyk on language and identity",
+      "Karatnycky, Ukraine's Orange Revolution",
+      "Olga Onuch and Henry Hale, The Zelensky Effect",
+      "Maria Popova, Why the Orange Revolution Was Short and Peaceful and Euromaidan Long and Violent"
+    ],
+    "economic_transitions": [
+      "Course lectures",
+      "Treisman, The Return",
+      "Sutela, The Underachiever",
+      "Wilson, Ch. 12"
+    ],
+    "foreign_policy": [
+      "Course lectures",
+      "Person and McFaul, What Putin Fears Most",
+      "Mearsheimer, 'Why the Ukraine Crisis Is the West's Fault', Foreign Affairs, 2014",
+      "Sarotte, Russia, Ukraine and the 30-year quest for a post-Soviet order",
+      "Kuzio, Imperial Nationalism"
+    ]
+  },
+  "authoring_rules": [
+    "Read this file first before re-opening raw CourseMaterials.",
+    "Use raw CourseMaterials only for fact-checks, exact reading attribution, or disputed wording.",
+    "Named-author or specific-argument questions should usually be gated with `era_filter_visibility` based on the syllabus pre-/post-midterm split.",
+    "Do not over-flag serious topics for sensitivity when the wording is clinical and text-only.",
+    "For hard and very_hard questions, distractors must be logically consistent and plausible enough that the answer cannot be guessed through absurd elimination."
+  ]
+}
