@@ -20,9 +20,22 @@ Review each question and its associated content. For each question, check:
    "500,000 battle deaths per year during WWII" needs verification).
 6. **Comparisons**: Flag any comparative claims ("higher than X", "the largest Y")
    that involve calculations or non-obvious inferences.
-7. **Distractor quality**: Flag questions whose wrong answers are so illogical, absolute,
-   or unrelated that the correct answer becomes guessable by elimination. This matters
-   especially for reading-based and hard / very hard questions.
+7. **Distractor quality and logical coherence**: Every wrong answer must itself be a
+   coherent, internally consistent claim that a reasonable person could plausibly
+   believe before learning the material. Flag distractors that are:
+   - **Logically incoherent** — e.g., "Ukraine merged politically with the Russian
+     republic to resist Moscow" (Moscow is the capital of Russia, so this is
+     internally contradictory and reads as randomly generated).
+   - **Geographically or factually nonsensical** — confusing entities, capitals,
+     leaders, or eras in ways that no informed person would propose.
+   - **Trivially wrong by topic** — e.g., for a question on *de*communization, two
+     distractors that propose *re-establishing* communism. The keyword in the prompt
+     immediately rules them out.
+   - **Absolute, absurd, or unrelated** — making the correct answer guessable by
+     elimination. Especially important for reading-based and hard / very hard
+     questions.
+   When in doubt, ask: "Could a smart but unprepared student plausibly pick this
+   without immediately seeing it as AI-generated nonsense?" If not, flag it.
 8. **Prompt framing**: Flag prompts that unnecessarily refer to "the course," "course materials,"
    or similar meta framing when the question can be asked directly as a factual question.
 
@@ -132,9 +145,18 @@ Review each question for:
 5. **Politically loaded framing**: Flag questions where the framing implies a 
    particular political position (e.g., implying NATO expansion "caused" Russia's 
    invasion).
-6. **Distractor plausibility / logic**: Flag hard or reading-based questions when one
-   or more wrong answers are obviously absurd, internally inconsistent, or only loosely
-   related to the prompt, making the item easier than its rating suggests.
+6. **Distractor plausibility / logical coherence**: Flag any question (not just hard
+   ones) whose wrong answers are obviously absurd, internally contradictory,
+   geographically incoherent, or only loosely related to the prompt. Distractors that
+   read as random AI confabulation undermine trust in the whole bank. Concrete
+   triggers:
+   - An option that contradicts itself (e.g., "merging with Russia to resist
+     Moscow" — Moscow is Russia's capital).
+   - Multiple options that are immediately ruled out by a keyword in the prompt
+     (e.g., distractors that propose restoring communism on a *decommunization*
+     question).
+   - Options that swap actors, eras, or geographies in ways no informed person
+     would propose.
 7. **Course-meta wording**: Flag prompts or explanations that say things like
    "according to the course," "the course argues," or "the course uses this to show"
    when they can be phrased more directly.

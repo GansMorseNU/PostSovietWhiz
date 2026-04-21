@@ -4724,7 +4724,7 @@
         }
       ],
       "explanation": "Official unemployment understated the crisis because many workers remained attached to struggling enterprises while receiving late, partial, or no pay. This was one way the transition's social costs were obscured in official statistics.",
-      "difficulty": "easy",
+      "difficulty": "medium",
       "era": "1990s",
       "country": "ukraine",
       "tags": [
@@ -4737,7 +4737,7 @@
         "Course lectures",
         "Wilson, Ch. 12"
       ],
-      "last_reviewed_date": "2026-04-20"
+      "last_reviewed_date": "2026-04-21"
     },
     {
       "id": "et_0044",
@@ -5729,9 +5729,9 @@
           "note": "The declaration was about sovereignty and legal authority, not an immediate party ban."
         },
         {
-          "text": "That Ukraine would merge politically with the Russian republic to resist Moscow",
+          "text": "That Ukraine would immediately replace the Soviet ruble with its own national currency",
           "correct": false,
-          "note": "The declaration asserted Ukrainian sovereignty, not union with Russia."
+          "note": "The declaration concerned republican legal sovereignty, not monetary policy. Ukraine kept using the Soviet ruble and introduced its own currency (first the karbovanets, later the hryvnia) only after independence."
         }
       ],
       "explanation": "The 1990 declaration was an important intermediate step between Soviet republican status and full independence in 1991. It helped establish the legal and political language later used to justify complete statehood.",
@@ -5747,7 +5747,7 @@
       "sources": [
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-20"
+      "last_reviewed_date": "2026-04-21"
     },
     {
       "id": "pt_0045",
@@ -6461,7 +6461,7 @@
         }
       ],
       "explanation": "Removing governors from the Federation Council was part of Putin's early recentralization. It weakened a channel through which powerful regional leaders had exercised direct influence at the federal level.",
-      "difficulty": "easy",
+      "difficulty": "medium",
       "era": "2000s",
       "country": "russia",
       "tags": [
@@ -6473,7 +6473,7 @@
       "sources": [
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-20"
+      "last_reviewed_date": "2026-04-21"
     },
     {
       "id": "pt_0062",
@@ -6787,19 +6787,19 @@
           "correct": true
         },
         {
-          "text": "They restored the Soviet constitution as a temporary legal framework during wartime",
+          "text": "They imposed automatic lustration on all judges and prosecutors who had served before 1991, removing them from office",
           "correct": false,
-          "note": "The laws were meant to break with the Soviet legacy, not revive it."
+          "note": "Lustration of officials was the subject of separate Ukrainian laws (notably the 2014 lustration law), not the 2015 decommunization package."
         },
         {
-          "text": "They made membership in the Communist Party legal again after a long ban",
+          "text": "They centralized all monument-removal decisions in the federal Ministry of Culture, requiring its approval for each individual case",
           "correct": false,
-          "note": "The package did not re-legalize communism as a state ideology."
+          "note": "Implementation of the symbol-removal provisions was largely delegated to local authorities working with the Ukrainian Institute of National Memory, not concentrated in a single federal ministry."
         },
         {
-          "text": "They transferred authority over all school curricula from Kyiv to the Russian Orthodox Church",
+          "text": "They abolished Ukraine's Victory Day commemoration and replaced it with a national mourning day",
           "correct": false,
-          "note": "The laws concerned historical memory, symbols, and archives, not church control of education."
+          "note": "The laws renamed and rescheduled the commemoration (introducing May 8 as the Day of Remembrance and Reconciliation alongside May 9) but did not abolish the holiday."
         }
       ],
       "explanation": "The laws were part of a broader post-2014 effort to redefine public memory and state identity. They were politically significant because they linked nation-building to street names, monuments, and archival access.",
@@ -6815,7 +6815,7 @@
       "sources": [
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-20"
+      "last_reviewed_date": "2026-04-21"
     },
     {
       "id": "pt_0070",

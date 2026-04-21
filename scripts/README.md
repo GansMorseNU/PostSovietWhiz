@@ -98,7 +98,16 @@ These rules are enforced structurally (Layer 1) or by agent prompts (Layers 2-4)
 - Every wrong answer MUST have a note
 - Acronyms must be spelled out on first use in prompts  
 - No non-sequiturs in wrong-answer notes
+- All distractors must be **logically coherent** — no internally contradictory
+  options (e.g., "Ukraine merged politically with Russia to resist Moscow" —
+  Moscow is Russia's capital), no options that the prompt's own keywords
+  immediately rule out (e.g., pro-communism distractors on a *de*communization
+  question), no random swaps of actors / eras / geographies that read as AI
+  confabulation
 - No specific numerical comparisons unless citing well-known figures
 - No politically loaded framing
 - All images flagged for manual approval
 - Difficulty checked against user's calibration patterns
+- Feedback rows: cross-check the JGM readback against
+  `scripts/feedback_applied.json` (via `python3 scripts/feedback_diff.py <token>`)
+  before applying anything, so already-processed items don't get re-edited

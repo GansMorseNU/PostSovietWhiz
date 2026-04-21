@@ -1,0 +1,73 @@
+{
+  "_comment": "Ledger of feedback submissions that have already been processed. Every row in the JGM readback should appear here so we don't act on it twice. Status is 'applied' (we made a change to the question bank) or 'ignored_duplicate' (the row reports a problem that was already fixed in an earlier commit; the user's PWA cache made them re-report it).",
+  "processed": [
+    {
+      "id": "8954e74a",
+      "question_id": "pt_0001",
+      "submitted_at": "2026-04-21T03:11:24.066Z",
+      "processed_at": "2026-04-21",
+      "status": "ignored_duplicate",
+      "applied_in_commit": "c5b1ce5",
+      "note": "Already addressed in c5b1ce5 (CPSU banning clarification). Re-reported because the user's installed PWA was running a cached pre-c5b1ce5 build."
+    },
+    {
+      "id": "2e6400e4",
+      "question_id": "pt_0005",
+      "submitted_at": "2026-04-21T03:14:14.558Z",
+      "processed_at": "2026-04-21",
+      "status": "ignored_duplicate",
+      "applied_in_commit": "c5b1ce5",
+      "note": "Already addressed in c5b1ce5 (Fish article citation + explanation clause). Re-reported from cached PWA."
+    },
+    {
+      "id": "a9810f81",
+      "question_id": "pt_0010",
+      "submitted_at": "2026-04-21T03:24:00.718Z",
+      "processed_at": "2026-04-21",
+      "status": "ignored_duplicate",
+      "applied_in_commit": "c5b1ce5",
+      "note": "Already addressed in c5b1ce5 (Ukraine PR distractor). Re-reported from cached PWA."
+    },
+    {
+      "id": "9b462d20",
+      "question_id": "pt_0014",
+      "submitted_at": "2026-04-21T03:26:17.224Z",
+      "processed_at": "2026-04-21",
+      "status": "ignored_duplicate",
+      "applied_in_commit": "c5b1ce5",
+      "note": "Already addressed in c5b1ce5 (chronology fix on the 2004 order distractor). Re-reported from cached PWA."
+    },
+    {
+      "id": "f3c809b0",
+      "question_id": "pt_0061",
+      "submitted_at": "2026-04-21T05:16:30.174Z",
+      "processed_at": "2026-04-21",
+      "status": "applied",
+      "note": "Difficulty raised easy -> medium per JGM."
+    },
+    {
+      "id": "c7256876",
+      "question_id": "pt_0044",
+      "submitted_at": "2026-04-21T05:17:42.945Z",
+      "processed_at": "2026-04-21",
+      "status": "applied",
+      "note": "Replaced the 'merge with Russia to resist Moscow' distractor with a currency-policy distractor (Ukraine kept the ruble until after independence)."
+    },
+    {
+      "id": "204e66bc",
+      "question_id": "et_0043",
+      "submitted_at": "2026-04-21T05:19:01.727Z",
+      "processed_at": "2026-04-21",
+      "status": "applied",
+      "note": "Difficulty raised easy -> medium per JGM."
+    },
+    {
+      "id": "3e80247e",
+      "question_id": "pt_0069",
+      "submitted_at": "2026-04-21T05:56:22.064Z",
+      "processed_at": "2026-04-21",
+      "status": "applied",
+      "note": "Replaced the two 'restore/relegalize communism' distractors (which were trivially wrong for a decommunization question) with lustration-vs-decommunization, monument-removal-implementation, and Victory-Day-rescheduling distractors that are plausibly confusable with the real provisions."
+    }
+  ]
+}
