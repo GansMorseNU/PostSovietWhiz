@@ -10,7 +10,7 @@ Adapted from the GeoWhiz Challenge app (`~/Dropbox/AppBuilding/`). Infrastructur
 
 ## Status
 
-MVP running with a 198-question sample bank. Customized for PS369 with 3 categories plus era/country/difficulty filters. Soviet-collapse content is now handled through the `soviet` era filter rather than a standalone category. The latest 100-question expansion has been fact-checked, structurally validated, difficulty-reviewed, and merged.
+MVP running with a 197-question sample bank. Customized for PS369 with 3 categories plus era/country/difficulty filters. Soviet-collapse content is now handled through the `soviet` era filter rather than a standalone category. The latest large-bank expansion has been fact-checked, structurally validated, difficulty-reviewed, and merged.
 
 A compact permanent reference for future low-token authoring sessions now lives at `content/course_reference.json`.
 The app is now configured as an installable PWA for iPhone and Android, with manifest/icons/service worker support and a GitHub Pages deployment workflow in `.github/workflows/deploy-pages.yml`.

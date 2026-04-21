@@ -3690,7 +3690,7 @@
           "note": "European-Russian trade continued; the effect was concern and diversification, not total trade rupture."
         }
       ],
-      "explanation": "Although the cutoffs could be framed as pricing disputes, they strengthened the image of energy as a geopolitical instrument. Over time, that helped motivate diversification efforts and intensified debate over Europe's vulnerability to Russian leverage.",
+      "explanation": "Although the cutoffs could be framed as pricing disputes, they strengthened the image of energy as a geopolitical instrument. Over time, that helped motivate energy diversification efforts and intensified debate over Europe's vulnerability to Russian leverage.",
       "difficulty": "medium",
       "era": "2000s",
       "country": "both",
@@ -5208,7 +5208,7 @@
       "category": "economic_transitions",
       "subcategory": "economic_transitions",
       "type": "multiple_choice",
-      "prompt": "What new diversification trend became more visible in Ukraine after 2014?",
+      "prompt": "What new economic diversification trend became more visible in Ukraine after 2014?",
       "choices": [
         {
           "text": "The emergence of a more notable tech sector",
@@ -5230,8 +5230,8 @@
           "note": "Agriculture remained important; the claim is that tech became more visible alongside older sectors."
         }
       ],
-      "explanation": "The lectures use this point to show that Ukraine's economy was not frozen in its 1990s or 2000s structure. A more visible tech sector suggested at least some diversification beyond the older heavy-industry and commodity-centered model.",
-      "difficulty": "easy",
+      "explanation": "A more visible tech sector suggested at least some economic diversification beyond the older heavy-industry and commodity-centered model. It did not erase Ukraine's structural constraints, but it pointed to partial change in the composition of the economy.",
+      "difficulty": "medium",
       "era": "2010s_plus",
       "country": "ukraine",
       "tags": [
@@ -5314,7 +5314,7 @@
           "note": "No such outcome occurred."
         }
       ],
-      "explanation": "The comparison highlights a widening aggregate gap even though Ukraine developed some newer sectors and remained somewhat more equal in some measures. It is a reminder that diversification and institutional change did not erase the broader scale difference.",
+      "explanation": "The comparison highlights a widening aggregate gap even though Ukraine developed some newer sectors and remained somewhat more equal in some measures. It is a reminder that economic diversification and institutional change did not erase the broader scale difference.",
       "difficulty": "hard",
       "era": "2010s_plus",
       "country": "both",
@@ -5533,48 +5533,6 @@
         "oligarchs",
         "patronage",
         "state_capitalism"
-      ],
-      "sources": [
-        "Course lectures"
-      ],
-      "last_reviewed_date": "2026-04-20"
-    },
-    {
-      "id": "et_0063",
-      "category": "economic_transitions",
-      "subcategory": "economic_transitions",
-      "type": "multiple_choice",
-      "prompt": "By the late 2010s, which comparison best captures diversification in Russia and Ukraine?",
-      "choices": [
-        {
-          "text": "Ukraine showed signs of a more visible tech sector, while Russia was still strongly associated with state-led modernization efforts alongside continued resource dependence",
-          "correct": true
-        },
-        {
-          "text": "Both countries had fully replaced commodity-linked exports with high-tech manufacturing",
-          "correct": false,
-          "note": "Neither country had fully completed that transition."
-        },
-        {
-          "text": "Russia abandoned all state-led innovation policy, while Ukraine abandoned all tech-sector development",
-          "correct": false,
-          "note": "The comparison runs in the opposite direction: Russia kept state-led innovation initiatives, and Ukraine showed a more visible tech sector."
-        },
-        {
-          "text": "Neither country showed any meaningful effort or movement beyond Soviet-era industrial patterns",
-          "correct": false,
-          "note": "Both countries still showed at least some diversification attempts and newer sectoral developments."
-        }
-      ],
-      "explanation": "This comparison ties together two themes: Russia's difficulty diversifying through top-down projects like Skolkovo, and Ukraine's partial but notable movement into newer sectors after 2014. Neither case implies a complete break from older structures.",
-      "difficulty": "easy",
-      "era": "2010s_plus",
-      "country": "both",
-      "tags": [
-        "diversification",
-        "tech_sector",
-        "skolkovo",
-        "comparative_economy"
       ],
       "sources": [
         "Course lectures"

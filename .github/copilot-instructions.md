@@ -132,11 +132,12 @@ Start (landing page)
 - No politically loaded framing
 - Prompts should be self-contained
 - Write prompts as direct factual questions about Russia, Ukraine, the Soviet collapse, or post-Soviet politics. Avoid meta-course phrasing such as "according to the course materials," "the course argues," or "as discussed in this course."
+- In economic questions, say **economic diversification** when that is the concept you mean; avoid the vaguer standalone term **diversification** unless a broader form of change is truly intended.
 - Wrong answers should be logically consistent and plausibly related to the prompt. For reading-based, hard, and very-hard questions especially, distractors should look like reasonable options to a student who knows the general topic but not the precise answer
 
 ## Current status
 
-- MVP with a 198-question bank across 3 categories
+- MVP with a 197-question bank across 3 categories
 - Instructor reviewing difficulty calibration and question quality
 - Game mode functional and now supported by a much deeper bank, though continued expansion will still improve variety
 - Compact permanent course reference now lives in `content/course_reference.json`; raw `CourseMaterials/` remain the deeper source of truth

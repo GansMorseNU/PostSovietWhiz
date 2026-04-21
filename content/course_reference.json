@@ -14,7 +14,7 @@
     "instructor": "Jordan Gans-Morse"
   },
   "bank_snapshot": {
-    "question_count": 198,
+    "question_count": 197,
     "categories": {
       "political_transitions": 72,
       "economic_transitions": 63,
@@ -262,6 +262,7 @@
     "Use raw CourseMaterials only for fact-checks, exact reading attribution, or disputed wording.",
     "Named-author or specific-argument questions should usually be gated with `era_filter_visibility` based on the syllabus pre-/post-midterm split.",
     "Write prompts as direct factual questions rather than saying 'according to the course' or using similar course-meta framing.",
+    "In economic questions, prefer the specific phrase 'economic diversification' when that is the concept being tested.",
     "Do not over-flag serious topics for sensitivity when the wording is clinical and text-only.",
     "For hard and very_hard questions, distractors must be logically consistent and plausible enough that the answer cannot be guessed through absurd elimination."
   ]
