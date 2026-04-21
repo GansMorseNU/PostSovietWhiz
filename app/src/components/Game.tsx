@@ -254,9 +254,6 @@ function LevelPlay({
       )}
 
       <div className="question-meta-row">
-        <p className="question-meta">
-          Question {index + 1} of {questions.length} · {q.id}
-        </p>
         <button className="question-feedback-trigger" onClick={() => setFeedbackOpen(true)}>
           Report
         </button>

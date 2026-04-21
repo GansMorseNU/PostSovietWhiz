@@ -17,7 +17,7 @@ type Props = {
 const FEEDBACK_OPTIONS: { value: FeedbackKind; label: string }[] = [
   { value: 'fact_error', label: 'Fact is wrong' },
   { value: 'reword', label: 'Should be reworded' },
-  { value: 'difficulty', label: 'Difficulty is off' },
+  { value: 'difficulty', label: 'Level of difficulty is miscategorized' },
   { value: 'distractors', label: 'Answer choices are weak' },
   { value: 'game_level', label: 'Wrong for this game level' },
   { value: 'bug', label: 'App bug / UX issue' },
@@ -61,6 +61,16 @@ export function FeedbackModal({ isOpen, onClose, question, context }: Props) {
 
   if (!isOpen) return null;
 
+  const contextParts = [
+    surfaceLabel(context),
+    context.questionPosition
+      ? `Question ${context.questionPosition.current} of ${context.questionPosition.total}`
+      : null,
+    question.difficulty,
+    question.era,
+    question.country,
+  ].filter(Boolean);
+
   const handleSubmit = async (event: React.FormEvent<HTMLFormElement>) => {
     event.preventDefault();
     setSubmitting(true);
@@ -100,7 +110,7 @@ export function FeedbackModal({ isOpen, onClose, question, context }: Props) {
         </div>
 
         <p className="feedback-context">
-          {surfaceLabel(context)} · {question.difficulty} · {question.era} · {question.country}
+          {contextParts.join(' · ')}
         </p>
         <p className="feedback-prompt">{question.prompt}</p>
 
@@ -149,14 +159,10 @@ export function FeedbackModal({ isOpen, onClose, question, context }: Props) {
               className="feedback-input"
               value={reporter}
               onChange={(event) => setReporter(event.target.value)}
-              placeholder="Include *JGM* to mark as instructor-approved."
+              placeholder="Optional name or signature."
             />
           </label>
 
-          <p className="feedback-help">
-            Include <code>*JGM*</code> anywhere in the feedback to mark it for auto-apply on the
-            next content update pass.
-          </p>
           {!endpointConfigured && (
             <p className="feedback-help">
               Google Sheets sync is not configured yet, so reports will be saved locally on this
