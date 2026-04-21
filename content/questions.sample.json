@@ -1102,7 +1102,7 @@
           "note": "Language politics were contentious, but Ukraine did not legally bar Russian speakers from office."
         }
       ],
-      "explanation": "Course materials stress that Ukrainian nation-building was generally civic rather than explicitly ethnic. That did not eliminate language and regional conflict, but it helps explain why many Russian-speaking or ethnically mixed citizens could still be incorporated into a Ukrainian political nation.",
+      "explanation": "Ukrainian nation-building was generally civic rather than explicitly ethnic. That did not eliminate language and regional conflict, but it helps explain why many Russian-speaking or ethnically mixed citizens could still be incorporated into a Ukrainian political nation.",
       "difficulty": "medium",
       "era": "1990s",
       "country": "ukraine",
@@ -2349,7 +2349,7 @@
       "category": "economic_transitions",
       "subcategory": "economic_transitions",
       "type": "multiple_choice",
-      "prompt": "According to the course materials, many of Ukraine's earliest big oligarchic fortunes were rooted in which sector?",
+      "prompt": "Many of Ukraine's earliest big oligarchic fortunes were rooted in which sector?",
       "choices": [
         {
           "text": "Gas trade and transit schemes",
@@ -2371,7 +2371,7 @@
           "note": "Ukraine's tech sector became more important later; it was not the main source of the first oligarchic fortunes."
         }
       ],
-      "explanation": "Course materials emphasize gas as a key source of early oligarchic wealth in Ukraine, through transit rents, subsidized pricing, nonpayment schemes, and politically connected intermediaries. Steel and other sectors became crucial too, but often later.",
+      "explanation": "Gas was a key source of early oligarchic wealth in Ukraine, through transit rents, subsidized pricing, nonpayment schemes, and politically connected intermediaries. Steel and other sectors became crucial too, but often later.",
       "difficulty": "medium",
       "era": "1990s",
       "country": "ukraine",
@@ -2392,7 +2392,7 @@
       "category": "economic_transitions",
       "subcategory": "economic_transitions",
       "type": "multiple_choice",
-      "prompt": "Which comparison between Russia and Ukraine best fits the course's account of oligarchic capitalism in the 1990s?",
+      "prompt": "Which comparison best describes oligarchic capitalism in Russia and Ukraine in the 1990s?",
       "choices": [
         {
           "text": "Oligarchs had influence in both countries, but in Ukraine they were more directly embedded in parties, parliament, and executive politics",
@@ -2411,10 +2411,10 @@
         {
           "text": "Russia and Ukraine had identical patterns of oligarchic power",
           "correct": false,
-          "note": "The course stresses that oligarchs' direct political roles were generally more pronounced in Ukraine."
+          "note": "Oligarchs' direct political roles were generally more pronounced in Ukraine."
         }
       ],
-      "explanation": "The course contrasts Russia's more mediated oligarchic influence with Ukraine's more openly political oligarchic factions. In Ukraine, major business figures and their allies were more directly embedded in parties, parliament, and top executive politics.",
+      "explanation": "Russia's oligarchs often exercised influence through proximity to the presidency and control over key assets and media, while Ukraine's oligarchic factions were more openly embedded in parties, parliament, and executive politics.",
       "difficulty": "medium",
       "era": "1990s",
       "country": "both",
@@ -2443,7 +2443,7 @@
         {
           "text": "A rapid rebound driven mainly by rising oil prices and export revenues",
           "correct": false,
-          "note": "Higher oil prices later mattered a great deal, but the course stresses that the initial post-1998 rebound was driven more immediately by devaluation and import substitution."
+          "note": "Higher oil prices later mattered a great deal, but the initial post-1998 rebound was driven more immediately by devaluation and import substitution."
         },
         {
           "text": "Large-scale foreign investment into newly privatized Russian manufacturing",
@@ -2582,7 +2582,7 @@
         {
           "text": "Resource dependence mainly forced Moscow to decentralize political power toward oil-producing regions",
           "correct": false,
-          "note": "The course stresses that resource wealth tended to strengthen central autonomy, not force major political decentralization."
+          "note": "Resource wealth tended to strengthen central autonomy, not force major political decentralization."
         }
       ],
       "explanation": "The lecture stressed that the problem is not only economic volatility. Easy rents can reduce pressure to diversify, reform, and build accountable institutions, because the state can rely heavily on resource income rather than broad taxation of society.",
@@ -2799,7 +2799,7 @@
           "note": "WTO membership did not eliminate the state's power to collect taxes."
         }
       ],
-      "explanation": "A tax reform can help, but it works better when backed by broader improvements in courts, banking, administration, and enforcement. The course contrasts Russia's more coordinated early-2000s reforms with Ukraine's thinner institutional follow-through.",
+      "explanation": "A tax reform can help, but it works better when backed by broader improvements in courts, banking, administration, and enforcement. Russia's more coordinated early-2000s reforms contrasted with Ukraine's thinner institutional follow-through.",
       "difficulty": "hard",
       "era": "2000s",
       "country": "ukraine",
@@ -4234,7 +4234,7 @@
       "category": "economic_transitions",
       "subcategory": "economic_transitions",
       "type": "multiple_choice",
-      "prompt": "Why did course materials argue that a China-style gradual reform path was much less available to the USSR by 1991-1992?",
+      "prompt": "Why was a China-style gradual reform path much less available to the USSR by 1991-1992?",
       "choices": [
         {
           "text": "The Soviet economy was already highly industrialized, the political center was losing control, and the crisis had become acute",
@@ -4248,7 +4248,7 @@
         {
           "text": "The USSR was still mostly a rural economy, unlike reform-era China",
           "correct": false,
-          "note": "The course stresses the opposite: the USSR was unusually industrialized, which made the comparison with China difficult."
+          "note": "The USSR was unusually industrialized, which made the comparison with China difficult."
         },
         {
           "text": "The Soviet Union had already built strong market institutions before trying to liberalize",
@@ -4319,7 +4319,7 @@
       "category": "economic_transitions",
       "subcategory": "economic_transitions",
       "type": "multiple_choice",
-      "prompt": "In course materials, what did it mean to say the Soviet economy was 'overindustrialized' at the moment of transition?",
+      "prompt": "What did it mean to say the Soviet economy was 'overindustrialized' at the moment of transition?",
       "choices": [
         {
           "text": "Heavy industry and related sectors were oversized relative to consumer goods, services, and market demand",
@@ -4333,7 +4333,7 @@
         {
           "text": "Agriculture had become far larger than industry and crowded everything else out",
           "correct": false,
-          "note": "The problem was not excessive agriculture; the lectures stress the unusually large industrial base."
+          "note": "The problem was not excessive agriculture; the key issue was the unusually large industrial base."
         },
         {
           "text": "The economy had already shifted too far into finance and consumer credit by the late 1980s",
@@ -4510,7 +4510,7 @@
           "note": "Gradualists did not deny the need for reform; they argued that sequencing and institution-building mattered."
         }
       ],
-      "explanation": "This was one of the central transition dilemmas: speed could create private property quickly, but weak institutions could turn privatization into lawlessness. The course uses this debate to explain why sequencing and state capacity mattered so much.",
+      "explanation": "This was one of the central transition dilemmas: speed could create private property quickly, but weak institutions could turn privatization into lawlessness. The debate helps explain why sequencing and state capacity mattered so much.",
       "difficulty": "hard",
       "era": "soviet",
       "country": "both",
@@ -4595,7 +4595,7 @@
           "note": "Post-Soviet banking systems in the 1990s were marked by weak regulation rather than mature EU-style oversight."
         }
       ],
-      "explanation": "The course treats many 1990s banks as political-economic instruments rather than fully developed intermediaries. They were useful for currency speculation, buying assets, handling state flows, and exploiting loopholes in a weakly regulated environment.",
+      "explanation": "Many 1990s banks functioned less as mature financial intermediaries than as political-economic instruments. They were useful for currency speculation, buying assets, handling state flows, and exploiting loopholes in a weakly regulated environment.",
       "difficulty": "medium",
       "era": "1990s",
       "country": "both",
@@ -4629,7 +4629,7 @@
         {
           "text": "It meant copying China's village-enterprise model in rural western Ukraine",
           "correct": false,
-          "note": "The course does not present the Ukrainian 'third way' as a direct copy of China's rural reform path."
+          "note": "The Ukrainian 'third way' was not a direct copy of China's rural reform path."
         },
         {
           "text": "It was the label for a successful anti-corruption campaign that ended barter by 1994",
@@ -4766,7 +4766,7 @@
           "note": "The term described oligarchic power, not a constitutional institutional rule."
         }
       ],
-      "explanation": "The term captured the perception that a narrow circle of financiers wielded outsized influence over politics, media, and major assets in the Yeltsin era. Even so, the course also notes that their policy influence could be exaggerated in some accounts.",
+      "explanation": "The term captured the perception that a narrow circle of financiers wielded outsized influence over politics, media, and major assets in the Yeltsin era. At the same time, some accounts exaggerated how fully they controlled policy outcomes.",
       "difficulty": "medium",
       "era": "1990s",
       "country": "russia",
@@ -4850,7 +4850,7 @@
           "note": "Weak monetization and barter remained major problems well after 1991."
         }
       ],
-      "explanation": "A market economy needs more than formal ownership transfer. The course uses this example to show that Ukraine lagged in building the legal infrastructure needed to govern firms, protect investors, and regularize business relations.",
+      "explanation": "A market economy needs more than formal ownership transfer. This example shows how Ukraine lagged in building the legal infrastructure needed to govern firms, protect investors, and regularize business relations.",
       "difficulty": "very_hard",
       "era": "1990s",
       "country": "ukraine",
@@ -4921,12 +4921,12 @@
         {
           "text": "Both had already diversified so fully that world commodity prices no longer mattered",
           "correct": false,
-          "note": "The course stresses the opposite: both economies remained exposed to external price shifts and demand conditions."
+          "note": "Both economies remained exposed to external price shifts and demand conditions."
         },
         {
           "text": "Both adopted identical banking, judicial, and tax reforms at the same speed",
           "correct": false,
-          "note": "The course does not present the two countries as having followed identical domestic reform paths."
+          "note": "The two countries did not follow identical domestic reform paths."
         },
         {
           "text": "Both became insulated from Russian energy and trade linkages by 2001",
@@ -4934,7 +4934,7 @@
           "note": "Continuing regional linkages remained part of the story, especially for Ukraine."
         }
       ],
-      "explanation": "The course uses this comparison to caution against overly simple domestic-policy explanations. Political differences mattered, but so did the broad 2000s upswing, global demand, capital inflows, and continuing regional economic ties.",
+      "explanation": "This comparison cautions against overly simple domestic-policy explanations. Political differences mattered, but so did the broad 2000s upswing, global demand, capital inflows, and continuing regional economic ties.",
       "difficulty": "medium",
       "era": "2000s",
       "country": "both",
@@ -4977,7 +4977,7 @@
           "note": "The political problem was coalition support and threatened rents, not excessively low inflation."
         }
       ],
-      "explanation": "The reforms improved remonetization and transparency, but those very gains threatened powerful actors. The course presents this as a classic political-economy problem: crisis can produce reform coalitions, but success can weaken them.",
+      "explanation": "The reforms improved remonetization and transparency, but those very gains threatened powerful actors. This is a classic political-economy problem: crisis can produce reform coalitions, but success can weaken them.",
       "difficulty": "hard",
       "era": "2000s",
       "country": "ukraine",
@@ -5039,7 +5039,7 @@
       "category": "economic_transitions",
       "subcategory": "economic_transitions",
       "type": "multiple_choice",
-      "prompt": "After the Orange Revolution, which external-economic step is presented in the course as one of Ukraine's clearer reform successes?",
+      "prompt": "After the Orange Revolution, which external-economic step was one of Ukraine's clearer reform successes?",
       "choices": [
         {
           "text": "Trade liberalization culminating in WTO accession in 2008",
@@ -5058,10 +5058,10 @@
         {
           "text": "Creating a sovereign wealth fund modeled on Russia's Stabilization Fund",
           "correct": false,
-          "note": "That was not the signature post-Orange external-economic reform emphasized in the course."
+          "note": "That was not one of Ukraine's clearer post-Orange external-economic reform successes."
         }
       ],
-      "explanation": "The course presents WTO accession as a meaningful liberalizing step, but also notes that it did not by itself transform Ukraine's deeper problems of institutional weakness, export concentration, and oligarchic influence.",
+      "explanation": "WTO accession was a meaningful liberalizing step, but it did not by itself solve Ukraine's deeper problems of institutional weakness, export concentration, and oligarchic influence.",
       "difficulty": "easy",
       "era": "2000s",
       "country": "ukraine",
@@ -5124,7 +5124,7 @@
       "category": "economic_transitions",
       "subcategory": "economic_transitions",
       "type": "multiple_choice",
-      "prompt": "What does the course suggest about Putin-era state capitalism from the fact that the Russian state did not simply reacquire all major firms cheaply during the 2008-2009 crisis?",
+      "prompt": "What does the fact that the Russian state did not simply reacquire all major firms cheaply during the 2008-2009 crisis suggest about Putin-era state capitalism?",
       "choices": [
         {
           "text": "The system was selective and strategic rather than a blanket return to full state ownership",
@@ -5143,7 +5143,7 @@
         {
           "text": "Private firms were fully insulated from political pressure once the crisis began",
           "correct": false,
-          "note": "The course describes continued state pressure and intervention in business even without total renationalization."
+          "note": "The system still involved state pressure and intervention in business even without total renationalization."
         }
       ],
       "explanation": "The point is that Putin-era capitalism was not simple Soviet restoration. It mixed state control in strategic sectors, political discipline over major owners, and selective rather than universal renationalization.",
@@ -5180,7 +5180,7 @@
         {
           "text": "Both countries moved to identical systems in which business elites had no political role at all",
           "correct": false,
-          "note": "The course stresses continuing business-state entanglement in both countries, though in different forms."
+          "note": "Business-state entanglement continued in both countries, though in different forms."
         },
         {
           "text": "Ukraine copied Russia's model of siloviki-led state corporations and largely removed competing business factions from elected politics",
@@ -5208,7 +5208,7 @@
       "category": "economic_transitions",
       "subcategory": "economic_transitions",
       "type": "multiple_choice",
-      "prompt": "According to the course materials, what new diversification trend became more visible in Ukraine after 2014?",
+      "prompt": "What new diversification trend became more visible in Ukraine after 2014?",
       "choices": [
         {
           "text": "The emergence of a more notable tech sector",
@@ -5269,7 +5269,7 @@
         {
           "text": "It succeeded so completely that Russia rapidly ceased depending on raw-material exports",
           "correct": false,
-          "note": "The course presents Skolkovo as a mixed and politically constrained effort, not a completed diversification success."
+          "note": "Skolkovo was a mixed and politically constrained effort, not a completed diversification success."
         }
       ],
       "explanation": "Skolkovo symbolized top-down modernization hopes under Medvedev, but later investigations exposed how fragile that agenda was within a more state-centered system. The episode underscores how hard innovation policy is when political backing is uneven.",
@@ -5292,7 +5292,7 @@
       "category": "economic_transitions",
       "subcategory": "economic_transitions",
       "type": "multiple_choice",
-      "prompt": "By around 2020, what comparative shift best reflects the long-term divergence between the Russian and Ukrainian economies described in the course materials?",
+      "prompt": "By around 2020, what comparative shift best reflects the long-term divergence between the Russian and Ukrainian economies?",
       "choices": [
         {
           "text": "Russia's economy had grown from roughly five-or-six times Ukraine's size in the early 1990s to closer to nine times its size",
@@ -5301,7 +5301,7 @@
         {
           "text": "Ukraine's economy had become larger than Russia's in nominal size",
           "correct": false,
-          "note": "The course materials describe a widening gap in the opposite direction."
+          "note": "The long-term gap widened in the opposite direction."
         },
         {
           "text": "The two economies had converged almost completely in total size by 2020",
@@ -5311,7 +5311,7 @@
         {
           "text": "Russia's economy had shrunk to about the same size as Ukraine's because of full deindustrialization",
           "correct": false,
-          "note": "The course does not describe anything like that outcome."
+          "note": "No such outcome occurred."
         }
       ],
       "explanation": "The comparison highlights a widening aggregate gap even though Ukraine developed some newer sectors and remained somewhat more equal in some measures. It is a reminder that diversification and institutional change did not erase the broader scale difference.",
@@ -5334,7 +5334,7 @@
       "category": "economic_transitions",
       "subcategory": "economic_transitions",
       "type": "multiple_choice",
-      "prompt": "Why is the course's point about a more visible Ukrainian tech sector after 2014 analytically important?",
+      "prompt": "Why is the rise of a more visible Ukrainian tech sector after 2014 analytically important?",
       "choices": [
         {
           "text": "It suggests at least one path of diversification less tied to the old heavy-industry, cheap-energy model that had dominated earlier decades",
@@ -5356,7 +5356,7 @@
           "note": "Older structures and legacies still mattered even if newer sectors gained visibility."
         }
       ],
-      "explanation": "The point matters because the course otherwise emphasizes continuity: metals, chemicals, agriculture, and inherited structures. A visible tech sector suggests partial change in economic composition, even if it does not erase older constraints.",
+      "explanation": "The point matters because continuity remained strong in metals, chemicals, agriculture, and inherited structures. A visible tech sector suggests partial change in economic composition, even if it does not erase older constraints.",
       "difficulty": "very_hard",
       "era": "2010s_plus",
       "country": "ukraine",
@@ -5398,7 +5398,7 @@
           "note": "The 2010s Russian political economy was not characterized by egalitarian worker ownership."
         }
       ],
-      "explanation": "The course contrasts many of these figures with the classic 1990s tycoon-bankers. In the later system, access to state contracts, pipelines, banks, and political patronage became especially important routes to wealth.",
+      "explanation": "These figures differed from the classic 1990s tycoon-bankers. In the later system, access to state contracts, pipelines, banks, and political patronage became especially important routes to wealth.",
       "difficulty": "easy",
       "era": "2010s_plus",
       "country": "russia",
@@ -5418,7 +5418,7 @@
       "category": "economic_transitions",
       "subcategory": "economic_transitions",
       "type": "multiple_choice",
-      "prompt": "In the 2010s, what remained a key difference between Russian and Ukrainian oligarchic capitalism according to the course materials?",
+      "prompt": "In the 2010s, what remained a key difference between Russian and Ukrainian oligarchic capitalism?",
       "choices": [
         {
           "text": "Ukrainian oligarchs remained more directly present in elected politics, while Russian big business was more tightly subordinated to the Kremlin",
@@ -5432,7 +5432,7 @@
         {
           "text": "Both countries had eliminated oligarchic media ownership by the 2010s",
           "correct": false,
-          "note": "The course does not present the 2010s as the end of oligarchic influence over media."
+          "note": "The 2010s did not mark the end of oligarchic influence over media."
         },
         {
           "text": "Ukraine copied Russia's system of siloviki-led state corporations almost exactly",
@@ -5469,7 +5469,7 @@
         {
           "text": "It marked the first time any wealthy businessman had ever participated in Ukrainian politics",
           "correct": false,
-          "note": "The course presents business-political overlap as a longstanding feature of Ukrainian politics."
+          "note": "Business-political overlap remained a longstanding feature of Ukrainian politics."
         },
         {
           "text": "It meant oligarchic factions had lost all influence over parliament and parties",
@@ -5479,10 +5479,10 @@
         {
           "text": "It signaled Ukraine's adoption of Russia's model of depoliticized loyal oligarchs",
           "correct": false,
-          "note": "The course stresses that Ukraine remained more openly factionalized than Russia."
+          "note": "Ukraine remained more openly factionalized than Russia."
         }
       ],
-      "explanation": "Poroshenko's presidency is used in the course as evidence that Ukraine's business-state entanglement did not disappear after the Orange Revolution or Euromaidan. The configuration changed, but the overlap between wealth and politics remained significant.",
+      "explanation": "Poroshenko's presidency shows that Ukraine's business-state entanglement did not disappear after the Orange Revolution or Euromaidan. The configuration changed, but the overlap between wealth and politics remained significant.",
       "difficulty": "hard",
       "era": "2010s_plus",
       "country": "ukraine",
@@ -5502,7 +5502,7 @@
       "category": "economic_transitions",
       "subcategory": "economic_transitions",
       "type": "multiple_choice",
-      "prompt": "Why are figures such as Yury Kovalchuk analytically different from Russia's classic 1990s oligarchs in the course's account?",
+      "prompt": "Why are figures such as Yury Kovalchuk analytically different from Russia's classic 1990s oligarchs?",
       "choices": [
         {
           "text": "Their wealth is presented less as a product of early chaotic privatization and more as a product of sustained proximity to Putin and state-linked institutions",
@@ -5511,7 +5511,7 @@
         {
           "text": "They became wealthy mainly by opposing the Kremlin and financing independent parties",
           "correct": false,
-          "note": "The course presents these figures as closely tied to, not oppositional toward, the Kremlin."
+          "note": "These figures were closely tied to, not oppositional toward, the Kremlin."
         },
         {
           "text": "They emerged chiefly from mass voucher ownership spread evenly across the population",
@@ -5521,7 +5521,7 @@
         {
           "text": "They had no connection to banks, state companies, or strategic sectors",
           "correct": false,
-          "note": "The course emphasizes the importance of precisely those connections."
+          "note": "Those connections were central to their position."
         }
       ],
       "explanation": "This distinction matters because it marks a shift in how elite wealth was reproduced. The later pattern relied less on the initial asset grab of the 1990s and more on political access, state patronage, and strategic-sector proximity.",
@@ -5544,7 +5544,7 @@
       "category": "economic_transitions",
       "subcategory": "economic_transitions",
       "type": "multiple_choice",
-      "prompt": "By the late 2010s, which comparison best captures the course's discussion of diversification in Russia and Ukraine?",
+      "prompt": "By the late 2010s, which comparison best captures diversification in Russia and Ukraine?",
       "choices": [
         {
           "text": "Ukraine showed signs of a more visible tech sector, while Russia was still strongly associated with state-led modernization efforts alongside continued resource dependence",
@@ -5553,7 +5553,7 @@
         {
           "text": "Both countries had fully replaced commodity-linked exports with high-tech manufacturing",
           "correct": false,
-          "note": "The course does not describe either country as having fully completed that transition."
+          "note": "Neither country had fully completed that transition."
         },
         {
           "text": "Russia abandoned all state-led innovation policy, while Ukraine abandoned all tech-sector development",
@@ -5563,10 +5563,10 @@
         {
           "text": "Neither country showed any meaningful effort or movement beyond Soviet-era industrial patterns",
           "correct": false,
-          "note": "The course points to at least some diversification attempts and newer sectoral developments."
+          "note": "Both countries still showed at least some diversification attempts and newer sectoral developments."
         }
       ],
-      "explanation": "This comparison ties together two themes from the course: Russia's difficulty diversifying through top-down projects like Skolkovo, and Ukraine's partial but notable movement into newer sectors after 2014. Neither case implies a complete break from older structures.",
+      "explanation": "This comparison ties together two themes: Russia's difficulty diversifying through top-down projects like Skolkovo, and Ukraine's partial but notable movement into newer sectors after 2014. Neither case implies a complete break from older structures.",
       "difficulty": "easy",
       "era": "2010s_plus",
       "country": "both",
@@ -6198,7 +6198,7 @@
         {
           "text": "Both countries had converged on nearly identical party systems and executive-legislative relations",
           "correct": false,
-          "note": "A major theme of the course is that their institutional trajectories diverged."
+          "note": "Their institutional trajectories diverged sharply."
         }
       ],
       "explanation": "This divergence helped shape later regime outcomes. Russia's stronger presidential architecture made recentralization easier, while Ukraine's messier institutional balance created more room for elite contestation and alternation.",
@@ -7019,7 +7019,7 @@
           "note": "Neither country made that institutional shift."
         }
       ],
-      "explanation": "The contrast is one of the course's central comparative themes. Russia continued to centralize authority around a narrow executive core, while Ukraine remained more electorally open and institutionally plural even under severe external pressure.",
+      "explanation": "The contrast is a central comparative theme. Russia continued to centralize authority around a narrow executive core, while Ukraine remained more electorally open and institutionally plural even under severe external pressure.",
       "difficulty": "very_hard",
       "era": "2010s_plus",
       "country": "both",

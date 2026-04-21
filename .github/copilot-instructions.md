@@ -131,6 +131,7 @@ Start (landing page)
 - Text-only questions may address war, repression, massacre, terrorism, and other genuinely difficult course topics; reserve sensitivity flags mainly for graphic imagery, unusually disturbing detail, or disrespectful / gratuitous framing
 - No politically loaded framing
 - Prompts should be self-contained
+- Write prompts as direct factual questions about Russia, Ukraine, the Soviet collapse, or post-Soviet politics. Avoid meta-course phrasing such as "according to the course materials," "the course argues," or "as discussed in this course."
 - Wrong answers should be logically consistent and plausibly related to the prompt. For reading-based, hard, and very-hard questions especially, distractors should look like reasonable options to a student who knows the general topic but not the precise answer
 
 ## Current status

@@ -23,6 +23,8 @@ Review each question and its associated content. For each question, check:
 7. **Distractor quality**: Flag questions whose wrong answers are so illogical, absolute,
    or unrelated that the correct answer becomes guessable by elimination. This matters
    especially for reading-based and hard / very hard questions.
+8. **Prompt framing**: Flag prompts that unnecessarily refer to "the course," "course materials,"
+   or similar meta framing when the question can be asked directly as a factual question.
 
 Output format for each question:
 ```
@@ -133,6 +135,9 @@ Review each question for:
 6. **Distractor plausibility / logic**: Flag hard or reading-based questions when one
    or more wrong answers are obviously absurd, internally inconsistent, or only loosely
    related to the prompt, making the item easier than its rating suggests.
+7. **Course-meta wording**: Flag prompts or explanations that say things like
+   "according to the course," "the course argues," or "the course uses this to show"
+   when they can be phrased more directly.
 
 Output format:
 ```
