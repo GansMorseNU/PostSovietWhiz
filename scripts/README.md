@@ -105,6 +105,14 @@ These rules are enforced structurally (Layer 1) or by agent prompts (Layers 2-4)
   question), no random swaps of actors / eras / geographies that read as AI
   confabulation
 - No specific numerical comparisons unless citing well-known figures
+- No absolute-quantifier distractors ("all," "every," "none," "never," "always")
+  outside of intentionally easy questions — they're dead giveaways
+- Difficulty signal: facts covered only in assigned readings (not reinforced in
+  slides/lectures) push difficulty UP; "readings-only" questions need not name
+  the reading if the factual prompt stands on its own
+- When an author's argument is cited, give the actual title of the book or
+  article and identify it specifically as a book or article (not vague
+  "in X's work" / "in X's comparison" framing)
 - No politically loaded framing
 - All images flagged for manual approval
 - Difficulty checked against user's calibration patterns

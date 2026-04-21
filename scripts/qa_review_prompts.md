@@ -34,10 +34,20 @@ Review each question and its associated content. For each question, check:
    - **Absolute, absurd, or unrelated** — making the correct answer guessable by
      elimination. Especially important for reading-based and hard / very hard
      questions.
+   - **Absolute quantifiers** — distractors phrased with "all," "every," "none,"
+     "never," "always," or similar universals are dead giveaways that the option
+     can't be right. Only acceptable when the question is *intentionally* easy;
+     for medium and above, rewrite the option to drop the absolute.
    When in doubt, ask: "Could a smart but unprepared student plausibly pick this
    without immediately seeing it as AI-generated nonsense?" If not, flag it.
 8. **Prompt framing**: Flag prompts that unnecessarily refer to "the course," "course materials,"
    or similar meta framing when the question can be asked directly as a factual question.
+9. **Citing readings**: When a prompt or explanation refers to an author's argument, the
+   question must (a) give the actual title of the book or article, and (b) identify it
+   specifically as a book or article (not a vague "in X's work" / "in X's comparison"
+   framing). Exception: "only in readings" factual questions that can stand on their
+   own without naming the reading do not need the title at all — but if an author is
+   named, the title and form should be given.
 
 Output format for each question:
 ```
@@ -97,6 +107,16 @@ Extremely niche knowledge even specialists might miss.
 - Names of specific people in non-leadership roles
 - Knowing which specific country/province something happened in (vs. region)
 - Details about timing or sequence of events
+- **Coverage only in assigned readings** (not reinforced in slides or lectures) —
+  students who skim readings will miss these. A factual question drawn only from
+  a reading is typically hard or very hard even if the fact itself is
+  straightforward. Note: "readings-only" questions do **not** need to explicitly
+  name the reading when the question can stand on its own as a clear factual
+  prompt — keep the framing direct.
+
+### Patterns that pull difficulty DOWN (relative to the above):
+- Coverage reinforced across readings **and** slides **and** lectures — students
+  who attended class will have seen the fact multiple times.
 
 ### Patterns that push difficulty DOWN:
 - Widely reported events (even recent ones, if headline news)
@@ -157,6 +177,8 @@ Review each question for:
      question).
    - Options that swap actors, eras, or geographies in ways no informed person
      would propose.
+   - **Absolute-quantifier giveaways** — distractors using "all," "every," "none,"
+     "never," "always" etc. Dead giveaways outside of intentionally easy questions.
 7. **Course-meta wording**: Flag prompts or explanations that say things like
    "according to the course," "the course argues," or "the course uses this to show"
    when they can be phrased more directly.

@@ -68,6 +68,430 @@
       "processed_at": "2026-04-21",
       "status": "applied",
       "note": "Replaced the two 'restore/relegalize communism' distractors (which were trivially wrong for a decommunization question) with lustration-vs-decommunization, monument-removal-implementation, and Victory-Day-rescheduling distractors that are plausibly confusable with the real provisions."
+    },
+    {
+      "id": "09b85a83",
+      "question_id": "pt_0001",
+      "submitted_at": "2026-04-21T17:02:10.313Z",
+      "processed_at": "2026-04-21",
+      "status": "applied",
+      "note": "Difficulty medium -> easy per JGM."
+    },
+    {
+      "id": "cc5ca3e2",
+      "question_id": "pt_0050",
+      "submitted_at": "2026-04-21T16:50:16.636Z",
+      "processed_at": "2026-04-21",
+      "status": "applied",
+      "note": "Difficulty hard -> medium per JGM (calibrated to current easy distractors)."
+    },
+    {
+      "id": "9d8150bb",
+      "question_id": "pt_0010",
+      "submitted_at": "2026-04-21T16:49:17.945Z",
+      "processed_at": "2026-04-21",
+      "status": "applied",
+      "note": "Difficulty hard -> medium per JGM."
+    },
+    {
+      "id": "90d2451a",
+      "question_id": "pt_0010",
+      "submitted_at": "2026-04-21T16:49:14.061Z",
+      "processed_at": "2026-04-21",
+      "status": "applied",
+      "note": "Duplicate of 9d8150bb — same difficulty change."
+    },
+    {
+      "id": "9e21069c",
+      "question_id": "pt_0071",
+      "submitted_at": "2026-04-21T16:48:42.991Z",
+      "processed_at": "2026-04-21",
+      "status": "applied",
+      "note": "Difficulty hard -> medium per JGM."
+    },
+    {
+      "id": "7234dc4a",
+      "question_id": "pt_0052",
+      "submitted_at": "2026-04-21T16:48:01.121Z",
+      "processed_at": "2026-04-21",
+      "status": "applied",
+      "note": "Reworded correct answer and explanation to emphasize that Tatarstan's 1994 treaty went further than Moscow's other bilateral deals (sovereignty claim, fiscal powers, resource control)."
+    },
+    {
+      "id": "198f15bc",
+      "question_id": "pt_0037",
+      "submitted_at": "2026-04-21T16:46:28.369Z",
+      "processed_at": "2026-04-21",
+      "status": "applied",
+      "note": "Difficulty hard -> medium per JGM."
+    },
+    {
+      "id": "fa2b0efe",
+      "question_id": "pt_0062",
+      "submitted_at": "2026-04-21T16:45:49.141Z",
+      "processed_at": "2026-04-21",
+      "status": "applied",
+      "note": "Difficulty hard -> very_hard per JGM."
+    },
+    {
+      "id": "318d2aef",
+      "question_id": "pt_0015",
+      "submitted_at": "2026-04-21T16:43:57.603Z",
+      "processed_at": "2026-04-21",
+      "status": "applied",
+      "note": "Difficulty hard -> medium per JGM."
+    },
+    {
+      "id": "d5e34832",
+      "question_id": "pt_0059",
+      "submitted_at": "2026-04-21T16:43:36.695Z",
+      "processed_at": "2026-04-21",
+      "status": "applied",
+      "note": "Difficulty hard -> medium per JGM."
+    },
+    {
+      "id": "b79aed79",
+      "question_id": "pt_0033",
+      "submitted_at": "2026-04-21T16:43:13.202Z",
+      "processed_at": "2026-04-21",
+      "status": "applied",
+      "note": "Difficulty hard -> medium per JGM."
+    },
+    {
+      "id": "496f9fce",
+      "question_id": "pt_0033",
+      "submitted_at": "2026-04-21T16:43:09.228Z",
+      "processed_at": "2026-04-21",
+      "status": "applied",
+      "note": "Duplicate of b79aed79 — same difficulty change."
+    },
+    {
+      "id": "71ed789c",
+      "question_id": "pt_0007",
+      "submitted_at": "2026-04-21T16:42:46.038Z",
+      "processed_at": "2026-04-21",
+      "status": "applied",
+      "note": "Difficulty hard -> medium per JGM."
+    },
+    {
+      "id": "ac0d793b",
+      "question_id": "pt_0055",
+      "submitted_at": "2026-04-21T16:36:49.479Z",
+      "processed_at": "2026-04-21",
+      "status": "applied",
+      "note": "Difficulty hard -> medium per JGM."
+    },
+    {
+      "id": "b267771d",
+      "question_id": "et_0042",
+      "submitted_at": "2026-04-21T16:35:18.850Z",
+      "processed_at": "2026-04-21",
+      "status": "applied",
+      "note": "Difficulty hard -> very_hard per JGM."
+    },
+    {
+      "id": "707f7ae3",
+      "question_id": "et_0034",
+      "submitted_at": "2026-04-21T16:34:27.878Z",
+      "processed_at": "2026-04-21",
+      "status": "applied",
+      "note": "Difficulty hard -> medium per JGM."
+    },
+    {
+      "id": "d9873c15",
+      "question_id": "fp_0047",
+      "submitted_at": "2026-04-21T16:29:52.751Z",
+      "processed_at": "2026-04-21",
+      "status": "applied",
+      "note": "Difficulty hard -> very_hard per JGM."
+    },
+    {
+      "id": "43c91cd9",
+      "question_id": "fp_0052",
+      "submitted_at": "2026-04-21T16:28:47.772Z",
+      "processed_at": "2026-04-21",
+      "status": "applied",
+      "note": "Difficulty hard -> very_hard and expanded explanation with the five principles of the Medvedev Doctrine."
+    },
+    {
+      "id": "8ab2d0b1",
+      "question_id": "fp_0003",
+      "submitted_at": "2026-04-21T16:27:09.935Z",
+      "processed_at": "2026-04-21",
+      "status": "applied",
+      "note": "Difficulty hard -> medium per JGM."
+    },
+    {
+      "id": "64d9ee3d",
+      "question_id": "fp_0059",
+      "submitted_at": "2026-04-21T16:26:45.607Z",
+      "processed_at": "2026-04-21",
+      "status": "applied",
+      "note": "Difficulty hard -> very_hard and reworded correct answer to clarify that 'special status' refers to the occupied Donbas districts within Ukraine."
+    },
+    {
+      "id": "dc854a74",
+      "question_id": "fp_0038",
+      "submitted_at": "2026-04-21T16:24:58.649Z",
+      "processed_at": "2026-04-21",
+      "status": "applied",
+      "note": "Difficulty hard -> medium per JGM (calibrated to current distractors)."
+    },
+    {
+      "id": "2e66a51d",
+      "question_id": "fp_0044",
+      "submitted_at": "2026-04-21T16:23:36.904Z",
+      "processed_at": "2026-04-21",
+      "status": "applied",
+      "note": "Difficulty hard -> very_hard per JGM."
+    },
+    {
+      "id": "80d9b627",
+      "question_id": "fp_0051",
+      "submitted_at": "2026-04-21T16:22:24.044Z",
+      "processed_at": "2026-04-21",
+      "status": "applied",
+      "note": "Difficulty hard -> very_hard per JGM."
+    },
+    {
+      "id": "d229c048",
+      "question_id": "fp_0056",
+      "submitted_at": "2026-04-21T16:11:51.466Z",
+      "processed_at": "2026-04-21",
+      "status": "applied",
+      "note": "Prompt now spells out 'Conventional Armed Forces in Europe (CFE) Treaty' on first reference."
+    },
+    {
+      "id": "177b0070",
+      "question_id": "et_0054",
+      "submitted_at": "2026-04-21T16:08:50.402Z",
+      "processed_at": "2026-04-21",
+      "status": "applied",
+      "note": "Difficulty very_hard -> hard per JGM ('medium to hard' — picked hard to stay safer for the bank)."
+    },
+    {
+      "id": "05736968",
+      "question_id": "et_0058",
+      "submitted_at": "2026-04-21T16:07:45.711Z",
+      "processed_at": "2026-04-21",
+      "status": "applied",
+      "note": "Difficulty very_hard -> hard. Embedded general rule about absolute quantifiers (all/every/always/immediately) already added to scripts/qa_review_prompts.md and scripts/README.md."
+    },
+    {
+      "id": "fb33db44",
+      "question_id": "et_0050",
+      "submitted_at": "2026-04-21T16:05:22.679Z",
+      "processed_at": "2026-04-21",
+      "status": "applied",
+      "note": "Difficulty very_hard -> medium per JGM."
+    },
+    {
+      "id": "184b81e0",
+      "question_id": "pt_0063",
+      "submitted_at": "2026-04-21T16:04:37.113Z",
+      "processed_at": "2026-04-21",
+      "status": "applied",
+      "note": "Difficulty very_hard -> hard. Replaced the contrived 'voters outlawed pro-government parties' distractor with a registration-rule distractor."
+    },
+    {
+      "id": "cda306ac",
+      "question_id": "pt_0065",
+      "submitted_at": "2026-04-21T16:03:18.241Z",
+      "processed_at": "2026-04-21",
+      "status": "applied",
+      "note": "Difficulty very_hard -> hard per JGM ('medium or hard' — picked hard)."
+    },
+    {
+      "id": "109f6bad",
+      "question_id": "pt_0072",
+      "submitted_at": "2026-04-21T16:02:37.720Z",
+      "processed_at": "2026-04-21",
+      "status": "applied",
+      "note": "Reworded prompt to cite Popova's article by its full title ('Why the Orange Revolution Was Short and Peaceful and Euromaidan Long and Violent') and identify it as an article. Embedded general rule about citing books/articles by title added to scripts/qa_review_prompts.md and scripts/README.md."
+    },
+    {
+      "id": "6de8acc6",
+      "question_id": "pt_0073",
+      "submitted_at": "2026-04-21T16:00:42.282Z",
+      "processed_at": "2026-04-21",
+      "status": "applied",
+      "note": "Difficulty very_hard -> medium per JGM."
+    },
+    {
+      "id": "85f1535d",
+      "question_id": "pt_0064",
+      "submitted_at": "2026-04-21T15:59:57.952Z",
+      "processed_at": "2026-04-21",
+      "status": "applied",
+      "note": "Difficulty very_hard -> medium per JGM (calibrated to current distractors)."
+    },
+    {
+      "id": "4b69c4c5",
+      "question_id": "pt_0054",
+      "submitted_at": "2026-04-21T15:58:57.022Z",
+      "processed_at": "2026-04-21",
+      "status": "applied",
+      "note": "Reworked: prompt shifted to comparative framing of the two systems; correct answer now emphasizes that both were formally semi-presidential and Yeltsin remained politically weak through the 1990s; new distractor added and notes rewritten to reflect these corrections."
+    },
+    {
+      "id": "ea7c9379",
+      "question_id": "pt_0056",
+      "submitted_at": "2026-04-21T15:56:07.411Z",
+      "processed_at": "2026-04-21",
+      "status": "applied",
+      "note": "Difficulty very_hard -> hard per JGM."
+    },
+    {
+      "id": "f3c65b54",
+      "question_id": "pt_0021",
+      "submitted_at": "2026-04-21T15:54:50.924Z",
+      "processed_at": "2026-04-21",
+      "status": "applied",
+      "note": "Difficulty easy -> medium per JGM."
+    },
+    {
+      "id": "1ff81cf3",
+      "question_id": "pt_0004",
+      "submitted_at": "2026-04-21T15:54:30.967Z",
+      "processed_at": "2026-04-21",
+      "status": "applied",
+      "note": "Difficulty easy -> medium per JGM."
+    },
+    {
+      "id": "2fbfb409",
+      "question_id": "pt_0025",
+      "submitted_at": "2026-04-21T15:51:42.371Z",
+      "processed_at": "2026-04-21",
+      "status": "applied",
+      "note": "Difficulty easy -> medium per JGM."
+    },
+    {
+      "id": "92c755b0",
+      "question_id": "et_0001",
+      "submitted_at": "2026-04-21T15:50:42.638Z",
+      "processed_at": "2026-04-21",
+      "status": "applied",
+      "note": "Softened the Washington Consensus distractor's note to clarify it as the broader late-1980s package rather than Russia's specific reform label; explanation now notes 'shock therapy' was largely a critic's label rather than the reformers' preferred term."
+    },
+    {
+      "id": "d34b7be4",
+      "question_id": "et_0051",
+      "submitted_at": "2026-04-21T15:47:39.880Z",
+      "processed_at": "2026-04-21",
+      "status": "applied",
+      "note": "Difficulty easy -> medium per JGM."
+    },
+    {
+      "id": "6005e670",
+      "question_id": "et_0035",
+      "submitted_at": "2026-04-21T15:47:17.415Z",
+      "processed_at": "2026-04-21",
+      "status": "applied",
+      "note": "Difficulty easy -> medium per JGM (calibrated to current distractors, all of which refer to market-economy concepts)."
+    },
+    {
+      "id": "9bc97ce3",
+      "question_id": "et_0021",
+      "submitted_at": "2026-04-21T15:45:41.271Z",
+      "processed_at": "2026-04-21",
+      "status": "applied",
+      "note": "Difficulty easy -> medium per JGM."
+    },
+    {
+      "id": "29bdb9ee",
+      "question_id": "et_0031",
+      "submitted_at": "2026-04-21T15:44:26.864Z",
+      "processed_at": "2026-04-21",
+      "status": "applied",
+      "note": "Difficulty easy -> medium per JGM."
+    },
+    {
+      "id": "a1ca784e",
+      "question_id": "et_0051",
+      "submitted_at": "2026-04-21T14:31:27.960Z",
+      "processed_at": "2026-04-21",
+      "status": "applied",
+      "note": "Duplicate of d34b7be4 — same difficulty change."
+    },
+    {
+      "id": "697de4f7",
+      "question_id": "et_0043",
+      "submitted_at": "2026-04-21T12:47:28.833Z",
+      "processed_at": "2026-04-21",
+      "status": "applied",
+      "note": "Difficulty medium -> hard per JGM."
+    },
+    {
+      "id": "92c55113",
+      "question_id": "et_0059",
+      "submitted_at": "2026-04-21T12:46:32.878Z",
+      "processed_at": "2026-04-21",
+      "status": "applied",
+      "note": "Rewrote explanation to emphasize that the defining feature of many 2010s tycoons was personal proximity to Putin (not just state linkage, which also described 1990s oligarchs)."
+    },
+    {
+      "id": "de00d46e",
+      "question_id": "et_0021",
+      "submitted_at": "2026-04-21T12:44:05.310Z",
+      "processed_at": "2026-04-21",
+      "status": "applied",
+      "note": "Duplicate of 9bc97ce3 — same difficulty change."
+    },
+    {
+      "id": "4cf5a44b",
+      "question_id": "et_0035",
+      "submitted_at": "2026-04-21T12:42:48.816Z",
+      "processed_at": "2026-04-21",
+      "status": "applied",
+      "note": "Earlier 'should be hard' feedback — user later revised (6005e670) to medium given current distractors. Applied the later revision."
+    },
+    {
+      "id": "a157e6f5",
+      "question_id": "fp_0053",
+      "submitted_at": "2026-04-21T12:41:58.097Z",
+      "processed_at": "2026-04-21",
+      "status": "applied",
+      "note": "Difficulty easy -> medium per JGM."
+    },
+    {
+      "id": "ffb0edd7",
+      "question_id": "fp_0053",
+      "submitted_at": "2026-04-21T12:41:53.398Z",
+      "processed_at": "2026-04-21",
+      "status": "applied",
+      "note": "Duplicate of a157e6f5 — same difficulty change."
+    },
+    {
+      "id": "5579f59b",
+      "question_id": "fp_0057",
+      "submitted_at": "2026-04-21T12:39:44.348Z",
+      "processed_at": "2026-04-21",
+      "status": "applied",
+      "note": "Difficulty easy -> hard per JGM."
+    },
+    {
+      "id": "8054450e",
+      "question_id": "fp_0041",
+      "submitted_at": "2026-04-21T12:38:45.819Z",
+      "processed_at": "2026-04-21",
+      "status": "applied",
+      "note": "Difficulty easy -> hard per JGM."
+    },
+    {
+      "id": "3fa1ea1d",
+      "question_id": "fp_0049",
+      "submitted_at": "2026-04-21T12:37:02.987Z",
+      "processed_at": "2026-04-21",
+      "status": "applied",
+      "note": "Difficulty easy -> medium per JGM."
+    },
+    {
+      "id": "67888022",
+      "question_id": "fp_0032",
+      "submitted_at": "2026-04-21T12:35:34.539Z",
+      "processed_at": "2026-04-21",
+      "status": "applied",
+      "note": "Difficulty easy -> hard per JGM ('medium/hard' — picked hard)."
     }
   ]
 }

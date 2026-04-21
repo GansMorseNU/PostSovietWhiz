@@ -29,7 +29,7 @@
         }
       ],
       "explanation": "In October 1993, a constitutional crisis between President Yeltsin and the Russian parliament escalated into an armed confrontation. Yeltsin ordered the military to shell the White House (parliament building), defeating his opponents. This cleared the way for a new constitution with strong presidential powers, which critics argue planted the seeds for later authoritarianism.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "era": "1990s",
       "country": "russia",
       "tags": [
@@ -41,7 +41,7 @@
       "sources": [
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-20"
+      "last_reviewed_date": "2026-04-21"
     },
     {
       "id": "pt_0002",
@@ -155,7 +155,7 @@
         }
       ],
       "explanation": "The Euromaidan protests began on November 21, 2013, after Yanukovych suspended preparations for signing the EU Association Agreement under heavy pressure from Russia. What started as a pro-EU rally grew into a broader movement against corruption and authoritarian governance, culminating in Yanukovych's ouster in February 2014.",
-      "difficulty": "easy",
+      "difficulty": "medium",
       "era": "2010s_plus",
       "country": "ukraine",
       "tags": [
@@ -167,7 +167,7 @@
       "sources": [
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-20"
+      "last_reviewed_date": "2026-04-21"
     },
     {
       "id": "pt_0005",
@@ -285,7 +285,7 @@
         }
       ],
       "explanation": "Steven Levitsky and Lucan Way used the term 'competitive authoritarianism' for regimes that retain elections and other democratic institutions but manipulate them so systematically that incumbents enjoy overwhelming advantages. Russia under Putin has often been analyzed through this lens, especially as independent media and opposition politics narrowed.",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "era": "2000s",
       "country": "both",
       "tags": [
@@ -298,7 +298,7 @@
         "Course lectures",
         "Levitsky and Way, Competitive Authoritarianism"
       ],
-      "last_reviewed_date": "2026-04-20"
+      "last_reviewed_date": "2026-04-21"
     },
     {
       "id": "pt_0008",
@@ -412,7 +412,7 @@
         }
       ],
       "explanation": "Ukraine's politics were often messy and heavily influenced by oligarchs, but power was dispersed across regions, business groups, and institutions in ways that made full recentralization difficult. Russia, by contrast, saw the Kremlin consolidate authority more successfully in the 2000s through media control, regional recentralization, and tighter management of party competition. Electoral rules varied in both countries and were not irrelevant, but they were secondary to these broader differences in how political and economic power was organized.",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "era": "2000s",
       "country": "both",
       "tags": [
@@ -425,7 +425,7 @@
         "Course lectures",
         "Popova and Shevel, Russia and Ukraine: Entangled Histories, Diverging States"
       ],
-      "last_reviewed_date": "2026-04-20"
+      "last_reviewed_date": "2026-04-21"
     },
     {
       "id": "pt_0011",
@@ -627,7 +627,7 @@
         }
       ],
       "explanation": "Way's argument is that pluralism in Ukraine often survived less because elites were committed democrats than because state institutions and ruling parties were too weak to shut opponents out. Kravchuk's inability to control the administrative apparatus or coercive institutions made a peaceful electoral defeat possible in 1994.",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "era": "1990s",
       "era_filter_visibility": [
         "soviet",
@@ -644,7 +644,7 @@
         "Course lectures",
         "Way, Pluralism by Default"
       ],
-      "last_reviewed_date": "2026-04-20"
+      "last_reviewed_date": "2026-04-21"
     },
     {
       "id": "pt_0016",
@@ -888,7 +888,7 @@
         }
       ],
       "explanation": "On December 3, 2004, the Supreme Court ruled that fraud in the runoff had been too extensive to determine a legitimate winner and ordered a new vote. That legal resolution helped prevent a more violent outcome and gave the Orange Revolution an institutional path to victory.",
-      "difficulty": "easy",
+      "difficulty": "medium",
       "era": "2000s",
       "country": "ukraine",
       "tags": [
@@ -901,7 +901,7 @@
         "Course lectures",
         "Karatnycky, Ukraine's Orange Revolution"
       ],
-      "last_reviewed_date": "2026-04-20"
+      "last_reviewed_date": "2026-04-21"
     },
     {
       "id": "pt_0023",
@@ -1017,7 +1017,7 @@
         }
       ],
       "explanation": "By undoing the Orange-era constitutional balance, Yanukovych regained powers that had previously been shifted toward parliament and the prime minister. Combined with control over the courts and a disciplined Party of Regions machine, this helped him bring Ukraine closer to competitive authoritarian rule.",
-      "difficulty": "easy",
+      "difficulty": "medium",
       "era": "2010s_plus",
       "country": "ukraine",
       "tags": [
@@ -1030,7 +1030,7 @@
         "Course lectures",
         "Way, Pluralism by Default"
       ],
-      "last_reviewed_date": "2026-04-20"
+      "last_reviewed_date": "2026-04-21"
     },
     {
       "id": "pt_0026",
@@ -1358,7 +1358,7 @@
         }
       ],
       "explanation": "Over 92% of voters supported Ukrainian independence in the December 1, 1991 referendum, with turnout above 84%. Notably, every region of Ukraine voted in favor, including Crimea (54%) and eastern regions with large Russian-speaking populations. This result was pivotal in convincing Yeltsin that the Soviet Union could not continue without Ukraine.",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "era": "soviet",
       "country": "ukraine",
       "tags": [
@@ -1370,7 +1370,7 @@
       "sources": [
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-20"
+      "last_reviewed_date": "2026-04-21"
     },
     {
       "id": "pt_0034",
@@ -1525,7 +1525,7 @@
         }
       ],
       "explanation": "Gorbachev's proposed New Union Treaty was intended to preserve the Soviet Union in a much looser form by granting the republics greater autonomy while keeping a shared federal framework. Hardliners viewed it as the effective dismantling of the USSR and launched the August 1991 coup on the eve of its planned signing.",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "era": "soviet",
       "country": "both",
       "tags": [
@@ -1537,7 +1537,7 @@
       "sources": [
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-20"
+      "last_reviewed_date": "2026-04-21"
     },
     {
       "id": "pt_0038",
@@ -1647,10 +1647,10 @@
         {
           "text": "The Washington Consensus",
           "correct": false,
-          "note": "The Washington Consensus was the broader set of free-market policy recommendations from international institutions, not the specific name for Russia's reform approach."
+          "note": "The Washington Consensus was the broader late-1980s package of free-market policy recommendations from the IMF, World Bank, and U.S. Treasury. Russia's 1992 reforms drew on some of those ideas, but 'shock therapy' names the specific sudden-liberalization approach applied in Russia — not the broader consensus."
         }
       ],
-      "explanation": "Shock therapy, implemented under Prime Minister Yegor Gaidar, involved the sudden liberalization of prices, removal of trade barriers, and rapid privatization. While it aimed to quickly create market institutions, it also caused severe inflation, a collapse in living standards, and a dramatic economic contraction in the early 1990s.",
+      "explanation": "The 1992 reforms, implemented under Prime Minister Yegor Gaidar, involved sudden price liberalization, the removal of trade barriers, and rapid privatization. 'Shock therapy' was a label used largely by critics; the reformers themselves tended to frame the program as rapid market liberalization rather than adopt the 'shock' framing. In the event, the reforms aimed to create market institutions quickly but also produced severe inflation, a collapse in living standards, and a dramatic economic contraction.",
       "difficulty": "easy",
       "era": "1990s",
       "country": "russia",
@@ -1663,7 +1663,7 @@
       "sources": [
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-20"
+      "last_reviewed_date": "2026-04-21"
     },
     {
       "id": "et_0002",
@@ -2500,7 +2500,7 @@
         }
       ],
       "explanation": "The flat tax became famous because it symbolized a broader push to simplify taxation and improve compliance. It was part of a wider effort to rebuild fiscal capacity after the weak tax collection of the 1990s.",
-      "difficulty": "easy",
+      "difficulty": "medium",
       "era": "2000s",
       "country": "russia",
       "tags": [
@@ -2513,7 +2513,7 @@
         "Course lectures",
         "Treisman, The Return"
       ],
-      "last_reviewed_date": "2026-04-20"
+      "last_reviewed_date": "2026-04-21"
     },
     {
       "id": "et_0022",
@@ -3013,7 +3013,7 @@
         }
       ],
       "explanation": "In 'Why the Ukraine Crisis Is the West's Fault' (Foreign Affairs, 2014), Mearsheimer argued from a realist perspective that NATO and EU expansion into Russia's sphere of influence provoked Moscow's aggressive response. His argument generated major debate, with critics contending it ignored Ukrainian agency and Russian revisionism.",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "era": "2010s_plus",
       "era_filter_visibility": [
         "2000s",
@@ -3029,7 +3029,7 @@
       "sources": [
         "Mearsheimer, 'Why the Ukraine Crisis Is the West's Fault', Foreign Affairs, 2014"
       ],
-      "last_reviewed_date": "2026-04-20"
+      "last_reviewed_date": "2026-04-21"
     },
     {
       "id": "fp_0004",
@@ -4342,7 +4342,7 @@
         }
       ],
       "explanation": "The Soviet Union had built an enormous industrial base, including defense-linked production, but was weak in services and consumer-oriented sectors. That structure made rapid adaptation to open competition especially difficult after the collapse.",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "era": "soviet",
       "country": "both",
       "tags": [
@@ -4354,7 +4354,7 @@
       "sources": [
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-20"
+      "last_reviewed_date": "2026-04-21"
     },
     {
       "id": "et_0035",
@@ -4384,7 +4384,7 @@
         }
       ],
       "explanation": "Soft budget constraints encouraged firms to lobby for state support rather than restructure. This legacy mattered after 1991 because many enterprises and politicians still expected credits, subsidies, and tolerance of arrears instead of hard market discipline.",
-      "difficulty": "easy",
+      "difficulty": "medium",
       "era": "soviet",
       "country": "both",
       "tags": [
@@ -4396,7 +4396,7 @@
       "sources": [
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-20"
+      "last_reviewed_date": "2026-04-21"
     },
     {
       "id": "et_0036",
@@ -4681,7 +4681,7 @@
         }
       ],
       "explanation": "GKOs helped the government postpone a harder fiscal reckoning, but they also increased fragility because the state depended on continued confidence and refinancing. When external shocks hit and confidence collapsed, the system unraveled quickly.",
-      "difficulty": "hard",
+      "difficulty": "very_hard",
       "era": "1990s",
       "country": "russia",
       "tags": [
@@ -4694,7 +4694,7 @@
         "Course lectures",
         "Treisman, The Return"
       ],
-      "last_reviewed_date": "2026-04-20"
+      "last_reviewed_date": "2026-04-21"
     },
     {
       "id": "et_0043",
@@ -4724,7 +4724,7 @@
         }
       ],
       "explanation": "Official unemployment understated the crisis because many workers remained attached to struggling enterprises while receiving late, partial, or no pay. This was one way the transition's social costs were obscured in official statistics.",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "era": "1990s",
       "country": "ukraine",
       "tags": [
@@ -5020,7 +5020,7 @@
         }
       ],
       "explanation": "The Yukos case became a powerful signal that the rules of capitalism had changed under Putin. Wealthy business actors could remain rich, but not as autonomous political forces capable of challenging the Kremlin.",
-      "difficulty": "very_hard",
+      "difficulty": "medium",
       "era": "2000s",
       "country": "russia",
       "tags": [
@@ -5032,7 +5032,7 @@
       "sources": [
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-20"
+      "last_reviewed_date": "2026-04-21"
     },
     {
       "id": "et_0051",
@@ -5062,7 +5062,7 @@
         }
       ],
       "explanation": "WTO accession was a meaningful liberalizing step, but it did not by itself solve Ukraine's deeper problems of institutional weakness, export concentration, and oligarchic influence.",
-      "difficulty": "easy",
+      "difficulty": "medium",
       "era": "2000s",
       "country": "ukraine",
       "tags": [
@@ -5074,7 +5074,7 @@
       "sources": [
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-20"
+      "last_reviewed_date": "2026-04-21"
     },
     {
       "id": "et_0052",
@@ -5189,7 +5189,7 @@
         }
       ],
       "explanation": "The comparison helps explain why the two systems could both be capitalist yet work differently. Russia became more vertically controlled, whereas Ukraine retained a more openly competitive and politically visible oligarchic pluralism.",
-      "difficulty": "very_hard",
+      "difficulty": "hard",
       "era": "2000s",
       "country": "both",
       "tags": [
@@ -5201,7 +5201,7 @@
       "sources": [
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-20"
+      "last_reviewed_date": "2026-04-21"
     },
     {
       "id": "et_0055",
@@ -5357,7 +5357,7 @@
         }
       ],
       "explanation": "The point matters because continuity remained strong in metals, chemicals, agriculture, and inherited structures. A visible tech sector suggests partial change in economic composition, even if it does not erase older constraints.",
-      "difficulty": "very_hard",
+      "difficulty": "hard",
       "era": "2010s_plus",
       "country": "ukraine",
       "tags": [
@@ -5369,7 +5369,7 @@
       "sources": [
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-20"
+      "last_reviewed_date": "2026-04-21"
     },
     {
       "id": "et_0059",
@@ -5398,7 +5398,7 @@
           "note": "The 2010s Russian political economy was not characterized by egalitarian worker ownership."
         }
       ],
-      "explanation": "These figures differed from the classic 1990s tycoon-bankers. In the later system, access to state contracts, pipelines, banks, and political patronage became especially important routes to wealth.",
+      "explanation": "The defining feature of many 2010s Russian fortunes was not simply reliance on the state — 1990s oligarchs also depended on state-linked deals — but personal proximity to Putin himself. Many of the most prominent new tycoons were longtime acquaintances of his (from St. Petersburg, the security services, or earlier business ties), and their fortunes grew through preferential access to state contracts, pipelines, banks, and political patronage.",
       "difficulty": "easy",
       "era": "2010s_plus",
       "country": "russia",
@@ -5411,7 +5411,7 @@
       "sources": [
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-20"
+      "last_reviewed_date": "2026-04-21"
     },
     {
       "id": "et_0060",
@@ -5989,7 +5989,7 @@
         }
       ],
       "explanation": "The constitution emerged directly from the 1993 crisis and encoded a powerful presidency. Many analysts see it as a key institutional foundation for the later centralization of Russian politics.",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "era": "1990s",
       "country": "russia",
       "tags": [
@@ -6002,7 +6002,7 @@
         "Course lectures",
         "Daniel Treisman, The Return: Russia's Journey from Gorbachev to Medvedev"
       ],
-      "last_reviewed_date": "2026-04-20"
+      "last_reviewed_date": "2026-04-21"
     },
     {
       "id": "pt_0051",
@@ -6055,7 +6055,7 @@
       "prompt": "What made Tatarstan an emblem of Russia's asymmetrical federalism in the 1990s?",
       "choices": [
         {
-          "text": "It negotiated a special bilateral treaty with Moscow that granted it more autonomy than most other regions",
+          "text": "Its 1994 bilateral treaty went further than Moscow's deals with other regions, recognizing Tatarstan's claims to sovereignty and control over its own budget, taxes, and natural resources",
           "correct": true
         },
         {
@@ -6074,7 +6074,7 @@
           "note": "The distinctive feature was its treaty-based autonomy, not exclusive access to elections."
         }
       ],
-      "explanation": "Asymmetrical federalism meant some regions could extract special deals from the center. Tatarstan became the classic example because its autonomy arrangement highlighted how uneven center-periphery bargaining had become in the Yeltsin era.",
+      "explanation": "Yeltsin signed bilateral power-sharing treaties with dozens of regions in the 1990s, but Tatarstan's 1994 treaty was the most far-reaching. It acknowledged Tatarstan as a state \"associated with\" Russia, handed it substantial fiscal powers, and gave it control over key economic assets. That made it the signature case of asymmetrical federalism, where some regions extracted much better deals than others.",
       "difficulty": "hard",
       "era": "1990s",
       "country": "russia",
@@ -6087,7 +6087,7 @@
       "sources": [
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-20"
+      "last_reviewed_date": "2026-04-21"
     },
     {
       "id": "pt_0053",
@@ -6137,16 +6137,16 @@
       "category": "political_transitions",
       "subcategory": "political_transitions",
       "type": "multiple_choice",
-      "prompt": "By the end of the 1990s, which institutional contrast most clearly separated Russia's and Ukraine's executive systems?",
+      "prompt": "By the end of the 1990s, which statement best characterized Russia's and Ukraine's executive systems?",
       "choices": [
         {
-          "text": "Russia had entrenched a more superpresidential system, while Ukraine's presidency operated in a more negotiated environment with stronger parliamentary and regional counterweights",
+          "text": "Both were formally semi-presidential, but Russia's 1993 constitution gave the presidency markedly stronger formal powers on paper, even though Yeltsin's actual political authority remained constrained throughout the decade",
           "correct": true
         },
         {
-          "text": "Russia had become a parliamentary monarchy, while Ukraine had abolished its presidency",
+          "text": "Yeltsin had already centralized power to a degree comparable with Putin's later system, while Kuchma's presidency in Ukraine remained essentially ceremonial",
           "correct": false,
-          "note": "Neither state had moved in that direction."
+          "note": "Through the end of the 1990s Yeltsin was politically weak — arguably weaker than Kuchma — and centralized presidential power in Russia was a 2000s development under Putin."
         },
         {
           "text": "Russia had no meaningful federal institutions, while Ukraine was formally a federation of republics",
@@ -6156,10 +6156,10 @@
         {
           "text": "Both countries had converged on nearly identical party systems and executive-legislative relations",
           "correct": false,
-          "note": "Their institutional trajectories diverged sharply."
+          "note": "Their institutional trajectories diverged, even though both were formally semi-presidential on paper."
         }
       ],
-      "explanation": "This divergence helped shape later regime outcomes. Russia's stronger presidential architecture made recentralization easier, while Ukraine's messier institutional balance created more room for elite contestation and alternation.",
+      "explanation": "Russia and Ukraine were both formally semi-presidential systems after their mid-1990s constitutions, but Russia's 1993 text assigned the presidency notably stronger formal powers. In practice, Yeltsin's authority was limited through the 1990s — bargaining with regional governors, the Duma, and oligarchs — and recentralization is a Putin-era phenomenon. The contrast that mattered was the design of the constitutional framework, not the raw strength of the person in office.",
       "difficulty": "very_hard",
       "era": "1990s",
       "country": "both",
@@ -6173,7 +6173,7 @@
         "Course lectures",
         "Maria Popova & Oxana Shevel, Russia and Ukraine: Entangled Histories, Diverging States"
       ],
-      "last_reviewed_date": "2026-04-20"
+      "last_reviewed_date": "2026-04-21"
     },
     {
       "id": "pt_0055",
@@ -6203,7 +6203,7 @@
         }
       ],
       "explanation": "Crimea showed that Ukraine's regional politics were not only about elections; they also involved institutional questions of autonomy, identity, and control over territory. Kyiv ultimately kept Crimea inside a unitary state but never fully eliminated the issue.",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "era": "1990s",
       "country": "ukraine",
       "tags": [
@@ -6216,7 +6216,7 @@
         "Course lectures",
         "Maria Popova & Oxana Shevel, Russia and Ukraine: Entangled Histories, Diverging States"
       ],
-      "last_reviewed_date": "2026-04-20"
+      "last_reviewed_date": "2026-04-21"
     },
     {
       "id": "pt_0056",
@@ -6246,7 +6246,7 @@
         }
       ],
       "explanation": "The distinction mattered for later institutional development. Russia's problem was heavily about federal bargaining with strong regional units, while Ukraine's was more about how regional identity and local power affected a unitary state.",
-      "difficulty": "very_hard",
+      "difficulty": "hard",
       "era": "1990s",
       "country": "both",
       "tags": [
@@ -6259,7 +6259,7 @@
         "Course lectures",
         "Maria Popova & Oxana Shevel, Russia and Ukraine: Entangled Histories, Diverging States"
       ],
-      "last_reviewed_date": "2026-04-20"
+      "last_reviewed_date": "2026-04-21"
     },
     {
       "id": "pt_0057",
@@ -6375,7 +6375,7 @@
         }
       ],
       "explanation": "The case against Mikhail Khodorkovsky helped redefine the terms of elite politics in Putin's Russia. Wealth alone was not the issue; the key point was that independent political influence outside Kremlin control had become dangerous.",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "era": "2000s",
       "country": "russia",
       "tags": [
@@ -6388,7 +6388,7 @@
         "Course lectures",
         "Daniel Treisman, The Return: Russia's Journey from Gorbachev to Medvedev"
       ],
-      "last_reviewed_date": "2026-04-20"
+      "last_reviewed_date": "2026-04-21"
     },
     {
       "id": "pt_0060",
@@ -6503,7 +6503,7 @@
         }
       ],
       "explanation": "The coalition underscored how fluid Ukrainian parliamentary alignments could be. It also demonstrated that the Orange camp had not created a stable, unified post-revolutionary governing bloc.",
-      "difficulty": "hard",
+      "difficulty": "very_hard",
       "era": "2000s",
       "country": "ukraine",
       "tags": [
@@ -6516,7 +6516,7 @@
         "Course lectures",
         "Lucan Way, Pluralism by Default"
       ],
-      "last_reviewed_date": "2026-04-20"
+      "last_reviewed_date": "2026-04-21"
     },
     {
       "id": "pt_0063",
@@ -6540,13 +6540,13 @@
           "note": "There was no such ban."
         },
         {
-          "text": "Because voters consistently outlawed pro-government parties through national referendums",
+          "text": "Because tax and registration rules favored newly created parties, making rebranding cheaper than sustaining an existing organization",
           "correct": false,
-          "note": "The turnover reflected elite strategy and weak institutionalization, not referendum bans."
+          "note": "Registration rules did not actively reward relaunches; the turnover reflected elite strategy and weak institutionalization, not regulatory incentives."
         }
       ],
       "explanation": "The repeated rebranding showed that these parties were often instruments of the executive, not independent organizations with loyal memberships and clear ideologies. United Russia later mattered because it gave that project a more durable shell.",
-      "difficulty": "very_hard",
+      "difficulty": "hard",
       "era": "2000s",
       "country": "russia",
       "tags": [
@@ -6559,7 +6559,7 @@
         "Course lectures",
         "Daniel Treisman, The Return: Russia's Journey from Gorbachev to Medvedev"
       ],
-      "last_reviewed_date": "2026-04-20"
+      "last_reviewed_date": "2026-04-21"
     },
     {
       "id": "pt_0064",
@@ -6589,7 +6589,7 @@
         }
       ],
       "explanation": "This contrast helps explain broader regime divergence. Putin's Russia increasingly subordinated regional elites to the center, while Ukraine's fragmented competition kept regional machines relevant to national politics.",
-      "difficulty": "very_hard",
+      "difficulty": "medium",
       "era": "2000s",
       "country": "both",
       "tags": [
@@ -6602,7 +6602,7 @@
         "Course lectures",
         "Maria Popova & Oxana Shevel, Russia and Ukraine: Entangled Histories, Diverging States"
       ],
-      "last_reviewed_date": "2026-04-20"
+      "last_reviewed_date": "2026-04-21"
     },
     {
       "id": "pt_0065",
@@ -6632,7 +6632,7 @@
         }
       ],
       "explanation": "The contrast was not simply authoritarian versus democratic. It also involved how political organization worked: Russia increasingly fused party and executive power, whereas Ukraine's competition remained fragmented and less monopolized.",
-      "difficulty": "very_hard",
+      "difficulty": "hard",
       "era": "2000s",
       "country": "both",
       "tags": [
@@ -6645,7 +6645,7 @@
         "Course lectures",
         "Maria Popova & Oxana Shevel, Russia and Ukraine: Entangled Histories, Diverging States"
       ],
-      "last_reviewed_date": "2026-04-20"
+      "last_reviewed_date": "2026-04-21"
     },
     {
       "id": "pt_0066",
@@ -6888,7 +6888,7 @@
         }
       ],
       "explanation": "Earlier Ukrainian politics often revolved around a durable east-west cleavage, but 2014 changed the geography of competition. Territorial loss, war, and party-system change made the old map less predictive than it had once been.",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "era": "2010s_plus",
       "country": "both",
       "tags": [
@@ -6901,14 +6901,14 @@
         "Course lectures",
         "Maria Popova & Oxana Shevel, Russia and Ukraine: Entangled Histories, Diverging States"
       ],
-      "last_reviewed_date": "2026-04-20"
+      "last_reviewed_date": "2026-04-21"
     },
     {
       "id": "pt_0072",
       "category": "political_transitions",
       "subcategory": "political_transitions",
       "type": "multiple_choice",
-      "prompt": "In Maria Popova's comparison of Ukraine's two major protest waves, what best explains why the Orange Revolution was shorter and less violent than Euromaidan?",
+      "prompt": "In her article 'Why the Orange Revolution Was Short and Peaceful and Euromaidan Long and Violent,' Maria Popova argues that the key reason for the contrast between Ukraine's two protest waves was:",
       "choices": [
         {
           "text": "In Popova's account, the 2004 regime fragmented and hesitated earlier, while by 2013-2014 the state had a more cohesive coercive apparatus and used force more aggressively",
@@ -6948,7 +6948,7 @@
         "Maria Popova, Why the Orange Revolution Was Short and Peaceful and Euromaidan Long and Violent",
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-20"
+      "last_reviewed_date": "2026-04-21"
     },
     {
       "id": "pt_0073",
@@ -6978,7 +6978,7 @@
         }
       ],
       "explanation": "The contrast is a central comparative theme. Russia continued to centralize authority around a narrow executive core, while Ukraine remained more electorally open and institutionally plural even under severe external pressure.",
-      "difficulty": "very_hard",
+      "difficulty": "medium",
       "era": "2010s_plus",
       "country": "both",
       "tags": [
@@ -6991,7 +6991,7 @@
         "Course lectures",
         "Maria Popova & Oxana Shevel, Russia and Ukraine: Entangled Histories, Diverging States"
       ],
-      "last_reviewed_date": "2026-04-20"
+      "last_reviewed_date": "2026-04-21"
     },
     {
       "id": "fp_0032",
@@ -7021,7 +7021,7 @@
         }
       ],
       "explanation": "The INF Treaty was the first arms-control agreement to abolish an entire class of nuclear missiles rather than just cap numbers. It required both sides to eliminate all ground-launched ballistic and cruise missiles with ranges of 500 to 5,500 kilometers, and it included intrusive verification measures that helped build confidence late in the Cold War.",
-      "difficulty": "easy",
+      "difficulty": "hard",
       "era": "soviet",
       "country": "both",
       "tags": [
@@ -7033,7 +7033,7 @@
       "sources": [
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-20"
+      "last_reviewed_date": "2026-04-21"
     },
     {
       "id": "fp_0033",
@@ -7273,7 +7273,7 @@
         }
       ],
       "explanation": "CFE aimed to reduce the risk of large-scale conventional war in Europe by capping heavy weapons on both sides of the old NATO-Warsaw Pact divide. Because the Soviet side had more equipment to cut, the treaty required much larger Soviet reductions than NATO reductions.",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "era": "soviet",
       "country": "both",
       "tags": [
@@ -7285,7 +7285,7 @@
       "sources": [
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-20"
+      "last_reviewed_date": "2026-04-21"
     },
     {
       "id": "fp_0039",
@@ -7399,7 +7399,7 @@
         }
       ],
       "explanation": "START II was aimed especially at reducing destabilizing MIRVed ICBMs, which could make a first strike more tempting in crisis conditions. Although signed in 1993, the treaty never entered into force and later collapsed in the context of wider disputes, including over the ABM Treaty.",
-      "difficulty": "easy",
+      "difficulty": "hard",
       "era": "1990s",
       "country": "both",
       "tags": [
@@ -7411,7 +7411,7 @@
       "sources": [
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-20"
+      "last_reviewed_date": "2026-04-21"
     },
     {
       "id": "fp_0042",
@@ -7525,7 +7525,7 @@
         }
       ],
       "explanation": "GUAM reflected the search by several post-Soviet states for cooperation that was less dependent on Moscow. Shared worries about separatist conflicts and energy-transport corridors helped give the grouping its strategic logic.",
-      "difficulty": "hard",
+      "difficulty": "very_hard",
       "era": "1990s",
       "country": "both",
       "tags": [
@@ -7537,7 +7537,7 @@
       "sources": [
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-20"
+      "last_reviewed_date": "2026-04-21"
     },
     {
       "id": "fp_0045",
@@ -7651,7 +7651,7 @@
         }
       ],
       "explanation": "NACC was one of the first institutions created to manage dialogue between NATO and the former communist world after the Cold War. It later gave way to broader partnership frameworks as post-Soviet security debates evolved.",
-      "difficulty": "hard",
+      "difficulty": "very_hard",
       "era": "1990s",
       "country": "both",
       "tags": [
@@ -7663,7 +7663,7 @@
       "sources": [
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-20"
+      "last_reviewed_date": "2026-04-21"
     },
     {
       "id": "fp_0048",
@@ -7735,7 +7735,7 @@
         }
       ],
       "explanation": "BTC became a symbol of the 'new Great Game' over energy routes after the Soviet collapse. By bypassing Russia, it reduced Moscow's leverage over at least one major export corridor from the Caspian region.",
-      "difficulty": "easy",
+      "difficulty": "medium",
       "era": "2000s",
       "country": "both",
       "tags": [
@@ -7747,7 +7747,7 @@
       "sources": [
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-20"
+      "last_reviewed_date": "2026-04-21"
     },
     {
       "id": "fp_0050",
@@ -7819,7 +7819,7 @@
         }
       ],
       "explanation": "The Eastern Partnership gave six post-Soviet states a structured framework for closer relations with the EU. It did not promise membership, but it mattered strategically because it offered an alternative pole of integration to Russian-led regional projects.",
-      "difficulty": "hard",
+      "difficulty": "very_hard",
       "era": "2000s",
       "country": "both",
       "tags": [
@@ -7831,7 +7831,7 @@
       "sources": [
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-20"
+      "last_reviewed_date": "2026-04-21"
     },
     {
       "id": "fp_0052",
@@ -7860,8 +7860,8 @@
           "note": "The doctrine was about Russian great-power claims, not joining the EU."
         }
       ],
-      "explanation": "After the Georgia war, Medvedev articulated a view of Russia as a power with special responsibilities and interests in nearby regions. The formula helped justify a more assertive Russian role in the post-Soviet neighborhood.",
-      "difficulty": "hard",
+      "explanation": "After the Georgia war, Medvedev articulated five principles that together became known as the 'Medvedev Doctrine': the supremacy of international law; a multipolar rather than unipolar world; no isolation or confrontation with other powers; protection of Russian citizens and business interests abroad; and, most controversially, Russia's claim to privileged interests in certain regions, particularly the post-Soviet space. The doctrine helped justify a more assertive Russian role in the neighborhood.",
+      "difficulty": "very_hard",
       "era": "2000s",
       "country": "russia",
       "tags": [
@@ -7873,7 +7873,7 @@
       "sources": [
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-20"
+      "last_reviewed_date": "2026-04-21"
     },
     {
       "id": "fp_0053",
@@ -7903,7 +7903,7 @@
         }
       ],
       "explanation": "SORT represented a significant numerical reduction in deployed strategic warheads, but it was less detailed than earlier START agreements. In practice, it relied heavily on the verification machinery inherited from older arms-control arrangements.",
-      "difficulty": "easy",
+      "difficulty": "medium",
       "era": "2000s",
       "country": "both",
       "tags": [
@@ -7915,7 +7915,7 @@
       "sources": [
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-20"
+      "last_reviewed_date": "2026-04-21"
     },
     {
       "id": "fp_0054",
@@ -8006,7 +8006,7 @@
       "category": "foreign_policy",
       "subcategory": "foreign_policy",
       "type": "multiple_choice",
-      "prompt": "Russia justified suspending its participation in the CFE Treaty in 2007 partly by arguing that:",
+      "prompt": "Russia justified suspending its participation in the Conventional Armed Forces in Europe (CFE) Treaty in 2007 partly by arguing that:",
       "choices": [
         {
           "text": "NATO states had not ratified the adapted CFE Treaty, while Moscow argued the old arrangement no longer fit post-Cold War realities",
@@ -8041,7 +8041,7 @@
       "sources": [
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-20"
+      "last_reviewed_date": "2026-04-21"
     },
     {
       "id": "fp_0057",
@@ -8071,7 +8071,7 @@
         }
       ],
       "explanation": "The Normandy format brought together Ukraine, Russia, Germany, and France to manage diplomacy over the Donbas war. It took its name from the 2014 D-Day commemorations in Normandy, where the grouping first came together.",
-      "difficulty": "easy",
+      "difficulty": "hard",
       "era": "2010s_plus",
       "country": "both",
       "tags": [
@@ -8083,7 +8083,7 @@
       "sources": [
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-20"
+      "last_reviewed_date": "2026-04-21"
     },
     {
       "id": "fp_0058",
@@ -8150,12 +8150,12 @@
           "note": "The formula did not begin with immediate permanent autonomy before elections."
         },
         {
-          "text": "Give temporary special status, hold elections under OSCE monitoring, and make the status permanent if the vote was judged legitimate",
+          "text": "Give the occupied Donbas districts temporary special status within Ukraine, hold local elections there under OSCE monitoring, and make that special status for the districts permanent if the elections were judged legitimate",
           "correct": true
         }
       ],
       "explanation": "The Steinmeier Formula tried to specify how special status and elections in the Donbas might be sequenced. It was highly controversial in Ukraine because many feared that elections held before real security conditions were restored would entrench Russian influence.",
-      "difficulty": "hard",
+      "difficulty": "very_hard",
       "era": "2010s_plus",
       "country": "both",
       "tags": [
@@ -8167,7 +8167,7 @@
       "sources": [
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-20"
+      "last_reviewed_date": "2026-04-21"
     },
     {
       "id": "fp_0060",
