@@ -84,10 +84,10 @@
     ]
   },
   "bank_snapshot": {
-    "question_count": 386,
+    "question_count": 390,
     "as_of": "2026-04-22",
     "recount_command": "python3 -c \"import json,collections; d=json.load(open('content/questions.sample.json')); print(len(d['questions'])); print(collections.Counter(q['category'] for q in d['questions'])); print(collections.Counter(q['era'] for q in d['questions'])); print(collections.Counter(q['difficulty'] for q in d['questions']))\"",
-    "rebalancing_note": "2000s and 2010s_plus are the thinnest eras and should be the focus of future expansion. The final study guide's post-midterm concept list (Tandemocracy, Putinism, Putinomics, Hybrid warfare, Khodorkovsky Affair, Chechenization, Beslan, Moscow apartment bombings, Minsk II, Zelensky's Servant of the People, etc.) is the canonical gap checklist. Batch 5 (2026-04-22) filled midterm-side gaps: Stalinist era (Revolution from Above, First Five-Year Plan, collectivization, Holodomor, Great Purge, Gulag) and core conceptual items (historical materialism, institutional complementarities, illiberal democracy, structural vs contingent, free/fair elections, realism vs liberalism).",
+    "rebalancing_note": "2000s and 2010s_plus are the thinnest eras and should be the focus of future expansion. The final study guide's post-midterm concept list (Tandemocracy, Putinism, Putinomics, Hybrid warfare, Khodorkovsky Affair, Chechenization, Beslan, Moscow apartment bombings, Minsk II, Zelensky's Servant of the People, etc.) is the canonical gap checklist. Batch 5 (2026-04-22) filled midterm-side gaps: Stalinist era (Revolution from Above, First Five-Year Plan, collectivization, Holodomor, Great Purge, Gulag) and core conceptual items (historical materialism, institutional complementarities, illiberal democracy, structural vs contingent, free/fair elections, realism vs liberalism). Batch 5b (2026-04-22) added four late-Soviet midterm items: Democratic Union, neformaly, 1990 Ukrainian SSR Supreme Soviet elections, and the Supreme Soviet of Russia/RSFSR.",
     "game_mode_no_repeat": {
       "status": "implemented",
       "how": "app/src/components/Game.tsx maintains a session-scoped seenIdsRef across levels, passed into gameConfig.ts selectQuestionsForLevel as excludeIds. Session set resets on 'Play again' from the Game Complete screen. Implemented in commit 8ff40d9."

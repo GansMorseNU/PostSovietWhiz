@@ -1,0 +1,177 @@
+{
+  "batch": "5b",
+  "date": "2026-04-22",
+  "scope": "Follow-up to batch 5: 4 late-Soviet midterm study-guide items (Democratic Union, Neformaly, 1990 Ukrainian SSR elections, Supreme Soviet of Russia/RSFSR).",
+  "questions": [
+    {
+      "id": "pt_0146",
+      "category": "political_transitions",
+      "subcategory": "political_transitions",
+      "type": "multiple_choice",
+      "prompt": "The Democratic Union, founded in Moscow in 1988, is notable in the late-Soviet period because it was:",
+      "choices": [
+        {
+          "text": "The first openly oppositional proto-political party in the USSR, founded during glasnost with the declared goals of building a multiparty system and dismantling Soviet rule, and organizing unauthorized demonstrations from the summer of 1988",
+          "correct": true
+        },
+        {
+          "text": "A breakaway faction of the Communist Party of the Soviet Union formed by Gorbachev's allies in 1988 to push perestroika through the Central Committee",
+          "correct": false,
+          "note": "The Democratic Union was explicitly non-Communist and oppositional, not an intra-Party reform faction. Gorbachev's allies worked through the CPSU itself."
+        },
+        {
+          "text": "A coalition of Russian-Orthodox and nationalist groups formed in 1988 to push back against glasnost by demanding a return to Stalinist cultural norms",
+          "correct": false,
+          "note": "The Democratic Union was pro-multiparty-democracy and anti-Soviet — not a conservative-nationalist backlash movement."
+        },
+        {
+          "text": "A post-1991 electoral bloc created by Boris Yeltsin and his advisers to contest the first Russian parliamentary elections after the Soviet collapse",
+          "correct": false,
+          "note": "The Democratic Union predates the Soviet collapse. The post-1991 Yeltsin-aligned electoral vehicle most often identified with this description is Democratic Russia or, later, Russia's Democratic Choice."
+        }
+      ],
+      "explanation": "By spring 1987 glasnost had already permitted 'neformaly' — informal civic associations — to proliferate. The Democratic Union, formed in Moscow in May 1988 by dissidents including Valeria Novodvorskaya, went a step further and explicitly described itself as an opposition political party, not a civic group. That self-description was legally risky while the CPSU still monopolized political activity. The group used illegal street demonstrations as its main tool through 1988-89 and helped normalize open anti-Soviet political activity, clearing the way for the broader Democratic Russia movement and the reform wing of the 1990 RSFSR Congress.",
+      "difficulty": "medium",
+      "era": "soviet",
+      "country": "russia",
+      "tags": [
+        "democratic_union",
+        "glasnost_opposition",
+        "proto_parties",
+        "novodvorskaya"
+      ],
+      "sources": [
+        "Course lectures"
+      ],
+      "last_reviewed_date": "2026-04-22"
+    },
+    {
+      "id": "pt_0147",
+      "category": "political_transitions",
+      "subcategory": "political_transitions",
+      "type": "multiple_choice",
+      "prompt": "In the context of late-Soviet politics, \"neformaly\" refers to:",
+      "choices": [
+        {
+          "text": "Informal civic associations that proliferated from 1987 onward under glasnost — focused on causes such as Stalin-era memory (Memorial), the environment, workers' welfare, and human rights — and that later coalesced into popular fronts and the earliest opposition parties",
+          "correct": true
+        },
+        {
+          "text": "Unaccredited private traders who operated outside state retail networks in the 1970s shadow economy, often dealing in scarce consumer goods",
+          "correct": false,
+          "note": "Those shadow-economy actors are usually called 'spekulyanty' or associated with the broader informal economy of the Brezhnev era — an economic, not civic-political, phenomenon. Neformaly in this course are civic-political groups."
+        },
+        {
+          "text": "Clandestine pro-Western dissident cells active in the late Brezhnev period, most of which were suppressed before Gorbachev took office",
+          "correct": false,
+          "note": "Pre-Gorbachev dissident activity is a separate, more clandestine tradition. Neformaly specifically name the semi-tolerated civic groups that glasnost permitted to operate in the open from 1987 onward."
+        },
+        {
+          "text": "Reform-minded factions inside the CPSU apparatus whose members quietly worked to promote perestroika from within Party institutions",
+          "correct": false,
+          "note": "Neformaly operated outside the CPSU, not inside it. Intra-Party reformers are the category Gorbachev himself belonged to, and are treated as distinct in the lectures."
+        }
+      ],
+      "explanation": "Neformaly (from the Russian for 'informal [groups]') are a pivotal category in the course's account of the Soviet collapse. Glasnost allowed some freedom of association but did not yet permit formal opposition parties; the neformaly filled the space in between. JGM's lectures single out Memorial — initially a commemoration of Stalin's victims, later led by Andrei Sakharov — as a paradigmatic example. Others formed around environmental protection (e.g., against Lake Baikal pollution or nuclear power after Chernobyl), labor rights, and ethnic and religious causes. By 1988 they were organizing across major cities into popular fronts, which in turn supplied candidates and mobilizing capacity for the 1989 USSR and 1990 republic-level elections.",
+      "difficulty": "medium",
+      "era": "soviet",
+      "country": "russia",
+      "tags": [
+        "neformaly",
+        "glasnost_civil_society",
+        "memorial",
+        "popular_fronts"
+      ],
+      "sources": [
+        "Course lectures"
+      ],
+      "last_reviewed_date": "2026-04-22"
+    },
+    {
+      "id": "pt_0148",
+      "category": "political_transitions",
+      "subcategory": "political_transitions",
+      "type": "multiple_choice",
+      "prompt": "What best describes the March 1990 elections to the Supreme Soviet (Verkhovna Rada) of the Ukrainian SSR?",
+      "choices": [
+        {
+          "text": "The first partially competitive legislative elections in Soviet Ukraine: the Democratic Bloc (anchored by Rukh) took roughly a quarter of the seats while Communists retained roughly three-quarters, and reform-minded Communist Leonid Kravchuk was then elected chairman of the new parliament",
+          "correct": true
+        },
+        {
+          "text": "Fully free and fair multiparty elections in which Rukh won an outright majority and immediately declared Ukraine's independence from the USSR",
+          "correct": false,
+          "note": "Rukh and the Democratic Bloc did well but did not win a majority — they took roughly 26 percent. Ukraine's independence declaration came later (August 1991), after the Moscow coup."
+        },
+        {
+          "text": "Single-candidate Communist elections identical in form to all previous Soviet-era ballots, with no opposition participation permitted",
+          "correct": false,
+          "note": "Glasnost-era reforms allowed opposition slates to contest these elections. The Democratic Bloc explicitly ran and took meaningful seat share — a departure from the prior single-candidate pattern."
+        },
+        {
+          "text": "Local elections restricted to the city of Kyiv, without republic-wide significance for the Ukrainian SSR parliament",
+          "correct": false,
+          "note": "These were republic-wide elections for the Ukrainian SSR's Supreme Soviet (the Verkhovna Rada), not a municipal contest."
+        }
+      ],
+      "explanation": "The March 1990 Ukrainian SSR parliamentary elections are a key inflection point in the course's account of Ukraine's divergence from Russia. The Democratic Bloc — a coalition anchored by Rukh, the People's Movement of Ukraine for Perestroika — won roughly a quarter of the seats, concentrated heavily in western Ukraine. The Communist Party retained the majority, but its ranks included reformist currents, and the new parliament elected Leonid Kravchuk (a senior CPSU ideology secretary) as its chairman. Over the next 18 months, that parliament drove the 16 July 1990 Declaration of State Sovereignty, the response to the August 1991 coup, the 24 August 1991 Act of Independence, and the scheduling of the December 1991 independence referendum — all with Kravchuk, not a Rukh outsider, at the helm.",
+      "difficulty": "medium",
+      "era": "soviet",
+      "country": "ukraine",
+      "tags": [
+        "1990_ukrainian_ssr_elections",
+        "democratic_bloc",
+        "rukh",
+        "kravchuk_chairman",
+        "verkhovna_rada"
+      ],
+      "sources": [
+        "Course lectures"
+      ],
+      "last_reviewed_date": "2026-04-22"
+    },
+    {
+      "id": "pt_0149",
+      "category": "political_transitions",
+      "subcategory": "political_transitions",
+      "type": "multiple_choice",
+      "prompt": "The Supreme Soviet of the Russian Federation — successor to the Supreme Soviet of the RSFSR — is best described as:",
+      "choices": [
+        {
+          "text": "A standing parliament of roughly 250 deputies drawn from the larger Congress of People's Deputies, seated in the White House, which under Chairman Ruslan Khasbulatov became Yeltsin's principal institutional rival in 1992-93 and was forcibly dissolved during the October 1993 constitutional crisis",
+          "correct": true
+        },
+        {
+          "text": "The upper chamber of the post-1993 Federal Assembly, representing Russia's regions and replacing the Soviet-era legislature",
+          "correct": false,
+          "note": "That describes the Federation Council, created by the 1993 Constitution. The Supreme Soviet of the Russian Federation was precisely the pre-1993 body that the new Federal Assembly (State Duma + Federation Council) replaced."
+        },
+        {
+          "text": "A USSR-wide legislative body that co-existed with but was outranked by the Congress of People's Deputies of the Soviet Union until the USSR dissolved in December 1991",
+          "correct": false,
+          "note": "That description confuses union-level and republic-level institutions. The Supreme Soviet of the USSR was the union-wide body; the RSFSR/Russia's Supreme Soviet was the Russian-republic body."
+        },
+        {
+          "text": "A purely advisory council established by Yeltsin's decree in early 1992 to coordinate privatization policy with regional governors",
+          "correct": false,
+          "note": "It was a sovereign parliament with legislative power, not an advisory body, and it predated (and constrained) Yeltsin rather than being created by him."
+        }
+      ],
+      "explanation": "The institutional lineage matters for the 1993 constitutional crisis. During the Soviet period each union republic had its own Supreme Soviet; the RSFSR's parliament sat in a building on the Moscow River that came to be called the White House (completed 1981). In 1990 the RSFSR reorganized along Gorbachev's earlier federal model, creating a large Congress of People's Deputies that elected a smaller Supreme Soviet from its own ranks. After the Soviet collapse, this structure persisted as the 'Supreme Soviet of the Russian Federation.' Under Khasbulatov, the standing Supreme Soviet and the wider Congress became the institutional base of Yeltsin's opponents. The October 1993 crisis ended with Yeltsin's Decree 1400 dissolving both bodies and with the December 1993 referendum replacing them with the Federal Assembly (Duma + Federation Council) established by the new Constitution.",
+      "difficulty": "medium",
+      "era": "1990s",
+      "country": "russia",
+      "tags": [
+        "supreme_soviet_russia",
+        "rsfsr_parliament",
+        "khasbulatov",
+        "white_house",
+        "1993_precursor_institutions"
+      ],
+      "sources": [
+        "Course lectures"
+      ],
+      "last_reviewed_date": "2026-04-22"
+    }
+  ]
+}
