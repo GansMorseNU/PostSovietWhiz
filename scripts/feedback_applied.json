@@ -548,6 +548,158 @@
       "processed_at": "2026-04-21",
       "status": "applied",
       "note": "difficulty: easy → very_hard (MMM)"
+    },
+    {
+      "id": "4ebb7f8e",
+      "question_id": "et_0062",
+      "submitted_at": "2026-04-22T13:54:14.704Z",
+      "processed_at": "2026-04-22",
+      "status": "applied",
+      "note": "difficulty: very_hard -> hard (Kovalchuk)"
+    },
+    {
+      "id": "c6164720",
+      "question_id": "et_0087",
+      "submitted_at": "2026-04-22T13:53:24.912Z",
+      "processed_at": "2026-04-22",
+      "status": "applied",
+      "note": "difficulty: very_hard -> hard (Gazprom origins)"
+    },
+    {
+      "id": "302dea9e",
+      "question_id": "et_0091",
+      "submitted_at": "2026-04-22T13:52:42.994Z",
+      "processed_at": "2026-04-22",
+      "status": "applied",
+      "note": "difficulty: very_hard -> medium (red directors)"
+    },
+    {
+      "id": "d1fce6e3",
+      "question_id": "et_0119",
+      "submitted_at": "2026-04-22T13:50:37.342Z",
+      "processed_at": "2026-04-22",
+      "status": "applied",
+      "note": "difficulty: very_hard -> medium (Chubais 1991-96 roles)"
+    },
+    {
+      "id": "06fc5a0a",
+      "question_id": "et_0124",
+      "submitted_at": "2026-04-22T13:50:11.267Z",
+      "processed_at": "2026-04-22",
+      "status": "applied",
+      "note": "difficulty: very_hard -> hard (Potanin)"
+    },
+    {
+      "id": "fd35e1ef",
+      "question_id": "et_0123",
+      "submitted_at": "2026-04-22T13:49:06.179Z",
+      "processed_at": "2026-04-22",
+      "status": "applied",
+      "note": "difficulty: very_hard -> hard (Gusinsky)"
+    },
+    {
+      "id": "071a3fcb",
+      "question_id": "et_0125",
+      "submitted_at": "2026-04-22T13:47:44.502Z",
+      "processed_at": "2026-04-22",
+      "status": "applied",
+      "note": "difficulty: very_hard -> hard (Abramovich)"
+    },
+    {
+      "id": "c2b8a282",
+      "question_id": "pt_0100",
+      "submitted_at": "2026-04-22T13:45:01.468Z",
+      "processed_at": "2026-04-22",
+      "status": "applied",
+      "note": "difficulty: very_hard -> medium (Primakov)"
+    },
+    {
+      "id": "7a3f9be0",
+      "question_id": "pt_0084",
+      "submitted_at": "2026-04-22T13:44:30.656Z",
+      "processed_at": "2026-04-22",
+      "status": "applied",
+      "note": "difficulty: very_hard -> medium (Thaw)"
+    },
+    {
+      "id": "f07abf59",
+      "question_id": "pt_0087",
+      "submitted_at": "2026-04-22T13:43:58.371Z",
+      "processed_at": "2026-04-22",
+      "status": "applied",
+      "note": "difficulty: very_hard -> hard (Article 6 repeal)"
+    },
+    {
+      "id": "7d8a7000",
+      "question_id": "pt_0091",
+      "submitted_at": "2026-04-22T13:40:48.213Z",
+      "processed_at": "2026-04-22",
+      "status": "applied",
+      "note": "difficulty: very_hard -> hard (Interregional Deputies Group)"
+    },
+    {
+      "id": "b0812b22",
+      "question_id": "pt_0083",
+      "submitted_at": "2026-04-22T13:40:02.725Z",
+      "processed_at": "2026-04-22",
+      "status": "applied",
+      "note": "difficulty: very_hard -> hard (Lazarenko)"
+    },
+    {
+      "id": "eed6dafe",
+      "question_id": "fp_0108",
+      "submitted_at": "2026-04-22T13:35:17.073Z",
+      "processed_at": "2026-04-22",
+      "status": "applied",
+      "note": "difficulty: easy -> hard (Russia-Japan peace treaty / Kuril islands)"
+    },
+    {
+      "id": "bea0dad6",
+      "question_id": "pt_0108",
+      "submitted_at": "2026-04-22T12:45:17.328Z",
+      "processed_at": "2026-04-22",
+      "status": "applied",
+      "note": "difficulty: easy -> medium (Sakharov positions)"
+    },
+    {
+      "id": "3d8c749b",
+      "question_id": "pt_0048",
+      "submitted_at": "2026-04-22T12:42:28.509Z",
+      "processed_at": "2026-04-22",
+      "status": "applied",
+      "note": "difficulty: easy -> medium (Duma mixed-member system)"
+    },
+    {
+      "id": "247ebcfb",
+      "question_id": "pt_0054",
+      "submitted_at": "2026-04-22T13:42:14.623Z",
+      "processed_at": "2026-04-22",
+      "status": "applied",
+      "note": "reword: removed \"markedly\" modifier from correct answer (\"markedly stronger\" -> \"stronger\") per JGM"
+    },
+    {
+      "id": "91f8a252",
+      "question_id": "et_0001",
+      "submitted_at": "2026-04-22T12:48:38.257Z",
+      "processed_at": "2026-04-22",
+      "status": "applied",
+      "note": "distractor replaced: 'The Washington Consensus' -> 'Perestroika' per JGM (Washington Consensus too close to shock therapy for an easy question)"
+    },
+    {
+      "id": "5996ae3c",
+      "question_id": "et_0124",
+      "submitted_at": "2026-04-22T13:50:06.264Z",
+      "processed_at": "2026-04-22",
+      "status": "ignored_duplicate",
+      "note": "Duplicate of 06fc5a0a (same question, same suggested difficulty). Applied once."
+    },
+    {
+      "id": "f5cac610",
+      "question_id": "pt_0087",
+      "submitted_at": "2026-04-22T13:43:45.594Z",
+      "processed_at": "2026-04-22",
+      "status": "ignored_duplicate",
+      "note": "Duplicate of f07abf59 (same question, same suggested difficulty). Applied once."
     }
   ]
 }
