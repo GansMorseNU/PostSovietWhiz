@@ -274,10 +274,6 @@ export function App() {
 
       {screen.kind === 'game_setup' && (
         <GameSetup
-          difficulty={gameFilters.difficulty}
-          onChangeDifficulty={(difficulty) =>
-            setGameFilters((prev) => ({ ...prev, difficulty }))
-          }
           era={gameFilters.era}
           onChangeEra={(era) => setGameFilters((prev) => ({ ...prev, era }))}
           country={gameFilters.country}

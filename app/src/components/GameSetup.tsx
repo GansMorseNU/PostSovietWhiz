@@ -1,9 +1,7 @@
-import { prettyCountry, prettyDifficulty, prettyEra } from '../App';
-import type { CountryFilter, DifficultyFilter, EraFilter } from '../types';
+import { prettyCountry, prettyEra } from '../App';
+import type { CountryFilter, EraFilter } from '../types';
 
 type Props = {
-  difficulty: DifficultyFilter;
-  onChangeDifficulty: (difficulty: DifficultyFilter) => void;
   era: EraFilter;
   onChangeEra: (era: EraFilter) => void;
   country: CountryFilter;
@@ -12,13 +10,10 @@ type Props = {
   onStartGame: () => void;
 };
 
-const DIFFICULTIES: DifficultyFilter[] = ['mix', 'easy', 'medium', 'hard', 'very_hard'];
 const ERAS: EraFilter[] = ['all', 'soviet', '1990s', '2000s', '2010s_plus'];
 const COUNTRIES: CountryFilter[] = ['all', 'russia', 'ukraine', 'both'];
 
 export function GameSetup({
-  difficulty,
-  onChangeDifficulty,
   era,
   onChangeEra,
   country,
@@ -33,23 +28,6 @@ export function GameSetup({
       <p className="home-lede">
         Set filters before you start. They apply across every level of the game.
       </p>
-
-      <div className="filter-group">
-        <div className="filter-label">Difficulty</div>
-        <div className="filter-tabs" role="tablist">
-          {DIFFICULTIES.map((value) => (
-            <button
-              key={value}
-              role="tab"
-              aria-selected={difficulty === value}
-              className={`filter-tab ${difficulty === value ? 'filter-tab-active' : ''}`}
-              onClick={() => onChangeDifficulty(value)}
-            >
-              {prettyDifficulty[value]}
-            </button>
-          ))}
-        </div>
-      </div>
 
       <div className="filter-group">
         <div className="filter-label">Era</div>

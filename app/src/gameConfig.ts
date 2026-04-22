@@ -84,14 +84,28 @@ const DIFFICULTY_ORDER: Difficulty[] = ['easy', 'medium', 'hard', 'very_hard', '
 /**
  * Select questions for a game level.
  *
- * Tries to match the level's difficulty weights, but falls back to adjacent
- * difficulty tiers when a tier has no questions. Recycles from the pool
- * (with shuffling) when the available questions are fewer than needed.
+ * Honors `excludeIds` so a question already shown earlier in the same game
+ * session is not shown again (JGM's no-repeat-within-session rule).
+ *
+ * When a targeted difficulty bucket is exhausted, falls back to the nearest
+ * EASIER tier first (then harder) so early-level difficulty doesn't silently
+ * inflate under narrow filters. If no questions remain at any tier the level
+ * may fall short, but we never duplicate within a round and never recycle
+ * ids already seen this session unless the whole session pool is exhausted.
  */
 export function selectQuestionsForLevel(
   level: GameLevel,
   allQuestions: Question[],
+  excludeIds: ReadonlySet<string> = new Set(),
 ): Question[] {
+  const available = allQuestions.filter((q) => !excludeIds.has(q.id));
+
+  // If excluding leaves too few to fill the round, fall back to the full pool
+  // so the player doesn't hit a dead end. This only kicks in after the session
+  // has effectively exhausted the filtered bank.
+  const sourcePool =
+    available.length >= level.questionsPerRound ? available : allQuestions;
+
   const byDiff: Record<Difficulty, Question[]> = {
     easy: [],
     medium: [],
@@ -99,16 +113,17 @@ export function selectQuestionsForLevel(
     very_hard: [],
     expert: [],
   };
-  for (const q of allQuestions) {
+  for (const q of sourcePool) {
     byDiff[q.difficulty].push(q);
   }
 
-  // Compute how many questions we want from each difficulty
   const totalWeight = Object.values(level.difficultyWeights).reduce(
     (a, b) => a + b,
     0,
   );
-  if (totalWeight === 0) return shuffle(allQuestions).slice(0, level.questionsPerRound);
+  if (totalWeight === 0) {
+    return shuffle(sourcePool).slice(0, level.questionsPerRound);
+  }
 
   const targets: { difficulty: Difficulty; count: number }[] = [];
   let allocated = 0;
@@ -127,42 +142,51 @@ export function selectQuestionsForLevel(
     allocated += count;
   }
 
-  const selected: Question[] = [];
+  const chosen: Question[] = [];
+  const chosenIds = new Set<string>();
+
+  const take = (pool: Question[], n: number) => {
+    for (const q of pool) {
+      if (n <= 0) break;
+      if (chosenIds.has(q.id)) continue;
+      chosen.push(q);
+      chosenIds.add(q.id);
+      n -= 1;
+    }
+    return n;
+  };
 
   for (const { difficulty, count } of targets) {
-    // Build a fallback chain: prefer exact difficulty, then adjacent tiers
+    // Fallback chain: target tier → easier tiers (desc) → harder tiers (asc).
+    // Preferring easier first keeps early-level difficulty from silently
+    // inflating when the targeted bucket is empty under narrow filters.
     const idx = DIFFICULTY_ORDER.indexOf(difficulty);
-    const fallbackOrder = [difficulty];
+    const fallbackOrder: Difficulty[] = [difficulty];
+    for (let dist = 1; dist < DIFFICULTY_ORDER.length; dist++) {
+      if (idx - dist >= 0) fallbackOrder.push(DIFFICULTY_ORDER[idx - dist]);
+    }
     for (let dist = 1; dist < DIFFICULTY_ORDER.length; dist++) {
       if (idx + dist < DIFFICULTY_ORDER.length)
         fallbackOrder.push(DIFFICULTY_ORDER[idx + dist]);
-      if (idx - dist >= 0)
-        fallbackOrder.push(DIFFICULTY_ORDER[idx - dist]);
     }
 
-    let pool: Question[] = [];
+    let remaining = count;
     for (const d of fallbackOrder) {
-      if (byDiff[d].length > 0) {
-        pool = byDiff[d];
-        break;
-      }
-    }
-
-    if (pool.length === 0) continue; // no questions at all — shouldn't happen
-
-    const shuffled = shuffle(pool);
-    for (let i = 0; i < count; i++) {
-      selected.push(shuffled[i % shuffled.length]);
+      if (remaining <= 0) break;
+      if (byDiff[d].length === 0) continue;
+      remaining = take(shuffle(byDiff[d]), remaining);
     }
   }
 
-  // Safety: if we still don't have enough, fill from the full pool
-  if (selected.length < level.questionsPerRound) {
-    const all = shuffle(allQuestions);
-    while (selected.length < level.questionsPerRound) {
-      selected.push(all[selected.length % all.length]);
+  // Safety net: if any gaps remain, fill from the whole source pool without duplicates.
+  if (chosen.length < level.questionsPerRound) {
+    const remaining = shuffle(sourcePool).filter((q) => !chosenIds.has(q.id));
+    for (const q of remaining) {
+      if (chosen.length >= level.questionsPerRound) break;
+      chosen.push(q);
+      chosenIds.add(q.id);
     }
   }
 
-  return shuffle(selected);
+  return shuffle(chosen);
 }

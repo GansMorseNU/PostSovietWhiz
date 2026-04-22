@@ -23,6 +23,8 @@ export function Game({ allQuestions, onExit, scrollContainerRef }: Props) {
     kind: 'level_intro',
     levelIndex: 0,
   });
+  // Ids shown so far in this session — session-scoped, not per-level.
+  const seenIdsRef = useRef<Set<string>>(new Set());
 
   useLayoutEffect(() => {
     if (scrollContainerRef?.current) scrollContainerRef.current.scrollTop = 0;
@@ -31,8 +33,13 @@ export function Game({ allQuestions, onExit, scrollContainerRef }: Props) {
 
   const startLevel = (levelIndex: number) => {
     const level = GAME_LEVELS[levelIndex];
-    const questions = selectQuestionsForLevel(level, allQuestions);
+    const questions = selectQuestionsForLevel(level, allQuestions, seenIdsRef.current);
+    for (const q of questions) seenIdsRef.current.add(q.id);
     setScreen({ kind: 'playing', levelIndex, questions });
+  };
+
+  const resetSessionSeen = () => {
+    seenIdsRef.current = new Set();
   };
 
   if (screen.kind === 'level_intro') {
@@ -92,7 +99,15 @@ export function Game({ allQuestions, onExit, scrollContainerRef }: Props) {
   }
 
   if (screen.kind === 'game_complete') {
-    return <GameComplete onExit={onExit} onPlayAgain={() => setScreen({ kind: 'level_intro', levelIndex: 0 })} />;
+    return (
+      <GameComplete
+        onExit={onExit}
+        onPlayAgain={() => {
+          resetSessionSeen();
+          setScreen({ kind: 'level_intro', levelIndex: 0 });
+        }}
+      />
+    );
   }
 
   return null;
