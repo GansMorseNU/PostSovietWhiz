@@ -5,10 +5,33 @@
     "content/course_reference.json",
     "content/schema.md",
     "content/questions.sample.json (targeted searches only)",
+    "CourseMaterials/PS369_StudyGuides/plain_text/*.txt (canonical topic-coverage list — every concept/person/event named there should have a question)",
     "CourseMaterials/PS369_Handouts/handouts_reference.json",
     "CourseMaterials/PS369_Handouts/plain_text/*.txt",
-    "CourseMaterials/ only when a fact, wording, or reading assignment needs deeper verification"
+    "CourseMaterials/PS369_LectureMaterials/plain_text/*.txt (31 lecture .docx/.pptx extracted to text — grep here to verify 'Course lectures' sources)",
+    "CourseMaterials/PS369_PostSovietPolitics_Spring2026_updated_plain_text.txt (syllabus)",
+    "CourseMaterials/*.docx / *.pptx — raw originals, only if the plain-text extract is insufficient"
   ],
+  "extraction_tooling": {
+    "script": "scripts/extract_course_materials.py",
+    "behavior": "Idempotent re-runnable extractor. Converts every .docx/.pptx/.pdf under PS369_Handouts/, PS369_LectureMaterials/, PS369_StudyGuides/, plus the standalone syllabus docx, into plain_text/*.txt mirrors. Re-run after adding new materials.",
+    "requires": ["python-docx", "python-pptx", "pdftotext (for PDFs)"]
+  },
+  "study_guides": {
+    "location": "CourseMaterials/PS369_StudyGuides/plain_text/",
+    "documents": [
+      "PS 369 Midterm Study Guide - Spring 2025.txt",
+      "PS 369 Final Study Guide - Spring 2025.txt"
+    ],
+    "how_to_use": "These list JGM's canonical Key Concepts and People/Places/Events split pre-midterm (lectures 1-9) and post-midterm (lectures 10-17). Every named item should have at least one question in the bank. Use as the primary gap-coverage checklist when expanding.",
+    "pre_midterm_era_mapping": ["soviet", "1990s"],
+    "post_midterm_era_mapping": ["2000s", "2010s_plus"]
+  },
+  "lecture_materials": {
+    "location": "CourseMaterials/PS369_LectureMaterials/plain_text/",
+    "count": 31,
+    "how_to_use": "Grep-verify 'Course lectures' source attributions here. If the correct-answer fact does not appear in any plain-text lecture file, do not label the source as 'Course lectures' — cite a specific reading or a verifiable URL instead. See content/batch4_source_audit.md for the worked example."
+  },
   "course": {
     "name": "PS369 Post-Soviet Politics: Russia, Ukraine, and the Road to War",
     "term": "Spring 2026",
@@ -61,30 +84,31 @@
     ]
   },
   "bank_snapshot": {
-    "question_count": 197,
+    "question_count": 374,
+    "as_of": "2026-04-22",
     "categories": {
-      "political_transitions": 72,
-      "economic_transitions": 62,
-      "foreign_policy": 63
+      "political_transitions": 133,
+      "economic_transitions": 116,
+      "foreign_policy": 125
     },
     "eras": {
-      "soviet": 35,
-      "1990s": 60,
+      "soviet": 107,
+      "1990s": 164,
       "2000s": 58,
-      "2010s_plus": 44
+      "2010s_plus": 45
     },
     "difficulties": {
-      "easy": 45,
-      "medium": 89,
-      "hard": 45,
-      "very_hard": 18
+      "easy": 44,
+      "medium": 167,
+      "hard": 113,
+      "very_hard": 50
     },
-    "rebalancing_note": "Future expansion should especially watch soviet-era coverage and the relatively small very_hard tier.",
+    "rebalancing_note": "2000s and 2010s_plus are the thinnest eras and should be the focus of future expansion. Study guides' post-midterm concept list (Tandemocracy, Putinism, Putinomics, Hybrid warfare, Khodorkovsky Affair, Chechenization, Beslan, Moscow apartment bombings, Minsk II, Zelensky's Servant of the People, etc.) is the canonical gap checklist.",
     "game_mode_no_repeat_threshold": {
       "target_question_count": 300,
-      "status": "not_ready",
-      "reason": "200 questions is still too thin for robust non-repeating game mode given the current difficulty mix, especially the small very_hard pool. 500 is not necessary for the first rollout.",
-      "future_rule": "When the bank reaches about 300 questions, remind the user to switch game mode to avoid repeats by default."
+      "status": "reached",
+      "reason": "Bank passed 300 questions at 374. Switch game mode to non-repeating by default on next touch of Game.tsx / gameConfig.ts.",
+      "future_rule": "Non-repeating game mode should be the default now; re-examine only if the bank shrinks or difficulty distribution becomes unusable."
     }
   },
   "question_model": {
@@ -312,8 +336,10 @@
   },
   "authoring_rules": [
     "Read this file first before re-opening raw CourseMaterials.",
-    "Use `CourseMaterials/PS369_Handouts/handouts_reference.json` and the plain-text handout extracts before reopening the raw handout DOCX files.",
+    "Use plain-text extracts under `CourseMaterials/**/plain_text/` (handouts, lectures, study guides) + the syllabus plain-text extract before reopening raw DOCX/PPTX.",
     "Use raw CourseMaterials only for fact-checks, exact reading attribution, or disputed wording.",
+    "Study guides in `PS369_StudyGuides/plain_text/` are JGM's canonical topic list — every concept, person, place, and event named there should have at least one question in the bank. Treat them as the default gap checklist.",
+    "Before labeling any question's source as 'Course lectures', grep-verify the correct-answer fact in `PS369_LectureMaterials/plain_text/*.txt`. If the fact goes beyond lecture coverage, cite a specific reading or verifiable URL instead. 'General post-Soviet politics literature' is not an acceptable source label.",
     "Named-author or specific-argument questions should usually be gated with `era_filter_visibility` based on the syllabus pre-/post-midterm split.",
     "Write prompts as direct factual questions rather than saying 'according to the course' or using similar course-meta framing.",
     "In economic questions, prefer the specific phrase 'economic diversification' when that is the concept being tested.",
