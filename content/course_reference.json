@@ -84,31 +84,13 @@
     ]
   },
   "bank_snapshot": {
-    "question_count": 374,
+    "question_count": 386,
     "as_of": "2026-04-22",
-    "categories": {
-      "political_transitions": 133,
-      "economic_transitions": 116,
-      "foreign_policy": 125
-    },
-    "eras": {
-      "soviet": 107,
-      "1990s": 164,
-      "2000s": 58,
-      "2010s_plus": 45
-    },
-    "difficulties": {
-      "easy": 44,
-      "medium": 167,
-      "hard": 113,
-      "very_hard": 50
-    },
-    "rebalancing_note": "2000s and 2010s_plus are the thinnest eras and should be the focus of future expansion. Study guides' post-midterm concept list (Tandemocracy, Putinism, Putinomics, Hybrid warfare, Khodorkovsky Affair, Chechenization, Beslan, Moscow apartment bombings, Minsk II, Zelensky's Servant of the People, etc.) is the canonical gap checklist.",
-    "game_mode_no_repeat_threshold": {
-      "target_question_count": 300,
-      "status": "reached",
-      "reason": "Bank passed 300 questions at 374. Switch game mode to non-repeating by default on next touch of Game.tsx / gameConfig.ts.",
-      "future_rule": "Non-repeating game mode should be the default now; re-examine only if the bank shrinks or difficulty distribution becomes unusable."
+    "recount_command": "python3 -c \"import json,collections; d=json.load(open('content/questions.sample.json')); print(len(d['questions'])); print(collections.Counter(q['category'] for q in d['questions'])); print(collections.Counter(q['era'] for q in d['questions'])); print(collections.Counter(q['difficulty'] for q in d['questions']))\"",
+    "rebalancing_note": "2000s and 2010s_plus are the thinnest eras and should be the focus of future expansion. The final study guide's post-midterm concept list (Tandemocracy, Putinism, Putinomics, Hybrid warfare, Khodorkovsky Affair, Chechenization, Beslan, Moscow apartment bombings, Minsk II, Zelensky's Servant of the People, etc.) is the canonical gap checklist. Batch 5 (2026-04-22) filled midterm-side gaps: Stalinist era (Revolution from Above, First Five-Year Plan, collectivization, Holodomor, Great Purge, Gulag) and core conceptual items (historical materialism, institutional complementarities, illiberal democracy, structural vs contingent, free/fair elections, realism vs liberalism).",
+    "game_mode_no_repeat": {
+      "status": "implemented",
+      "how": "app/src/components/Game.tsx maintains a session-scoped seenIdsRef across levels, passed into gameConfig.ts selectQuestionsForLevel as excludeIds. Session set resets on 'Play again' from the Game Complete screen. Implemented in commit 8ff40d9."
     }
   },
   "question_model": {

@@ -162,16 +162,16 @@ Every question's `sources` field must be verifiable — not decorative. Before l
 
 ## Current status
 
-- Question bank at 374 questions across 3 categories (political_transitions 133, foreign_policy 125, economic_transitions 116). Era split: soviet 107, 1990s 164, 2000s 58, 2010s_plus 45. Difficulty: easy 44, medium 167, hard 113, very_hard 50. 2000s and 2010s_plus are the thinnest eras and need the most expansion.
+- Question bank at 386 questions across 3 categories. 2000s and 2010s_plus are the thinnest eras and need the most expansion — target the post-midterm topic list in `PS369_StudyGuides/plain_text/PS 369 Final Study Guide - Spring 2025.txt` for the next expansion pass.
 - Instructor reviewing difficulty calibration and question quality
 - Game mode functional and now supported by a much deeper bank, though continued expansion will still improve variety
 - Compact permanent course reference now lives in `content/course_reference.json`; the plain-text extracts under `CourseMaterials/**/plain_text/` are the working copies of lectures, handouts, and study guides, with raw DOCX/PPTX as the ultimate fallback
 - `PS369_Handouts/plain_text/` + `handouts_reference.json`, `PS369_LectureMaterials/plain_text/` (31 lectures), and `PS369_StudyGuides/plain_text/` (Midterm + Final) are all machine-readable. Plus the syllabus at `PS369_PostSovietPolitics_Spring2026_updated_plain_text.txt`. Regenerate all of these at once by running `python3 scripts/extract_course_materials.py`.
-- The bank has passed the 300-question threshold for non-repeating game mode; future sessions should switch game mode to avoid repeats by default when next touching `Game.tsx` / `gameConfig.ts`
+- Game mode is session-scoped no-repeat: `app/src/components/Game.tsx` maintains `seenIdsRef` across levels and passes it to `selectQuestionsForLevel` in `gameConfig.ts`, with a safety-net fallback only if the filtered pool can't fill a round. The session set resets on "Play again" from the Game Complete screen.
 - PWA pilot setup is in place for zero-cost link sharing and home-screen install on iPhone and Android
 - Question-level feedback UI is live in quiz and game mode, and feedback now posts to the configured Google Apps Script / Google Sheet endpoint with local fallback if delivery fails
 - `*JGM*` feedback is tagged as `auto_apply_next_pass` at submission time, and the deployed Apps Script now supports token-protected `doGet` readback. Future sessions can ingest those items as long as the user provides the private token out of band; never store the token in the repo
 - Game mode now opens with a pre-start filter screen for difficulty, era, and country
 - Quiz mode now runs in 20-question batches and offers continue / redo missed / return-home decisions between batches
 - The user is not comfortable with GitHub, Apps Script, or similar tooling; when user-side setup is required, provide explicit click-by-click instructions rather than terse shorthand
-- Near-term roadmap: use `*JGM*` feedback for auto-apply on the next update pass, continue expanding the bank (especially 2000s and 2010s_plus coverage) with study guides as the canonical gap checklist, and switch game mode to non-repeating by default
+- Near-term roadmap: use `*JGM*` feedback for auto-apply on the next update pass, and continue expanding the bank (especially 2000s and 2010s_plus coverage) using the final study guide's post-midterm concept and people/places/events lists as the canonical gap checklist

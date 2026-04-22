@@ -16117,6 +16117,516 @@
         "https://en.wikipedia.org/wiki/Roman_Abramovich"
       ],
       "last_reviewed_date": "2026-04-21"
+    },
+    {
+      "id": "pt_0137",
+      "category": "political_transitions",
+      "subcategory": "political_transitions",
+      "type": "multiple_choice",
+      "prompt": "Stalin's \"Revolution from Above,\" launched in 1928, is best characterized as:",
+      "choices": [
+        {
+          "text": "A top-down, state-directed transformation that combined crash industrialization with forced agricultural collectivization and was enforced through mass political terror",
+          "correct": true
+        },
+        {
+          "text": "A bottom-up mass movement of workers and soldiers that overthrew the Provisional Government and established Bolshevik rule",
+          "correct": false,
+          "note": "That describes the 1917 October Revolution — a regime-founding moment, not the Stalinist reorganization of an already-Bolshevik state."
+        },
+        {
+          "text": "A mid-1950s reform program under Khrushchev that combined industrial modernization with the Virgin Lands campaign and de-Stalinization",
+          "correct": false,
+          "note": "Those reforms came after Stalin's death, partly in reaction to him. Stalin's Revolution from Above is the late-1920s/1930s transformation itself."
+        },
+        {
+          "text": "Gorbachev's late-1980s effort to restructure the command economy through partial market mechanisms while preserving one-party rule",
+          "correct": false,
+          "note": "That is perestroika, which is often discussed as the mirror image of the Revolution from Above — loosening rather than imposing central control."
+        }
+      ],
+      "explanation": "The phrase \"Revolution from Above\" captures how the Stalinist transformation was imposed by the party-state onto a still largely peasant society rather than emerging from below. It was launched with the First Five-Year Plan in 1928 and pursued three inseparable goals — build an industrial base, consolidate the countryside under state control through collectivization, and use terror to break resistance. Understanding it as 'revolution from above' matters for the course because it foregrounds the instruments (plan, NKVD, Party discipline) that would define Soviet-style totalitarianism for decades.",
+      "difficulty": "medium",
+      "era": "soviet",
+      "country": "russia",
+      "tags": [
+        "stalin_revolution_from_above",
+        "first_five_year_plan",
+        "collectivization",
+        "stalinism_concept"
+      ],
+      "sources": [
+        "Course lectures"
+      ],
+      "last_reviewed_date": "2026-04-22"
+    },
+    {
+      "id": "et_0126",
+      "category": "economic_transitions",
+      "subcategory": "economic_transitions",
+      "type": "multiple_choice",
+      "prompt": "What was the First Five-Year Plan (1928-1932)?",
+      "choices": [
+        {
+          "text": "A centrally set plan of output targets for heavy industry that launched Stalin's crash industrialization and was paired with forced agricultural collectivization to extract the resources to fund it",
+          "correct": true
+        },
+        {
+          "text": "A package of post-WWII reconstruction measures focused on rebuilding cities, infrastructure, and heavy industry destroyed in the war",
+          "correct": false,
+          "note": "That was the Fourth Five-Year Plan (1946-1950) under Stalin after 1945. The First Five-Year Plan preceded the war and was about building, not rebuilding, an industrial base."
+        },
+        {
+          "text": "A 1965 Kosygin-Liberman package that tried to decentralize planning by giving enterprises profit-based performance metrics",
+          "correct": false,
+          "note": "The Kosygin reforms came roughly four decades later and were about loosening, not tightening, central control."
+        },
+        {
+          "text": "The New Economic Policy (NEP), which reintroduced limited markets and private trade after War Communism",
+          "correct": false,
+          "note": "NEP (1921-1928) is the policy the First Five-Year Plan replaced. The plan ended NEP's market tolerance and launched the command economy in earnest."
+        }
+      ],
+      "explanation": "The First Five-Year Plan was the concrete instrument through which Stalin's 'Revolution from Above' was carried out. It set ambitious output targets for coal, steel, machinery, and electrification; it was paired with forced collectivization to squeeze grain out of the countryside and feed the industrial workforce; and it was declared complete after four years. The plan inaugurated a pattern — successive five-year plans, dominance of heavy industry, output-over-quality metrics — that defined the Soviet command economy until its collapse.",
+      "difficulty": "medium",
+      "era": "soviet",
+      "country": "russia",
+      "tags": [
+        "first_five_year_plan",
+        "command_economy",
+        "stalinist_industrialization",
+        "nep_replacement"
+      ],
+      "sources": [
+        "Course lectures"
+      ],
+      "last_reviewed_date": "2026-04-22"
+    },
+    {
+      "id": "et_0127",
+      "category": "economic_transitions",
+      "subcategory": "economic_transitions",
+      "type": "multiple_choice",
+      "prompt": "Stalin's forced collectivization of Soviet agriculture (beginning in 1929) combined which two campaigns?",
+      "choices": [
+        {
+          "text": "Consolidation of individual peasant holdings into large collective farms (kolkhozy) and state farms (sovkhozy), plus \"dekulakization\" — the destruction of the wealthier peasant stratum labeled kulaks as a political class",
+          "correct": true
+        },
+        {
+          "text": "Voluntary enrollment of peasants into agricultural cooperatives and government-backed subsidies to encourage private farm mechanization",
+          "correct": false,
+          "note": "Collectivization was explicitly coercive — it used NKVD shock brigades, deportations, and forced grain requisitions. Voluntary cooperative schemes are closer to the 1920s NEP that the Stalinist campaign terminated."
+        },
+        {
+          "text": "Gradual nationalization of large estates over several decades while leaving individual peasants on their own plots",
+          "correct": false,
+          "note": "Collectivization was compressed into a few years, not spread over decades, and it targeted individual peasants themselves — not just large estates, which had already been redistributed after 1917."
+        },
+        {
+          "text": "Market-oriented reforms that allowed peasants to sell surplus grain at freely negotiated prices to fund their own farm investment",
+          "correct": false,
+          "note": "That describes elements of NEP, which Stalin deliberately ended. Collectivization relied on administrative prices and state procurement, not market exchange."
+        }
+      ],
+      "explanation": "Collectivization was not simply a land reorganization — it was a two-pronged campaign to break the peasantry as an independent economic and political force. The first prong pushed peasants into kolkhozy (collective farms) and sovkhozy (state farms) under Party and NKVD supervision; by 1936 roughly 90 percent of Soviet agriculture was officially collectivized. The second prong — dekulakization — identified the wealthier peasant stratum (the 'kulaks') as class enemies, confiscated their property, and deported or executed hundreds of thousands. Resistance, especially in grain-producing regions of Ukraine and the North Caucasus, contributed to the famines of 1932-33, including the Holodomor.",
+      "difficulty": "hard",
+      "era": "soviet",
+      "country": "both",
+      "tags": [
+        "collectivization",
+        "dekulakization",
+        "kulaks",
+        "kolkhoz",
+        "sovkhoz"
+      ],
+      "sources": [
+        "Course lectures",
+        "https://en.wikipedia.org/wiki/Dekulakization"
+      ],
+      "last_reviewed_date": "2026-04-22"
+    },
+    {
+      "id": "pt_0138",
+      "category": "political_transitions",
+      "subcategory": "political_transitions",
+      "type": "multiple_choice",
+      "prompt": "What was the Holodomor?",
+      "choices": [
+        {
+          "text": "A man-made famine in Soviet Ukraine in 1932-33, driven by forced grain requisitions during Stalin's collectivization campaign, in which an estimated 4 million Ukrainians died",
+          "correct": true
+        },
+        {
+          "text": "A drought-driven natural famine across the Russian Empire in 1891-92 that the tsarist state struggled to manage",
+          "correct": false,
+          "note": "That was the 1891-92 Volga famine, decades before the Soviet period. The Holodomor is a Soviet-era event tied specifically to Stalinist collectivization."
+        },
+        {
+          "text": "A Nazi-induced famine in occupied Ukraine during World War II, tied to the German 'Hunger Plan' for the eastern territories",
+          "correct": false,
+          "note": "Nazi wartime policies did cause mass starvation in occupied Soviet territories, but the Holodomor refers to an earlier, Soviet-caused famine, not a Nazi-caused one."
+        },
+        {
+          "text": "The post-WWII Soviet famine of 1946-47, driven by drought, grain exports, and disrupted agriculture",
+          "correct": false,
+          "note": "The 1946-47 famine was a separate, later Soviet-era event. The Holodomor specifically names the 1932-33 famine in Ukraine tied to collectivization."
+        }
+      ],
+      "explanation": "The Holodomor (Ukrainian: 'death by starvation') refers to the famine that struck Soviet Ukraine in 1932-33 when Moscow's grain procurement quotas, combined with sealed borders preventing peasants from leaving the affected regions, converted collectivization resistance into mass starvation. JGM's lecture cites roughly 4 million Ukrainian deaths; other estimates range from 3 to 5 million. Its interpretation has been politically charged: Ukraine and many Western governments classify it as a deliberately engineered genocide against Ukrainians, while Russia has generally resisted that framing and treated it as one part of a broader Soviet-wide famine. The episode is central to Ukrainian national memory and to the long-run divergence of Russian and Ukrainian historical narratives.",
+      "difficulty": "medium",
+      "era": "soviet",
+      "country": "ukraine",
+      "tags": [
+        "holodomor",
+        "1932_33_famine",
+        "collectivization_consequences",
+        "ukrainian_national_memory"
+      ],
+      "sources": [
+        "Course lectures"
+      ],
+      "last_reviewed_date": "2026-04-22"
+    },
+    {
+      "id": "pt_0139",
+      "category": "political_transitions",
+      "subcategory": "political_transitions",
+      "type": "multiple_choice",
+      "prompt": "The Great Purge of 1936-1938 is best described as:",
+      "choices": [
+        {
+          "text": "A wave of NKVD-driven arrests and executions — featuring staged show trials of Old Bolsheviks such as Zinoviev, Kamenev, and Bukharin — that killed roughly 800,000 people and extended through the party, military, and intelligentsia",
+          "correct": true
+        },
+        {
+          "text": "Lenin's Red Terror during the Russian Civil War, which targeted former tsarist officials, clergy, and political rivals of the Bolsheviks",
+          "correct": false,
+          "note": "The Red Terror took place in 1918-22 under Lenin, roughly two decades earlier. The Great Purge is distinctively Stalinist and is centered on the 1936-38 NKVD arrests."
+        },
+        {
+          "text": "Khrushchev's 1956 de-Stalinization campaign, including the 'Secret Speech' and the release of many political prisoners from the Gulag",
+          "correct": false,
+          "note": "De-Stalinization partly reckoned with the Great Purge — it did not constitute the purge itself. Khrushchev's program came two decades later and was aimed at rolling back Stalinist terror."
+        },
+        {
+          "text": "Brezhnev's 1970s crackdown on Soviet dissidents, including the trials of writers like Sinyavsky and Daniel and the forced emigration of figures like Solzhenitsyn",
+          "correct": false,
+          "note": "Late-Soviet dissident repression was far more selective and generally non-lethal. The scale — hundreds of thousands of executions — is the distinguishing feature of the 1936-38 purge."
+        }
+      ],
+      "explanation": "The Great Purge (or Great Terror) of 1936-38 is the peak of Stalinist mass repression. Nikolai Yezhov, who headed the NKVD during the worst of the period (the 'Yezhovshchina'), oversaw arrests estimated at several million, executions on the order of 800,000, and deportations of many more to the Gulag. Much of the Bolshevik Old Guard was destroyed through show trials whose scripted confessions were later repudiated. The military officer corps was severely thinned on the eve of World War II, with consequences that became visible in 1941. The episode is a core reference point for the course's claim that Stalinist totalitarianism required, and was willing to deploy, mass arbitrary terror as a routine instrument of governance.",
+      "difficulty": "medium",
+      "era": "soviet",
+      "country": "russia",
+      "tags": [
+        "great_purge",
+        "great_terror",
+        "nkvd",
+        "yezhov",
+        "show_trials",
+        "old_bolsheviks"
+      ],
+      "sources": [
+        "Course lectures"
+      ],
+      "last_reviewed_date": "2026-04-22"
+    },
+    {
+      "id": "pt_0140",
+      "category": "political_transitions",
+      "subcategory": "political_transitions",
+      "type": "multiple_choice",
+      "prompt": "The Gulag system, in its Stalinist form, is best described as:",
+      "choices": [
+        {
+          "text": "A nationwide network of forced-labor camps administered by the NKVD that held millions of prisoners sentenced on political and criminal charges and supplied coerced labor for mining, logging, canal-building, and other industrial projects",
+          "correct": true
+        },
+        {
+          "text": "A post-WWII network of prisoner-of-war camps holding captured German and Axis soldiers until their staggered repatriation in the late 1940s and 1950s",
+          "correct": false,
+          "note": "POW camps were a distinct category of facility. The Gulag system predated WWII and continued long after, with its core population being Soviet citizens sentenced under criminal and political articles."
+        },
+        {
+          "text": "An exile system that only relocated entire ethnic groups (such as Crimean Tatars or Chechens) to Central Asia during and after WWII",
+          "correct": false,
+          "note": "The deportations of entire ethnic groups were a real Stalinist practice but are a distinct category of repression. The Gulag proper was a camp-based forced-labor system that accepted prisoners continuously across the Stalinist period."
+        },
+        {
+          "text": "A tsarist-era penal institution in Siberia that the Bolsheviks dismantled in the 1920s and that disappeared before the Stalinist period",
+          "correct": false,
+          "note": "Tsarist Siberian exile did exist, but the Gulag is a Stalinist-era Soviet system that expanded dramatically in the 1930s — not a pre-revolutionary institution that disappeared."
+        }
+      ],
+      "explanation": "The Russian acronym GULag (Main Administration of Corrective Labor Camps and Colonies) names both the bureaucracy that ran the camps and, by extension, the camp system itself. At peak Stalinist scale JGM's lecture cites roughly 3.6 million under NKVD jurisdiction with about 1.36 million in the camps proper. The system did three things at once: it removed perceived political enemies from society, it supplied forced labor for heavy-industry and infrastructure projects in hard-to-populate regions, and — through its sheer scale and arbitrariness — it produced the atmosphere of fear on which Stalinist totalitarianism relied. Solzhenitsyn's literary treatment later turned 'Gulag' into a global synonym for Soviet repression.",
+      "difficulty": "medium",
+      "era": "soviet",
+      "country": "russia",
+      "tags": [
+        "gulag",
+        "nkvd",
+        "forced_labor",
+        "stalinist_repression"
+      ],
+      "sources": [
+        "Course lectures"
+      ],
+      "last_reviewed_date": "2026-04-22"
+    },
+    {
+      "id": "pt_0141",
+      "category": "political_transitions",
+      "subcategory": "political_transitions",
+      "type": "multiple_choice",
+      "prompt": "In Marxist theory, \"historical materialism\" refers to the idea that:",
+      "choices": [
+        {
+          "text": "Changes in a society's mode of production (its economic base) drive changes in its political institutions, social relations, and ideology (its superstructure), producing a progression through historical stages — tribal, ancient, feudal, capitalist, socialist",
+          "correct": true
+        },
+        {
+          "text": "Historical development is fundamentally shaped by the ideas and values of great individuals, whose choices redirect societies in ways that economic conditions cannot explain",
+          "correct": false,
+          "note": "That is closer to 'great-man' or idealist theories of history. Marx explicitly rejected this and argued material/economic conditions shape ideas, not the other way around."
+        },
+        {
+          "text": "History proceeds through the gradual refinement of religious ideas, with material conditions reflecting, rather than causing, changes in human consciousness",
+          "correct": false,
+          "note": "Marx associated this position with Hegelian idealism and defined historical materialism explicitly in opposition to it."
+        },
+        {
+          "text": "Historical change is driven primarily by geography and climate, with societies' political forms determined by their physical environment",
+          "correct": false,
+          "note": "Environmental or geographic determinism is a separate tradition. Marxist historical materialism centers the relations of production, not geography."
+        }
+      ],
+      "explanation": "Historical materialism is the backbone of Marx's theory of history and, by extension, of the Soviet project's self-understanding. The claim is that technological change alters the mode of production (base), which then forces a corresponding transformation of the political, legal, and ideological superstructure. Each stage — slave-owning, feudal, capitalist — eventually generates contradictions (e.g., capitalism concentrates ownership and immiserates workers) that produce the transition to the next stage, ending in socialism and then communism. This mattered practically in the USSR because it was supposed to supply a scientific rationale for Party leadership and for the Revolution from Above: Russia's 'objective' conditions were said to require accelerated development to reach the socialist stage.",
+      "difficulty": "hard",
+      "era": "soviet",
+      "country": "russia",
+      "tags": [
+        "historical_materialism",
+        "marxism",
+        "base_superstructure",
+        "ideological_foundations"
+      ],
+      "sources": [
+        "Course lectures"
+      ],
+      "last_reviewed_date": "2026-04-22"
+    },
+    {
+      "id": "pt_0142",
+      "category": "political_transitions",
+      "subcategory": "political_transitions",
+      "type": "multiple_choice",
+      "prompt": "The \"institutional complementarities\" argument about Soviet totalitarianism holds that:",
+      "choices": [
+        {
+          "text": "The four pillars of the system — ideology, terror, the leading role of the Party, and the command economy — reinforce each other, so weakening any one of them tends to destabilize the whole system rather than producing a tidy partial reform",
+          "correct": true
+        },
+        {
+          "text": "Each of the four pillars is independent and self-sustaining, so the Party could safely loosen ideology without any effect on terror or the command economy",
+          "correct": false,
+          "note": "That is the opposite of the complementarities argument, which is precisely the claim that the pillars interact strongly."
+        },
+        {
+          "text": "The command economy is the master pillar, and the other three features are simply epiphenomena that exist only as long as central planning is in place",
+          "correct": false,
+          "note": "The argument is about mutual reinforcement among the four pillars, not about one being foundational. Treating the command economy as the sole master is a monocausal version the handout warns against."
+        },
+        {
+          "text": "The Soviet system was stable mainly because the command economy produced rising consumer welfare, making the political pillars secondary",
+          "correct": false,
+          "note": "The course's position is essentially the opposite: the command economy eventually stopped delivering growth, and its weakening was one of several interacting pressures in the Gorbachev period."
+        }
+      ],
+      "explanation": "The institutional-complementarities framing is central to the course's reading of why Gorbachev-era reform unraveled the USSR rather than fine-tuning it. If you accept that ideology, terror, the Party's monopoly, and the command economy reinforce each other, then glasnost (which eroded the ideological monopoly), political reform (which cut into the Party's leading role), the post-Stalin retreat from mass terror, and perestroika (which loosened the command economy) are not four independent adjustments but four coordinated blows to an integrated system. JGM's handout 'Explaining the Collapse of the Soviet System' uses this as an example of an institutional explanation — contrasted with structural and contingent ones — for the collapse.",
+      "difficulty": "hard",
+      "era": "soviet",
+      "country": "russia",
+      "tags": [
+        "institutional_complementarities",
+        "totalitarianism",
+        "soviet_collapse_explanations",
+        "gorbachev_era"
+      ],
+      "sources": [
+        "Course lectures",
+        "PS369 handout 'Explaining the Collapse of the Soviet System'"
+      ],
+      "last_reviewed_date": "2026-04-22"
+    },
+    {
+      "id": "pt_0143",
+      "category": "political_transitions",
+      "subcategory": "political_transitions",
+      "type": "multiple_choice",
+      "prompt": "In Fareed Zakaria's framework, an \"illiberal democracy\" is a regime that:",
+      "choices": [
+        {
+          "text": "Holds reasonably free and fair elections but fails to protect the rule of law, minority rights, and civil liberties between elections",
+          "correct": true
+        },
+        {
+          "text": "Has no elections at all but respects private property, press freedom, and an independent judiciary",
+          "correct": false,
+          "note": "Zakaria calls such a regime a 'liberal autocracy' rather than an illiberal democracy. The distinguishing feature of illiberal democracy is that elections are in place — the liberal guarantees are not."
+        },
+        {
+          "text": "Is consolidated as a liberal democracy but experiences occasional bouts of populist demagoguery during election campaigns",
+          "correct": false,
+          "note": "Zakaria's point is structural, not episodic. Illiberal democracy names a persistent configuration in which liberal constraints are missing, not a mature democracy with poorly behaved campaigns."
+        },
+        {
+          "text": "Combines a hereditary monarchy with an elected legislature whose powers are sharply limited by the crown",
+          "correct": false,
+          "note": "That describes constitutional monarchy. Zakaria's concept addresses modern mass democracies that lack rule-of-law and rights protections, not crown-parliament arrangements."
+        }
+      ],
+      "explanation": "Zakaria drew the term 'illiberal democracy' from his influential 1997 Foreign Affairs article. The underlying claim is that democracy and liberalism are historically and conceptually distinct: democracy is about selecting rulers through elections, while liberalism (in the constitutional sense) is about constraining the power of whoever holds office so that individual rights, minorities, and the rule of law are protected. The course uses the concept to evaluate 1990s Russia and Ukraine — countries that held competitive elections but had weak rule of law, executive dominance, and uneven protections for speech, press, and due process. It also supplies vocabulary for the later Putin-era trajectory, when the democratic-procedures side eroded as well.",
+      "difficulty": "medium",
+      "era": "1990s",
+      "country": "both",
+      "tags": [
+        "illiberal_democracy",
+        "zakaria_concept",
+        "democracy_vs_liberalism",
+        "regime_classification"
+      ],
+      "sources": [
+        "Course lectures",
+        "Fareed Zakaria, \"The Rise of Illiberal Democracy,\" *Foreign Affairs*, November/December 1997"
+      ],
+      "last_reviewed_date": "2026-04-22"
+    },
+    {
+      "id": "pt_0144",
+      "category": "political_transitions",
+      "subcategory": "political_transitions",
+      "type": "multiple_choice",
+      "prompt": "In the course's framework for analyzing the Soviet collapse, \"structural\" and \"contingent\" explanations differ primarily in that:",
+      "choices": [
+        {
+          "text": "Structural explanations focus on large-scale factors beyond short-term leader control (such as level of development, military capabilities, or ethnic composition), while contingent explanations focus on the decisions of particular leaders or the confluence of specific events",
+          "correct": true
+        },
+        {
+          "text": "Structural explanations focus on international factors and contingent explanations focus on domestic factors",
+          "correct": false,
+          "note": "The distinction is not international vs domestic. Either category can include international or domestic factors — what matters is whether the factor is large-scale and slow-moving (structural) or tied to specific actors and events (contingent)."
+        },
+        {
+          "text": "Structural explanations apply only to economic outcomes and contingent explanations apply only to political outcomes",
+          "correct": false,
+          "note": "Both kinds of explanation are routinely applied to both economic and political outcomes. The economic/political split is orthogonal to the structural/contingent split."
+        },
+        {
+          "text": "Structural explanations are those that come from the political-science literature and contingent explanations are those that come from journalism and memoirs",
+          "correct": false,
+          "note": "Disciplinary origin is not the criterion. Political scientists deploy both types; the difference is about the kind of factor being named (slow-moving conditions vs specific actors/events)."
+        }
+      ],
+      "explanation": "The handout 'Explaining the Collapse of the Soviet System' sets up this vocabulary because explanations of the collapse tend to cluster around one pole or the other — structural accounts stressing the long-run crisis of the command economy, ethnic heterogeneity, or imperial overstretch, versus contingent accounts stressing Gorbachev's particular reform choices, the Chernobyl or economic shocks of the late 1980s, or the specific dynamics of 1991. JGM's handout argues these families are usually complementary rather than mutually exclusive: structural factors create the preconditions for change, and contingent factors set the process in motion and determine its pace and form. The framework also shows up in other course questions, about institutional (e.g., the 'complementarities' of totalitarianism) and chain-reaction (e.g., cycles of mobilization) explanations.",
+      "difficulty": "hard",
+      "era": "soviet",
+      "country": "russia",
+      "tags": [
+        "structural_contingent",
+        "soviet_collapse_explanations",
+        "methodology",
+        "institutional_explanations"
+      ],
+      "sources": [
+        "Course lectures",
+        "PS369 handout 'Explaining the Collapse of the Soviet System'"
+      ],
+      "last_reviewed_date": "2026-04-22"
+    },
+    {
+      "id": "pt_0145",
+      "category": "political_transitions",
+      "subcategory": "political_transitions",
+      "type": "multiple_choice",
+      "prompt": "In the course's discussion of democracy, \"free and fair elections\" requires all of the following EXCEPT:",
+      "choices": [
+        {
+          "text": "A single ruling party that supervises the ballot-counting process to ensure political stability",
+          "correct": true
+        },
+        {
+          "text": "Universal adult suffrage with a secret ballot",
+          "correct": false,
+          "note": "This is a standard element — the right to vote extends to essentially all adult citizens and is exercised without observation that could invite coercion."
+        },
+        {
+          "text": "Competitive contests in which multiple parties or candidates can realistically win and have reasonable access to media and campaign resources",
+          "correct": false,
+          "note": "Competition on roughly equal terms is one of the defining elements. Without it, elections can be procedurally held while being substantively uncompetitive."
+        },
+        {
+          "text": "Regular elections held on a predictable schedule with independent administration and counting",
+          "correct": false,
+          "note": "Regularity plus independent administration is another standard element — both block incumbents from postponing or manipulating the count when losses look likely."
+        }
+      ],
+      "explanation": "JGM's lectures 5 & 6 catalog the elements normally required for an election to count as 'free and fair': universal suffrage, secret ballot, regular and predictable schedules, independent administration and counting, competitive access for multiple parties and candidates, reasonable equality of media and campaign resources, and freedom from intimidation. The point of the list is that Russia and Ukraine in the 1990s held elections on paper — but on some dimensions (Yeltsin's 1996 media advantage, Kuchma's 1998-99 fraud and media control) they fell short on the underlying requirements. A 'single ruling party supervising the count' is a Soviet-era model; it is the opposite of the independent-administration requirement.",
+      "difficulty": "medium",
+      "era": "1990s",
+      "country": "both",
+      "tags": [
+        "free_and_fair_elections",
+        "democracy_elements",
+        "electoral_integrity"
+      ],
+      "sources": [
+        "Course lectures"
+      ],
+      "last_reviewed_date": "2026-04-22"
+    },
+    {
+      "id": "fp_0131",
+      "category": "foreign_policy",
+      "subcategory": "foreign_policy",
+      "type": "multiple_choice",
+      "prompt": "In international-relations theory as the course uses it, \"realism\" and \"liberalism\" differ primarily in that:",
+      "choices": [
+        {
+          "text": "Realism focuses on national interests and material capabilities (military, economic), while liberalism focuses on norms, ideals, and domestic political institutions — including claims like the 'democratic peace'",
+          "correct": true
+        },
+        {
+          "text": "Realism is associated with left-wing politics and liberalism with right-wing politics",
+          "correct": false,
+          "note": "Neither IR tradition maps onto domestic left-right politics in that way. The distinction is about what kinds of factors drive state behavior, not about party politics."
+        },
+        {
+          "text": "Realism studies only wars while liberalism studies only international economic cooperation",
+          "correct": false,
+          "note": "Both traditions address security, economics, and institutions. The difference is analytical (what causes state behavior) rather than a division of topics."
+        },
+        {
+          "text": "Realism is an exclusively American tradition while liberalism is an exclusively European one",
+          "correct": false,
+          "note": "Both traditions have prominent American and European theorists. Geography is not the defining axis."
+        }
+      ],
+      "explanation": "The course uses this split to frame post-Soviet Russian foreign policy. A realist reading emphasizes that Russia's reduced material capabilities after 1991 (shrunken economy, depleted military, lost territory) should have driven accommodation with a stronger West, while its still-substantial assets (nuclear arsenal, UN veto, size) gave it leverage to resist encirclement. A liberal reading emphasizes domestic political institutions — whether Russia was consolidating as a democracy, how its norms aligned with the West — and invokes claims like the democratic peace (democracies rarely fight each other). JGM notes that either framework generates ambiguous and sometimes contradictory predictions for 1990s Russia, which is part of why debates over NATO enlargement, the war in Kosovo, and Russia's eventual foreign-policy turn remain contested.",
+      "difficulty": "medium",
+      "era": "1990s",
+      "country": "russia",
+      "tags": [
+        "realism",
+        "liberalism_ir",
+        "international_relations_theory",
+        "foreign_policy_framework"
+      ],
+      "sources": [
+        "Course lectures"
+      ],
+      "last_reviewed_date": "2026-04-22"
     }
   ]
 }
