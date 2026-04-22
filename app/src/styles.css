@@ -701,6 +701,72 @@ img {
   min-height: 110px;
 }
 
+.feedback-difficulty-block {
+  padding: 12px 14px;
+  border: 1px solid var(--rule);
+  border-radius: 14px;
+  background: var(--surface-alt);
+}
+
+.feedback-difficulty-current {
+  margin: 0;
+  font-size: 13px;
+  color: var(--ink-muted);
+}
+
+.feedback-difficulty-current strong {
+  color: var(--ink);
+  text-transform: capitalize;
+}
+
+.feedback-difficulty-options {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 8px;
+  margin-top: 4px;
+}
+
+.feedback-difficulty-option {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 10px 12px;
+  border: 1px solid var(--rule);
+  border-radius: 12px;
+  background: var(--surface);
+  font-size: 14px;
+  cursor: pointer;
+  transition: border-color 120ms ease, background 120ms ease;
+}
+
+.feedback-difficulty-option:hover {
+  border-color: var(--accent);
+}
+
+.feedback-difficulty-option.is-selected {
+  border-color: var(--accent);
+  background: var(--surface-alt);
+  font-weight: 600;
+}
+
+.feedback-difficulty-option.is-current {
+  opacity: 0.55;
+  cursor: not-allowed;
+}
+
+.feedback-difficulty-option.is-current::after {
+  content: 'current';
+  margin-left: auto;
+  font-size: 11px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--ink-muted);
+}
+
+.feedback-difficulty-option input[type='radio'] {
+  margin: 0;
+}
+
 .feedback-help,
 .feedback-status-copy {
   margin: 0;

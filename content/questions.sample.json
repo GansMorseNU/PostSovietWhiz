@@ -2897,7 +2897,7 @@
       "prompt": "Anatoly Chubais is most closely associated with which aspect of 1990s Russian economic policy?",
       "choices": [
         {
-          "text": "Designing and overseeing Russia's voucher and loans-for-shares privatization programs",
+          "text": "Designing and overseeing Russia's mass voucher privatization program",
           "correct": true
         },
         {
@@ -2916,21 +2916,20 @@
           "note": "Chubais was an economic official, not a defense minister or NATO negotiator."
         }
       ],
-      "explanation": "Chubais chaired the State Property Committee, guided voucher privatization, and later masterminded the 1995 loans-for-shares auctions that transferred crown-jewel enterprises to a small group of oligarchs. He became the public face — and the lightning rod — of Russia's privatization drive.",
+      "explanation": "As chair of the State Property Committee (GKI) from 1991 to 1994, Chubais designed and ran Russia's mass voucher privatization program (1992-94), which distributed vouchers to every citizen and transferred the bulk of small, medium, and large state enterprises into private hands. Chubais was not the architect of the separate 1995 loans-for-shares scheme — that was pushed by a group of bankers led by Vladimir Potanin, and Chubais is generally described as having opposed it. He became the public face — and the lightning rod — of Russia's privatization drive.",
       "difficulty": "easy",
       "era": "1990s",
       "country": "russia",
       "tags": [
         "chubais",
         "privatization",
-        "loans_for_shares",
         "voucher_privatization",
         "reformers"
       ],
       "sources": [
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-21"
+      "last_reviewed_date": "2026-04-22"
     },
     {
       "id": "et_0070",
@@ -15103,7 +15102,7 @@
           "note": "The mayor of Leningrad/St. Petersburg in 1991-96 was Anatoly Sobchak (Chubais's mentor and Putin's). Chubais worked in Sobchak's administration briefly before moving to Moscow to head GKI, but was never mayor himself."
         }
       ],
-      "explanation": "As head of GKI from November 1991 to November 1994, Chubais was the main architect of mass voucher privatization (1992-94). As First Deputy PM for the economic bloc under Chernomyrdin (1994-96) he oversaw the macro-stabilization push and the loans-for-shares program. After the 1996 Yeltsin re-election he took over the Presidential Administration (July 1996-March 1997), effectively running the Kremlin while Yeltsin was ill.",
+      "explanation": "As head of GKI from November 1991 to November 1994, Chubais was the main architect of mass voucher privatization (1992-94). As First Deputy PM for the economic bloc under Chernomyrdin (1994-96) he led the macro-stabilization push; the 1995 loans-for-shares scheme went through on his government's watch but was designed by a bankers' group led by Potanin, and Chubais is generally described as having opposed it. After the 1996 Yeltsin re-election he took over the Presidential Administration (July 1996-March 1997), effectively running the Kremlin while Yeltsin was ill.",
       "difficulty": "very_hard",
       "era": "1990s",
       "country": "russia",

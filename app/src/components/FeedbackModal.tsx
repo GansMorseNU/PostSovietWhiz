@@ -1,8 +1,10 @@
 import { useEffect, useMemo, useState } from 'react';
 import type { Question } from '../types';
 import {
+  DIFFICULTY_LEVELS,
   isFeedbackEndpointConfigured,
   submitFeedback,
+  type DifficultyLevel,
   type FeedbackContext,
   type FeedbackKind,
 } from '../feedback';
@@ -38,6 +40,7 @@ export function FeedbackModal({ isOpen, onClose, question, context }: Props) {
   const [kind, setKind] = useState<FeedbackKind>('fact_error');
   const [details, setDetails] = useState('');
   const [suggestedRewrite, setSuggestedRewrite] = useState('');
+  const [suggestedDifficulty, setSuggestedDifficulty] = useState<DifficultyLevel | ''>('');
   const [reporter, setReporter] = useState('');
   const [statusMessage, setStatusMessage] = useState('');
   const [submitting, setSubmitting] = useState(false);
@@ -47,6 +50,7 @@ export function FeedbackModal({ isOpen, onClose, question, context }: Props) {
     setKind('fact_error');
     setDetails('');
     setSuggestedRewrite('');
+    setSuggestedDifficulty('');
     setStatusMessage('');
   }, [isOpen, question.id]);
 
@@ -71,6 +75,11 @@ export function FeedbackModal({ isOpen, onClose, question, context }: Props) {
     question.country,
   ].filter(Boolean);
 
+  const isDifficultyKind = kind === 'difficulty';
+  const currentDifficultyLabel =
+    DIFFICULTY_LEVELS.find((l) => l.value === question.difficulty)?.label ??
+    question.difficulty;
+
   const handleSubmit = async (event: React.FormEvent<HTMLFormElement>) => {
     event.preventDefault();
     setSubmitting(true);
@@ -81,6 +90,7 @@ export function FeedbackModal({ isOpen, onClose, question, context }: Props) {
       kind,
       details: details.trim(),
       suggestedRewrite: suggestedRewrite.trim(),
+      suggestedDifficulty: isDifficultyKind && suggestedDifficulty ? suggestedDifficulty : undefined,
       reporter: reporter.trim(),
     });
 
@@ -130,15 +140,53 @@ export function FeedbackModal({ isOpen, onClose, question, context }: Props) {
             </select>
           </label>
 
+          {isDifficultyKind && (
+            <div className="feedback-field feedback-difficulty-block">
+              <span className="feedback-label">Correct difficulty</span>
+              <p className="feedback-difficulty-current">
+                Current: <strong>{currentDifficultyLabel}</strong>
+              </p>
+              <div className="feedback-difficulty-options" role="radiogroup" aria-label="Correct difficulty">
+                {DIFFICULTY_LEVELS.map((level) => {
+                  const isCurrent = level.value === question.difficulty;
+                  return (
+                    <label
+                      key={level.value}
+                      className={`feedback-difficulty-option${
+                        isCurrent ? ' is-current' : ''
+                      }${suggestedDifficulty === level.value ? ' is-selected' : ''}`}
+                    >
+                      <input
+                        type="radio"
+                        name="suggested-difficulty"
+                        value={level.value}
+                        checked={suggestedDifficulty === level.value}
+                        disabled={isCurrent}
+                        onChange={() => setSuggestedDifficulty(level.value)}
+                      />
+                      <span>{level.label}</span>
+                    </label>
+                  );
+                })}
+              </div>
+            </div>
+          )}
+
           <label className="feedback-field">
-            <span className="feedback-label">What should change?</span>
+            <span className="feedback-label">
+              {isDifficultyKind ? 'Notes (optional)' : 'What should change?'}
+            </span>
             <textarea
               className="feedback-textarea"
               value={details}
               onChange={(event) => setDetails(event.target.value)}
-              rows={5}
-              required
-              placeholder="Example: This fact is wrong; the correct year is 1994."
+              rows={isDifficultyKind ? 3 : 5}
+              required={!isDifficultyKind}
+              placeholder={
+                isDifficultyKind
+                  ? 'Optional: explain why you’d re-level this.'
+                  : 'Example: This fact is wrong; the correct year is 1994.'
+              }
             />
           </label>
 
@@ -175,7 +223,11 @@ export function FeedbackModal({ isOpen, onClose, question, context }: Props) {
             <button type="button" className="ghost" onClick={onClose}>
               Close
             </button>
-            <button type="submit" className="primary primary-accent" disabled={submitting}>
+            <button
+              type="submit"
+              className="primary primary-accent"
+              disabled={submitting || (isDifficultyKind && !suggestedDifficulty)}
+            >
               {submitting ? 'Sending…' : endpointConfigured ? 'Send feedback' : 'Save feedback'}
             </button>
           </div>

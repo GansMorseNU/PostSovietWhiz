@@ -9,6 +9,15 @@ export type FeedbackKind =
   | 'bug'
   | 'other';
 
+export type DifficultyLevel = 'easy' | 'medium' | 'hard' | 'very_hard';
+
+export const DIFFICULTY_LEVELS: { value: DifficultyLevel; label: string }[] = [
+  { value: 'easy', label: 'Easy' },
+  { value: 'medium', label: 'Medium' },
+  { value: 'hard', label: 'Hard' },
+  { value: 'very_hard', label: 'Very hard' },
+];
+
 export type FeedbackSurface =
   | 'quiz'
   | 'game'
@@ -37,6 +46,7 @@ export type FeedbackSubmission = {
   kind: FeedbackKind;
   details: string;
   suggestedRewrite?: string;
+  suggestedDifficulty?: DifficultyLevel;
   reporter?: string;
   questionId: string;
   prompt: string;
@@ -57,6 +67,7 @@ type SubmitFeedbackInput = {
   kind: FeedbackKind;
   details: string;
   suggestedRewrite?: string;
+  suggestedDifficulty?: DifficultyLevel;
   reporter?: string;
 };
 
@@ -81,14 +92,27 @@ function buildSubmission(input: SubmitFeedbackInput): FeedbackSubmission {
     .join('\n');
   const autoApply = textToInspect.includes('*JGM*');
 
+  let details = input.details;
+  if (input.kind === 'difficulty' && input.suggestedDifficulty) {
+    const suggestedLabel =
+      DIFFICULTY_LEVELS.find((l) => l.value === input.suggestedDifficulty)?.label ??
+      input.suggestedDifficulty;
+    const currentLabel =
+      DIFFICULTY_LEVELS.find((l) => l.value === input.question.difficulty)?.label ??
+      input.question.difficulty;
+    const prefix = `Suggested difficulty: ${suggestedLabel} (current: ${currentLabel}).`;
+    details = details ? `${prefix}\n${details}` : prefix;
+  }
+
   return {
     id: globalThis.crypto?.randomUUID?.() ?? `fb-${Date.now()}`,
     submittedAt: new Date().toISOString(),
     workflow: autoApply ? 'auto_apply_next_pass' : 'review_queue',
     autoApply,
     kind: input.kind,
-    details: input.details,
+    details,
     suggestedRewrite: input.suggestedRewrite || undefined,
+    suggestedDifficulty: input.kind === 'difficulty' ? input.suggestedDifficulty : undefined,
     reporter: input.reporter || undefined,
     questionId: input.question.id,
     prompt: input.question.prompt,
