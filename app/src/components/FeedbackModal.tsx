@@ -51,6 +51,7 @@ export function FeedbackModal({ isOpen, onClose, question, context }: Props) {
     setDetails('');
     setSuggestedRewrite('');
     setSuggestedDifficulty('');
+    setReporter('');
     setStatusMessage('');
   }, [isOpen, question.id]);
 
