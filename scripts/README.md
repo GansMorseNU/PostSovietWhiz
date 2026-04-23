@@ -92,6 +92,53 @@ Optional parameters:
 - `question_id=...`
 - `limit=50`
 
+## Analytics (answer % correct + app usage)
+
+The app can also stream two kinds of anonymous events to the same Apps Script:
+
+- `answer_event` — one per question answered (question id, was_correct, surface, anonymous client id, session id).
+- `session_start` — one per app launch.
+
+These land on two new sheet tabs, `Answers` and `Sessions`. The read scripts aggregate them.
+
+### Read answer stats (per-question % correct)
+```
+python3 scripts/answer_stats.py <token>              # worst-performing first
+python3 scripts/answer_stats.py <token> --sort best  # best-performing first
+python3 scripts/answer_stats.py <token> --sort most  # most attempts first
+python3 scripts/answer_stats.py <token> --min-seen 10
+```
+
+### Read usage stats (launches + unique users)
+```
+python3 scripts/usage_stats.py <token>
+```
+Reports total launches, total unique clients (all-time), and per-day / per-month
+breakdowns of launches and distinct `client_id`s.
+
+### How to turn analytics on
+
+Analytics ship **disabled** by default (`ANALYTICS_ENABLED = false` in
+`app/src/analytics.ts`) so a new app build can be deployed before the server
+accepts the new event types, without any risk of polluting the Feedback sheet.
+Activate in this order:
+
+1. Paste the updated `scripts/google_apps_script_feedback.gs` into the Apps
+   Script editor. It adds a dispatch branch to `doPost` that routes
+   `type: "answer_event"` rows to the `Answers` sheet, `type: "session_start"`
+   rows to the `Sessions` sheet, and leaves all other (feedback) POSTs on the
+   existing code path. Redeploy the Web App deployment.
+2. Verify feedback still works: submit a normal report from the app and confirm
+   it lands in the `Feedback` sheet as before.
+3. Flip `ANALYTICS_ENABLED` to `true` in `app/src/analytics.ts`.
+4. Rebuild and redeploy the app.
+
+Deploying the app before step 1 is safe — `logAnswer` and `logSessionStart`
+short-circuit while the flag is false and never touch the network.
+
+Dedupe: every event carries a client-side UUID `id`. The aggregation filters
+duplicates by that id, so retried / re-POSTed events never inflate counts.
+
 ## Rules Embedded in the Pipeline
 These rules are enforced structurally (Layer 1) or by agent prompts (Layers 2-4):
 
@@ -116,6 +163,13 @@ These rules are enforced structurally (Layer 1) or by agent prompts (Layers 2-4)
 - No politically loaded framing
 - All images flagged for manual approval
 - Difficulty checked against user's calibration patterns
-- Feedback rows: cross-check the JGM readback against
+- Feedback rows: cross-check the readback against
   `scripts/feedback_applied.json` (via `python3 scripts/feedback_diff.py <token>`)
-  before applying anything, so already-processed items don't get re-edited
+  before applying anything, so already-processed items don't get re-edited.
+  By default this checks *both* the JGM auto-apply queue and the student
+  review queue; narrow with `--queue auto` or `--queue review`. The ledger
+  is shared: once a row's short submission id is written into
+  `feedback_applied.json` (status `applied`, `ignored_duplicate`, or
+  `dismissed`), it will no longer appear in the "new rows" list for either
+  queue. Always add a ledger entry after reviewing a student item, even if
+  the decision is "no change" — that's what checks it off.

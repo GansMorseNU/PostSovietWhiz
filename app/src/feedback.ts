@@ -156,6 +156,46 @@ function savePendingFeedback(submission: FeedbackSubmission): number {
   return pending.length;
 }
 
+function removePendingFeedbackById(id: string): void {
+  const pending = getPendingFeedback().filter((p) => p.id !== id);
+  window.localStorage.setItem(FEEDBACK_QUEUE_KEY, JSON.stringify(pending));
+  dispatchQueueEvent();
+}
+
+let retryInFlight = false;
+
+export async function retryPendingFeedback(): Promise<number> {
+  if (retryInFlight) return 0;
+  const endpoint = getFeedbackEndpoint();
+  if (!endpoint) return 0;
+  const queue = getPendingFeedback();
+  if (queue.length === 0) return 0;
+
+  retryInFlight = true;
+  let sent = 0;
+  try {
+    for (const submission of queue) {
+      try {
+        await fetch(endpoint, {
+          method: 'POST',
+          mode: 'no-cors',
+          headers: {
+            'Content-Type': 'text/plain;charset=utf-8',
+          },
+          body: JSON.stringify(submission),
+        });
+        removePendingFeedbackById(submission.id);
+        sent++;
+      } catch {
+        break;
+      }
+    }
+  } finally {
+    retryInFlight = false;
+  }
+  return sent;
+}
+
 export function getPendingFeedbackCount(): number {
   return getPendingFeedback().length;
 }

@@ -1,6 +1,7 @@
 import { useEffect, useLayoutEffect, useMemo, useRef, useState, type RefObject } from 'react';
 import type { Answer, Question } from '../types';
 import { FeedbackModal } from './FeedbackModal';
+import { logAnswer } from '../analytics';
 import { shuffleArray } from '../util';
 
 type Props = {
@@ -54,6 +55,7 @@ export function Quiz({ questions, onFinish, scrollContainerRef }: Props) {
         correct: shuffledChoices[i].correct,
       },
     ]);
+    logAnswer(q, shuffledChoices[i].correct, 'quiz');
   };
 
   const next = () => {

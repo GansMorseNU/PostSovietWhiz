@@ -2,6 +2,7 @@ import React, { useLayoutEffect, useMemo, useRef, useState } from 'react';
 import type { Answer, Question } from '../types';
 import { FeedbackModal } from './FeedbackModal';
 import { GAME_LEVELS, selectQuestionsForLevel, type GameLevel } from '../gameConfig';
+import { logAnswer } from '../analytics';
 import { shuffleArray } from '../util';
 
 type Props = {
@@ -228,6 +229,7 @@ function LevelPlay({
       ...answers,
       { questionId: q.id, chosenIndex: i, chosenText: shuffledChoices[i].text, correct: shuffledChoices[i].correct },
     ]);
+    logAnswer(q, shuffledChoices[i].correct, 'game');
   };
 
   const next = () => {

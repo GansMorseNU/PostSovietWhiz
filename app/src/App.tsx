@@ -1,4 +1,4 @@
-import { useLayoutEffect, useRef, useState } from 'react';
+import { useEffect, useLayoutEffect, useRef, useState } from 'react';
 import questionsData from '../../content/questions.sample.json';
 import type { Answer, CountryFilter, DifficultyFilter, EraFilter, Question, QuestionBank } from './types';
 import { Start } from './components/Start';
@@ -7,6 +7,8 @@ import { Quiz } from './components/Quiz';
 import { Results } from './components/Results';
 import { Game } from './components/Game';
 import { GameSetup } from './components/GameSetup';
+import { retryPendingFeedback } from './feedback';
+import { logSessionStart, retryPendingAnalytics } from './analytics';
 import { shuffleArray } from './util';
 
 export const APP_NAME = 'PostSovietWhiz';
@@ -191,6 +193,18 @@ export function App() {
     if (appRef.current) appRef.current.scrollTop = 0;
     window.scrollTo(0, 0);
   }, [screen.kind]);
+
+  useEffect(() => {
+    retryPendingFeedback();
+    retryPendingAnalytics();
+    logSessionStart();
+    const handleOnline = () => {
+      retryPendingFeedback();
+      retryPendingAnalytics();
+    };
+    window.addEventListener('online', handleOnline);
+    return () => window.removeEventListener('online', handleOnline);
+  }, []);
 
   const mode = screenMode(screen);
   const startQuiz = (target: QuizTarget, filters: Filters) => {
