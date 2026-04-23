@@ -700,6 +700,22 @@
       "processed_at": "2026-04-22",
       "status": "ignored_duplicate",
       "note": "Duplicate of f07abf59 (same question, same suggested difficulty). Applied once."
+    },
+    {
+      "id": "44331b35",
+      "question_id": "et_0049",
+      "submitted_at": "2026-04-21T16:31:45.951Z",
+      "processed_at": "2026-04-22",
+      "status": "applied",
+      "note": "Reworded prompt to lead with Yushchenko as PM; added Kuchma-as-president context and Tymoshenko's energy portfolio to the explanation. Submitted without *JGM* tag but confirmed by JGM as his own feedback."
+    },
+    {
+      "id": "0942d9a5",
+      "question_id": "pt_0082",
+      "submitted_at": "2026-04-23T00:38:21.387Z",
+      "processed_at": "2026-04-22",
+      "status": "dismissed",
+      "note": "Test submission by JGM verifying the review-queue readback worked; details field contained only the string \"Test\". No change needed."
     }
   ]
 }

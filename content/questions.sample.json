@@ -2047,7 +2047,7 @@
       "category": "economic_transitions",
       "subcategory": "economic_transitions",
       "type": "multiple_choice",
-      "prompt": "Why did Ukraine's 1999-2001 reform push under Yushchenko and Tymoshenko prove politically fragile?",
+      "prompt": "Why did Ukraine's 1999-2001 reform push under Prime Minister Viktor Yushchenko prove politically fragile?",
       "choices": [
         {
           "text": "Once immediate default fears eased, many oligarchic interests no longer wanted reforms that threatened barter, opaque rents, and nonpayment schemes",
@@ -2069,7 +2069,7 @@
           "note": "The political problem was coalition support and threatened rents, not excessively low inflation."
         }
       ],
-      "explanation": "The reforms improved remonetization and transparency, but those very gains threatened powerful actors. This is a classic political-economy problem: crisis can produce reform coalitions, but success can weaken them.",
+      "explanation": "The reforms are most closely associated with Yushchenko as prime minister under President Leonid Kuchma; Yulia Tymoshenko, his Deputy PM for fuel and energy, drove the energy-sector piece. (Yushchenko would later succeed Kuchma as president after the 2004 Orange Revolution.) The reforms improved remonetization and transparency, but those very gains threatened powerful actors. This is a classic political-economy problem: crisis can produce reform coalitions, but success can weaken them.",
       "difficulty": "hard",
       "era": "2000s",
       "country": "ukraine",
@@ -2082,7 +2082,7 @@
       "sources": [
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-20"
+      "last_reviewed_date": "2026-04-22"
     },
     {
       "id": "et_0050",
@@ -13429,7 +13429,7 @@
       "prompt": "On 13 January 1991 Soviet forces stormed the Vilnius television tower in Lithuania, killing fourteen civilians. What was the political context of this 'Vilnius Massacre'?",
       "choices": [
         {
-          "text": "It was an attempt by Soviet conservatives — likely with tacit or actual Gorbachev-era approval — to reverse Lithuania's March 1990 independence declaration by installing a pro-Moscow 'National Salvation Committee', but the effort failed after Lithuanian civilians surrounded parliament and the crackdown was aborted",
+          "text": "It was an attempt by Soviet conservatives — likely with Gorbachev's tacit or actual approval — to reverse Lithuania's March 1990 independence declaration by installing a pro-Moscow 'National Salvation Committee', but the effort failed after Lithuanian civilians surrounded parliament and the crackdown was aborted",
           "correct": true
         },
         {
