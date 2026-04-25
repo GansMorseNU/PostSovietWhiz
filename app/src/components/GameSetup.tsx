@@ -1,23 +1,28 @@
-import { prettyCountry, prettyEra } from '../App';
-import type { CountryFilter, EraFilter } from '../types';
+import { prettyCohort, prettyCountry, prettyEra } from '../App';
+import type { CohortFilter, CountryFilter, EraFilter } from '../types';
 
 type Props = {
   era: EraFilter;
   onChangeEra: (era: EraFilter) => void;
   country: CountryFilter;
   onChangeCountry: (country: CountryFilter) => void;
+  cohort: CohortFilter;
+  onChangeCohort: (cohort: CohortFilter) => void;
   matchingCount: number;
   onStartGame: () => void;
 };
 
 const ERAS: EraFilter[] = ['all', 'soviet', '1990s', '2000s', '2010s_plus'];
 const COUNTRIES: CountryFilter[] = ['all', 'russia', 'ukraine', 'both'];
+const COHORTS: CohortFilter[] = ['all', 'vintage', 'classic', 'recent', 'fresh'];
 
 export function GameSetup({
   era,
   onChangeEra,
   country,
   onChangeCountry,
+  cohort,
+  onChangeCohort,
   matchingCount,
   onStartGame,
 }: Props) {
@@ -58,6 +63,23 @@ export function GameSetup({
               onClick={() => onChangeCountry(value)}
             >
               {prettyCountry[value]}
+            </button>
+          ))}
+        </div>
+      </div>
+
+      <div className="filter-group">
+        <div className="filter-label">Freshness</div>
+        <div className="filter-tabs" role="tablist">
+          {COHORTS.map((value) => (
+            <button
+              key={value}
+              role="tab"
+              aria-selected={cohort === value}
+              className={`filter-tab ${cohort === value ? 'filter-tab-active' : ''}`}
+              onClick={() => onChangeCohort(value)}
+            >
+              {prettyCohort[value]}
             </button>
           ))}
         </div>

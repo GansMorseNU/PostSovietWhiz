@@ -716,6 +716,126 @@
       "processed_at": "2026-04-22",
       "status": "dismissed",
       "note": "Test submission by JGM verifying the review-queue readback worked; details field contained only the string \"Test\". No change needed."
+    },
+    {
+      "id": "e1fe2e0b",
+      "question_id": "pt_0069",
+      "submitted_at": "2026-04-23T02:30:46.400Z",
+      "processed_at": "2026-04-22",
+      "status": "dismissed",
+      "note": "Test submission by JGM verifying the post-distribution feedback flow still works after the Apps Script refactor; details field contained only the string \"Test\". No change needed."
+    },
+    {
+      "id": "0256c31b",
+      "question_id": "et_0032",
+      "submitted_at": "2026-04-23T04:42:19.163Z",
+      "processed_at": "2026-04-23",
+      "status": "applied",
+      "note": "Removed 'The lectures contrast...' framing from explanation; reworded as a direct statement of the China/USSR contrast."
+    },
+    {
+      "id": "f7f5feb5",
+      "question_id": "et_0104",
+      "submitted_at": "2026-04-23T04:44:42.925Z",
+      "processed_at": "2026-04-23",
+      "status": "applied",
+      "note": "Expanded 'Ofer' to 'Gur Ofer' in the correct choice and added an explanation sentence identifying him (Hebrew University economist, 1987 JEL survey 'Soviet Economic Growth: 1928-1985') so the reference is not opaque."
+    },
+    {
+      "id": "ce7575bc",
+      "question_id": "et_0098",
+      "submitted_at": "2026-04-23T04:46:10.628Z",
+      "processed_at": "2026-04-23",
+      "status": "applied",
+      "note": "Difficulty raised from hard to very_hard per JGM."
+    },
+    {
+      "id": "9e67721e",
+      "question_id": "et_0069",
+      "submitted_at": "2026-04-23T19:32:41.350Z",
+      "processed_at": "2026-04-23",
+      "status": "applied",
+      "note": "Removed the loans-for-shares sentence from the explanation per JGM."
+    },
+    {
+      "id": "e361a125",
+      "question_id": "fp_0005",
+      "submitted_at": "2026-04-23T19:37:34.904Z",
+      "processed_at": "2026-04-23",
+      "status": "applied",
+      "note": "Difficulty lowered from medium to easy per JGM."
+    },
+    {
+      "id": "691c00ef",
+      "question_id": "pt_0092",
+      "submitted_at": "2026-04-23T19:42:30.471Z",
+      "processed_at": "2026-04-23",
+      "status": "applied",
+      "note": "Difficulty lowered from hard to medium per JGM."
+    },
+    {
+      "id": "b8fe934d",
+      "question_id": "fp_0059",
+      "submitted_at": "2026-04-23T19:44:12.668Z",
+      "processed_at": "2026-04-23",
+      "status": "applied",
+      "note": "Difficulty lowered from very_hard to hard per JGM."
+    },
+    {
+      "id": "b0b8eff0",
+      "question_id": "pt_0064",
+      "submitted_at": "2026-04-24T02:12:14.145Z",
+      "processed_at": "2026-04-23",
+      "status": "applied",
+      "note": "Per JGM: kept 'why' framing but rewrote all three distractors as alternative causal explanations (oil/gas rents, 1998-weakened governor corps, 2004 constitutional devolution) rather than premise-contradicting claims; expanded explanation to mention 2004 gubernatorial-election abolition and United Russia."
+    },
+    {
+      "id": "b32e3c40",
+      "question_id": "pt_0116",
+      "submitted_at": "2026-04-24T03:01:57.037Z",
+      "processed_at": "2026-04-23",
+      "status": "applied",
+      "note": "Clarified 'White House' as the Moscow building housing the Supreme Soviet in both the correct choice and the explanation, to avoid confusion with the US executive mansion."
+    },
+    {
+      "id": "785e0e6c",
+      "question_id": "pt_0147",
+      "submitted_at": "2026-04-24T03:04:32.937Z",
+      "processed_at": "2026-04-23",
+      "status": "applied",
+      "note": "Removed 'JGM's lectures single out', 'the course's account', 'in the lectures', and 'in this course' phrasing from explanation and distractor notes. Also triggered a full-bank sweep (see next ledger entry)."
+    },
+    {
+      "id": "0ab92c87",
+      "question_id": "pt_0134",
+      "submitted_at": "2026-04-24T03:07:56.300Z",
+      "processed_at": "2026-04-23",
+      "status": "applied",
+      "note": "Shortened the correct-answer option (~90 words → ~50) and trimmed the explanation to reduce length-mismatch across the four choices per JGM."
+    },
+    {
+      "id": "e4a9f8f8",
+      "question_id": "pt_0112",
+      "submitted_at": "2026-04-24T03:10:02.502Z",
+      "processed_at": "2026-04-23",
+      "status": "applied",
+      "note": "Replaced 'December 1994 invasion' framing (awkward since Russia did not recognize Chechen independence) with 'Russian federal forces moved to reassert control' in both the correct choice and explanation."
+    },
+    {
+      "id": "a0f8ba00",
+      "question_id": "pt_0060",
+      "submitted_at": "2026-04-24T03:13:19.184Z",
+      "processed_at": "2026-04-23",
+      "status": "applied",
+      "note": "Difficulty raised from medium to hard per JGM."
+    },
+    {
+      "id": "48e6ef09",
+      "question_id": "pt_0143",
+      "submitted_at": "2026-04-24T03:15:22.492Z",
+      "processed_at": "2026-04-23",
+      "status": "applied",
+      "note": "Removed 'the course uses' from explanation. This submission and 785e0e6c both asked for a full-bank sweep; also fixed 13 other questions with similar 'the lectures/course/JGM's lecture/handout' phrasing: et_0037, et_0052, et_0059, pt_0012, pt_0137, pt_0138, pt_0139, pt_0140, pt_0142, pt_0144, pt_0145, fp_0131, pt_0148."
     }
   ]
 }

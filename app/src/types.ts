@@ -16,6 +16,10 @@ export type Country = 'russia' | 'ukraine' | 'both';
 
 export type CountryFilter = Country | 'all';
 
+export type Cohort = 'vintage' | 'classic' | 'recent' | 'fresh';
+
+export type CohortFilter = Cohort | 'all';
+
 export type Visual = {
   kind: 'image';
   url: string;
@@ -35,6 +39,7 @@ export type Question = {
   era: Era;
   era_filter_visibility?: Era[];
   country: Country;
+  cohort?: Cohort;
   tags: string[];
   sources?: string[];
   last_reviewed_date: string;

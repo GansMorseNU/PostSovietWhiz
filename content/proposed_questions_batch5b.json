@@ -59,7 +59,7 @@
         {
           "text": "Unaccredited private traders who operated outside state retail networks in the 1970s shadow economy, often dealing in scarce consumer goods",
           "correct": false,
-          "note": "Those shadow-economy actors are usually called 'spekulyanty' or associated with the broader informal economy of the Brezhnev era — an economic, not civic-political, phenomenon. Neformaly in this course are civic-political groups."
+          "note": "Those shadow-economy actors are usually called 'spekulyanty' or associated with the broader informal economy of the Brezhnev era — an economic, not civic-political, phenomenon. Neformaly are civic-political groups."
         },
         {
           "text": "Clandestine pro-Western dissident cells active in the late Brezhnev period, most of which were suppressed before Gorbachev took office",
@@ -69,10 +69,10 @@
         {
           "text": "Reform-minded factions inside the CPSU apparatus whose members quietly worked to promote perestroika from within Party institutions",
           "correct": false,
-          "note": "Neformaly operated outside the CPSU, not inside it. Intra-Party reformers are the category Gorbachev himself belonged to, and are treated as distinct in the lectures."
+          "note": "Neformaly operated outside the CPSU, not inside it. Intra-Party reformers are the category Gorbachev himself belonged to, a distinct group from the neformaly."
         }
       ],
-      "explanation": "Neformaly (from the Russian for 'informal [groups]') are a pivotal category in the course's account of the Soviet collapse. Glasnost allowed some freedom of association but did not yet permit formal opposition parties; the neformaly filled the space in between. JGM's lectures single out Memorial — initially a commemoration of Stalin's victims, later led by Andrei Sakharov — as a paradigmatic example. Others formed around environmental protection (e.g., against Lake Baikal pollution or nuclear power after Chernobyl), labor rights, and ethnic and religious causes. By 1988 they were organizing across major cities into popular fronts, which in turn supplied candidates and mobilizing capacity for the 1989 USSR and 1990 republic-level elections.",
+      "explanation": "Neformaly (from the Russian for 'informal [groups]') are a pivotal category for understanding the Soviet collapse. Glasnost allowed some freedom of association but did not yet permit formal opposition parties; the neformaly filled the space in between. The paradigmatic example is Memorial — initially a commemoration of Stalin's victims, later led by Andrei Sakharov. Others formed around environmental protection (e.g., against Lake Baikal pollution or nuclear power after Chernobyl), labor rights, and ethnic and religious causes. By 1988 they were organizing across major cities into popular fronts, which in turn supplied candidates and mobilizing capacity for the 1989 USSR and 1990 republic-level elections.",
       "difficulty": "medium",
       "era": "soviet",
       "country": "russia",
@@ -85,7 +85,7 @@
       "sources": [
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-22"
+      "last_reviewed_date": "2026-04-23"
     },
     {
       "id": "pt_0148",
@@ -114,7 +114,7 @@
           "note": "These were republic-wide elections for the Ukrainian SSR's Supreme Soviet (the Verkhovna Rada), not a municipal contest."
         }
       ],
-      "explanation": "The March 1990 Ukrainian SSR parliamentary elections are a key inflection point in the course's account of Ukraine's divergence from Russia. The Democratic Bloc — a coalition anchored by Rukh, the People's Movement of Ukraine for Perestroika — won roughly a quarter of the seats, concentrated heavily in western Ukraine. The Communist Party retained the majority, but its ranks included reformist currents, and the new parliament elected Leonid Kravchuk (a senior CPSU ideology secretary) as its chairman. Over the next 18 months, that parliament drove the 16 July 1990 Declaration of State Sovereignty, the response to the August 1991 coup, the 24 August 1991 Act of Independence, and the scheduling of the December 1991 independence referendum — all with Kravchuk, not a Rukh outsider, at the helm.",
+      "explanation": "The March 1990 Ukrainian SSR parliamentary elections are a key inflection point in Ukraine's divergence from Russia. The Democratic Bloc — a coalition anchored by Rukh, the People's Movement of Ukraine for Perestroika — won roughly a quarter of the seats, concentrated heavily in western Ukraine. The Communist Party retained the majority, but its ranks included reformist currents, and the new parliament elected Leonid Kravchuk (a senior CPSU ideology secretary) as its chairman. Over the next 18 months, that parliament drove the 16 July 1990 Declaration of State Sovereignty, the response to the August 1991 coup, the 24 August 1991 Act of Independence, and the scheduling of the December 1991 independence referendum — all with Kravchuk, not a Rukh outsider, at the helm.",
       "difficulty": "medium",
       "era": "soviet",
       "country": "ukraine",
@@ -128,7 +128,7 @@
       "sources": [
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-22"
+      "last_reviewed_date": "2026-04-23"
     },
     {
       "id": "pt_0149",

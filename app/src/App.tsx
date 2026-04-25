@@ -1,6 +1,6 @@
 import { useEffect, useLayoutEffect, useRef, useState } from 'react';
 import questionsData from '../../content/questions.sample.json';
-import type { Answer, CountryFilter, DifficultyFilter, EraFilter, Question, QuestionBank } from './types';
+import type { Answer, CohortFilter, CountryFilter, DifficultyFilter, EraFilter, Question, QuestionBank } from './types';
 import { Start } from './components/Start';
 import { Home } from './components/Home';
 import { Quiz } from './components/Quiz';
@@ -52,6 +52,7 @@ export type Filters = {
   difficulty: DifficultyFilter;
   era: EraFilter;
   country: CountryFilter;
+  cohort: CohortFilter;
 };
 
 type QuizSession = {
@@ -77,6 +78,7 @@ const DEFAULT_FILTERS: Filters = {
   difficulty: 'mix',
   era: 'all',
   country: 'all',
+  cohort: 'all',
 };
 
 /* ------------------------------------------------------------------ */
@@ -107,6 +109,13 @@ export const filterQuestions = (
       } else {
         if (q.country !== filters.country && q.country !== 'both') return false;
       }
+    }
+    // Cohort (question freshness, by time since creation).
+    // Questions without an explicit cohort are treated as 'fresh' — new questions
+    // enter the bank as fresh until a re-bucketing pass reassigns them.
+    if (filters.cohort !== 'all') {
+      const effectiveCohort = q.cohort ?? 'fresh';
+      if (effectiveCohort !== filters.cohort) return false;
     }
     return true;
   });
@@ -171,6 +180,14 @@ export const prettyCountry: Record<CountryFilter, string> = {
   russia: 'Russia',
   ukraine: 'Ukraine',
   both: 'Comparative',
+};
+
+export const prettyCohort: Record<CohortFilter, string> = {
+  all: 'All',
+  vintage: 'Vintage',
+  classic: 'Classic',
+  recent: 'Recent',
+  fresh: 'Fresh',
 };
 
 /* ------------------------------------------------------------------ */
@@ -281,6 +298,8 @@ export function App() {
           onChangeEra={(era) => setQuizFilters((prev) => ({ ...prev, era }))}
           country={quizFilters.country}
           onChangeCountry={(country) => setQuizFilters((prev) => ({ ...prev, country }))}
+          cohort={quizFilters.cohort}
+          onChangeCohort={(cohort) => setQuizFilters((prev) => ({ ...prev, cohort }))}
           countFor={(target) => filterQuestions(target, quizFilters).length}
           onStartQuiz={(target) => startQuiz(target, quizFilters)}
         />
@@ -292,6 +311,8 @@ export function App() {
           onChangeEra={(era) => setGameFilters((prev) => ({ ...prev, era }))}
           country={gameFilters.country}
           onChangeCountry={(country) => setGameFilters((prev) => ({ ...prev, country }))}
+          cohort={gameFilters.cohort}
+          onChangeCohort={(cohort) => setGameFilters((prev) => ({ ...prev, cohort }))}
           matchingCount={filterQuestions('all', gameFilters).length}
           onStartGame={() =>
             setScreen({

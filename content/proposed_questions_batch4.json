@@ -575,7 +575,7 @@
       "prompt": "Soviet official growth statistics from the early-1970s through the mid-1980s show which broad pattern?",
       "choices": [
         {
-          "text": "A steady decline in reported growth rates from the 1970s into the 1980s — with Western re-estimates (CIA, Ofer) generally lower than Soviet official figures and suggesting near-stagnation or mild contraction in the early 1980s",
+          "text": "A steady decline in reported growth rates from the 1970s into the 1980s — with Western re-estimates (CIA, Gur Ofer) generally lower than Soviet official figures and suggesting near-stagnation or mild contraction in the early 1980s",
           "correct": true
         },
         {
@@ -594,7 +594,7 @@
           "note": "Double-digit growth was characteristic of the 1930s and late 1940s Soviet periods, not Brezhnev-era stagnation. By the 1970s-80s, official Soviet growth had fallen to low single digits and Western re-estimates were lower still."
         }
       ],
-      "explanation": "The 'stagnation' (zastoi) label attached to the late Brezhnev period is rooted in the growth-rate slowdown: official net material product growth falling from ~7-8 percent in the 1960s to ~3-4 percent in the late 1970s, to ~2 percent or below in the early 1980s, with Western re-estimates even lower. The slowdown coincided with rising oil-revenue cushioning through the 1970s; the 1986 oil-price collapse then exposed the underlying weakness. This stagnation context is why Gorbachev's 1985 'uskorenie' (acceleration) framing resonated — and why its failure to deliver pushed him toward more radical perestroika reforms by 1987.",
+      "explanation": "The 'stagnation' (zastoi) label attached to the late Brezhnev period is rooted in the growth-rate slowdown: official net material product growth falling from ~7-8 percent in the 1960s to ~3-4 percent in the late 1970s, to ~2 percent or below in the early 1980s, with Western re-estimates even lower. Those re-estimates came chiefly from the CIA's Soviet GNP series and from the Hebrew University economist Gur Ofer, whose 1987 Journal of Economic Literature survey 'Soviet Economic Growth: 1928-1985' remains a canonical reconstruction. The slowdown coincided with rising oil-revenue cushioning through the 1970s; the 1986 oil-price collapse then exposed the underlying weakness. This stagnation context is why Gorbachev's 1985 'uskorenie' (acceleration) framing resonated — and why its failure to deliver pushed him toward more radical perestroika reforms by 1987.",
       "difficulty": "medium",
       "era": "soviet",
       "country": "russia",
@@ -609,7 +609,7 @@
         "Course lectures",
         "Philip Hanson, The Rise and Fall of the Soviet Economy"
       ],
-      "last_reviewed_date": "2026-04-21"
+      "last_reviewed_date": "2026-04-23"
     },
     {
       "id": "et_0106",
@@ -1538,7 +1538,7 @@
       "prompt": "In the early-to-mid 1990s Tatarstan and Chechnya both pressed claims against Moscow for greater autonomy or sovereignty. Why did the two cases produce such sharply different outcomes?",
       "choices": [
         {
-          "text": "Tatarstan under Mintimer Shaimiev bargained inside the Russian legal framework — culminating in the February 1994 bilateral power-sharing treaty that granted wide economic and cultural autonomy while keeping Tatarstan in the federation — whereas Chechnya under Dzhokhar Dudayev unilaterally declared independence in 1991, rejected negotiated arrangements, and refused Russian sovereignty altogether, which Moscow eventually met with the December 1994 invasion",
+          "text": "Tatarstan under Mintimer Shaimiev bargained inside the federal framework, signing a February 1994 bilateral power-sharing treaty that kept the republic in Russia; Chechnya under Dzhokhar Dudayev unilaterally declared independence in 1991 and refused negotiation, which Moscow met with force in December 1994",
           "correct": true
         },
         {
@@ -1557,7 +1557,7 @@
           "note": "Tatarstan's ethnic-Russian share (around 40 percent) was a factor, but the institutional difference was Shaimiev's strategy of negotiated asymmetric federalism versus Dudayev's outright secession. Demographics mattered less than leadership strategy."
         }
       ],
-      "explanation": "The Tatarstan-Chechnya contrast is the classic illustration of 1990s Russian asymmetric federalism. Shaimiev boycotted the December 1993 constitutional referendum in Tatarstan but then negotiated a bilateral treaty that codified many of Tatarstan's claims (taxes, natural resources, foreign contacts) inside the federal framework, setting a model that roughly 45 other regions eventually followed. Dudayev's Chechnya pursued the opposite path — unilateral secession with no intention of returning to bargaining — and the federal government ultimately resorted to force. The divergence was about leadership strategy and institutional choice, not ethnic or demographic determinism.",
+      "explanation": "The Tatarstan-Chechnya contrast is the classic illustration of 1990s Russian asymmetric federalism. Shaimiev boycotted the December 1993 constitutional referendum but then negotiated a bilateral treaty that codified Tatarstan's claims (taxes, natural resources, foreign contacts) inside the federal framework, setting a model many other regions followed. Dudayev's Chechnya pursued the opposite path — unilateral secession with no return to bargaining — and the federal government ultimately resorted to force. The divergence turned on leadership strategy and institutional choice, not ethnic or demographic determinism.",
       "difficulty": "hard",
       "era": "1990s",
       "era_filter_visibility": [
@@ -1574,7 +1574,7 @@
       "sources": [
         "Course lectures (nation-states unit)"
       ],
-      "last_reviewed_date": "2026-04-21"
+      "last_reviewed_date": "2026-04-23"
     },
     {
       "id": "pt_0135",

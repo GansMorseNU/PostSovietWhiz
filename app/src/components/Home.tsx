@@ -1,5 +1,5 @@
-import { CATEGORIES, prettyDifficulty, prettyEra, prettyCountry, type QuizTarget } from '../App';
-import type { CountryFilter, DifficultyFilter, EraFilter } from '../types';
+import { CATEGORIES, prettyDifficulty, prettyEra, prettyCountry, prettyCohort, type QuizTarget } from '../App';
+import type { CohortFilter, CountryFilter, DifficultyFilter, EraFilter } from '../types';
 
 type Props = {
   difficulty: DifficultyFilter;
@@ -8,6 +8,8 @@ type Props = {
   onChangeEra: (e: EraFilter) => void;
   country: CountryFilter;
   onChangeCountry: (c: CountryFilter) => void;
+  cohort: CohortFilter;
+  onChangeCohort: (c: CohortFilter) => void;
   countFor: (target: QuizTarget) => number;
   onStartQuiz: (target: QuizTarget) => void;
 };
@@ -15,6 +17,7 @@ type Props = {
 const DIFFICULTIES: DifficultyFilter[] = ['mix', 'easy', 'medium', 'hard', 'very_hard'];
 const ERAS: EraFilter[] = ['all', 'soviet', '1990s', '2000s', '2010s_plus'];
 const COUNTRIES: CountryFilter[] = ['all', 'russia', 'ukraine', 'both'];
+const COHORTS: CohortFilter[] = ['all', 'vintage', 'classic', 'recent', 'fresh'];
 
 export function Home({
   difficulty,
@@ -23,6 +26,8 @@ export function Home({
   onChangeEra,
   country,
   onChangeCountry,
+  cohort,
+  onChangeCohort,
   countFor,
   onStartQuiz,
 }: Props) {
@@ -79,6 +84,23 @@ export function Home({
               onClick={() => onChangeCountry(c)}
             >
               {prettyCountry[c]}
+            </button>
+          ))}
+        </div>
+      </div>
+
+      <div className="filter-group">
+        <div className="filter-label">Freshness</div>
+        <div className="filter-tabs" role="tablist">
+          {COHORTS.map((c) => (
+            <button
+              key={c}
+              role="tab"
+              aria-selected={cohort === c}
+              className={`filter-tab ${cohort === c ? 'filter-tab-active' : ''}`}
+              onClick={() => onChangeCohort(c)}
+            >
+              {prettyCohort[c]}
             </button>
           ))}
         </div>
