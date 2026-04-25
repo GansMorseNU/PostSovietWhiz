@@ -9,7 +9,7 @@
       "prompt": "On 14-15 March 1990 the Soviet Congress of People's Deputies created the new office of 'President of the USSR' and elected Mikhail Gorbachev to it. Historians frequently identify the manner of his election as a political misstep because:",
       "choices": [
         {
-          "text": "Gorbachev chose a Congress ballot rather than a popular vote (he was not confident of winning a direct election), leaving his presidential mandate weaker than Yeltsin's once Yeltsin was directly elected RSFSR president in June 1991",
+          "text": "Gorbachev chose a Congress ballot rather than a popular vote, leaving his presidential mandate weaker than Yeltsin's once Yeltsin was directly elected RSFSR president in June 1991",
           "correct": true
         },
         {
@@ -140,7 +140,7 @@
       "prompt": "Boris Yeltsin was elected President of the Russian Soviet Federative Socialist Republic on 12 June 1991. This election was distinctive because:",
       "choices": [
         {
-          "text": "It was the first direct popular election of an executive head in Russian history; Yeltsin won the first round with about 57 percent and gained a democratic mandate Gorbachev (elected by Congress) lacked",
+          "text": "It was the first direct popular election of an executive head in Russian history, giving Yeltsin a democratic mandate Gorbachev (elected by Congress) lacked",
           "correct": true
         },
         {
@@ -314,7 +314,7 @@
       "prompt": "On the eve of Russia's December 1994 invasion of Chechnya, Defense Minister Pavel Grachev publicly boasted that Grozny could be taken 'by one airborne regiment in two hours.' What happened during the 31 December 1994 New Year's assault that most decisively discredited this claim?",
       "choices": [
         {
-          "text": "The 131st Maikop Motor Rifle Brigade was largely destroyed in urban combat around the railway station and Dudayev's presidential palace; federal forces did not secure central Grozny until February 1995",
+          "text": "The 131st Maikop Motor Rifle Brigade was largely destroyed in urban combat around the railway station and Dudayev's presidential palace",
           "correct": true
         },
         {
@@ -488,7 +488,7 @@
       "prompt": "The Fatherland-All Russia (Otechestvo-Vsya Rossiya, OVR) bloc was formed in August 1999 as a challenger 'party of power.' Which three figures anchored it?",
       "choices": [
         {
-          "text": "Yevgeny Primakov (former PM), Yuri Luzhkov (Moscow mayor), and Mintimer Shaimiev (Tatarstan president), joined by a coalition of regional governors",
+          "text": "Yevgeny Primakov, Yuri Luzhkov, and Mintimer Shaimiev, joined by a coalition of regional governors",
           "correct": true
         },
         {
@@ -575,7 +575,7 @@
       "prompt": "Soviet official growth statistics from the early-1970s through the mid-1980s show which broad pattern?",
       "choices": [
         {
-          "text": "A steady decline in reported growth from the 1970s into the 1980s — with Western re-estimates (CIA, Gur Ofer) generally lower than Soviet official figures and suggesting near-stagnation",
+          "text": "A steady decline in reported growth from the 1970s into the 1980s, with Western re-estimates lower than Soviet figures and suggesting near-stagnation",
           "correct": true
         },
         {
@@ -706,7 +706,7 @@
       "prompt": "Estimates of the Soviet military-industrial complex's share of the economy in the 1980s generally place it at what level?",
       "choices": [
         {
-          "text": "Around 15-25 percent of Soviet GNP — several times the U.S. share — with post-1991 reassessments suggesting the true share was at the higher end",
+          "text": "Around 15-25 percent of Soviet GNP — several times the U.S. share",
           "correct": true
         },
         {
@@ -794,7 +794,7 @@
       "prompt": "In December 1992 the Russian Congress of People's Deputies forced Yeltsin to replace Yegor Gaidar as head of government. Who succeeded Gaidar?",
       "choices": [
         {
-          "text": "Viktor Chernomyrdin, the former USSR Minister of the Gas Industry (and founding head of Gazprom), who served as Prime Minister from December 1992 to March 1998",
+          "text": "Viktor Chernomyrdin, the former USSR Minister of the Gas Industry, who served as Prime Minister from December 1992 to March 1998",
           "correct": true
         },
         {
@@ -827,7 +827,7 @@
       "sources": [
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-21"
+      "last_reviewed_date": "2026-04-25"
     },
     {
       "id": "et_0114",
@@ -837,7 +837,7 @@
       "prompt": "The 'ruble zone' of the former Soviet republics effectively collapsed in mid-1993. What triggered the collapse?",
       "choices": [
         {
-          "text": "The Russian Central Bank's surprise July 1993 decision to invalidate Soviet-era and pre-1993-design ruble notes on Russian soil, forcing other republics to choose between Russia's new notes and their own currencies",
+          "text": "The Russian Central Bank's surprise July 1993 decision to invalidate Soviet-era and pre-1993-design ruble notes on Russian soil",
           "correct": true
         },
         {
@@ -968,7 +968,7 @@
       "prompt": "Which sequence correctly describes Anatoly Chubais's main roles in the Russian government in 1991-1996?",
       "choices": [
         {
-          "text": "Head of GKI from late 1991 (architect of voucher privatization), then First Deputy PM under Chernomyrdin (1994-96), then Chief of the Presidential Administration after July 1996",
+          "text": "Head of GKI from late 1991, First Deputy PM under Chernomyrdin 1994-96, then Chief of the Presidential Administration from July 1996",
           "correct": true
         },
         {
@@ -988,7 +988,7 @@
         }
       ],
       "explanation": "As head of GKI from November 1991 to November 1994, Chubais was the main architect of mass voucher privatization. As First Deputy PM for the economic bloc under Chernomyrdin he led macro-stabilization; the 1995 loans-for-shares scheme went through on his government's watch but was designed by a bankers' group led by Potanin, and Chubais is generally described as having opposed it. After the 1996 Yeltsin re-election he took over the Presidential Administration (July 1996-March 1997).",
-      "difficulty": "very_hard",
+      "difficulty": "medium",
       "era": "1990s",
       "country": "russia",
       "tags": [
@@ -1010,7 +1010,7 @@
       "prompt": "Viktor Yushchenko — later Ukraine's president (2005-2010) — served as chair of the National Bank of Ukraine (NBU) from January 1993 to December 1999. His central-bank tenure is chiefly remembered for:",
       "choices": [
         {
-          "text": "Stabilizing inflation after the 1993 hyperinflation, overseeing the September 1996 hryvnia conversion (100,000 karbovanets to 1 hryvnia), and managing an exchange-rate corridor that partially broke under 1998-99 contagion",
+          "text": "Stabilizing inflation after the 1993 hyperinflation, overseeing the September 1996 hryvnia conversion, and managing an exchange-rate corridor that partially broke under 1998-99 contagion",
           "correct": true
         },
         {
@@ -1140,7 +1140,7 @@
       "prompt": "Gorbachev's May 1989 visit to Beijing — the first Soviet-Chinese summit in thirty years — is historically notable in part because:",
       "choices": [
         {
-          "text": "It normalized Sino-Soviet relations after the 1960s-80s split but was overshadowed by the simultaneous Tiananmen Square protests amid intense international press coverage",
+          "text": "It normalized Sino-Soviet relations after the 1960s-80s split but was overshadowed by the simultaneous Tiananmen Square protests",
           "correct": true
         },
         {
@@ -1226,7 +1226,7 @@
       "prompt": "The Geneva Accords on Afghanistan — signed on 14 April 1988 by representatives of Afghanistan, Pakistan, the United States, and the USSR — did which of the following?",
       "choices": [
         {
-          "text": "Established a Soviet troop withdrawal schedule (within nine months, by 15 February 1989) and committed Kabul and Islamabad to non-interference, but left Najibullah's legitimacy unresolved and did not stop continued U.S./Soviet arms flows",
+          "text": "Established a Soviet troop withdrawal schedule and committed Kabul and Islamabad to non-interference, but left Najibullah's legitimacy unresolved",
           "correct": true
         },
         {
@@ -1269,7 +1269,7 @@
       "prompt": "Soviet recognition of the independence of Lithuania, Latvia, and Estonia was formally completed by:",
       "choices": [
         {
-          "text": "A State Council resolution on 6 September 1991 — the first decision of the new post-coup all-union executive body, which included Gorbachev and the heads of the participating republics",
+          "text": "A State Council resolution on 6 September 1991 — the first decision of the new post-coup all-union executive body",
           "correct": true
         },
         {
@@ -1289,7 +1289,7 @@
         }
       ],
       "explanation": "The State Council's 6 September 1991 recognition was symbolically enormous: it was the first sovereign act of the post-coup USSR executive, it was chaired by Gorbachev, it validated independence declarations the Baltic republics had been making since 1990 (Lithuania 11 March 1990; Latvia 4 May 1990 restoration; Estonia 20 August 1991), and it preceded the UN's admission of the three states on 17 September 1991. The Baltic case is distinctive among the Soviet successor states: the three republics rejected the CIS from the beginning, oriented toward Europe, and achieved NATO and EU membership in 2004 — a path politically foreclosed to Ukraine, Belarus, Moldova, and the Caucasus states.",
-      "difficulty": "hard",
+      "difficulty": "very_hard",
       "era": "soviet",
       "country": "russia",
       "tags": [
@@ -1303,7 +1303,7 @@
         "Course lectures",
         "https://en.wikipedia.org/wiki/Dissolution_of_the_Soviet_Union"
       ],
-      "last_reviewed_date": "2026-04-21"
+      "last_reviewed_date": "2026-04-25"
     },
     {
       "id": "fp_0124",
@@ -1333,7 +1333,7 @@
         }
       ],
       "explanation": "The sequence matters because each transition cued the next. Poland's Round Table produced partially-free elections on 4 June and the Mazowiecki government — the first non-communist PM in Eastern Europe since 1948. Hungary's fence-opening allowed East German refugees through, draining the GDR and making Honecker's regime unsustainable. Schabowski's 9 November press conference sent the Berlin Wall down. Czechoslovakia's Velvet Revolution was peaceful. Only Romania's transition was violent. Gorbachev's non-intervention stance (the 'Sinatra Doctrine') supplied the permissive condition.",
-      "difficulty": "hard",
+      "difficulty": "very_hard",
       "era": "soviet",
       "country": "russia",
       "tags": [
@@ -1538,7 +1538,7 @@
       "prompt": "In the early-to-mid 1990s Tatarstan and Chechnya both pressed claims against Moscow for greater autonomy or sovereignty. Why did the two cases produce such sharply different outcomes?",
       "choices": [
         {
-          "text": "Tatarstan under Mintimer Shaimiev bargained inside the federal framework, signing a February 1994 bilateral power-sharing treaty that kept the republic in Russia; Chechnya under Dzhokhar Dudayev unilaterally declared independence in 1991 and refused negotiation, which Moscow met with force in December 1994",
+          "text": "Tatarstan under Shaimiev bargained inside the federal framework, signing a February 1994 bilateral power-sharing treaty that kept the republic in Russia; Chechnya under Dudayev unilaterally declared independence in 1991 and refused negotiation",
           "correct": true
         },
         {
@@ -1574,7 +1574,7 @@
       "sources": [
         "Course lectures (nation-states unit)"
       ],
-      "last_reviewed_date": "2026-04-23"
+      "last_reviewed_date": "2026-04-25"
     },
     {
       "id": "pt_0135",
@@ -1631,7 +1631,7 @@
       "prompt": "Aleksandr Lebed — third-place finisher in Russia's 1996 presidential election and signer of the Khasavyurt Accords that ended the First Chechen War — is best characterized biographically as:",
       "choices": [
         {
-          "text": "A Soviet airborne general who commanded the 14th Army in Moldova during the 1992 Transnistrian conflict, ran in 1996 as a populist law-and-order outsider, and later governed Krasnoyarsk Krai before dying in a 2002 helicopter crash",
+          "text": "A Soviet airborne general who commanded the 14th Army in Moldova during the 1992 Transnistrian conflict, ran in 1996 as a populist law-and-order outsider, and later governed Krasnoyarsk Krai",
           "correct": true
         },
         {
@@ -1725,7 +1725,7 @@
       "prompt": "Among Russia's 1990s oligarchs, Boris Berezovsky stood out in political terms because:",
       "choices": [
         {
-          "text": "He combined major business holdings (LogoVAZ, ORT, Sibneft) with unusually direct Kremlin politics — including a kingmaker role in Putin's 1999 rise — before being pushed into British exile",
+          "text": "He combined major business holdings with unusually direct Kremlin politics — including a kingmaker role in Putin's 1999 rise",
           "correct": true
         },
         {
@@ -1818,7 +1818,7 @@
       "prompt": "In late-1990s Russian political commentary the term 'semibankirshchina' ('rule of the seven bankers'), coined by Boris Berezovsky in a 1996 Financial Times interview, referred to:",
       "choices": [
         {
-          "text": "A loosely coordinated group of seven financier-industrialist tycoons — including Berezovsky, Gusinsky, Khodorkovsky, Potanin, and Fridman — who acquired prize state assets through loans-for-shares and exercised outsized late-Yeltsin influence",
+          "text": "A loosely coordinated group of seven financier-industrialist tycoons who acquired prize state assets through loans-for-shares and exercised outsized late-Yeltsin influence",
           "correct": true
         },
         {
@@ -1914,7 +1914,7 @@
       "prompt": "Among the 1990s Russian oligarchs, Vladimir Potanin is most accurately characterized as:",
       "choices": [
         {
-          "text": "The Oneksimbank founder who originated the 1995 loans-for-shares proposal and through it acquired Norilsk Nickel; briefly First Deputy PM in 1996-97, he kept Interros intact through the Putin era",
+          "text": "The Oneksimbank founder who originated the 1995 loans-for-shares proposal and through it acquired Norilsk Nickel; briefly First Deputy PM in 1996-97",
           "correct": true
         },
         {
@@ -1934,7 +1934,7 @@
         }
       ],
       "explanation": "Potanin's distinctive move in 1990s oligarch history was proposing the loans-for-shares scheme itself — at a March 1995 Cabinet meeting — by which a small group of banks lent to the government against state-firm shares as collateral, then acquired those firms at the rigged follow-on auctions. Potanin's own auction prize was Norilsk Nickel at far below market value. Unlike Berezovsky, Gusinsky, and Khodorkovsky, Potanin stayed publicly out of Kremlin politics in the Putin era and kept his empire intact — a 'loyal oligarch' pattern.",
-      "difficulty": "very_hard",
+      "difficulty": "hard",
       "era": "1990s",
       "era_filter_visibility": [
         "1990s",
@@ -1962,7 +1962,7 @@
       "prompt": "Among Russia's 1990s-2000s oligarchs, Roman Abramovich is best characterized by which trajectory?",
       "choices": [
         {
-          "text": "Berezovsky's junior partner who acquired Sibneft via 1995 loans-for-shares, served as Chukotka governor, and sold Sibneft back to the state in 2005 — exiting politics with private wealth intact",
+          "text": "Berezovsky's junior partner who acquired Sibneft via 1995 loans-for-shares, served as Chukotka governor, and sold Sibneft back to the state in 2005",
           "correct": true
         },
         {
@@ -1982,7 +1982,7 @@
         }
       ],
       "explanation": "Abramovich is the 1990s oligarch whose trajectory best illustrates the 'accommodate and exit' strategy contrasted with the 'fight' paths of Berezovsky, Gusinsky, and Khodorkovsky. Sibneft was acquired in the 1995 loans-for-shares auction with Berezovsky as senior partner; Abramovich subsequently bought Berezovsky out after Berezovsky's break with the Kremlin. He bought Chelsea FC in 2003. The 2005 Sibneft sale to Gazprom ($13.1 billion) is often read as a state-mediated exit; he diversified abroad and avoided the fate of the politically visible 1990s oligarchs Putin targeted.",
-      "difficulty": "very_hard",
+      "difficulty": "hard",
       "era": "1990s",
       "era_filter_visibility": [
         "1990s",

@@ -11,7 +11,7 @@
       "prompt": "The Democratic Union, founded in Moscow in 1988, is notable in the late-Soviet period because it was:",
       "choices": [
         {
-          "text": "The first openly oppositional proto-political party in the USSR, founded during glasnost with the declared goals of building a multiparty system and dismantling Soviet rule, and organizing unauthorized demonstrations from the summer of 1988",
+          "text": "The first openly oppositional proto-political party in the USSR, founded during glasnost with the declared goals of building a multiparty system and dismantling Soviet rule",
           "correct": true
         },
         {
@@ -43,7 +43,7 @@
       "sources": [
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-22"
+      "last_reviewed_date": "2026-04-25"
     },
     {
       "id": "pt_0147",
@@ -53,7 +53,7 @@
       "prompt": "In the context of late-Soviet politics, \"neformaly\" refers to:",
       "choices": [
         {
-          "text": "Informal civic associations that proliferated from 1987 under glasnost — Stalin-era memory (Memorial), the environment, human rights — later coalescing into popular fronts and early opposition parties",
+          "text": "Informal civic associations that proliferated from 1987 under glasnost — later coalescing into popular fronts and early opposition parties",
           "correct": true
         },
         {
@@ -95,7 +95,7 @@
       "prompt": "What best describes the March 1990 elections to the Supreme Soviet (Verkhovna Rada) of the Ukrainian SSR?",
       "choices": [
         {
-          "text": "The first partially competitive Soviet Ukrainian elections: the Democratic Bloc (anchored by Rukh) took roughly a quarter of seats, Communists kept three-quarters, and Kravchuk became parliamentary chairman",
+          "text": "The first partially competitive Soviet Ukrainian elections: the Democratic Bloc took roughly a quarter of seats, Communists kept three-quarters, and Kravchuk became parliamentary chairman",
           "correct": true
         },
         {
@@ -138,7 +138,7 @@
       "prompt": "The Supreme Soviet of the Russian Federation — successor to the Supreme Soviet of the RSFSR — is best described as:",
       "choices": [
         {
-          "text": "A standing parliament drawn from the larger Congress of People's Deputies, seated in the White House, which under Khasbulatov became Yeltsin's chief institutional rival in 1992-93 and was forcibly dissolved during the October 1993 crisis",
+          "text": "A standing parliament drawn from the larger Congress of People's Deputies, seated in the White House, which became Yeltsin's chief institutional rival in 1992-93",
           "correct": true
         },
         {

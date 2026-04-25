@@ -227,7 +227,7 @@
       "prompt": "Physicist and dissident Andrei Sakharov returned to public political life in the late 1980s after being released from internal exile. What positions did he hold before his death in December 1989?",
       "choices": [
         {
-          "text": "A 1989 Congress of People's Deputies deputy and co-chair of the Interregional Deputies' Group — the first organized parliamentary opposition in Soviet history",
+          "text": "A 1989 Congress of People's Deputies deputy and co-chair of the Interregional Deputies' Group",
           "correct": true
         },
         {
@@ -247,7 +247,7 @@
         }
       ],
       "explanation": "Gorbachev personally telephoned Sakharov in December 1986 to end his Gorky exile, and Sakharov became one of the most prominent voices at the 1989 Congress — repeatedly clashing with Gorbachev over the pace of reform and arguing forcefully for repealing Article 6. His death on 14 December 1989 turned him into a moral symbol of the reform camp.",
-      "difficulty": "easy",
+      "difficulty": "medium",
       "era": "soviet",
       "country": "russia",
       "tags": [
@@ -270,7 +270,7 @@
       "prompt": "The December 1995 Russian Duma elections produced which headline result?",
       "choices": [
         {
-          "text": "The KPRF came first in party-list voting with about 22 percent, and only four parties cleared the 5-percent threshold (KPRF, LDPR, Our Home Is Russia, Yabloko)",
+          "text": "The KPRF came first in party-list voting with about 22 percent, and only four of 43 parties cleared the 5-percent threshold",
           "correct": true
         },
         {
@@ -357,7 +357,7 @@
       "prompt": "Grigory Yavlinsky, who co-authored the 1990 '500 Days Program', founded which political party in 1993?",
       "choices": [
         {
-          "text": "Yabloko — a liberal-democratic opposition party critical of shock therapy's sequencing and of Yeltsin's super-presidential constitution, which consistently polled around 7-10 percent through the 1990s",
+          "text": "Yabloko — a liberal-democratic opposition party critical of shock therapy's sequencing and of Yeltsin's super-presidential constitution",
           "correct": true
         },
         {
@@ -390,7 +390,7 @@
       "sources": [
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-21"
+      "last_reviewed_date": "2026-04-25"
     },
     {
       "id": "pt_0112",
@@ -400,7 +400,7 @@
       "prompt": "In November 1991 Dzhokhar Dudayev, an elected president of the Chechen-Ingush republic, declared what?",
       "choices": [
         {
-          "text": "Chechnya's independence from Russia (while Ingushetia stayed with Russia) — a unilateral secession that led to war when Russian forces moved in December 1994",
+          "text": "Chechnya's independence from Russia, while Ingushetia stayed within Russia",
           "correct": true
         },
         {
@@ -572,7 +572,7 @@
       "prompt": "During the October 1993 constitutional standoff in Russia, who did the Supreme Soviet declare to be 'acting president' after Yeltsin's dissolution decree?",
       "choices": [
         {
-          "text": "Vice-President Aleksandr Rutskoi, who broke with Yeltsin earlier in 1993 and operated from inside the besieged Russian White House",
+          "text": "Vice-President Aleksandr Rutskoi, who operated from inside the besieged Russian White House",
           "correct": true
         },
         {
@@ -615,7 +615,7 @@
       "prompt": "In late 1990s Russian political commentary the term 'Semya' ('the Family') referred to:",
       "choices": [
         {
-          "text": "A loose network around an ailing Yeltsin (Tatyana Dyachenko, Valentin Yumashev, Berezovsky, Voloshin) credited with engineering the 1999 Putin succession",
+          "text": "A loose network around an ailing Yeltsin credited with engineering the 1999 Putin succession",
           "correct": true
         },
         {
@@ -660,7 +660,7 @@
       "prompt": "Ukraine's 1998 Rada elections were the first to be held under a new electoral formula. Which formula was used?",
       "choices": [
         {
-          "text": "A mixed system: half of 450 seats by PR list (4-percent threshold), half by single-mandate districts — paralleling Russia's 1993 design",
+          "text": "A mixed system: half of 450 seats by PR list, half by single-mandate districts",
           "correct": true
         },
         {
@@ -704,7 +704,7 @@
       "prompt": "The Soviet 'second economy' (sometimes called the shadow economy), as described by Gregory Grossman and others, referred to:",
       "choices": [
         {
-          "text": "Production, trade, and services for private income outside the plan — from private subsidiary plots and informal cooperatives to black-market activity, blat, and workplace pilferage",
+          "text": "Production, trade, and services for private income outside the plan — including private plots, informal services, black-market activity, and blat",
           "correct": true
         },
         {
@@ -835,7 +835,7 @@
       "prompt": "The concept of 'monetary overhang' in the late Soviet economy referred to:",
       "choices": [
         {
-          "text": "Excess household ruble balances unmatched by goods at fixed prices — producing queues rather than open inflation, with pent-up demand waiting for liberalization",
+          "text": "Excess household ruble balances unmatched by goods at fixed prices, producing queues rather than open inflation",
           "correct": true
         },
         {
@@ -879,7 +879,7 @@
       "prompt": "The Council for Mutual Economic Assistance (COMECON or CMEA), which organized trade among Soviet-bloc states, dissolved in:",
       "choices": [
         {
-          "text": "1991, after a January 1991 decision to switch intra-bloc trade to dollar-denominated world prices destroyed the 'transferable ruble' system",
+          "text": "1991, after a January 1991 decision to switch intra-bloc trade to dollar-denominated world prices",
           "correct": true
         },
         {
@@ -1098,7 +1098,7 @@
       "prompt": "Following Ukraine's 1993 hyperinflation, Leonid Kuchma's 1994-1996 stabilization program relied on which external anchor and domestic measures?",
       "choices": [
         {
-          "text": "An IMF Extended Fund Facility plus price liberalization, tightened monetary policy, and (in September 1996) introduction of the hryvnia",
+          "text": "An IMF Extended Fund Facility plus price liberalization, tightened monetary policy, and introduction of the hryvnia in 1996",
           "correct": true
         },
         {
@@ -1229,7 +1229,7 @@
       "prompt": "'Black Tuesday' in Russian financial history refers to which event?",
       "choices": [
         {
-          "text": "The 27 percent one-day ruble fall on 11 October 1994, leading to the dismissal of finance minister Dubinin and CBR head Geraschenko",
+          "text": "The 27 percent one-day ruble fall on 11 October 1994",
           "correct": true
         },
         {
@@ -1248,7 +1248,7 @@
           "note": "There was no named 1996 near-default; the debt crisis came in 1998. 'Black Tuesday' refers to 11 October 1994."
         }
       ],
-      "explanation": "Black Tuesday (Chernyi Vtornik) of 11 October 1994 was an early test of Russian financial policy: the ruble dropped from about 3,000 to 3,900 per dollar in a single session, exposing the Central Bank's reserves shortfall. The episode briefly boosted reformist central-bank leadership but did not avert the larger 1998 crisis.",
+      "explanation": "Black Tuesday (Chernyi Vtornik) of 11 October 1994 saw the ruble drop from about 3,000 to 3,900 per dollar in a single session, exposing the Central Bank's reserves shortfall. Finance Minister Dubinin and CBR head Geraschenko were dismissed in the aftermath. The episode briefly boosted reformist central-bank leadership but did not avert the larger 1998 crisis.",
       "difficulty": "very_hard",
       "era": "1990s",
       "country": "russia",
@@ -1272,7 +1272,7 @@
       "prompt": "Sergei Mavrodi's MMM, which collapsed in July-August 1994, is significant in 1990s Russian economic history because:",
       "choices": [
         {
-          "text": "It was a mass pyramid scheme that, on collapse, destroyed roughly 2 million households' savings and became emblematic of 1990s regulatory vacuum and household precarity",
+          "text": "It was a mass pyramid scheme that, on collapse, destroyed roughly 2 million households' savings",
           "correct": true
         },
         {
@@ -1292,7 +1292,7 @@
         }
       ],
       "explanation": "MMM is a signature 1990s social-regulatory story: in an unregulated securities environment, Mavrodi's scheme used aggressive television advertising and serial coupon issuance to pull in millions before its collapse in mid-1994. Mavrodi was arrested on tax charges, elected to the Duma while under investigation, and prosecuted into the 2000s. The episode drove the adoption of Russia's first serious securities-market regulation under the Federal Securities Commission and is a standing reference point for 1990s household-wealth losses.",
-      "difficulty": "easy",
+      "difficulty": "very_hard",
       "era": "1990s",
       "country": "russia",
       "tags": [
@@ -1404,7 +1404,7 @@
       "prompt": "In his December 1988 speech at the UN General Assembly, Gorbachev announced which unilateral Soviet commitment?",
       "choices": [
         {
-          "text": "A unilateral 500,000-troop cut over two years, including six-tank-division withdrawals from Central Europe and a defensive-posture shift",
+          "text": "A unilateral 500,000-troop cut over two years, including a defensive-posture shift",
           "correct": true
         },
         {
@@ -1534,7 +1534,7 @@
       "prompt": "The post-Cold-War unraveling of the Eastern Bloc involved the roughly simultaneous dissolution of three multilateral Soviet-bloc institutions. Which three?",
       "choices": [
         {
-          "text": "The Warsaw Pact (military — dissolved July 1991), COMECON/CMEA (economic — dissolved June 1991), and the USSR itself (state — dissolved December 1991)",
+          "text": "The Warsaw Pact (military), COMECON/CMEA (economic), and the USSR itself (state) — all dissolved in 1991",
           "correct": true
         },
         {
@@ -1567,7 +1567,7 @@
       "sources": [
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-21"
+      "last_reviewed_date": "2026-04-25"
     },
     {
       "id": "fp_0101",
@@ -1620,7 +1620,7 @@
       "prompt": "The Treaty on the Creation of a Union State between Russia and Belarus, signed in December 1999, was intended to establish:",
       "choices": [
         {
-          "text": "A supranational Russia-Belarus confederation with common citizenship, coordinated economic and defense policy, and a notional common currency and parliament — though most institutions remained symbolic",
+          "text": "A supranational Russia-Belarus confederation with common citizenship, coordinated economic and defense policy, and a notional common currency and parliament",
           "correct": true
         },
         {
@@ -1663,7 +1663,7 @@
       "prompt": "The Dayton Accords of November 1995 ended the war in Bosnia. What role did Russia play?",
       "choices": [
         {
-          "text": "Russia was a Contact Group member present at the U.S.-led talks under Holbrooke, but its influence was limited and the settlement reflected U.S. priorities",
+          "text": "Russia was a Contact Group member present at the U.S.-led talks under Holbrooke, but its influence was limited",
           "correct": true
         },
         {
@@ -1750,7 +1750,7 @@
       "prompt": "At the November 1999 OSCE Istanbul Summit, Russia made which commitments regarding its military presence in former Soviet states?",
       "choices": [
         {
-          "text": "Russia signed the adapted CFE Treaty and committed politically to withdraw forces from Moldova and Georgian bases on timetables it later failed to fulfill",
+          "text": "Russia signed the adapted CFE Treaty and committed politically to withdraw forces from Moldova and Georgian bases",
           "correct": true
         },
         {
@@ -1769,7 +1769,7 @@
           "note": "No such basing agreement was signed or discussed. The Istanbul commitments concerned Russian forces in Moldova and Georgia, not NATO bases in Tajikistan."
         }
       ],
-      "explanation": "The November 1999 Istanbul OSCE Summit produced the adapted CFE Treaty and the linked 'Istanbul commitments' — political statements by Russia on withdrawal of its remaining forces from Moldova (14th Army residue) and from Georgia (Akhalkalaki and Batumi bases). Moldova withdrawal was not fully completed; Georgia withdrawal was largely fulfilled by 2008 only after delays and the 2008 war. The Istanbul commitments have been a running point of Western grievance against Russia's CFE record ever since.",
+      "explanation": "The November 1999 Istanbul OSCE Summit produced the adapted CFE Treaty and the linked 'Istanbul commitments' — Russian political pledges to withdraw remaining forces from Moldova (14th Army residue) and from Georgia (Akhalkalaki and Batumi bases). Moldova withdrawal was not completed; Georgia withdrawal was largely fulfilled only by 2008 after delays and the 2008 war. The Istanbul commitments have been a running point of Western grievance about Russia's CFE record.",
       "difficulty": "very_hard",
       "era": "1990s",
       "country": "russia",
@@ -1793,7 +1793,7 @@
       "prompt": "The 'Shanghai Five' grouping, founded in 1996, brought which five states together?",
       "choices": [
         {
-          "text": "Russia, China, Kazakhstan, Kyrgyzstan, and Tajikistan — initially negotiating border confidence-building, later expanding into broader cooperation as the SCO from 2001",
+          "text": "Russia, China, Kazakhstan, Kyrgyzstan, and Tajikistan — initially negotiating border confidence-building",
           "correct": true
         },
         {
@@ -1922,7 +1922,7 @@
       "prompt": "Russia joined the Council of Europe in February 1996. What domestic policy change followed as a direct admission condition?",
       "choices": [
         {
-          "text": "A moratorium on the death penalty observed continuously since 1996 — though Russia never formally ratified Protocol 6 abolishing capital punishment",
+          "text": "A moratorium on the death penalty observed continuously since 1996",
           "correct": true
         },
         {
@@ -2138,7 +2138,7 @@
       "prompt": "The Tashkent Treaty of 15 May 1992 established which post-Soviet security arrangement?",
       "choices": [
         {
-          "text": "The Collective Security Treaty (CST), later institutionalized in 2002 as the CSTO, originally signed by Russia, Armenia, Kazakhstan, Kyrgyzstan, Tajikistan, and Uzbekistan",
+          "text": "The Collective Security Treaty (CST), later institutionalized in 2002 as the CSTO",
           "correct": true
         },
         {

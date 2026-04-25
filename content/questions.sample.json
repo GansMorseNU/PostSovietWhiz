@@ -3186,7 +3186,7 @@
       "prompt": "The 1988 Law on Cooperatives legalized a new form of economic organization. Although these entities operated much like private businesses (hiring labor, setting prices, retaining profits), why were they deliberately called 'cooperatives' rather than private firms?",
       "choices": [
         {
-          "text": "The 'cooperative' label preserved a socialist facade — the Soviet ideological tradition (going back to Lenin's NEP-era writings) treated cooperatives as compatible with socialism, while calling them 'private enterprises' would have been politically impossible",
+          "text": "The 'cooperative' label preserved a socialist facade — Soviet ideological tradition treated cooperatives as compatible with socialism, while 'private enterprise' was politically unacceptable",
           "correct": true
         },
         {
@@ -3220,7 +3220,7 @@
         "Anders Åslund, Building Capitalism",
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-21",
+      "last_reviewed_date": "2026-04-25",
       "cohort": "recent"
     },
     {
@@ -3367,7 +3367,7 @@
       "prompt": "On 2 January 1992 Russia's deputy prime minister for economic policy, Yegor Gaidar, implemented the centerpiece of what critics of reforms called 'shock therapy'. Which measure was introduced that day?",
       "choices": [
         {
-          "text": "Near-complete liberalization of retail prices — most consumer-good prices were freed overnight, producing a sharp price jump and shortages giving way to high-priced shelves",
+          "text": "Near-complete liberalization of retail prices — most consumer-good prices were freed overnight",
           "correct": true
         },
         {
@@ -3593,7 +3593,7 @@
       "prompt": "Ukraine adopted a permanent national currency, the hryvnia, in September 1996. What did it replace, and at what conversion rate?",
       "choices": [
         {
-          "text": "The karbovanets (the interim coupon currency introduced after Ukraine left the ruble zone in 1992), exchanged at 100,000 karbovantsi to 1 hryvnia",
+          "text": "The karbovanets, exchanged at 100,000 karbovantsi to 1 hryvnia",
           "correct": true
         },
         {
@@ -3627,7 +3627,7 @@
         "Anders Åslund, How Ukraine Became a Market Economy and Democracy",
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-21",
+      "last_reviewed_date": "2026-04-25",
       "cohort": "recent"
     },
     {
@@ -3682,7 +3682,7 @@
       "prompt": "In Hellman's influential analysis of post-communist economic reform, who emerges as the central obstacle to completing market reforms?",
       "choices": [
         {
-          "text": "'Short-term winners' — actors who gained outsized rents in the partial-reform phase (price arbitrage, cheap credit, insider ownership) and lobbied to lock in a partial-reform equilibrium",
+          "text": "'Short-term winners' — actors who gained outsized rents in the partial-reform phase and lobbied to lock in a partial-reform equilibrium",
           "correct": true
         },
         {
@@ -3726,7 +3726,7 @@
       "prompt": "The Soviet 'second economy' (sometimes called the shadow economy), as described by Gregory Grossman and others, referred to:",
       "choices": [
         {
-          "text": "Production, trade, and services for private income outside the plan — from private subsidiary plots and informal cooperatives to black-market activity, blat, and workplace pilferage",
+          "text": "Production, trade, and services for private income outside the plan — including private plots, informal services, black-market activity, and blat",
           "correct": true
         },
         {
@@ -3860,7 +3860,7 @@
       "prompt": "The concept of 'monetary overhang' in the late Soviet economy referred to:",
       "choices": [
         {
-          "text": "Excess household ruble balances unmatched by goods at fixed prices — producing queues rather than open inflation, with pent-up demand waiting for liberalization",
+          "text": "Excess household ruble balances unmatched by goods at fixed prices, producing queues rather than open inflation",
           "correct": true
         },
         {
@@ -3905,7 +3905,7 @@
       "prompt": "The Council for Mutual Economic Assistance (COMECON or CMEA), which organized trade among Soviet-bloc states, dissolved in:",
       "choices": [
         {
-          "text": "1991, after a January 1991 decision to switch intra-bloc trade to dollar-denominated world prices destroyed the 'transferable ruble' system",
+          "text": "1991, after a January 1991 decision to switch intra-bloc trade to dollar-denominated world prices",
           "correct": true
         },
         {
@@ -4129,7 +4129,7 @@
       "prompt": "Following Ukraine's 1993 hyperinflation, Leonid Kuchma's 1994-1996 stabilization program relied on which external anchor and domestic measures?",
       "choices": [
         {
-          "text": "An IMF Extended Fund Facility plus price liberalization, tightened monetary policy, and (in September 1996) introduction of the hryvnia",
+          "text": "An IMF Extended Fund Facility plus price liberalization, tightened monetary policy, and introduction of the hryvnia in 1996",
           "correct": true
         },
         {
@@ -4263,7 +4263,7 @@
       "prompt": "'Black Tuesday' in Russian financial history refers to which event?",
       "choices": [
         {
-          "text": "The 27 percent one-day ruble fall on 11 October 1994, leading to the dismissal of finance minister Dubinin and CBR head Geraschenko",
+          "text": "The 27 percent one-day ruble fall on 11 October 1994",
           "correct": true
         },
         {
@@ -4282,7 +4282,7 @@
           "note": "There was no named 1996 near-default; the debt crisis came in 1998. 'Black Tuesday' refers to 11 October 1994."
         }
       ],
-      "explanation": "Black Tuesday (Chernyi Vtornik) of 11 October 1994 was an early test of Russian financial policy: the ruble dropped from about 3,000 to 3,900 per dollar in a single session, exposing the Central Bank's reserves shortfall. The episode briefly boosted reformist central-bank leadership but did not avert the larger 1998 crisis.",
+      "explanation": "Black Tuesday (Chernyi Vtornik) of 11 October 1994 saw the ruble drop from about 3,000 to 3,900 per dollar in a single session, exposing the Central Bank's reserves shortfall. Finance Minister Dubinin and CBR head Geraschenko were dismissed in the aftermath. The episode briefly boosted reformist central-bank leadership but did not avert the larger 1998 crisis.",
       "difficulty": "very_hard",
       "era": "1990s",
       "country": "russia",
@@ -4307,7 +4307,7 @@
       "prompt": "Sergei Mavrodi's MMM, which collapsed in July-August 1994, is significant in 1990s Russian economic history because:",
       "choices": [
         {
-          "text": "It was a mass pyramid scheme that, on collapse, destroyed roughly 2 million households' savings and became emblematic of 1990s regulatory vacuum and household precarity",
+          "text": "It was a mass pyramid scheme that, on collapse, destroyed roughly 2 million households' savings",
           "correct": true
         },
         {
@@ -5936,7 +5936,7 @@
           "note": "The treaty did not center on spy satellites or intelligence platforms."
         },
         {
-          "text": "Major conventional weapons such as tanks, armored vehicles, artillery, combat aircraft, and attack helicopters",
+          "text": "Major conventional weapons: tanks, armored vehicles, artillery, and aircraft",
           "correct": true
         },
         {
@@ -5958,7 +5958,7 @@
       "sources": [
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-21",
+      "last_reviewed_date": "2026-04-25",
       "cohort": "classic"
     },
     {
@@ -7620,7 +7620,7 @@
       "prompt": "In December 1990 Soviet Foreign Minister Eduard Shevardnadze abruptly resigned, warning in his Supreme Soviet speech of what danger?",
       "choices": [
         {
-          "text": "A 'coming dictatorship' — he resigned to protest the growing influence of conservative and security-service figures around Gorbachev and to warn publicly that reform was in jeopardy",
+          "text": "A 'coming dictatorship' — he resigned to protest the growing influence of conservative and security-service figures around Gorbachev",
           "correct": true
         },
         {
@@ -7654,7 +7654,7 @@
         "Archie Brown, The Rise and Fall of Communism",
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-21",
+      "last_reviewed_date": "2026-04-25",
       "cohort": "recent"
     },
     {
@@ -7665,7 +7665,7 @@
       "prompt": "Gorbachev's policy of not intervening as Eastern European communist regimes fell in 1989 — the rejection of the Brezhnev Doctrine — was informally dubbed:",
       "choices": [
         {
-          "text": "The 'Sinatra Doctrine' — a quip by Soviet foreign-ministry spokesman Gennady Gerasimov in late 1989, riffing on 'I Did It My Way' to signal that each Warsaw Pact state could follow its own path",
+          "text": "The 'Sinatra Doctrine' — Gennady Gerasimov's late-1989 quip riffing on 'I Did It My Way' to signal that each Warsaw Pact state could choose its own path",
           "correct": true
         },
         {
@@ -7684,7 +7684,7 @@
           "note": "Malta was significant diplomatically but there was no formal 'Malta Doctrine' codifying non-intervention; the informal name remains Sinatra Doctrine."
         }
       ],
-      "explanation": "The Sinatra Doctrine is a teachable moment in how informal signalling at the end of the Cold War worked. Gerasimov offered the term on U.S. television in October 1989 as Hungary opened its border, East Germans fled, and the Berlin Wall's fall approached. The underlying policy was Gorbachev's decision not to use Soviet forces in Warsaw Pact states to stop regime change — the reversal of Brezhnev Doctrine that made 1989 possible.",
+      "explanation": "The Sinatra Doctrine is a teachable moment in how informal signalling at the end of the Cold War worked. Soviet foreign-ministry spokesman Gennady Gerasimov offered the term on U.S. television in October 1989 as Hungary opened its border, East Germans fled, and the Berlin Wall's fall approached. The underlying policy was Gorbachev's decision not to use Soviet forces in Warsaw Pact states to stop regime change — the reversal of Brezhnev Doctrine that made 1989 possible.",
       "difficulty": "medium",
       "era": "soviet",
       "country": "russia",
@@ -7699,7 +7699,7 @@
         "Course lectures",
         "Archie Brown, The Rise and Fall of Communism"
       ],
-      "last_reviewed_date": "2026-04-21",
+      "last_reviewed_date": "2026-04-25",
       "cohort": "recent"
     },
     {
@@ -7754,7 +7754,7 @@
       "prompt": "German reunification (October 1990) was legally accomplished through which diplomatic framework?",
       "choices": [
         {
-          "text": "The 'Two Plus Four' Treaty — negotiations among the two German states and the four wartime occupying powers — yielding the September 1990 Final Settlement Treaty",
+          "text": "The 'Two Plus Four' Treaty — negotiations among the two German states and the four wartime occupying powers",
           "correct": true
         },
         {
@@ -7977,7 +7977,7 @@
       "prompt": "Russia was progressively integrated into the G7 through the second half of the 1990s, culminating in what is usually described as full membership by 1998. What was the basic sequence?",
       "choices": [
         {
-          "text": "Partial political participation from Naples 1994, expanded status from the 1997 Denver 'Summit of the Eight,' and full membership at the 1998 Birmingham summit — but Russia stayed off the G7 finance track",
+          "text": "Partial political participation from Naples 1994, expanded status from the 1997 Denver 'Summit of the Eight,' and full membership at the 1998 Birmingham summit",
           "correct": true
         },
         {
@@ -8065,7 +8065,7 @@
       "prompt": "The First Chechen War (1994-1996) ended with which settlement?",
       "choices": [
         {
-          "text": "The Khasavyurt Accords, negotiated by Aleksandr Lebed and Aslan Maskhadov in August 1996 — a ceasefire that postponed Chechnya's status for five years and was widely read as a Russian defeat",
+          "text": "The Khasavyurt Accords, negotiated by Aleksandr Lebed and Aslan Maskhadov in August 1996 — a ceasefire that postponed Chechnya's status for five years",
           "correct": true
         },
         {
@@ -8084,7 +8084,7 @@
           "note": "No such treaty existed. Chechnya did not sign an association treaty with Georgia; the war ended by the Khasavyurt Accords with Russia."
         }
       ],
-      "explanation": "The First Chechen War saw poorly prepared Russian forces mount a disastrous invasion in December 1994, suffer heavy casualties in the January 1995 storming of Grozny, and face a mobile, motivated Chechen resistance. Lebed's Khasavyurt Accords ended hostilities on terms favorable to the Chechen side, leaving the status question open. The settlement became a major talking point for Yeltsin's critics and set the stage for the Second Chechen War (1999-).",
+      "explanation": "The First Chechen War saw poorly prepared Russian forces mount a disastrous invasion in December 1994, suffer heavy casualties in the January 1995 storming of Grozny, and face a mobile, motivated Chechen resistance. Lebed's Khasavyurt Accords ended hostilities on terms widely read as a Russian defeat, leaving the status question open. The settlement set the stage for the Second Chechen War (1999-).",
       "difficulty": "medium",
       "era": "1990s",
       "country": "russia",
@@ -8286,7 +8286,7 @@
       "prompt": "The Tajik Civil War (1992-1997) was ended by a peace agreement signed in Moscow. What basic compromise did it reflect?",
       "choices": [
         {
-          "text": "A 30-percent power-sharing quota for the United Tajik Opposition (primarily the Islamic Renaissance Party) in government positions, combined with demobilization of opposition fighters and Russia-led CIS peacekeeping",
+          "text": "A 30-percent power-sharing quota for the United Tajik Opposition in government positions, combined with demobilization of opposition fighters and Russia-led CIS peacekeeping",
           "correct": true
         },
         {
@@ -8319,7 +8319,7 @@
       "sources": [
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-21",
+      "last_reviewed_date": "2026-04-25",
       "cohort": "recent"
     },
     {
@@ -8508,7 +8508,7 @@
       "prompt": "In his December 1988 speech at the UN General Assembly, Gorbachev announced which unilateral Soviet commitment?",
       "choices": [
         {
-          "text": "A unilateral 500,000-troop cut over two years, including six-tank-division withdrawals from Central Europe and a defensive-posture shift",
+          "text": "A unilateral 500,000-troop cut over two years, including a defensive-posture shift",
           "correct": true
         },
         {
@@ -8641,7 +8641,7 @@
       "prompt": "The post-Cold-War unraveling of the Eastern Bloc involved the roughly simultaneous dissolution of three multilateral Soviet-bloc institutions. Which three?",
       "choices": [
         {
-          "text": "The Warsaw Pact (military — dissolved July 1991), COMECON/CMEA (economic — dissolved June 1991), and the USSR itself (state — dissolved December 1991)",
+          "text": "The Warsaw Pact (military), COMECON/CMEA (economic), and the USSR itself (state) — all dissolved in 1991",
           "correct": true
         },
         {
@@ -8674,7 +8674,7 @@
       "sources": [
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-21",
+      "last_reviewed_date": "2026-04-25",
       "cohort": "recent"
     },
     {
@@ -8729,7 +8729,7 @@
       "prompt": "The Treaty on the Creation of a Union State between Russia and Belarus, signed in December 1999, was intended to establish:",
       "choices": [
         {
-          "text": "A supranational Russia-Belarus confederation with common citizenship, coordinated economic and defense policy, and a notional common currency and parliament — though most institutions remained symbolic",
+          "text": "A supranational Russia-Belarus confederation with common citizenship, coordinated economic and defense policy, and a notional common currency and parliament",
           "correct": true
         },
         {
@@ -8773,7 +8773,7 @@
       "prompt": "The Dayton Accords of November 1995 ended the war in Bosnia. What role did Russia play?",
       "choices": [
         {
-          "text": "Russia was a Contact Group member present at the U.S.-led talks under Holbrooke, but its influence was limited and the settlement reflected U.S. priorities",
+          "text": "Russia was a Contact Group member present at the U.S.-led talks under Holbrooke, but its influence was limited",
           "correct": true
         },
         {
@@ -8862,7 +8862,7 @@
       "prompt": "At the November 1999 OSCE Istanbul Summit, Russia made which commitments regarding its military presence in former Soviet states?",
       "choices": [
         {
-          "text": "Russia signed the adapted CFE Treaty and committed politically to withdraw forces from Moldova and Georgian bases on timetables it later failed to fulfill",
+          "text": "Russia signed the adapted CFE Treaty and committed politically to withdraw forces from Moldova and Georgian bases",
           "correct": true
         },
         {
@@ -8881,7 +8881,7 @@
           "note": "No such basing agreement was signed or discussed. The Istanbul commitments concerned Russian forces in Moldova and Georgia, not NATO bases in Tajikistan."
         }
       ],
-      "explanation": "The November 1999 Istanbul OSCE Summit produced the adapted CFE Treaty and the linked 'Istanbul commitments' — political statements by Russia on withdrawal of its remaining forces from Moldova (14th Army residue) and from Georgia (Akhalkalaki and Batumi bases). Moldova withdrawal was not fully completed; Georgia withdrawal was largely fulfilled by 2008 only after delays and the 2008 war. The Istanbul commitments have been a running point of Western grievance against Russia's CFE record ever since.",
+      "explanation": "The November 1999 Istanbul OSCE Summit produced the adapted CFE Treaty and the linked 'Istanbul commitments' — Russian political pledges to withdraw remaining forces from Moldova (14th Army residue) and from Georgia (Akhalkalaki and Batumi bases). Moldova withdrawal was not completed; Georgia withdrawal was largely fulfilled only by 2008 after delays and the 2008 war. The Istanbul commitments have been a running point of Western grievance about Russia's CFE record.",
       "difficulty": "very_hard",
       "era": "1990s",
       "country": "russia",
@@ -8906,7 +8906,7 @@
       "prompt": "The 'Shanghai Five' grouping, founded in 1996, brought which five states together?",
       "choices": [
         {
-          "text": "Russia, China, Kazakhstan, Kyrgyzstan, and Tajikistan — initially negotiating border confidence-building, later expanding into broader cooperation as the SCO from 2001",
+          "text": "Russia, China, Kazakhstan, Kyrgyzstan, and Tajikistan — initially negotiating border confidence-building",
           "correct": true
         },
         {
@@ -9038,7 +9038,7 @@
       "prompt": "Russia joined the Council of Europe in February 1996. What domestic policy change followed as a direct admission condition?",
       "choices": [
         {
-          "text": "A moratorium on the death penalty observed continuously since 1996 — though Russia never formally ratified Protocol 6 abolishing capital punishment",
+          "text": "A moratorium on the death penalty observed continuously since 1996",
           "correct": true
         },
         {
@@ -9259,7 +9259,7 @@
       "prompt": "The Tashkent Treaty of 15 May 1992 established which post-Soviet security arrangement?",
       "choices": [
         {
-          "text": "The Collective Security Treaty (CST), later institutionalized in 2002 as the CSTO, originally signed by Russia, Armenia, Kazakhstan, Kyrgyzstan, Tajikistan, and Uzbekistan",
+          "text": "The Collective Security Treaty (CST), later institutionalized in 2002 as the CSTO",
           "correct": true
         },
         {
@@ -12407,7 +12407,7 @@
       "prompt": "Which institutional contrast best captures Russia and Ukraine in the 2010s?",
       "choices": [
         {
-          "text": "Russia deepened its centralized authoritarian 'power vertical' (vertikal vlasti), while Ukraine retained competitive national elections and pursued decentralization despite war",
+          "text": "Russia deepened its centralized authoritarian 'power vertical,' while Ukraine retained competitive national elections and pursued decentralization despite war",
           "correct": true
         },
         {
@@ -13206,7 +13206,7 @@
       "prompt": "The Interregional Deputies' Group, formed in late July 1989 by deputies of the newly elected Congress of People's Deputies, played what role in late-Soviet political life?",
       "choices": [
         {
-          "text": "The first organized opposition caucus in the Soviet legislative system — co-chaired by Sakharov, Yeltsin, Popov, Afanasyev, and Palm — pushing for democratization, market economy, and Article 6 repeal",
+          "text": "The first organized opposition caucus in the Soviet legislative system, pushing for democratization, market economy, and Article 6 repeal",
           "correct": true
         },
         {
@@ -13225,7 +13225,7 @@
           "note": "The CPSU's own legislative presence was organized through party discipline and did not require the Interregional Group. The IRG was explicitly the opposition caucus."
         }
       ],
-      "explanation": "The Interregional Deputies' Group is the canonical late-Soviet opposition caucus — the first legal anti-regime parliamentary bloc in Soviet history. Sakharov's death in December 1989 shook the group. Its program anticipated the repeal of Article 6 (won in March 1990), radical market reform, and genuine republic-level sovereignty. Many members populated the post-1991 Russian political landscape — Yeltsin as president, Popov as Moscow mayor, Afanasyev as an intellectual fixture.",
+      "explanation": "The Interregional Deputies' Group is the canonical late-Soviet opposition caucus — the first legal anti-regime parliamentary bloc in Soviet history, co-chaired by Sakharov, Yeltsin, Popov, Afanasyev, and Palm. Sakharov's death in December 1989 shook the group. Its program anticipated the repeal of Article 6 (won in March 1990), radical market reform, and genuine republic-level sovereignty.",
       "difficulty": "hard",
       "era": "soviet",
       "country": "russia",
@@ -13297,7 +13297,7 @@
       "prompt": "The October 1993 constitutional crisis in Russia ended when:",
       "choices": [
         {
-          "text": "Yeltsin ordered tanks to shell the White House (the Russian parliament building), dispersing the hardline-dominated Supreme Soviet led by Rutskoi and Khasbulatov",
+          "text": "Yeltsin ordered tanks to shell the White House, dispersing the hardline-dominated Supreme Soviet led by Rutskoi and Khasbulatov",
           "correct": true
         },
         {
@@ -13332,7 +13332,7 @@
       "sources": [
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-21",
+      "last_reviewed_date": "2026-04-25",
       "cohort": "recent"
     },
     {
@@ -13654,7 +13654,7 @@
       "prompt": "The electoral system used for the first time in the December 1993 State Duma elections — established by Yeltsin's decree alongside the new constitution — followed which formula?",
       "choices": [
         {
-          "text": "A mixed system: half of Duma seats filled by proportional representation from nationwide party lists (with a 5% threshold), the other half by single-mandate districts",
+          "text": "A mixed system: half of Duma seats by proportional representation from party lists, half by single-mandate districts",
           "correct": true
         },
         {
@@ -13687,7 +13687,7 @@
       "sources": [
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-21",
+      "last_reviewed_date": "2026-04-25",
       "cohort": "recent"
     },
     {
@@ -13965,7 +13965,7 @@
       "prompt": "Physicist and dissident Andrei Sakharov returned to public political life in the late 1980s after being released from internal exile. What positions did he hold before his death in December 1989?",
       "choices": [
         {
-          "text": "A 1989 Congress of People's Deputies deputy and co-chair of the Interregional Deputies' Group — the first organized parliamentary opposition in Soviet history",
+          "text": "A 1989 Congress of People's Deputies deputy and co-chair of the Interregional Deputies' Group",
           "correct": true
         },
         {
@@ -14009,7 +14009,7 @@
       "prompt": "The December 1995 Russian Duma elections produced which headline result?",
       "choices": [
         {
-          "text": "The KPRF came first in party-list voting with about 22 percent, and only four parties cleared the 5-percent threshold (KPRF, LDPR, Our Home Is Russia, Yabloko)",
+          "text": "The KPRF came first in party-list voting with about 22 percent, and only four of 43 parties cleared the 5-percent threshold",
           "correct": true
         },
         {
@@ -14098,7 +14098,7 @@
       "prompt": "Grigory Yavlinsky, who co-authored the 1990 '500 Days Program', founded which political party in 1993?",
       "choices": [
         {
-          "text": "Yabloko — a liberal-democratic opposition party critical of shock therapy's sequencing and of Yeltsin's super-presidential constitution, which consistently polled around 7-10 percent through the 1990s",
+          "text": "Yabloko — a liberal-democratic opposition party critical of shock therapy's sequencing and of Yeltsin's super-presidential constitution",
           "correct": true
         },
         {
@@ -14131,7 +14131,7 @@
       "sources": [
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-21",
+      "last_reviewed_date": "2026-04-25",
       "cohort": "fresh"
     },
     {
@@ -14142,7 +14142,7 @@
       "prompt": "In November 1991 Dzhokhar Dudayev, an elected president of the Chechen-Ingush republic, declared what?",
       "choices": [
         {
-          "text": "Chechnya's independence from Russia (while Ingushetia stayed with Russia) — a unilateral secession that led to war when Russian forces moved in December 1994",
+          "text": "Chechnya's independence from Russia, while Ingushetia stayed within Russia",
           "correct": true
         },
         {
@@ -14318,7 +14318,7 @@
       "prompt": "During the October 1993 constitutional standoff in Russia, who did the Supreme Soviet declare to be 'acting president' after Yeltsin's dissolution decree?",
       "choices": [
         {
-          "text": "Vice-President Aleksandr Rutskoi, who broke with Yeltsin earlier in 1993 and operated from inside the besieged Russian White House",
+          "text": "Vice-President Aleksandr Rutskoi, who operated from inside the besieged Russian White House",
           "correct": true
         },
         {
@@ -14362,7 +14362,7 @@
       "prompt": "In late 1990s Russian political commentary the term 'Semya' ('the Family') referred to:",
       "choices": [
         {
-          "text": "A loose network around an ailing Yeltsin (Tatyana Dyachenko, Valentin Yumashev, Berezovsky, Voloshin) credited with engineering the 1999 Putin succession",
+          "text": "A loose network around an ailing Yeltsin credited with engineering the 1999 Putin succession",
           "correct": true
         },
         {
@@ -14408,7 +14408,7 @@
       "prompt": "Ukraine's 1998 Rada elections were the first to be held under a new electoral formula. Which formula was used?",
       "choices": [
         {
-          "text": "A mixed system: half of 450 seats by PR list (4-percent threshold), half by single-mandate districts — paralleling Russia's 1993 design",
+          "text": "A mixed system: half of 450 seats by PR list, half by single-mandate districts",
           "correct": true
         },
         {
@@ -14453,7 +14453,7 @@
       "prompt": "On 14-15 March 1990 the Soviet Congress of People's Deputies created the new office of 'President of the USSR' and elected Mikhail Gorbachev to it. Historians frequently identify the manner of his election as a political misstep because:",
       "choices": [
         {
-          "text": "Gorbachev chose a Congress ballot rather than a popular vote (he was not confident of winning a direct election), leaving his presidential mandate weaker than Yeltsin's once Yeltsin was directly elected RSFSR president in June 1991",
+          "text": "Gorbachev chose a Congress ballot rather than a popular vote, leaving his presidential mandate weaker than Yeltsin's once Yeltsin was directly elected RSFSR president in June 1991",
           "correct": true
         },
         {
@@ -14587,7 +14587,7 @@
       "prompt": "Boris Yeltsin was elected President of the Russian Soviet Federative Socialist Republic on 12 June 1991. This election was distinctive because:",
       "choices": [
         {
-          "text": "It was the first direct popular election of an executive head in Russian history; Yeltsin won the first round with about 57 percent and gained a democratic mandate Gorbachev (elected by Congress) lacked",
+          "text": "It was the first direct popular election of an executive head in Russian history, giving Yeltsin a democratic mandate Gorbachev (elected by Congress) lacked",
           "correct": true
         },
         {
@@ -14765,7 +14765,7 @@
       "prompt": "On the eve of Russia's December 1994 invasion of Chechnya, Defense Minister Pavel Grachev publicly boasted that Grozny could be taken 'by one airborne regiment in two hours.' What happened during the 31 December 1994 New Year's assault that most decisively discredited this claim?",
       "choices": [
         {
-          "text": "The 131st Maikop Motor Rifle Brigade was largely destroyed in urban combat around the railway station and Dudayev's presidential palace; federal forces did not secure central Grozny until February 1995",
+          "text": "The 131st Maikop Motor Rifle Brigade was largely destroyed in urban combat around the railway station and Dudayev's presidential palace",
           "correct": true
         },
         {
@@ -14943,7 +14943,7 @@
       "prompt": "The Fatherland-All Russia (Otechestvo-Vsya Rossiya, OVR) bloc was formed in August 1999 as a challenger 'party of power.' Which three figures anchored it?",
       "choices": [
         {
-          "text": "Yevgeny Primakov (former PM), Yuri Luzhkov (Moscow mayor), and Mintimer Shaimiev (Tatarstan president), joined by a coalition of regional governors",
+          "text": "Yevgeny Primakov, Yuri Luzhkov, and Mintimer Shaimiev, joined by a coalition of regional governors",
           "correct": true
         },
         {
@@ -15032,7 +15032,7 @@
       "prompt": "Soviet official growth statistics from the early-1970s through the mid-1980s show which broad pattern?",
       "choices": [
         {
-          "text": "A steady decline in reported growth from the 1970s into the 1980s — with Western re-estimates (CIA, Gur Ofer) generally lower than Soviet official figures and suggesting near-stagnation",
+          "text": "A steady decline in reported growth from the 1970s into the 1980s, with Western re-estimates lower than Soviet figures and suggesting near-stagnation",
           "correct": true
         },
         {
@@ -15166,7 +15166,7 @@
       "prompt": "Estimates of the Soviet military-industrial complex's share of the economy in the 1980s generally place it at what level?",
       "choices": [
         {
-          "text": "Around 15-25 percent of Soviet GNP — several times the U.S. share — with post-1991 reassessments suggesting the true share was at the higher end",
+          "text": "Around 15-25 percent of Soviet GNP — several times the U.S. share",
           "correct": true
         },
         {
@@ -15256,7 +15256,7 @@
       "prompt": "In December 1992 the Russian Congress of People's Deputies forced Yeltsin to replace Yegor Gaidar as head of government. Who succeeded Gaidar?",
       "choices": [
         {
-          "text": "Viktor Chernomyrdin, the former USSR Minister of the Gas Industry (and founding head of Gazprom), who served as Prime Minister from December 1992 to March 1998",
+          "text": "Viktor Chernomyrdin, the former USSR Minister of the Gas Industry, who served as Prime Minister from December 1992 to March 1998",
           "correct": true
         },
         {
@@ -15289,7 +15289,7 @@
       "sources": [
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-21",
+      "last_reviewed_date": "2026-04-25",
       "cohort": "fresh"
     },
     {
@@ -15300,7 +15300,7 @@
       "prompt": "The 'ruble zone' of the former Soviet republics effectively collapsed in mid-1993. What triggered the collapse?",
       "choices": [
         {
-          "text": "The Russian Central Bank's surprise July 1993 decision to invalidate Soviet-era and pre-1993-design ruble notes on Russian soil, forcing other republics to choose between Russia's new notes and their own currencies",
+          "text": "The Russian Central Bank's surprise July 1993 decision to invalidate Soviet-era and pre-1993-design ruble notes on Russian soil",
           "correct": true
         },
         {
@@ -15434,7 +15434,7 @@
       "prompt": "Which sequence correctly describes Anatoly Chubais's main roles in the Russian government in 1991-1996?",
       "choices": [
         {
-          "text": "Head of GKI from late 1991 (architect of voucher privatization), then First Deputy PM under Chernomyrdin (1994-96), then Chief of the Presidential Administration after July 1996",
+          "text": "Head of GKI from late 1991, First Deputy PM under Chernomyrdin 1994-96, then Chief of the Presidential Administration from July 1996",
           "correct": true
         },
         {
@@ -15477,7 +15477,7 @@
       "prompt": "Viktor Yushchenko — later Ukraine's president (2005-2010) — served as chair of the National Bank of Ukraine (NBU) from January 1993 to December 1999. His central-bank tenure is chiefly remembered for:",
       "choices": [
         {
-          "text": "Stabilizing inflation after the 1993 hyperinflation, overseeing the September 1996 hryvnia conversion (100,000 karbovanets to 1 hryvnia), and managing an exchange-rate corridor that partially broke under 1998-99 contagion",
+          "text": "Stabilizing inflation after the 1993 hyperinflation, overseeing the September 1996 hryvnia conversion, and managing an exchange-rate corridor that partially broke under 1998-99 contagion",
           "correct": true
         },
         {
@@ -15610,7 +15610,7 @@
       "prompt": "Gorbachev's May 1989 visit to Beijing — the first Soviet-Chinese summit in thirty years — is historically notable in part because:",
       "choices": [
         {
-          "text": "It normalized Sino-Soviet relations after the 1960s-80s split but was overshadowed by the simultaneous Tiananmen Square protests amid intense international press coverage",
+          "text": "It normalized Sino-Soviet relations after the 1960s-80s split but was overshadowed by the simultaneous Tiananmen Square protests",
           "correct": true
         },
         {
@@ -15698,7 +15698,7 @@
       "prompt": "The Geneva Accords on Afghanistan — signed on 14 April 1988 by representatives of Afghanistan, Pakistan, the United States, and the USSR — did which of the following?",
       "choices": [
         {
-          "text": "Established a Soviet troop withdrawal schedule (within nine months, by 15 February 1989) and committed Kabul and Islamabad to non-interference, but left Najibullah's legitimacy unresolved and did not stop continued U.S./Soviet arms flows",
+          "text": "Established a Soviet troop withdrawal schedule and committed Kabul and Islamabad to non-interference, but left Najibullah's legitimacy unresolved",
           "correct": true
         },
         {
@@ -15742,7 +15742,7 @@
       "prompt": "Soviet recognition of the independence of Lithuania, Latvia, and Estonia was formally completed by:",
       "choices": [
         {
-          "text": "A State Council resolution on 6 September 1991 — the first decision of the new post-coup all-union executive body, which included Gorbachev and the heads of the participating republics",
+          "text": "A State Council resolution on 6 September 1991 — the first decision of the new post-coup all-union executive body",
           "correct": true
         },
         {
@@ -15762,7 +15762,7 @@
         }
       ],
       "explanation": "The State Council's 6 September 1991 recognition was symbolically enormous: it was the first sovereign act of the post-coup USSR executive, it was chaired by Gorbachev, it validated independence declarations the Baltic republics had been making since 1990 (Lithuania 11 March 1990; Latvia 4 May 1990 restoration; Estonia 20 August 1991), and it preceded the UN's admission of the three states on 17 September 1991. The Baltic case is distinctive among the Soviet successor states: the three republics rejected the CIS from the beginning, oriented toward Europe, and achieved NATO and EU membership in 2004 — a path politically foreclosed to Ukraine, Belarus, Moldova, and the Caucasus states.",
-      "difficulty": "hard",
+      "difficulty": "very_hard",
       "era": "soviet",
       "country": "russia",
       "tags": [
@@ -15776,7 +15776,7 @@
         "Course lectures",
         "https://en.wikipedia.org/wiki/Dissolution_of_the_Soviet_Union"
       ],
-      "last_reviewed_date": "2026-04-21",
+      "last_reviewed_date": "2026-04-25",
       "cohort": "fresh"
     },
     {
@@ -15807,7 +15807,7 @@
         }
       ],
       "explanation": "The sequence matters because each transition cued the next. Poland's Round Table produced partially-free elections on 4 June and the Mazowiecki government — the first non-communist PM in Eastern Europe since 1948. Hungary's fence-opening allowed East German refugees through, draining the GDR and making Honecker's regime unsustainable. Schabowski's 9 November press conference sent the Berlin Wall down. Czechoslovakia's Velvet Revolution was peaceful. Only Romania's transition was violent. Gorbachev's non-intervention stance (the 'Sinatra Doctrine') supplied the permissive condition.",
-      "difficulty": "hard",
+      "difficulty": "very_hard",
       "era": "soviet",
       "country": "russia",
       "tags": [
@@ -16017,7 +16017,7 @@
       "prompt": "In the early-to-mid 1990s Tatarstan and Chechnya both pressed claims against Moscow for greater autonomy or sovereignty. Why did the two cases produce such sharply different outcomes?",
       "choices": [
         {
-          "text": "Tatarstan under Mintimer Shaimiev bargained inside the federal framework, signing a February 1994 bilateral power-sharing treaty that kept the republic in Russia; Chechnya under Dzhokhar Dudayev unilaterally declared independence in 1991 and refused negotiation, which Moscow met with force in December 1994",
+          "text": "Tatarstan under Shaimiev bargained inside the federal framework, signing a February 1994 bilateral power-sharing treaty that kept the republic in Russia; Chechnya under Dudayev unilaterally declared independence in 1991 and refused negotiation",
           "correct": true
         },
         {
@@ -16053,7 +16053,7 @@
       "sources": [
         "Course lectures (nation-states unit)"
       ],
-      "last_reviewed_date": "2026-04-23",
+      "last_reviewed_date": "2026-04-25",
       "cohort": "fresh"
     },
     {
@@ -16112,7 +16112,7 @@
       "prompt": "Aleksandr Lebed — third-place finisher in Russia's 1996 presidential election and signer of the Khasavyurt Accords that ended the First Chechen War — is best characterized biographically as:",
       "choices": [
         {
-          "text": "A Soviet airborne general who commanded the 14th Army in Moldova during the 1992 Transnistrian conflict, ran in 1996 as a populist law-and-order outsider, and later governed Krasnoyarsk Krai before dying in a 2002 helicopter crash",
+          "text": "A Soviet airborne general who commanded the 14th Army in Moldova during the 1992 Transnistrian conflict, ran in 1996 as a populist law-and-order outsider, and later governed Krasnoyarsk Krai",
           "correct": true
         },
         {
@@ -16208,7 +16208,7 @@
       "prompt": "Among Russia's 1990s oligarchs, Boris Berezovsky stood out in political terms because:",
       "choices": [
         {
-          "text": "He combined major business holdings (LogoVAZ, ORT, Sibneft) with unusually direct Kremlin politics — including a kingmaker role in Putin's 1999 rise — before being pushed into British exile",
+          "text": "He combined major business holdings with unusually direct Kremlin politics — including a kingmaker role in Putin's 1999 rise",
           "correct": true
         },
         {
@@ -16303,7 +16303,7 @@
       "prompt": "In late-1990s Russian political commentary the term 'semibankirshchina' ('rule of the seven bankers'), coined by Boris Berezovsky in a 1996 Financial Times interview, referred to:",
       "choices": [
         {
-          "text": "A loosely coordinated group of seven financier-industrialist tycoons — including Berezovsky, Gusinsky, Khodorkovsky, Potanin, and Fridman — who acquired prize state assets through loans-for-shares and exercised outsized late-Yeltsin influence",
+          "text": "A loosely coordinated group of seven financier-industrialist tycoons who acquired prize state assets through loans-for-shares and exercised outsized late-Yeltsin influence",
           "correct": true
         },
         {
@@ -16401,7 +16401,7 @@
       "prompt": "Among the 1990s Russian oligarchs, Vladimir Potanin is most accurately characterized as:",
       "choices": [
         {
-          "text": "The Oneksimbank founder who originated the 1995 loans-for-shares proposal and through it acquired Norilsk Nickel; briefly First Deputy PM in 1996-97, he kept Interros intact through the Putin era",
+          "text": "The Oneksimbank founder who originated the 1995 loans-for-shares proposal and through it acquired Norilsk Nickel; briefly First Deputy PM in 1996-97",
           "correct": true
         },
         {
@@ -16450,7 +16450,7 @@
       "prompt": "Among Russia's 1990s-2000s oligarchs, Roman Abramovich is best characterized by which trajectory?",
       "choices": [
         {
-          "text": "Berezovsky's junior partner who acquired Sibneft via 1995 loans-for-shares, served as Chukotka governor, and sold Sibneft back to the state in 2005 — exiting politics with private wealth intact",
+          "text": "Berezovsky's junior partner who acquired Sibneft via 1995 loans-for-shares, served as Chukotka governor, and sold Sibneft back to the state in 2005",
           "correct": true
         },
         {
@@ -16673,7 +16673,7 @@
       "prompt": "The Great Purge of 1936-1938 is best described as:",
       "choices": [
         {
-          "text": "A wave of NKVD arrests and executions — including show trials of Old Bolsheviks like Zinoviev, Kamenev, and Bukharin — that killed roughly 800,000 people across party, military, and intelligentsia",
+          "text": "A wave of NKVD arrests and executions that killed roughly 800,000 people across party, military, and intelligentsia",
           "correct": true
         },
         {
@@ -16761,7 +16761,7 @@
       "prompt": "In Marxist theory, \"historical materialism\" refers to the idea that:",
       "choices": [
         {
-          "text": "Changes in a society's mode of production (its economic base) drive changes in its political institutions, social relations, and ideology (its superstructure), producing a progression through historical stages — tribal, ancient, feudal, capitalist, socialist",
+          "text": "Changes in a society's mode of production drive changes in its political institutions, social relations, and ideology, producing a progression through historical stages",
           "correct": true
         },
         {
@@ -16793,7 +16793,7 @@
       "sources": [
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-22",
+      "last_reviewed_date": "2026-04-25",
       "cohort": "fresh"
     },
     {
@@ -16892,7 +16892,7 @@
       "prompt": "In analyses of the Soviet collapse, \"structural\" and \"contingent\" explanations differ primarily in that:",
       "choices": [
         {
-          "text": "Structural explanations focus on factors beyond short-term leader control (development, military capacity, ethnic composition), while contingent explanations focus on particular leaders' decisions or specific events",
+          "text": "Structural explanations focus on factors beyond short-term leader control, while contingent explanations focus on particular leaders' decisions or specific events",
           "correct": true
         },
         {
@@ -16936,7 +16936,7 @@
       "prompt": "In international-relations theory, \"realism\" and \"liberalism\" differ primarily in that:",
       "choices": [
         {
-          "text": "Realism focuses on national interests and material capabilities, while liberalism focuses on norms, institutions, and ideas like the 'democratic peace'",
+          "text": "Realism focuses on national interests and material capabilities, while liberalism focuses on norms, institutions, and ideas",
           "correct": true
         },
         {
@@ -16979,7 +16979,7 @@
       "prompt": "The Democratic Union, founded in Moscow in 1988, is notable in the late-Soviet period because it was:",
       "choices": [
         {
-          "text": "The first openly oppositional proto-political party in the USSR, founded during glasnost with the declared goals of building a multiparty system and dismantling Soviet rule, and organizing unauthorized demonstrations from the summer of 1988",
+          "text": "The first openly oppositional proto-political party in the USSR, founded during glasnost with the declared goals of building a multiparty system and dismantling Soviet rule",
           "correct": true
         },
         {
@@ -17011,7 +17011,7 @@
       "sources": [
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-22",
+      "last_reviewed_date": "2026-04-25",
       "cohort": "fresh"
     },
     {
@@ -17022,7 +17022,7 @@
       "prompt": "In the context of late-Soviet politics, \"neformaly\" refers to:",
       "choices": [
         {
-          "text": "Informal civic associations that proliferated from 1987 under glasnost — Stalin-era memory (Memorial), the environment, human rights — later coalescing into popular fronts and early opposition parties",
+          "text": "Informal civic associations that proliferated from 1987 under glasnost — later coalescing into popular fronts and early opposition parties",
           "correct": true
         },
         {
@@ -17065,7 +17065,7 @@
       "prompt": "What best describes the March 1990 elections to the Supreme Soviet (Verkhovna Rada) of the Ukrainian SSR?",
       "choices": [
         {
-          "text": "The first partially competitive Soviet Ukrainian elections: the Democratic Bloc (anchored by Rukh) took roughly a quarter of seats, Communists kept three-quarters, and Kravchuk became parliamentary chairman",
+          "text": "The first partially competitive Soviet Ukrainian elections: the Democratic Bloc took roughly a quarter of seats, Communists kept three-quarters, and Kravchuk became parliamentary chairman",
           "correct": true
         },
         {
@@ -17109,7 +17109,7 @@
       "prompt": "The Supreme Soviet of the Russian Federation — successor to the Supreme Soviet of the RSFSR — is best described as:",
       "choices": [
         {
-          "text": "A standing parliament drawn from the larger Congress of People's Deputies, seated in the White House, which under Khasbulatov became Yeltsin's chief institutional rival in 1992-93 and was forcibly dissolved during the October 1993 crisis",
+          "text": "A standing parliament drawn from the larger Congress of People's Deputies, seated in the White House, which became Yeltsin's chief institutional rival in 1992-93",
           "correct": true
         },
         {
@@ -17375,7 +17375,7 @@
       "prompt": "How should the demographic composition of Russia's ethnic republics be characterized in the 1990s?",
       "choices": [
         {
-          "text": "Wide variation: titular nationalities ranged from outright majorities (Chechens, Tuvans) to minorities within their own republic (Karelians, Komi), with ethnic Russians often the plurality — a legacy of Soviet-era resettlement",
+          "text": "Wide variation: titular nationalities ranged from outright majorities (Chechens, Tuvans) to minorities within their own republic (Karelians, Komi), with ethnic Russians often the plurality",
           "correct": true
         },
         {
@@ -17409,7 +17409,7 @@
         "Course lectures",
         "Daniel Treisman, The Return, ch. 8"
       ],
-      "last_reviewed_date": "2026-04-24",
+      "last_reviewed_date": "2026-04-25",
       "cohort": "fresh"
     },
     {
@@ -17420,7 +17420,7 @@
       "prompt": "Which best describes the ethnic composition of Ukraine at the time of independence in 1991?",
       "choices": [
         {
-          "text": "Around 73 percent ethnic Ukrainian and 22 percent ethnic Russian, with smaller Belarusian, Moldovan, and Crimean Tatar communities; ethnic Russians were concentrated in Crimea, the industrial east, and port cities",
+          "text": "Around 73 percent ethnic Ukrainian and 22 percent ethnic Russian, with smaller Belarusian, Moldovan, and Crimean Tatar communities",
           "correct": true
         },
         {
@@ -17454,7 +17454,7 @@
         "Course lectures",
         "Maria Popova & Oxana Shevel, Russia and Ukraine: Entangled Histories, Diverging States"
       ],
-      "last_reviewed_date": "2026-04-24",
+      "last_reviewed_date": "2026-04-25",
       "cohort": "fresh"
     },
     {
@@ -17553,7 +17553,7 @@
       "prompt": "In Alexander Dallin's framework on the Soviet collapse, the 'institutional (in)coherence' argument holds that:",
       "choices": [
         {
-          "text": "Soviet totalitarianism rested on interlocking institutions — terror, command economy, ideological monopoly, and Party primacy — that propped each other up; once any of them weakened, the rest could not hold (Dallin's Jenga metaphor)",
+          "text": "Soviet totalitarianism rested on interlocking institutions — terror, command economy, ideological monopoly, and Party primacy — that propped each other up; once any of them weakened, the rest could not hold",
           "correct": true
         },
         {
@@ -17586,7 +17586,7 @@
         "Alexander Dallin, 'Causes of the Soviet Collapse' (assigned reading for Lectures 3 & 4)",
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-24",
+      "last_reviewed_date": "2026-04-25",
       "cohort": "fresh"
     },
     {
@@ -17597,7 +17597,7 @@
       "prompt": "Daniel Treisman's explanation of the Soviet collapse in The Return emphasizes that:",
       "choices": [
         {
-          "text": "The 1990 acute economic crisis (shortages, rationing, food riots) and fear of mass hunger eroded popular support for Gorbachev and swung Russians toward Yeltsin",
+          "text": "The 1990 acute economic crisis and fear of mass hunger eroded popular support for Gorbachev and swung Russians toward Yeltsin",
           "correct": true
         },
         {
@@ -17631,7 +17631,7 @@
         "Daniel Treisman, The Return, ch. 1",
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-24",
+      "last_reviewed_date": "2026-04-25",
       "cohort": "fresh"
     },
     {
@@ -17730,7 +17730,7 @@
       "prompt": "The December 1995 Russian State Duma elections produced which headline result?",
       "choices": [
         {
-          "text": "The KPRF under Zyuganov topped the party-list vote at about 22 percent; only four of 43 parties cleared the 5 percent threshold (KPRF, LDPR, Our Home Is Russia, Yabloko)",
+          "text": "The KPRF under Zyuganov topped the party-list vote at about 22 percent; only four of 43 parties cleared the 5 percent threshold",
           "correct": true
         },
         {
@@ -17764,7 +17764,7 @@
         "Course lectures",
         "Daniel Treisman, The Return, ch. 2"
       ],
-      "last_reviewed_date": "2026-04-24",
+      "last_reviewed_date": "2026-04-25",
       "cohort": "fresh"
     },
     {
@@ -17819,7 +17819,7 @@
       "prompt": "What was the headline political outcome of Ukraine's March 1998 Verkhovna Rada elections?",
       "choices": [
         {
-          "text": "The KPU came first at ~25 percent of the list vote (~27 percent of seats), Rukh second at ~10 percent, and the left bloc remained dominant in a fragmented Rada",
+          "text": "The KPU came first at ~25 percent of the list vote, Rukh second at ~10 percent, and the left bloc remained dominant in a fragmented Rada",
           "correct": true
         },
         {
@@ -17852,7 +17852,7 @@
         "Course lectures",
         "Maria Popova & Oxana Shevel, Russia and Ukraine: Entangled Histories, Diverging States"
       ],
-      "last_reviewed_date": "2026-04-24",
+      "last_reviewed_date": "2026-04-25",
       "cohort": "fresh"
     },
     {

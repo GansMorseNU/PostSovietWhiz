@@ -4328,7 +4328,7 @@
       "prompt": "Which institutional contrast best captures Russia and Ukraine in the 2010s?",
       "choices": [
         {
-          "text": "Russia deepened its centralized authoritarian 'power vertical' (vertikal vlasti), while Ukraine retained competitive national elections and pursued decentralization despite war",
+          "text": "Russia deepened its centralized authoritarian 'power vertical,' while Ukraine retained competitive national elections and pursued decentralization despite war",
           "correct": true
         },
         {
@@ -4633,7 +4633,7 @@
           "note": "The treaty did not center on spy satellites or intelligence platforms."
         },
         {
-          "text": "Major conventional weapons such as tanks, armored vehicles, artillery, combat aircraft, and attack helicopters",
+          "text": "Major conventional weapons: tanks, armored vehicles, artillery, and aircraft",
           "correct": true
         },
         {
@@ -4655,7 +4655,7 @@
       "sources": [
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-21"
+      "last_reviewed_date": "2026-04-25"
     },
     {
       "id": "fp_0039",
@@ -6972,7 +6972,7 @@
       "prompt": "The Interregional Deputies' Group, formed in late July 1989 by deputies of the newly elected Congress of People's Deputies, played what role in late-Soviet political life?",
       "choices": [
         {
-          "text": "The first organized opposition caucus in the Soviet legislative system — co-chaired by Sakharov, Yeltsin, Popov, Afanasyev, and Palm — pushing for democratization, market economy, and Article 6 repeal",
+          "text": "The first organized opposition caucus in the Soviet legislative system, pushing for democratization, market economy, and Article 6 repeal",
           "correct": true
         },
         {
@@ -6991,8 +6991,8 @@
           "note": "The CPSU's own legislative presence was organized through party discipline and did not require the Interregional Group. The IRG was explicitly the opposition caucus."
         }
       ],
-      "explanation": "The Interregional Deputies' Group is the canonical late-Soviet opposition caucus — the first legal anti-regime parliamentary bloc in Soviet history. Sakharov's death in December 1989 shook the group. Its program anticipated the repeal of Article 6 (won in March 1990), radical market reform, and genuine republic-level sovereignty. Many members populated the post-1991 Russian political landscape — Yeltsin as president, Popov as Moscow mayor, Afanasyev as an intellectual fixture.",
-      "difficulty": "very_hard",
+      "explanation": "The Interregional Deputies' Group is the canonical late-Soviet opposition caucus — the first legal anti-regime parliamentary bloc in Soviet history, co-chaired by Sakharov, Yeltsin, Popov, Afanasyev, and Palm. Sakharov's death in December 1989 shook the group. Its program anticipated the repeal of Article 6 (won in March 1990), radical market reform, and genuine republic-level sovereignty.",
+      "difficulty": "hard",
       "era": "soviet",
       "country": "russia",
       "tags": [
@@ -7061,7 +7061,7 @@
       "prompt": "The October 1993 constitutional crisis in Russia ended when:",
       "choices": [
         {
-          "text": "Yeltsin ordered tanks to shell the White House (the Russian parliament building), dispersing the hardline-dominated Supreme Soviet led by Rutskoi and Khasbulatov",
+          "text": "Yeltsin ordered tanks to shell the White House, dispersing the hardline-dominated Supreme Soviet led by Rutskoi and Khasbulatov",
           "correct": true
         },
         {
@@ -7096,7 +7096,7 @@
       "sources": [
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-21"
+      "last_reviewed_date": "2026-04-25"
     },
     {
       "id": "pt_0094",
@@ -7410,7 +7410,7 @@
       "prompt": "The 1993 Russian Duma elections, held the same day as the constitutional referendum, introduced which electoral formula?",
       "choices": [
         {
-          "text": "A mixed system: half of Duma seats filled by proportional representation from nationwide party lists (with a 5% threshold), the other half by single-mandate districts",
+          "text": "A mixed system: half of Duma seats by proportional representation from party lists, half by single-mandate districts",
           "correct": true
         },
         {
@@ -7443,7 +7443,7 @@
       "sources": [
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-21"
+      "last_reviewed_date": "2026-04-25"
     },
     {
       "id": "pt_0102",
@@ -7584,7 +7584,7 @@
       "prompt": "The 1988 Law on Cooperatives legalized a new form of economic organization. Although these entities operated much like private businesses (hiring labor, setting prices, retaining profits), why were they deliberately called 'cooperatives' rather than private firms?",
       "choices": [
         {
-          "text": "The 'cooperative' label preserved a socialist facade — the Soviet ideological tradition (going back to Lenin's NEP-era writings) treated cooperatives as compatible with socialism, while calling them 'private enterprises' would have been politically impossible",
+          "text": "The 'cooperative' label preserved a socialist facade — Soviet ideological tradition treated cooperatives as compatible with socialism, while 'private enterprise' was politically unacceptable",
           "correct": true
         },
         {
@@ -7618,7 +7618,7 @@
         "Anders Åslund, Building Capitalism",
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-21"
+      "last_reviewed_date": "2026-04-25"
     },
     {
       "id": "et_0075",
@@ -7761,7 +7761,7 @@
       "prompt": "On 2 January 1992 Russia's deputy prime minister for economic policy, Yegor Gaidar, implemented the centerpiece of what critics of reforms called 'shock therapy'. Which measure was introduced that day?",
       "choices": [
         {
-          "text": "Near-complete liberalization of retail prices — most consumer-good prices were freed overnight, producing a sharp price jump and shortages giving way to high-priced shelves",
+          "text": "Near-complete liberalization of retail prices — most consumer-good prices were freed overnight",
           "correct": true
         },
         {
@@ -7982,7 +7982,7 @@
       "prompt": "Ukraine adopted a permanent national currency, the hryvnia, in September 1996. What did it replace, and at what conversion rate?",
       "choices": [
         {
-          "text": "The karbovanets (the interim coupon currency introduced after Ukraine left the ruble zone in 1992), exchanged at 100,000 karbovantsi to 1 hryvnia",
+          "text": "The karbovanets, exchanged at 100,000 karbovantsi to 1 hryvnia",
           "correct": true
         },
         {
@@ -8016,7 +8016,7 @@
         "Anders Åslund, How Ukraine Became a Market Economy and Democracy",
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-21"
+      "last_reviewed_date": "2026-04-25"
     },
     {
       "id": "et_0084",
@@ -8069,7 +8069,7 @@
       "prompt": "In Hellman's influential analysis of post-communist economic reform, who emerges as the central obstacle to completing market reforms?",
       "choices": [
         {
-          "text": "'Short-term winners' — actors who gained outsized rents in the partial-reform phase (price arbitrage, cheap credit, insider ownership) and lobbied to lock in a partial-reform equilibrium",
+          "text": "'Short-term winners' — actors who gained outsized rents in the partial-reform phase and lobbied to lock in a partial-reform equilibrium",
           "correct": true
         },
         {
@@ -8156,7 +8156,7 @@
       "prompt": "In December 1990 Soviet Foreign Minister Eduard Shevardnadze abruptly resigned, warning in his Supreme Soviet speech of what danger?",
       "choices": [
         {
-          "text": "A 'coming dictatorship' — he resigned to protest the growing influence of conservative and security-service figures around Gorbachev and to warn publicly that reform was in jeopardy",
+          "text": "A 'coming dictatorship' — he resigned to protest the growing influence of conservative and security-service figures around Gorbachev",
           "correct": true
         },
         {
@@ -8190,7 +8190,7 @@
         "Archie Brown, The Rise and Fall of Communism",
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-21"
+      "last_reviewed_date": "2026-04-25"
     },
     {
       "id": "fp_0078",
@@ -8200,7 +8200,7 @@
       "prompt": "Gorbachev's policy of not intervening as Eastern European communist regimes fell in 1989 — the rejection of the Brezhnev Doctrine — was informally dubbed:",
       "choices": [
         {
-          "text": "The 'Sinatra Doctrine' — a quip by Soviet foreign-ministry spokesman Gennady Gerasimov in late 1989, riffing on 'I Did It My Way' to signal that each Warsaw Pact state could follow its own path",
+          "text": "The 'Sinatra Doctrine' — Gennady Gerasimov's late-1989 quip riffing on 'I Did It My Way' to signal that each Warsaw Pact state could choose its own path",
           "correct": true
         },
         {
@@ -8219,7 +8219,7 @@
           "note": "Malta was significant diplomatically but there was no formal 'Malta Doctrine' codifying non-intervention; the informal name remains Sinatra Doctrine."
         }
       ],
-      "explanation": "The Sinatra Doctrine is a teachable moment in how informal signalling at the end of the Cold War worked. Gerasimov offered the term on U.S. television in October 1989 as Hungary opened its border, East Germans fled, and the Berlin Wall's fall approached. The underlying policy was Gorbachev's decision not to use Soviet forces in Warsaw Pact states to stop regime change — the reversal of Brezhnev Doctrine that made 1989 possible.",
+      "explanation": "The Sinatra Doctrine is a teachable moment in how informal signalling at the end of the Cold War worked. Soviet foreign-ministry spokesman Gennady Gerasimov offered the term on U.S. television in October 1989 as Hungary opened its border, East Germans fled, and the Berlin Wall's fall approached. The underlying policy was Gorbachev's decision not to use Soviet forces in Warsaw Pact states to stop regime change — the reversal of Brezhnev Doctrine that made 1989 possible.",
       "difficulty": "medium",
       "era": "soviet",
       "country": "russia",
@@ -8234,7 +8234,7 @@
         "Course lectures",
         "Archie Brown, The Rise and Fall of Communism"
       ],
-      "last_reviewed_date": "2026-04-21"
+      "last_reviewed_date": "2026-04-25"
     },
     {
       "id": "fp_0079",
@@ -8287,7 +8287,7 @@
       "prompt": "German reunification (October 1990) was legally accomplished through which diplomatic framework?",
       "choices": [
         {
-          "text": "The 'Two Plus Four' Treaty — negotiations among the two German states and the four wartime occupying powers — yielding the September 1990 Final Settlement Treaty",
+          "text": "The 'Two Plus Four' Treaty — negotiations among the two German states and the four wartime occupying powers",
           "correct": true
         },
         {
@@ -8505,7 +8505,7 @@
       "prompt": "Russia was progressively integrated into the G7 through the second half of the 1990s, culminating in what is usually described as full membership by 1998. What was the basic sequence?",
       "choices": [
         {
-          "text": "Partial political participation from Naples 1994, expanded status from the 1997 Denver 'Summit of the Eight,' and full membership at the 1998 Birmingham summit — but Russia stayed off the G7 finance track",
+          "text": "Partial political participation from Naples 1994, expanded status from the 1997 Denver 'Summit of the Eight,' and full membership at the 1998 Birmingham summit",
           "correct": true
         },
         {
@@ -8591,7 +8591,7 @@
       "prompt": "The First Chechen War (1994-1996) ended with which settlement?",
       "choices": [
         {
-          "text": "The Khasavyurt Accords, negotiated by Aleksandr Lebed and Aslan Maskhadov in August 1996 — a ceasefire that postponed Chechnya's status for five years and was widely read as a Russian defeat",
+          "text": "The Khasavyurt Accords, negotiated by Aleksandr Lebed and Aslan Maskhadov in August 1996 — a ceasefire that postponed Chechnya's status for five years",
           "correct": true
         },
         {
@@ -8610,7 +8610,7 @@
           "note": "No such treaty existed. Chechnya did not sign an association treaty with Georgia; the war ended by the Khasavyurt Accords with Russia."
         }
       ],
-      "explanation": "The First Chechen War saw poorly prepared Russian forces mount a disastrous invasion in December 1994, suffer heavy casualties in the January 1995 storming of Grozny, and face a mobile, motivated Chechen resistance. Lebed's Khasavyurt Accords ended hostilities on terms favorable to the Chechen side, leaving the status question open. The settlement became a major talking point for Yeltsin's critics and set the stage for the Second Chechen War (1999-).",
+      "explanation": "The First Chechen War saw poorly prepared Russian forces mount a disastrous invasion in December 1994, suffer heavy casualties in the January 1995 storming of Grozny, and face a mobile, motivated Chechen resistance. Lebed's Khasavyurt Accords ended hostilities on terms widely read as a Russian defeat, leaving the status question open. The settlement set the stage for the Second Chechen War (1999-).",
       "difficulty": "medium",
       "era": "1990s",
       "country": "russia",
@@ -8807,7 +8807,7 @@
       "prompt": "The Tajik Civil War (1992-1997) was ended by a peace agreement signed in Moscow. What basic compromise did it reflect?",
       "choices": [
         {
-          "text": "A 30-percent power-sharing quota for the United Tajik Opposition (primarily the Islamic Renaissance Party) in government positions, combined with demobilization of opposition fighters and Russia-led CIS peacekeeping",
+          "text": "A 30-percent power-sharing quota for the United Tajik Opposition in government positions, combined with demobilization of opposition fighters and Russia-led CIS peacekeeping",
           "correct": true
         },
         {
@@ -8840,7 +8840,7 @@
       "sources": [
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-21"
+      "last_reviewed_date": "2026-04-25"
     },
     {
       "id": "fp_0093",

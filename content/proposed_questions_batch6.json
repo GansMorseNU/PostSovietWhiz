@@ -229,7 +229,7 @@
       "prompt": "How should the demographic composition of Russia's ethnic republics be characterized in the 1990s?",
       "choices": [
         {
-          "text": "Wide variation: titular nationalities ranged from outright majorities (Chechens, Tuvans) to minorities within their own republic (Karelians, Komi), with ethnic Russians often the plurality — a legacy of Soviet-era resettlement",
+          "text": "Wide variation: titular nationalities ranged from outright majorities (Chechens, Tuvans) to minorities within their own republic (Karelians, Komi), with ethnic Russians often the plurality",
           "correct": true
         },
         {
@@ -263,7 +263,7 @@
         "Course lectures",
         "Daniel Treisman, The Return, ch. 8"
       ],
-      "last_reviewed_date": "2026-04-24"
+      "last_reviewed_date": "2026-04-25"
     },
     {
       "id": "pt_0156",
@@ -273,7 +273,7 @@
       "prompt": "Which best describes the ethnic composition of Ukraine at the time of independence in 1991?",
       "choices": [
         {
-          "text": "Around 73 percent ethnic Ukrainian and 22 percent ethnic Russian, with smaller Belarusian, Moldovan, and Crimean Tatar communities; ethnic Russians were concentrated in Crimea, the industrial east, and port cities",
+          "text": "Around 73 percent ethnic Ukrainian and 22 percent ethnic Russian, with smaller Belarusian, Moldovan, and Crimean Tatar communities",
           "correct": true
         },
         {
@@ -307,7 +307,7 @@
         "Course lectures",
         "Maria Popova & Oxana Shevel, Russia and Ukraine: Entangled Histories, Diverging States"
       ],
-      "last_reviewed_date": "2026-04-24"
+      "last_reviewed_date": "2026-04-25"
     },
     {
       "id": "pt_0157",
@@ -403,7 +403,7 @@
       "prompt": "In Alexander Dallin's framework on the Soviet collapse, the 'institutional (in)coherence' argument holds that:",
       "choices": [
         {
-          "text": "Soviet totalitarianism rested on interlocking institutions — terror, command economy, ideological monopoly, and Party primacy — that propped each other up; once any of them weakened, the rest could not hold (Dallin's Jenga metaphor)",
+          "text": "Soviet totalitarianism rested on interlocking institutions — terror, command economy, ideological monopoly, and Party primacy — that propped each other up; once any of them weakened, the rest could not hold",
           "correct": true
         },
         {
@@ -436,7 +436,7 @@
         "Alexander Dallin, 'Causes of the Soviet Collapse' (assigned reading for Lectures 3 & 4)",
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-24"
+      "last_reviewed_date": "2026-04-25"
     },
     {
       "id": "pt_0160",
@@ -446,7 +446,7 @@
       "prompt": "Daniel Treisman's explanation of the Soviet collapse in The Return emphasizes that:",
       "choices": [
         {
-          "text": "The 1990 acute economic crisis (shortages, rationing, food riots) and fear of mass hunger eroded popular support for Gorbachev and swung Russians toward Yeltsin",
+          "text": "The 1990 acute economic crisis and fear of mass hunger eroded popular support for Gorbachev and swung Russians toward Yeltsin",
           "correct": true
         },
         {
@@ -480,7 +480,7 @@
         "Daniel Treisman, The Return, ch. 1",
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-24"
+      "last_reviewed_date": "2026-04-25"
     },
     {
       "id": "pt_0161",
@@ -576,7 +576,7 @@
       "prompt": "The December 1995 Russian State Duma elections produced which headline result?",
       "choices": [
         {
-          "text": "The KPRF under Zyuganov topped the party-list vote at about 22 percent; only four of 43 parties cleared the 5 percent threshold (KPRF, LDPR, Our Home Is Russia, Yabloko)",
+          "text": "The KPRF under Zyuganov topped the party-list vote at about 22 percent; only four of 43 parties cleared the 5 percent threshold",
           "correct": true
         },
         {
@@ -610,7 +610,7 @@
         "Course lectures",
         "Daniel Treisman, The Return, ch. 2"
       ],
-      "last_reviewed_date": "2026-04-24"
+      "last_reviewed_date": "2026-04-25"
     },
     {
       "id": "pt_0164",
@@ -663,7 +663,7 @@
       "prompt": "What was the headline political outcome of Ukraine's March 1998 Verkhovna Rada elections?",
       "choices": [
         {
-          "text": "The KPU came first at ~25 percent of the list vote (~27 percent of seats), Rukh second at ~10 percent, and the left bloc remained dominant in a fragmented Rada",
+          "text": "The KPU came first at ~25 percent of the list vote, Rukh second at ~10 percent, and the left bloc remained dominant in a fragmented Rada",
           "correct": true
         },
         {
@@ -696,7 +696,7 @@
         "Course lectures",
         "Maria Popova & Oxana Shevel, Russia and Ukraine: Entangled Histories, Diverging States"
       ],
-      "last_reviewed_date": "2026-04-24"
+      "last_reviewed_date": "2026-04-25"
     },
     {
       "id": "pt_0166",

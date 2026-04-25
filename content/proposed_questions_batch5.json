@@ -181,7 +181,7 @@
       "prompt": "The Great Purge of 1936-1938 is best described as:",
       "choices": [
         {
-          "text": "A wave of NKVD arrests and executions — including show trials of Old Bolsheviks like Zinoviev, Kamenev, and Bukharin — that killed roughly 800,000 people across party, military, and intelligentsia",
+          "text": "A wave of NKVD arrests and executions that killed roughly 800,000 people across party, military, and intelligentsia",
           "correct": true
         },
         {
@@ -267,7 +267,7 @@
       "prompt": "In Marxist theory, \"historical materialism\" refers to the idea that:",
       "choices": [
         {
-          "text": "Changes in a society's mode of production (its economic base) drive changes in its political institutions, social relations, and ideology (its superstructure), producing a progression through historical stages — tribal, ancient, feudal, capitalist, socialist",
+          "text": "Changes in a society's mode of production drive changes in its political institutions, social relations, and ideology, producing a progression through historical stages",
           "correct": true
         },
         {
@@ -299,7 +299,7 @@
       "sources": [
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-22"
+      "last_reviewed_date": "2026-04-25"
     },
     {
       "id": "pt_0142",
@@ -395,7 +395,7 @@
       "prompt": "In analyses of the Soviet collapse, \"structural\" and \"contingent\" explanations differ primarily in that:",
       "choices": [
         {
-          "text": "Structural explanations focus on factors beyond short-term leader control (development, military capacity, ethnic composition), while contingent explanations focus on particular leaders' decisions or specific events",
+          "text": "Structural explanations focus on factors beyond short-term leader control, while contingent explanations focus on particular leaders' decisions or specific events",
           "correct": true
         },
         {
@@ -438,7 +438,7 @@
       "prompt": "In international-relations theory, \"realism\" and \"liberalism\" differ primarily in that:",
       "choices": [
         {
-          "text": "Realism focuses on national interests and material capabilities, while liberalism focuses on norms, institutions, and ideas like the 'democratic peace'",
+          "text": "Realism focuses on national interests and material capabilities, while liberalism focuses on norms, institutions, and ideas",
           "correct": true
         },
         {
