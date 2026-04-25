@@ -53,7 +53,7 @@
       "prompt": "In the context of late-Soviet politics, \"neformaly\" refers to:",
       "choices": [
         {
-          "text": "Informal civic associations that proliferated from 1987 onward under glasnost — focused on causes such as Stalin-era memory (Memorial), the environment, workers' welfare, and human rights — and that later coalesced into popular fronts and the earliest opposition parties",
+          "text": "Informal civic associations that proliferated from 1987 under glasnost — Stalin-era memory (Memorial), the environment, human rights — later coalescing into popular fronts and early opposition parties",
           "correct": true
         },
         {
@@ -72,7 +72,7 @@
           "note": "Neformaly operated outside the CPSU, not inside it. Intra-Party reformers are the category Gorbachev himself belonged to, a distinct group from the neformaly."
         }
       ],
-      "explanation": "Neformaly (from the Russian for 'informal [groups]') are a pivotal category for understanding the Soviet collapse. Glasnost allowed some freedom of association but did not yet permit formal opposition parties; the neformaly filled the space in between. The paradigmatic example is Memorial — initially a commemoration of Stalin's victims, later led by Andrei Sakharov. Others formed around environmental protection (e.g., against Lake Baikal pollution or nuclear power after Chernobyl), labor rights, and ethnic and religious causes. By 1988 they were organizing across major cities into popular fronts, which in turn supplied candidates and mobilizing capacity for the 1989 USSR and 1990 republic-level elections.",
+      "explanation": "Neformaly (from the Russian for 'informal [groups]') are a pivotal category for understanding the Soviet collapse. Glasnost allowed some freedom of association but did not yet permit formal opposition parties; the neformaly filled the space in between. The paradigmatic example is Memorial — initially a commemoration of Stalin's victims, later led by Andrei Sakharov. Others formed around environmental protection, labor rights, and ethnic and religious causes. By 1988 they were organizing across major cities into popular fronts, supplying candidates and mobilizing capacity for the 1989 USSR and 1990 republic-level elections.",
       "difficulty": "medium",
       "era": "soviet",
       "country": "russia",
@@ -85,7 +85,7 @@
       "sources": [
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-23"
+      "last_reviewed_date": "2026-04-25"
     },
     {
       "id": "pt_0148",
@@ -95,7 +95,7 @@
       "prompt": "What best describes the March 1990 elections to the Supreme Soviet (Verkhovna Rada) of the Ukrainian SSR?",
       "choices": [
         {
-          "text": "The first partially competitive legislative elections in Soviet Ukraine: the Democratic Bloc (anchored by Rukh) took roughly a quarter of the seats while Communists retained roughly three-quarters, and reform-minded Communist Leonid Kravchuk was then elected chairman of the new parliament",
+          "text": "The first partially competitive Soviet Ukrainian elections: the Democratic Bloc (anchored by Rukh) took roughly a quarter of seats, Communists kept three-quarters, and Kravchuk became parliamentary chairman",
           "correct": true
         },
         {
@@ -114,7 +114,7 @@
           "note": "These were republic-wide elections for the Ukrainian SSR's Supreme Soviet (the Verkhovna Rada), not a municipal contest."
         }
       ],
-      "explanation": "The March 1990 Ukrainian SSR parliamentary elections are a key inflection point in Ukraine's divergence from Russia. The Democratic Bloc — a coalition anchored by Rukh, the People's Movement of Ukraine for Perestroika — won roughly a quarter of the seats, concentrated heavily in western Ukraine. The Communist Party retained the majority, but its ranks included reformist currents, and the new parliament elected Leonid Kravchuk (a senior CPSU ideology secretary) as its chairman. Over the next 18 months, that parliament drove the 16 July 1990 Declaration of State Sovereignty, the response to the August 1991 coup, the 24 August 1991 Act of Independence, and the scheduling of the December 1991 independence referendum — all with Kravchuk, not a Rukh outsider, at the helm.",
+      "explanation": "The March 1990 elections are a key inflection point in Ukraine's divergence from Russia. Rukh — the People's Movement of Ukraine for Perestroika — was the Democratic Bloc's anchor and was concentrated in western Ukraine. The Communist Party retained the majority but included reformist currents, and the new parliament elected Leonid Kravchuk (a senior CPSU ideology secretary) as chairman. Over the next 18 months, that parliament drove the 16 July 1990 Declaration of State Sovereignty, the response to the August 1991 coup, the 24 August 1991 Act of Independence, and the December 1991 referendum.",
       "difficulty": "medium",
       "era": "soviet",
       "country": "ukraine",
@@ -128,7 +128,7 @@
       "sources": [
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-23"
+      "last_reviewed_date": "2026-04-25"
     },
     {
       "id": "pt_0149",
@@ -138,7 +138,7 @@
       "prompt": "The Supreme Soviet of the Russian Federation — successor to the Supreme Soviet of the RSFSR — is best described as:",
       "choices": [
         {
-          "text": "A standing parliament of roughly 250 deputies drawn from the larger Congress of People's Deputies, seated in the White House, which under Chairman Ruslan Khasbulatov became Yeltsin's principal institutional rival in 1992-93 and was forcibly dissolved during the October 1993 constitutional crisis",
+          "text": "A standing parliament drawn from the larger Congress of People's Deputies, seated in the White House, which under Khasbulatov became Yeltsin's chief institutional rival in 1992-93 and was forcibly dissolved during the October 1993 crisis",
           "correct": true
         },
         {
@@ -157,7 +157,7 @@
           "note": "It was a sovereign parliament with legislative power, not an advisory body, and it predated (and constrained) Yeltsin rather than being created by him."
         }
       ],
-      "explanation": "The institutional lineage matters for the 1993 constitutional crisis. During the Soviet period each union republic had its own Supreme Soviet; the RSFSR's parliament sat in a building on the Moscow River that came to be called the White House (completed 1981). In 1990 the RSFSR reorganized along Gorbachev's earlier federal model, creating a large Congress of People's Deputies that elected a smaller Supreme Soviet from its own ranks. After the Soviet collapse, this structure persisted as the 'Supreme Soviet of the Russian Federation.' Under Khasbulatov, the standing Supreme Soviet and the wider Congress became the institutional base of Yeltsin's opponents. The October 1993 crisis ended with Yeltsin's Decree 1400 dissolving both bodies and with the December 1993 referendum replacing them with the Federal Assembly (Duma + Federation Council) established by the new Constitution.",
+      "explanation": "The Supreme Soviet of the RSFSR was a 252-deputy body (a Council of the Republic and a Council of Nationalities, 126 each) reorganized in 1990 along Gorbachev's earlier federal model. After the Soviet collapse the structure persisted as the 'Supreme Soviet of the Russian Federation.' The October 1993 crisis ended with Yeltsin's Decree 1400 dissolving both the Supreme Soviet and the Congress, and with the December 1993 referendum replacing them with the Federal Assembly (Duma + Federation Council).",
       "difficulty": "medium",
       "era": "1990s",
       "country": "russia",
@@ -171,7 +171,7 @@
       "sources": [
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-22"
+      "last_reviewed_date": "2026-04-25"
     }
   ]
 }

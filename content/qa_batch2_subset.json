@@ -583,7 +583,7 @@
           "note": "The 1996 constitution did not create that premier-presidential arrangement; it gave the president substantially stronger powers, and later battles over executive authority helped drive subsequent constitutional reforms."
         }
       ],
-      "explanation": "Kuchma pushed for a stronger presidency, but Ukraine's 1996 constitution was still more of a compromise than Russia's 1993 settlement. Because it was passed through existing procedures rather than imposed after a violent showdown, it did not carry the same origin story as Russia's superpresidential constitution.",
+      "explanation": "Leonid Kuchma — Ukraine's president since 1994 — pushed for a stronger presidency, and Ukraine's 1996 constitution did move the formal balance toward the executive. Even so, it was more of a negotiated compromise than Russia's 1993 settlement: because it was passed through existing parliamentary procedures rather than imposed after a violent showdown, it did not carry the same origin story as Russia's superpresidential constitution.",
       "difficulty": "medium",
       "era": "1990s",
       "country": "ukraine",
@@ -597,7 +597,7 @@
         "Course lectures",
         "Way, Pluralism by Default"
       ],
-      "last_reviewed_date": "2026-04-20"
+      "last_reviewed_date": "2026-04-25"
     },
     {
       "id": "pt_0015",
@@ -2917,23 +2917,23 @@
       "prompt": "What was the main political innovation of the Soviet Union's 1989 elections to the Congress of People's Deputies?",
       "choices": [
         {
-          "text": "They introduced partly competitive multicandidate contests that were broadcast to a mass public",
+          "text": "The 1989 elections introduced partly competitive multicandidate contests that were broadcast to a mass public",
           "correct": true
         },
         {
-          "text": "They immediately ended the Communist Party's legal monopoly by repealing Article 6",
+          "text": "The 1989 elections immediately ended the Communist Party's legal monopoly by repealing Article 6 of the Soviet Constitution",
           "correct": false,
-          "note": "Article 6 was repealed in 1990, not by the 1989 elections themselves."
+          "note": "Article 6 was repealed in 1990 (by a separate constitutional amendment), not by the 1989 elections themselves."
         },
         {
-          "text": "They created a fully sovereign presidency for the Russian republic",
+          "text": "The 1989 elections created a fully sovereign presidency for the Russian republic",
           "correct": false,
-          "note": "The Russian presidency was created later, in 1991."
+          "note": "The Russian presidency was created later, in 1991, by separate RSFSR-level legislation."
         },
         {
-          "text": "They abolished all reserved seats for party and social organizations",
+          "text": "The 1989 elections abolished all reserved seats for party and social organizations",
           "correct": false,
-          "note": "Reserved seats remained, which is why the contest was only partly competitive."
+          "note": "Reserved seats for the CPSU and approved social organizations remained, which is why the contest was only partly competitive."
         }
       ],
       "explanation": "The 1989 elections did not create full democracy, but they opened a major breach in the Soviet system. Televised campaigns and debates gave reformers and critics a national platform and exposed political conflict to millions of viewers.",
@@ -2949,7 +2949,7 @@
       "sources": [
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-20"
+      "last_reviewed_date": "2026-04-25"
     },
     {
       "id": "pt_0041",
@@ -3211,7 +3211,7 @@
       "prompt": "Why did the failed August 1991 coup accelerate Ukraine's move to full independence?",
       "choices": [
         {
-          "text": "It discredited the union center and raised fears that hardliners could try to reverse republican autonomy by force",
+          "text": "It discredited the union center and raised fears that hardliners could try to reverse the autonomy gains made by the Soviet republics by force",
           "correct": true
         },
         {
@@ -3243,7 +3243,7 @@
       "sources": [
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-20"
+      "last_reviewed_date": "2026-04-25"
     },
     {
       "id": "pt_0048",
@@ -3425,7 +3425,7 @@
       "prompt": "What made Tatarstan an emblem of Russia's asymmetrical federalism in the 1990s?",
       "choices": [
         {
-          "text": "Its 1994 bilateral treaty went further than Moscow's deals with other regions, recognizing Tatarstan's claims to sovereignty and control over its own budget, taxes, and natural resources",
+          "text": "Its 1994 bilateral treaty went further than Moscow's deals with other regions, recognizing Tatarstan's claims to sovereignty and control over its own budget, taxes, and resources",
           "correct": true
         },
         {
@@ -3444,7 +3444,7 @@
           "note": "The distinctive feature was its treaty-based autonomy, not exclusive access to elections."
         }
       ],
-      "explanation": "Yeltsin signed bilateral power-sharing treaties with dozens of regions in the 1990s, but Tatarstan's 1994 treaty was the most far-reaching. It acknowledged Tatarstan as a state \"associated with\" Russia, handed it substantial fiscal powers, and gave it control over key economic assets. That made it the signature case of asymmetrical federalism, where some regions extracted much better deals than others.",
+      "explanation": "Yeltsin signed bilateral power-sharing treaties with dozens of regions in the 1990s, but Tatarstan's 1994 treaty was the most far-reaching. It acknowledged Tatarstan as a state 'associated with' Russia, handed it substantial fiscal powers, and gave it control over key economic assets. That made it the signature case of asymmetrical federalism.",
       "difficulty": "hard",
       "era": "1990s",
       "country": "russia",
@@ -3457,7 +3457,7 @@
       "sources": [
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-21"
+      "last_reviewed_date": "2026-04-25"
     },
     {
       "id": "pt_0053",
@@ -3596,7 +3596,7 @@
       "prompt": "What best distinguished Russia's center-periphery bargaining from Ukraine's regional politics in the 1990s?",
       "choices": [
         {
-          "text": "Russia bargained with constitutionally entrenched federal subjects through asymmetrical treaties, while Ukraine was formally unitary and handled regional conflict more through electoral and autonomy disputes, above all in Crimea",
+          "text": "Russia bargained with constitutionally entrenched federal subjects through asymmetrical treaties, while unitary Ukraine handled regional conflict — above all in Crimea — through electoral and autonomy disputes",
           "correct": true
         },
         {
@@ -3629,7 +3629,7 @@
         "Course lectures",
         "Maria Popova & Oxana Shevel, Russia and Ukraine: Entangled Histories, Diverging States"
       ],
-      "last_reviewed_date": "2026-04-21"
+      "last_reviewed_date": "2026-04-25"
     },
     {
       "id": "pt_0057",
@@ -3872,7 +3872,7 @@
           "note": "The term referred to coalition formation in parliament, not a media policy agreement."
         }
       ],
-      "explanation": "The coalition underscored how fluid Ukrainian parliamentary alignments could be. It also demonstrated that the Orange camp had not created a stable, unified post-revolutionary governing bloc.",
+      "explanation": "The 'Orange camp' here refers to the political bloc that came out of the 2004 Orange Revolution — Viktor Yushchenko's Our Ukraine and Yulia Tymoshenko's eponymous bloc — who had together installed Yushchenko as president and Tymoshenko as prime minister in early 2005 and then fell out within the year. The 2006 'anti-crisis coalition,' built around Yanukovych's Party of Regions plus the Socialists and Communists, demonstrated that the Orange camp had not produced a stable, unified governing bloc, and that Ukrainian parliamentary alignments could shift abruptly across the 2004 cleavage.",
       "difficulty": "very_hard",
       "era": "2000s",
       "country": "ukraine",
@@ -3886,7 +3886,7 @@
         "Course lectures",
         "Lucan Way, Pluralism by Default"
       ],
-      "last_reviewed_date": "2026-04-21"
+      "last_reviewed_date": "2026-04-25"
     },
     {
       "id": "pt_0063",
@@ -4281,7 +4281,7 @@
       "prompt": "In her article 'Why the Orange Revolution Was Short and Peaceful and Euromaidan Long and Violent,' Maria Popova argues that the key reason for the contrast between Ukraine's two protest waves was:",
       "choices": [
         {
-          "text": "In Popova's account, the 2004 regime fragmented and hesitated earlier, while by 2013-2014 the state had a more cohesive coercive apparatus and used force more aggressively",
+          "text": "The 2004 regime fragmented and hesitated earlier, while by 2013-2014 the state had a more cohesive coercive apparatus and used force more aggressively",
           "correct": true
         },
         {
@@ -4318,7 +4318,7 @@
         "Maria Popova, Why the Orange Revolution Was Short and Peaceful and Euromaidan Long and Violent",
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-21"
+      "last_reviewed_date": "2026-04-25"
     },
     {
       "id": "pt_0073",
@@ -4328,7 +4328,7 @@
       "prompt": "Which institutional contrast best captures Russia and Ukraine in the 2010s?",
       "choices": [
         {
-          "text": "Russia deepened a centralized authoritarian vertical, while Ukraine retained competitive national elections and pursued decentralization despite war and crisis",
+          "text": "Russia deepened its centralized authoritarian 'power vertical' (vertikal vlasti), while Ukraine retained competitive national elections and pursued decentralization despite war",
           "correct": true
         },
         {
@@ -4347,7 +4347,7 @@
           "note": "Neither country made that institutional shift."
         }
       ],
-      "explanation": "The contrast is a central comparative theme. Russia continued to centralize authority around a narrow executive core, while Ukraine remained more electorally open and institutionally plural even under severe external pressure.",
+      "explanation": "'Vertikal vlasti' is the chain of command from Kremlin to local government. The contrast is a central comparative theme: Russia continued to centralize authority around a narrow executive core, while Ukraine remained more electorally open and institutionally plural even under severe external pressure.",
       "difficulty": "medium",
       "era": "2010s_plus",
       "country": "both",
@@ -4361,7 +4361,7 @@
         "Course lectures",
         "Maria Popova & Oxana Shevel, Russia and Ukraine: Entangled Histories, Diverging States"
       ],
-      "last_reviewed_date": "2026-04-21"
+      "last_reviewed_date": "2026-04-25"
     },
     {
       "id": "fp_0032",
@@ -5211,7 +5211,7 @@
       "prompt": "One principle associated with the so-called 'Medvedev Doctrine' after the 2008 Russia-Georgia war was Russia's claim to:",
       "choices": [
         {
-          "text": "Privileged interests in neighboring regions",
+          "text": "Russia's own privileged interests in neighboring regions",
           "correct": true
         },
         {
@@ -5243,7 +5243,7 @@
       "sources": [
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-21"
+      "last_reviewed_date": "2026-04-25"
     },
     {
       "id": "fp_0053",
@@ -5520,7 +5520,7 @@
           "note": "The formula did not begin with immediate permanent autonomy before elections."
         },
         {
-          "text": "Give the occupied Donbas districts temporary special status within Ukraine, hold local elections there under OSCE monitoring, and make that special status for the districts permanent if the elections were judged legitimate",
+          "text": "Give Donbas districts temporary special status, hold local elections under OSCE monitoring, and make special status permanent if elections were judged legitimate",
           "correct": true
         }
       ],
@@ -5537,7 +5537,7 @@
       "sources": [
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-23"
+      "last_reviewed_date": "2026-04-25"
     },
     {
       "id": "fp_0060",
@@ -5929,7 +5929,7 @@
       "prompt": "The 1989 'Baltic Way' was a mass protest in which:",
       "choices": [
         {
-          "text": "About two million people joined hands in a human chain across Estonia, Latvia, and Lithuania to mark the 50th anniversary of the Molotov-Ribbentrop Pact",
+          "text": "About two million people joined hands across Estonia, Latvia, and Lithuania to mark the 50th anniversary of the Molotov-Ribbentrop Pact",
           "correct": true
         },
         {
@@ -5948,7 +5948,7 @@
           "note": "The Baltic Way was a grassroots protest movement against Soviet rule, not a state-organized rally."
         }
       ],
-      "explanation": "The August 23, 1989 human chain marked the 50th anniversary of the Molotov-Ribbentrop Pact's secret protocols that had assigned the Baltic states to the Soviet sphere. By framing Soviet rule as the product of a discredited Nazi-Soviet deal, the protest put the legitimacy of their incorporation into the USSR at the center of the debate.",
+      "explanation": "The August 23, 1989 human chain marked the 50th anniversary of the Molotov-Ribbentrop Pact's secret protocols that had assigned the Baltic states to the Soviet sphere. By framing Soviet rule as the product of a discredited Nazi-Soviet deal, the protest put the legitimacy of their incorporation into the USSR at the center of debate.",
       "difficulty": "medium",
       "era": "soviet",
       "country": "both",
@@ -5962,7 +5962,7 @@
       "sources": [
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-21"
+      "last_reviewed_date": "2026-04-25"
     },
     {
       "id": "pt_0079",
@@ -6058,7 +6058,7 @@
       "prompt": "What made the results of Russia's December 1993 State Duma elections politically striking?",
       "choices": [
         {
-          "text": "Vladimir Zhirinovsky's nationalist Liberal Democratic Party (LDPR) won a surprisingly large share of the party-list vote, signaling the strength of a populist-nationalist opposition to Yeltsin's course",
+          "text": "Vladimir Zhirinovsky's nationalist Liberal Democratic Party (LDPR) won a surprisingly large party-list share, signaling populist-nationalist opposition to Yeltsin",
           "correct": true
         },
         {
@@ -6091,7 +6091,7 @@
       "sources": [
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-21"
+      "last_reviewed_date": "2026-04-25"
     },
     {
       "id": "pt_0082",
@@ -6101,7 +6101,7 @@
       "prompt": "Why did Yeltsin's appointment of Yevgeny Primakov as prime minister in September 1998 matter politically?",
       "choices": [
         {
-          "text": "Primakov had broad support across the Duma after the August 1998 crash and represented a pivot away from the reform-minded technocrats associated with the crisis",
+          "text": "Primakov had broad Duma support after the August 1998 crash and represented a pivot away from the reform technocrats associated with the crisis",
           "correct": true
         },
         {
@@ -6134,7 +6134,7 @@
       "sources": [
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-21"
+      "last_reviewed_date": "2026-04-25"
     },
     {
       "id": "pt_0083",
@@ -6144,7 +6144,7 @@
       "prompt": "Why is former Ukrainian prime minister Pavlo Lazarenko a notable figure in 1990s Ukrainian politics?",
       "choices": [
         {
-          "text": "He served as prime minister in 1996-1997 and was later convicted in a United States court of laundering funds tied to Ukrainian gas-trade schemes, illustrating the intertwining of energy business and high office under Kuchma",
+          "text": "He served as PM in 1996-1997 and was later convicted in a U.S. court of laundering funds from Ukrainian gas-trade schemes",
           "correct": true
         },
         {
@@ -6163,7 +6163,7 @@
           "note": "The Budapest Memorandum was negotiated at the presidential level under Kravchuk and Kuchma; Lazarenko was not its lead negotiator."
         }
       ],
-      "explanation": "Lazarenko's career showed how control over Ukraine's gas-trading infrastructure — especially United Energy Systems, associated with Yulia Tymoshenko — could translate into both private fortune and top state office. His later U.S. conviction for money laundering became a widely cited emblem of the era's oligarchic-state fusion.",
+      "explanation": "Lazarenko's career showed how control over Ukraine's gas-trading infrastructure — especially United Energy Systems, associated with Yulia Tymoshenko — could translate into both private fortune and top state office. The U.S. money-laundering conviction became a widely cited emblem of the era's oligarchic-state fusion under Kuchma.",
       "difficulty": "very_hard",
       "era": "1990s",
       "country": "ukraine",
@@ -6177,7 +6177,7 @@
       "sources": [
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-21"
+      "last_reviewed_date": "2026-04-25"
     },
     {
       "id": "pt_0084",
@@ -6187,7 +6187,7 @@
       "prompt": "The post-Stalin 'Thaw' (Ottepel'), associated chiefly with Khrushchev's leadership, is best described as:",
       "choices": [
         {
-          "text": "A period of partial liberalization — mass release of Gulag prisoners, looser censorship that allowed works like Solzhenitsyn's One Day in the Life of Ivan Denisovich, and a move away from mass terror — while one-party rule and central planning continued",
+          "text": "Partial liberalization — mass Gulag releases, looser censorship, and a turn away from mass terror — while one-party rule and central planning continued",
           "correct": true
         },
         {
@@ -6206,7 +6206,7 @@
           "note": "Khrushchev-era rehabilitations targeted loyal Party members executed in the 1930s purges; Bukharin's rehabilitation came only under Gorbachev, and Trotsky's Bolshevik-era verdicts were never reversed."
         }
       ],
-      "explanation": "The Thaw took its name from Ilya Ehrenburg's 1954 novella. Its hallmarks were the release of millions of political prisoners after Stalin's death, limited space for previously censored literature and film, and the end of mass arrests — while the Party's monopoly on politics, the planned economy, and Marxist-Leninist ideology remained firmly in place. The period ended with Khrushchev's 1964 ouster and a partial 'refreeze' under Brezhnev.",
+      "explanation": "The Thaw took its name from Ilya Ehrenburg's 1954 novella. Its hallmarks were the release of millions of political prisoners after Stalin's death, limited space for previously censored literature and film (Solzhenitsyn's One Day in the Life of Ivan Denisovich), and the end of mass arrests — while the Party's monopoly on politics, the planned economy, and Marxist-Leninist ideology remained firmly in place. The period ended with Khrushchev's 1964 ouster and a partial 'refreeze' under Brezhnev.",
       "difficulty": "very_hard",
       "era": "soviet",
       "country": "russia",
@@ -6220,7 +6220,7 @@
       "sources": [
         "Archie Brown, The Rise and Fall of Communism"
       ],
-      "last_reviewed_date": "2026-04-21"
+      "last_reviewed_date": "2026-04-25"
     },
     {
       "id": "pt_0085",
@@ -6274,7 +6274,7 @@
       "prompt": "The 'Brezhnev Doctrine', announced after the 1968 invasion of Czechoslovakia, asserted that:",
       "choices": [
         {
-          "text": "The Soviet Union and its socialist allies had the right to intervene militarily whenever socialism was seen as threatened in an Eastern Bloc state",
+          "text": "The Soviet Union and its allies had the right to intervene militarily whenever socialism was seen as threatened in an Eastern Bloc state",
           "correct": true
         },
         {
@@ -6308,7 +6308,7 @@
         "Course lectures",
         "Gans-Morse, Fall of the Eastern Bloc (course handout)"
       ],
-      "last_reviewed_date": "2026-04-21"
+      "last_reviewed_date": "2026-04-25"
     },
     {
       "id": "fp_0066",
@@ -6622,7 +6622,7 @@
       "prompt": "The January 1994 Trilateral Statement signed by the presidents of Russia, Ukraine, and the United States was primarily about:",
       "choices": [
         {
-          "text": "Arrangements for Ukraine to transfer its inherited Soviet nuclear warheads to Russia in exchange for security assurances, compensation, and fuel deliveries",
+          "text": "Ukraine's transfer of its Soviet nuclear warheads to Russia in exchange for security assurances, compensation, and fuel",
           "correct": true
         },
         {
@@ -6655,7 +6655,7 @@
       "sources": [
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-21"
+      "last_reviewed_date": "2026-04-25"
     },
     {
       "id": "fp_0074",
@@ -6665,7 +6665,7 @@
       "prompt": "The 1992 Transnistria War involved a conflict between:",
       "choices": [
         {
-          "text": "The government of newly independent Moldova and pro-Russian separatists in a strip of territory east of the Dniester River, with Russia's 14th Army playing a decisive role",
+          "text": "Newly independent Moldova and pro-Russian separatists east of the Dniester, with Russia's 14th Army intervening on the separatist side",
           "correct": true
         },
         {
@@ -6698,7 +6698,7 @@
       "sources": [
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-21"
+      "last_reviewed_date": "2026-04-25"
     },
     {
       "id": "fp_0075",
@@ -6839,7 +6839,7 @@
       "prompt": "What was the 'parade of sovereignties' (1988-1991) in the late Soviet period?",
       "choices": [
         {
-          "text": "A wave of declarations by union republics and some autonomous regions asserting the supremacy of their own laws over USSR laws, beginning with the Baltics and culminating in Russia's own sovereignty declaration of June 1990",
+          "text": "A wave of declarations by union republics asserting the supremacy of their own laws over USSR laws, beginning with the Baltics and culminating in Russia's June 1990 declaration",
           "correct": true
         },
         {
@@ -6858,7 +6858,7 @@
           "note": "UN admission of the post-Soviet states came after December 1991; the 'parade of sovereignties' was an internal-law phenomenon about legal supremacy inside the union, not international recognition."
         }
       ],
-      "explanation": "The parade of sovereignties names the cascading wave of republic-level declarations that their own laws superseded all-union laws, hollowing out the USSR from within. Estonia opened the wave in November 1988; Russia's declaration of sovereignty on 12 June 1990 (under Yeltsin, as chair of the RSFSR Supreme Soviet) was the tipping point because Russia was the core republic. By mid-1991 virtually every republic had declared sovereignty, setting up the 'war of laws' that preceded the August coup and the union's December 1991 dissolution.",
+      "explanation": "Some autonomous regions also joined the wave. The parade of sovereignties names the cascading wave hollowing out the USSR from within. Estonia opened the wave in November 1988; Russia's declaration of sovereignty on 12 June 1990 (under Yeltsin, as chair of the RSFSR Supreme Soviet) was the tipping point because Russia was the core republic. By mid-1991 virtually every republic had declared sovereignty, setting up the 'war of laws' that preceded the August coup.",
       "difficulty": "hard",
       "era": "soviet",
       "country": "russia",
@@ -6873,7 +6873,7 @@
         "Course lectures",
         "Archie Brown, The Rise and Fall of Communism"
       ],
-      "last_reviewed_date": "2026-04-21"
+      "last_reviewed_date": "2026-04-25"
     },
     {
       "id": "pt_0089",
@@ -6969,10 +6969,10 @@
       "category": "political_transitions",
       "subcategory": "political_transitions",
       "type": "multiple_choice",
-      "prompt": "The Interregional Deputies' Group, formed at the First Congress of People's Deputies in July 1989, played what role in late-Soviet political life?",
+      "prompt": "The Interregional Deputies' Group, formed in late July 1989 by deputies of the newly elected Congress of People's Deputies, played what role in late-Soviet political life?",
       "choices": [
         {
-          "text": "It was the first organized, quasi-opposition caucus within the Soviet legislative system — chaired jointly by Andrei Sakharov, Boris Yeltsin, Gavriil Popov, Yuri Afanasyev, and Viktor Palm — pushing for faster democratization, a market economy, and the repeal of Article 6",
+          "text": "The first organized opposition caucus in the Soviet legislative system — co-chaired by Sakharov, Yeltsin, Popov, Afanasyev, and Palm — pushing for democratization, market economy, and Article 6 repeal",
           "correct": true
         },
         {
@@ -6991,7 +6991,7 @@
           "note": "The CPSU's own legislative presence was organized through party discipline and did not require the Interregional Group. The IRG was explicitly the opposition caucus."
         }
       ],
-      "explanation": "The Interregional Deputies Group is the canonical late-Soviet opposition caucus — the first legal anti-regime parliamentary bloc in Soviet history, chaired by five co-leaders (including Sakharov, whose death in December 1989 shook the group). Its program anticipated the repeal of Article 6 (won in March 1990), radical market reform, and genuine republic-level sovereignty. Many of its members populated the post-1991 Russian political landscape — Yeltsin as president, Popov as Moscow mayor, Afanasyev as an intellectual fixture.",
+      "explanation": "The Interregional Deputies' Group is the canonical late-Soviet opposition caucus — the first legal anti-regime parliamentary bloc in Soviet history. Sakharov's death in December 1989 shook the group. Its program anticipated the repeal of Article 6 (won in March 1990), radical market reform, and genuine republic-level sovereignty. Many members populated the post-1991 Russian political landscape — Yeltsin as president, Popov as Moscow mayor, Afanasyev as an intellectual fixture.",
       "difficulty": "very_hard",
       "era": "soviet",
       "country": "russia",
@@ -7007,7 +7007,7 @@
         "Archie Brown, The Rise and Fall of Communism",
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-21"
+      "last_reviewed_date": "2026-04-25"
     },
     {
       "id": "pt_0092",
@@ -7017,7 +7017,7 @@
       "prompt": "The 19th Conference of the CPSU in June-July 1988 is considered a pivot point in perestroika because:",
       "choices": [
         {
-          "text": "Gorbachev used it to push through a sweeping program of political reform — creating the Congress of People's Deputies, introducing contested elections, and shifting real authority from party organs toward newly empowered soviets",
+          "text": "Gorbachev used it to push through political reform — creating the Congress of People's Deputies, introducing contested elections, and shifting authority from party organs toward newly empowered soviets",
           "correct": true
         },
         {
@@ -7051,7 +7051,7 @@
         "Archie Brown, The Rise and Fall of Communism",
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-23"
+      "last_reviewed_date": "2026-04-25"
     },
     {
       "id": "pt_0093",
@@ -7106,7 +7106,7 @@
       "prompt": "The Russian Constitution adopted by referendum in December 1993 is often described as a 'super-presidential' constitution. Which feature most clearly justifies that label?",
       "choices": [
         {
-          "text": "The president can dissolve the Duma if it rejects a prime minister three times or passes two no-confidence votes within three months, while the president's own impeachment requires a supermajority and Constitutional Court sign-off that makes it effectively impossible",
+          "text": "The president can dissolve the Duma if it rejects a PM three times or passes two no-confidence votes within three months, while presidential impeachment is procedurally near-impossible",
           "correct": true
         },
         {
@@ -7125,7 +7125,7 @@
           "note": "Constitutional amendment requires supermajorities in the Federal Assembly (and in some chapters also regional ratification or a Constitutional Assembly). Decree-level rewriting is not permitted."
         }
       ],
-      "explanation": "Scholars call the 1993 charter super-presidential because the president holds overwhelming formal powers — naming the prime minister, dissolving the Duma under several conditions, issuing binding decrees, and being largely insulated from impeachment — while the legislature has few compensating tools. Shugart-Carey-style presidential-power indices place Russia at the high end among presidential systems. This institutional design is one of the structural legacies of the October 1993 showdown with the Supreme Soviet.",
+      "explanation": "Scholars call the 1993 charter super-presidential because the president holds overwhelming formal powers — naming the prime minister, dissolving the Duma under several conditions, issuing binding decrees, and being largely insulated from impeachment (which requires a supermajority and Constitutional Court sign-off) — while the legislature has few compensating tools. Shugart-Carey-style indices place Russia at the high end among presidential systems. This design is one of the structural legacies of the October 1993 showdown.",
       "difficulty": "hard",
       "era": "1990s",
       "country": "russia",
@@ -7139,7 +7139,7 @@
       "sources": [
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-21"
+      "last_reviewed_date": "2026-04-25"
     },
     {
       "id": "pt_0095",
@@ -7192,7 +7192,7 @@
       "prompt": "In the 1996 Russian presidential election Boris Yeltsin came from single-digit approval earlier in the year to defeat Communist Party leader Gennady Zyuganov in a two-round runoff. Most analysts attribute the turnaround to which combination of factors?",
       "choices": [
         {
-          "text": "A massive oligarch-funded media campaign (the 'Davos Pact'), lavish off-budget spending, the co-opting of ex-rival Aleksandr Lebed after the first round, and Kremlin-friendly framing of the contest as a choice between reform and a return to communism",
+          "text": "A massive oligarch-funded media campaign (the Davos Pact), lavish off-budget spending, the post-first-round co-opting of Lebed, and Kremlin framing of the contest as reform vs. communist return",
           "correct": true
         },
         {
@@ -7211,7 +7211,7 @@
           "note": "Zyuganov contested and lost the runoff; there was no withdrawal or coalition agreement."
         }
       ],
-      "explanation": "The 1996 election is a paradigm case of 'electoral authoritarianism'-adjacent tactics deployed by a hybrid regime to preserve reformist incumbents. Yeltsin's approval in January was in the single digits; by July he had won with 54 percent in the runoff. The oligarchs who backed him (Berezovsky, Gusinsky, Khodorkovsky and others) in exchange for loans-for-shares privatization access produced a one-sided media environment; Lebed's third-place finish (14.5 percent) was converted into an endorsement when Yeltsin appointed him security-council chief between rounds. The campaign is often cited as the moment when oligarchic capture of politics became entrenched.",
+      "explanation": "The 1996 election is a paradigm case of 'electoral authoritarianism'-adjacent tactics deployed by a hybrid regime to preserve reformist incumbents. Yeltsin's approval in January was in the single digits; by July he had won with 54 percent in the runoff. The oligarchs who backed him (Berezovsky, Gusinsky, Khodorkovsky and others) in exchange for loans-for-shares privatization access produced a one-sided media environment; Lebed's third-place finish (14.5 percent) was converted into an endorsement when Yeltsin appointed him security-council chief between rounds.",
       "difficulty": "hard",
       "era": "1990s",
       "country": "russia",
@@ -7226,7 +7226,7 @@
       "sources": [
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-21"
+      "last_reviewed_date": "2026-04-25"
     },
     {
       "id": "pt_0097",
@@ -7279,7 +7279,7 @@
       "prompt": "In the July 1994 Ukrainian presidential election, Leonid Kuchma defeated the incumbent Leonid Kravchuk. What regional and programmatic cleavage did that contest expose?",
       "choices": [
         {
-          "text": "Kuchma drew disproportionately from the more Russian-speaking east and south and campaigned on closer ties with Russia and upgrading the status of the Russian language, while Kravchuk's base was in the center and west",
+          "text": "Kuchma drew disproportionately from the Russian-speaking east and south and campaigned on closer Russia ties and upgraded Russian-language status, while Kravchuk's base was in the center and west",
           "correct": true
         },
         {
@@ -7298,7 +7298,7 @@
           "note": "Kuchma was a former Soviet defense-industry director (Pivdenmash); Crimean Tatar politics was not his platform."
         }
       ],
-      "explanation": "The 1994 election crystallized Ukraine's east-west regional cleavage — heavily Russian-speaking Donbas, Odesa, and Kharkiv voting for Kuchma's platform of friendlier ties with Russia, and Galicia and Kyiv-central Ukraine leaning Kravchuk — a pattern that would recur through Ukraine's 1994-2004 elections and that scholars (e.g., Kubicek, D'Anieri) have treated as the defining structural feature of Ukrainian politics in this period.",
+      "explanation": "The 1994 election crystallized Ukraine's east-west regional cleavage — heavily Russian-speaking Donbas, Odesa, and Kharkiv voting for Kuchma's platform of friendlier ties with Russia, and Galicia and Kyiv-central Ukraine leaning Kravchuk. This pattern recurred through Ukraine's 1994-2004 elections and scholars (Kubicek, D'Anieri) have treated it as the defining structural feature of Ukrainian politics in this period.",
       "difficulty": "medium",
       "era": "1990s",
       "country": "ukraine",
@@ -7313,7 +7313,7 @@
         "Course lectures",
         "Paul D'Anieri, Ukraine and Russia: From Civilized Divorce to Uncivil War"
       ],
-      "last_reviewed_date": "2026-04-21"
+      "last_reviewed_date": "2026-04-25"
     },
     {
       "id": "pt_0099",
@@ -7540,7 +7540,7 @@
       "prompt": "The 1987 Law on State Enterprise aimed to shift Soviet firms toward greater autonomy. What was its main mechanism, and what unintended macroeconomic effect did it produce?",
       "choices": [
         {
-          "text": "It required state enterprises to transition to self-financing ('khozraschet') and gave them control over a portion of their output beyond the state plan — but directors used the new autonomy to raise wages faster than productivity, worsening the repressed-inflation problem",
+          "text": "It moved state enterprises to self-financing ('khozraschet') and gave them control over output beyond the plan — but directors used the autonomy to raise wages faster than productivity, worsening repressed inflation",
           "correct": true
         },
         {
@@ -7559,7 +7559,7 @@
           "note": "The law leaned toward material incentives and financial autonomy, not a pivot to non-monetary rewards."
         }
       ],
-      "explanation": "The 1987 Law on State Enterprise let directors retain more of their firm's surplus and respond partially to market-like signals within a still-planned economy. In practice, enterprise directors used the new autonomy to raise wages — worker councils (STKs) often pressured them in that direction — without matching productivity gains. With consumer prices still fixed, this fuelled large monetary overhang and empty-shelves inflation by 1989-1990, a key channel through which partial reform discredited the planned economy even before full marketization.",
+      "explanation": "The 1987 Law on State Enterprise let directors retain more of their firm's surplus and respond partially to market-like signals within a still-planned economy. Worker councils (STKs) often pressured directors toward faster wage growth without matching productivity gains. With consumer prices still fixed, this fuelled large monetary overhang and empty-shelves inflation by 1989-1990 — a key channel through which partial reform discredited the planned economy even before full marketization.",
       "difficulty": "very_hard",
       "era": "soviet",
       "country": "russia",
@@ -7574,7 +7574,7 @@
         "Anders Åslund, Building Capitalism",
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-21"
+      "last_reviewed_date": "2026-04-25"
     },
     {
       "id": "et_0074",
@@ -7628,7 +7628,7 @@
       "prompt": "Gorbachev's anti-alcohol campaign of 1985-1987 is often cited as an economic as much as a social policy failure. Why?",
       "choices": [
         {
-          "text": "Revenues from the state vodka monopoly were a major share of the Soviet budget, and cutting alcohol sales without an alternative revenue source blew a large hole in the budget — feeding the late-Soviet deficit and helping set off the inflation of 1989-91",
+          "text": "Vodka monopoly revenues were a major share of the Soviet budget, and cutting alcohol sales without alternative revenue blew a hole in the budget — feeding the late-Soviet deficit",
           "correct": true
         },
         {
@@ -7647,7 +7647,7 @@
           "note": "Grain prices for bakeries were not doubled by this campaign, and there was no 1987 bread-supply collapse of this kind."
         }
       ],
-      "explanation": "Vodka excise was a pillar of Soviet state revenue — by some estimates more than a tenth of budget receipts — and the anti-alcohol campaign sharply cut official sales. With oil prices falling after 1986 and defense commitments unchanged, the revenue shortfall widened the budget deficit that the central bank financed by printing rubles, adding to the repressed-inflation overhang. The episode is a stock illustration in Aslund's and Brown's accounts of how well-intentioned Gorbachev initiatives worsened the fiscal picture that later reforms could not fix.",
+      "explanation": "Vodka excise was a pillar of Soviet state revenue — by some estimates more than a tenth of budget receipts — and the anti-alcohol campaign sharply cut official sales. With oil prices falling after 1986 and defense commitments unchanged, the revenue shortfall widened the budget deficit that the central bank financed by printing rubles, adding to the repressed-inflation overhang and the 1989-91 inflation surge. The episode is a stock illustration in Aslund's and Brown's accounts.",
       "difficulty": "medium",
       "era": "soviet",
       "country": "russia",
@@ -7662,7 +7662,7 @@
         "Anders Åslund, Building Capitalism",
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-21"
+      "last_reviewed_date": "2026-04-25"
     },
     {
       "id": "et_0076",
@@ -7672,7 +7672,7 @@
       "prompt": "The '500 Days Program' (1990) was a widely discussed Soviet-era reform blueprint. What did it propose and what happened to it?",
       "choices": [
         {
-          "text": "A rapid marketization plan drafted by an economists' team led by Stanislav Shatalin and Grigory Yavlinsky; Gorbachev initially endorsed it, then shelved it under pressure from Prime Minister Ryzhkov and the conservative wing, opting instead for a cautious hybrid",
+          "text": "A rapid-marketization plan drafted by Stanislav Shatalin and Grigory Yavlinsky; Gorbachev initially endorsed it, then shelved it under Ryzhkov's pressure for a cautious hybrid",
           "correct": true
         },
         {
@@ -7691,7 +7691,7 @@
           "note": "The 500 Days Program was a domestic marketization blueprint with no link to INF Treaty reparations."
         }
       ],
-      "explanation": "The 500 Days Program became a symbol of the road-not-taken in late-Soviet reform: a quick, sequenced move to markets with private property, price liberalization, macroeconomic stabilization, and monetary reform, drafted by a team around Shatalin and Yavlinsky. Gorbachev first backed it, then under pressure retreated to a compromise blueprint, and the plan was never implemented in the USSR. Its legacy bled into the early Russian reform debate — Gaidar's 1992 shock therapy can be read as a faster, more austere cousin.",
+      "explanation": "The 500 Days Program became a symbol of the road-not-taken in late-Soviet reform: a quick, sequenced move to markets with private property, price liberalization, macroeconomic stabilization, and monetary reform. Gorbachev first backed it, then under conservative-wing pressure retreated to a compromise blueprint, and the plan was never implemented in the USSR. Its legacy bled into the early Russian reform debate — Gaidar's 1992 shock therapy can be read as a faster, more austere cousin.",
       "difficulty": "very_hard",
       "era": "soviet",
       "country": "russia",
@@ -7707,7 +7707,7 @@
         "Anders Åslund, Building Capitalism",
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-21"
+      "last_reviewed_date": "2026-04-25"
     },
     {
       "id": "et_0077",
@@ -7717,7 +7717,7 @@
       "prompt": "In January 1991 Soviet Prime Minister Valentin Pavlov ordered that 50- and 100-ruble banknotes be withdrawn from circulation within three days and exchanged only up to a strict per-person ceiling. What was the main rationale the authorities gave, and what was the actual effect?",
       "choices": [
         {
-          "text": "Officially, to strike at 'speculators' and black-market cash hoards; actually, it wiped out a large share of ordinary savers' holdings while failing to stabilize prices, further eroding trust in the Soviet currency and state",
+          "text": "Officially, to strike at 'speculators' and black-market hoards; actually, it wiped out a large share of ordinary savers' holdings while failing to stabilize prices, eroding trust in the Soviet currency",
           "correct": true
         },
         {
@@ -7736,7 +7736,7 @@
           "note": "The Afghan withdrawal had been completed in 1989, and the confiscation was not presented as related to it."
         }
       ],
-      "explanation": "The Pavlov reform is a classic botched confiscatory monetary measure: small savers could not exchange within the tight window and lost value outright while genuine black-market actors largely evaded it. Combined with a 2-3x price rise in April 1991, it convinced many Soviet citizens that their ruble savings were unsafe in the state's hands — a confidence loss that fed the post-collapse preference for dollar holdings and capital flight.",
+      "explanation": "The Pavlov reform is a classic botched confiscatory monetary measure: small savers could not exchange within the tight window and lost value outright while genuine black-market actors largely evaded it. Combined with a 2-3x price rise in April 1991, it convinced many Soviet citizens that their ruble savings were unsafe in state hands — a confidence loss that fed the post-collapse preference for dollar holdings and capital flight.",
       "difficulty": "very_hard",
       "era": "soviet",
       "country": "russia",
@@ -7751,17 +7751,17 @@
         "Anders Åslund, Building Capitalism",
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-21"
+      "last_reviewed_date": "2026-04-25"
     },
     {
       "id": "et_0078",
       "category": "economic_transitions",
       "subcategory": "economic_transitions",
       "type": "multiple_choice",
-      "prompt": "On 2 January 1992 Russia's acting prime minister, Yegor Gaidar, implemented the centerpiece of what Westerners called 'shock therapy'. Which measure was introduced that day?",
+      "prompt": "On 2 January 1992 Russia's deputy prime minister for economic policy, Yegor Gaidar, implemented the centerpiece of what critics of reforms called 'shock therapy'. Which measure was introduced that day?",
       "choices": [
         {
-          "text": "Near-complete liberalization of retail prices — most consumer-good prices were freed from state control overnight, producing a sharp one-time price jump and immediate shortages being replaced by high-priced goods on shelves",
+          "text": "Near-complete liberalization of retail prices — most consumer-good prices were freed overnight, producing a sharp price jump and shortages giving way to high-priced shelves",
           "correct": true
         },
         {
@@ -7780,7 +7780,7 @@
           "note": "The January 1992 reforms went in the opposite direction — toward liberalization — not toward capital controls on hard-currency purchases."
         }
       ],
-      "explanation": "January 1992 price liberalization is the iconic opening move of Russian shock therapy. Prices roughly tripled in weeks, shortages were replaced by unaffordability rather than empty shelves, and the inflation rate for 1992 as a whole ran in the thousands of percent. The move is intensely contested in the scholarly literature (Åslund defends it as necessary given the monetary overhang; others, e.g., Reddaway and Glinski, argue the sequencing and institutional preparation were wrong), and the political backlash defined 1990s Russian politics.",
+      "explanation": "January 1992 price liberalization is the iconic opening move of Russian shock therapy. Prices roughly tripled in weeks, shortages were replaced by unaffordability rather than empty shelves, and inflation for 1992 as a whole ran in the thousands of percent. The political backlash defined 1990s Russian politics.",
       "difficulty": "easy",
       "era": "1990s",
       "country": "russia",
@@ -7795,7 +7795,7 @@
         "Anders Åslund, Building Capitalism",
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-21"
+      "last_reviewed_date": "2026-04-25"
     },
     {
       "id": "et_0079",
@@ -7805,7 +7805,7 @@
       "prompt": "Russia's mass voucher privatization program (1992-94), led by Anatoly Chubais, worked in which basic way?",
       "choices": [
         {
-          "text": "Every Russian citizen received a 10,000-ruble voucher that could be used to acquire shares in privatizing state firms or sold for cash; most workers ended up with stakes in their own enterprises, while an active voucher-trading market rapidly concentrated holdings",
+          "text": "Each citizen received a 10,000-ruble voucher usable for shares in privatizing state firms or sellable for cash; most workers ended up with stakes in their own enterprises while voucher trading concentrated holdings",
           "correct": true
         },
         {
@@ -7824,7 +7824,7 @@
           "note": "Vouchers were designed to acquire equity in privatizing state enterprises. They were not bond instruments."
         }
       ],
-      "explanation": "Russian voucher privatization distributed approximately 148 million vouchers (one per citizen, including children), with three main redemption channels: insider buyouts (the dominant path), voucher investment funds, and direct auctions. By mid-1994 most medium and large state enterprises had been privatized in nominal terms. Critics note the program was disappointing in both revenue (vouchers were cheap) and governance (insiders dominated, impeding restructuring); defenders note that it made privatization politically irreversible before the loans-for-shares phase.",
+      "explanation": "The program distributed approximately 148 million vouchers (one per citizen, including children), with three main redemption channels: insider buyouts (the dominant path), voucher investment funds, and direct auctions. By mid-1994 most medium and large state enterprises had been privatized in nominal terms. Critics note the program was disappointing in both revenue and governance; defenders note that it made privatization politically irreversible before the loans-for-shares phase.",
       "difficulty": "medium",
       "era": "1990s",
       "country": "russia",
@@ -7839,7 +7839,7 @@
         "Anders Åslund, Building Capitalism",
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-21"
+      "last_reviewed_date": "2026-04-25"
     },
     {
       "id": "et_0080",
@@ -7849,7 +7849,7 @@
       "prompt": "The 1995-96 'loans-for-shares' scheme in Russia transferred ownership of several of the country's largest natural-resource and industrial firms to a small group of private actors. How did it work?",
       "choices": [
         {
-          "text": "The Russian government, short of cash before the 1996 election, borrowed from a handful of well-connected banks using shares in crown-jewel state firms as collateral; when the state predictably defaulted, the collateral was auctioned — often to the lending banks themselves at below-market prices — permanently transferring ownership",
+          "text": "The cash-strapped government borrowed from a small group of well-connected banks against shares in major state firms; on the predictable default, the collateral was auctioned at below-market prices to those same banks",
           "correct": true
         },
         {
@@ -7868,7 +7868,7 @@
           "note": "Loans-for-shares was 1995-96 and ran through the federal government, not the Central Bank. It preceded, rather than followed, the 1998 crisis."
         }
       ],
-      "explanation": "Loans-for-shares is the canonical post-voucher-privatization scandal. Banks (Menatep, Oneksim, Alfa, and others) lent to the government with shares in Yukos, Norilsk Nickel, Sidanko, and similar firms as collateral; auctions were rigged so lending banks won, and a small, politically connected oligarchy acquired the commanding heights of the economy at very low valuations. The episode underpins the argument that Russia's 1990s reform produced 'oligarchic capitalism' rather than competitive markets, and it became a defining target of Putin's later 'equidistance' doctrine vis-à-vis oligarchs.",
+      "explanation": "Loans-for-shares is the canonical post-voucher-privatization scandal. Banks (Menatep, Oneksim, Alfa, and others) lent to the government with shares in Yukos, Norilsk Nickel, Sidanko, and similar firms as collateral; auctions were rigged so lending banks won, and a small, politically connected oligarchy acquired the commanding heights of the economy at very low valuations. The episode underpins the 'oligarchic capitalism' argument and became a defining target of Putin's later 'equidistance' doctrine.",
       "difficulty": "medium",
       "era": "1990s",
       "country": "russia",
@@ -7884,7 +7884,7 @@
         "Anders Åslund, Building Capitalism",
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-21"
+      "last_reviewed_date": "2026-04-25"
     },
     {
       "id": "et_0081",
@@ -8069,7 +8069,7 @@
       "prompt": "In Hellman's influential analysis of post-communist economic reform, who emerges as the central obstacle to completing market reforms?",
       "choices": [
         {
-          "text": "'Short-term winners' — actors who gained outsized rents from the partial-reform phase (arbitrage between fixed and free prices, access to cheap credit, insider ownership) and then lobbied to lock in the halfway state",
+          "text": "'Short-term winners' — actors who gained outsized rents in the partial-reform phase (price arbitrage, cheap credit, insider ownership) and lobbied to lock in a partial-reform equilibrium",
           "correct": true
         },
         {
@@ -8088,7 +8088,7 @@
           "note": "Most post-communist countries did not see systematic rollback of privatization, and Hellman's diagnosis emphasizes concentrated gainers of partial reform rather than electoral Communists."
         }
       ],
-      "explanation": "Joel Hellman's 'Winners Take All: The Politics of Partial Reform in Postcommunist Transitions' (World Politics, 1998) is a course-standard reading on why reforms stall in the middle. His key move is to show empirically that the states with the slowest further reform were ones where early winners had concentrated benefits to defend, and to argue that the political obstacle was not anti-reform masses but post-reform elites. Ukraine and Russia's 1990s trajectories are both core cases in his analysis.",
+      "explanation": "Joel Hellman's 'Winners Take All: The Politics of Partial Reform in Postcommunist Transitions' (World Politics, 1998) shows empirically that the states with the slowest further reform were ones where early winners had concentrated benefits to defend, and argues that the political obstacle was not anti-reform masses but post-reform elites. Ukraine and Russia's 1990s trajectories are core cases.",
       "difficulty": "very_hard",
       "era": "1990s",
       "country": "both",
@@ -8102,7 +8102,7 @@
         "Joel Hellman, 'Winners Take All: The Politics of Partial Reform in Postcommunist Transitions,' World Politics (1998)",
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-21"
+      "last_reviewed_date": "2026-04-25"
     },
     {
       "id": "fp_0076",
@@ -8287,7 +8287,7 @@
       "prompt": "German reunification (October 1990) was legally accomplished through which diplomatic framework?",
       "choices": [
         {
-          "text": "The 'Two Plus Four' Treaty — negotiations among the two German states (East and West) and the four wartime occupying powers (US, UK, France, USSR), producing the Treaty on the Final Settlement with Respect to Germany signed in September 1990",
+          "text": "The 'Two Plus Four' Treaty — negotiations among the two German states and the four wartime occupying powers — yielding the September 1990 Final Settlement Treaty",
           "correct": true
         },
         {
@@ -8306,7 +8306,7 @@
           "note": "No pan-German plebiscite was held; East Germany acceded to West Germany under Article 23 of the Basic Law. The international side was handled by the Two-Plus-Four negotiations."
         }
       ],
-      "explanation": "The Two-Plus-Four Treaty (formally the Treaty on the Final Settlement with Respect to Germany) closed out the post-WWII rights of the four occupying powers and recognized a unified Germany within its post-1945 borders, including the Oder-Neisse line. The USSR's acquiescence was a Gorbachev-era signature move, tied to economic assistance from West Germany and to the broader New Thinking logic. It is the backdrop for the subsequent long-running 'not one inch eastward' debate about NATO enlargement.",
+      "explanation": "The four powers were the US, UK, France, and USSR. The Two-Plus-Four Treaty (formally the Treaty on the Final Settlement with Respect to Germany) closed out the post-WWII rights of the four occupying powers and recognized a unified Germany within its post-1945 borders, including the Oder-Neisse line. The USSR's acquiescence was a Gorbachev-era signature move and is the backdrop for the long-running 'not one inch eastward' debate.",
       "difficulty": "hard",
       "era": "soviet",
       "country": "russia",
@@ -8321,7 +8321,7 @@
         "Course lectures",
         "Mary Elise Sarotte, Not One Inch"
       ],
-      "last_reviewed_date": "2026-04-21"
+      "last_reviewed_date": "2026-04-25"
     },
     {
       "id": "fp_0081",
@@ -8331,7 +8331,7 @@
       "prompt": "The long-running 'not one inch eastward' debate concerns assurances allegedly offered to Soviet leaders in early 1990 about NATO expansion. Who famously used the phrase in February 1990, and in what narrow context?",
       "choices": [
         {
-          "text": "U.S. Secretary of State James Baker, in a conversation with Gorbachev about whether NATO jurisdiction would extend east of unified Germany's territory — i.e., over East German soil — not about the future membership of Poland, Hungary, or the Czechoslovak state",
+          "text": "U.S. Secretary of State James Baker, in a conversation with Gorbachev about NATO jurisdiction extending east of unified Germany — i.e., over East German soil, not future Visegrad or Baltic membership",
           "correct": true
         },
         {
@@ -8350,7 +8350,7 @@
           "note": "No such written annex exists; the treaty itself does not promise non-expansion of NATO east of Germany. The 'not one inch' line is oral and from February 1990."
         }
       ],
-      "explanation": "Archival work by Mary Elise Sarotte and others shows that Baker's 9 February 1990 meeting with Gorbachev (and a day earlier with Shevardnadze) produced the famous formulation that 'NATO jurisdiction' would not move 'one inch eastward' — in the specific context of unified-Germany negotiations (i.e., East German territory), not a broader promise covering the future Visegrad or Baltic states. Russian officials subsequently interpreted the phrase as a broader pledge; U.S. officials argue the scope was narrower and was superseded by the September 1990 Two-Plus-Four text, which deals only with Germany. The controversy anchors much of the debate over NATO enlargement and Russian grievances through the 1990s-2020s.",
+      "explanation": "Archival work by Mary Elise Sarotte and others shows that Baker's 9 February 1990 meetings in Moscow — with Shevardnadze earlier and Gorbachev later — produced the formulation that 'NATO jurisdiction' would not move 'one inch eastward,' in the specific context of unified-Germany negotiations. Russian officials subsequently interpreted the phrase as a broader pledge; U.S. officials argue the scope was narrower and was superseded by the September 1990 Two-Plus-Four text, which deals only with Germany.",
       "difficulty": "very_hard",
       "era": "soviet",
       "country": "both",
@@ -8365,7 +8365,7 @@
         "Mary Elise Sarotte, Not One Inch",
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-21"
+      "last_reviewed_date": "2026-04-25"
     },
     {
       "id": "fp_0082",
@@ -8375,7 +8375,7 @@
       "prompt": "The Conventional Armed Forces in Europe (CFE) Treaty signed in November 1990:",
       "choices": [
         {
-          "text": "Set equal ceilings on five categories of conventional military hardware (tanks, armored combat vehicles, artillery, combat aircraft, attack helicopters) across NATO and the Warsaw Pact from the Atlantic to the Urals, with verification and inspection",
+          "text": "Set equal NATO/Warsaw Pact ceilings on five conventional-hardware categories (tanks, ACVs, artillery, aircraft, helicopters) from the Atlantic to the Urals",
           "correct": true
         },
         {
@@ -8394,7 +8394,7 @@
           "note": "Partnership for Peace came in 1994. CFE was a conventional-forces arms-control treaty with ceilings and verification, not a NATO-outreach program."
         }
       ],
-      "explanation": "The CFE Treaty is the heaviest-duty conventional-arms-control achievement of the late Cold War: hardware caps, extensive verification, and a shift toward transparency about force structures. Its original architecture depended on the bloc-to-bloc structure that the Warsaw Pact's 1991 dissolution unwound, and the treaty was eventually suspended by Russia in 2007 and formally exited in 2023 — but in 1990 it was a central pillar of the post-Cold-War European security order.",
+      "explanation": "The CFE Treaty is the heaviest-duty conventional-arms-control achievement of the late Cold War: hardware caps, extensive verification, and a shift toward transparency about force structures. Its original architecture depended on the bloc-to-bloc structure that the Warsaw Pact's 1991 dissolution unwound; the treaty was eventually suspended by Russia in 2007 and formally exited in 2023.",
       "difficulty": "hard",
       "era": "soviet",
       "country": "russia",
@@ -8408,7 +8408,7 @@
       "sources": [
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-21"
+      "last_reviewed_date": "2026-04-25"
     },
     {
       "id": "fp_0083",
@@ -8505,7 +8505,7 @@
       "prompt": "Russia was progressively integrated into the G7 through the second half of the 1990s, culminating in what is usually described as full membership by 1998. What was the basic sequence?",
       "choices": [
         {
-          "text": "Partial political participation starting at the 1994 Naples summit, expanded political status from the 1997 Denver summit (the 'Summit of the Eight'), and full membership recognized at the 1998 Birmingham summit — forming the G8 — though Russia remained excluded from the G7 finance-ministers track",
+          "text": "Partial political participation from Naples 1994, expanded status from the 1997 Denver 'Summit of the Eight,' and full membership at the 1998 Birmingham summit — but Russia stayed off the G7 finance track",
           "correct": true
         },
         {
@@ -8524,7 +8524,7 @@
           "note": "Russia was treated as a full G8 member from Birmingham 1998 until its suspension after the 2014 Crimea annexation. The 'observer only' framing is inaccurate."
         }
       ],
-      "explanation": "Russia's 1990s G7/G8 integration was diplomatic symbolism of the highest order: a commitment by Western capitals to treat post-Soviet Russia as a political peer despite lagging economic indicators. The staged accession (Naples 1994 → Denver 1997 → Birmingham 1998) produced the G8 format that persisted through 2014, when Russia was suspended after the Crimea annexation. The finance ministers' track remained G7, preserving a practical exclusion that Russian officials periodically criticized.",
+      "explanation": "Russia's 1990s G7/G8 integration was diplomatic symbolism of the highest order: a commitment by Western capitals to treat post-Soviet Russia as a political peer despite lagging economic indicators. The staged accession (Naples 1994 → Denver 1997 → Birmingham 1998) produced the G8 format that persisted through 2014, when Russia was suspended after Crimea's annexation. The finance ministers' track remained G7, preserving a practical exclusion that Russian officials periodically criticized.",
       "difficulty": "very_hard",
       "era": "1990s",
       "country": "russia",
@@ -8538,7 +8538,7 @@
       "sources": [
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-21"
+      "last_reviewed_date": "2026-04-25"
     },
     {
       "id": "fp_0086",
@@ -8548,7 +8548,7 @@
       "prompt": "The NATO-Russia Founding Act (May 1997) was intended to manage Russian concerns about NATO enlargement. What did it establish, and what did it NOT establish?",
       "choices": [
         {
-          "text": "It established a NATO-Russia Permanent Joint Council for consultation and stated that NATO had 'no intention, no plan, and no reason' to deploy nuclear weapons or substantial combat forces on new members' territory — but it did NOT give Russia a veto over NATO decisions or over enlargement",
+          "text": "It set up a Permanent Joint Council and the 'no intention, no plan, no reason' pledge on forces in new members — but did NOT grant Russia a veto",
           "correct": true
         },
         {
@@ -8567,7 +8567,7 @@
           "note": "No such withdrawal was required or carried out; the Act did commit NATO to certain force-posture restraints on new members' territory but not to withdrawing from existing members like Germany."
         }
       ],
-      "explanation": "The NATO-Russia Founding Act was a 1997 political document (not a treaty) designed to offer Russia a structured voice as the 1999 first-wave enlargement approached. Its key substantive commitments were about NATO posture on new members' territory ('no intention, no plan, no reason' — the 'three no's') and the establishment of the Permanent Joint Council. Russian officials later argued the 2004 and 2022 force dispositions violated the Act's spirit; NATO argues the force-posture language was explicitly conditional on the security environment at the time.",
+      "explanation": "The NATO-Russia Founding Act was a 1997 political document (not a treaty) designed to offer Russia a structured voice as the 1999 first-wave enlargement approached. Its key substantive commitments were the 'three no's' on nuclear weapons and substantial combat forces on new members' territory, and the establishment of the Permanent Joint Council. Russian officials later argued the 2004 and 2022 force dispositions violated the Act's spirit; NATO argues that language was conditional on the security environment at the time.",
       "difficulty": "hard",
       "era": "1990s",
       "country": "russia",
@@ -8581,7 +8581,7 @@
       "sources": [
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-21"
+      "last_reviewed_date": "2026-04-25"
     },
     {
       "id": "fp_0087",
@@ -8591,7 +8591,7 @@
       "prompt": "The First Chechen War (1994-1996) ended with which settlement?",
       "choices": [
         {
-          "text": "The Khasavyurt Accords, negotiated for the Russian side by Aleksandr Lebed and for the Chechen side by Aslan Maskhadov in August 1996 — a ceasefire that postponed the question of Chechnya's status for five years and was widely read as a Russian military defeat",
+          "text": "The Khasavyurt Accords, negotiated by Aleksandr Lebed and Aslan Maskhadov in August 1996 — a ceasefire that postponed Chechnya's status for five years and was widely read as a Russian defeat",
           "correct": true
         },
         {
@@ -8610,7 +8610,7 @@
           "note": "No such treaty existed. Chechnya did not sign an association treaty with Georgia; the war ended by the Khasavyurt Accords with Russia."
         }
       ],
-      "explanation": "The First Chechen War saw poorly prepared Russian forces mount a disastrous invasion in December 1994, suffer heavy casualties in the January 1995 storming of Grozny, and face a mobile, motivated Chechen resistance. Aleksandr Lebed's Khasavyurt Accords (August 1996) ended hostilities on terms favorable to the Chechen side, leaving the status question open. The settlement became a major talking point for critics of Yeltsin and set the stage for the Second Chechen War (1999-), which Putin used as a foundational success.",
+      "explanation": "The First Chechen War saw poorly prepared Russian forces mount a disastrous invasion in December 1994, suffer heavy casualties in the January 1995 storming of Grozny, and face a mobile, motivated Chechen resistance. Lebed's Khasavyurt Accords ended hostilities on terms favorable to the Chechen side, leaving the status question open. The settlement became a major talking point for Yeltsin's critics and set the stage for the Second Chechen War (1999-).",
       "difficulty": "medium",
       "era": "1990s",
       "country": "russia",
@@ -8624,7 +8624,7 @@
       "sources": [
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-21"
+      "last_reviewed_date": "2026-04-25"
     },
     {
       "id": "fp_0088",
@@ -8634,7 +8634,7 @@
       "prompt": "In March-June 1999 NATO carried out a 78-day air campaign against Yugoslavia over Kosovo. What was Russia's role and reaction?",
       "choices": [
         {
-          "text": "Russia sharply opposed the bombing, withdrew from NATO-Russia structures temporarily, and famously staged the 'Pristina dash' — a surprise deployment of paratroopers to Pristina airport ahead of NATO forces in June — before ultimately cooperating in the Kosovo Force (KFOR) arrangement",
+          "text": "Russia opposed the bombing, briefly withdrew from NATO-Russia structures, and famously staged the 'Pristina dash' before ultimately cooperating in the KFOR arrangement",
           "correct": true
         },
         {
@@ -8653,7 +8653,7 @@
           "note": "The campaign proceeded without a specific UNSC authorizing resolution (NATO cited humanitarian grounds), and Russia's objections at the UNSC did not stop it."
         }
       ],
-      "explanation": "The 1999 Kosovo campaign is a major inflection point in Russian perceptions of the post-Cold-War order: NATO using force against a sovereign state without UNSC authorization, over Russian objections, and against a fellow Slavic-Orthodox state that Moscow saw as within its traditional sphere. Primakov's famous 'Atlantic loop' (ordering his plane to return to Moscow on learning of the impending strikes) and the Pristina dash became symbols of the shift from cooperative to competitive Russian-Western relations.",
+      "explanation": "The 1999 Kosovo campaign is a major inflection point in Russian perceptions of the post-Cold-War order: NATO using force against a sovereign state without UNSC authorization, over Russian objections, and against a Slavic-Orthodox state Moscow saw as within its traditional sphere. Primakov's famous 'Atlantic loop' (ordering his plane to return to Moscow on learning of the impending strikes) and the June Pristina-airport paratrooper deployment ahead of NATO became symbols of the shift from cooperative to competitive Russian-Western relations.",
       "difficulty": "hard",
       "era": "1990s",
       "country": "russia",
@@ -8667,7 +8667,7 @@
       "sources": [
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-21"
+      "last_reviewed_date": "2026-04-25"
     },
     {
       "id": "fp_0089",
@@ -8677,7 +8677,7 @@
       "prompt": "The Commonwealth of Independent States (CIS) was created in December 1991. Which of the following best describes what it actually was (and was not) in the 1990s?",
       "choices": [
         {
-          "text": "A loose intergovernmental organization of most post-Soviet states, providing a framework for managing the dissolution — debt and asset allocation, military questions, transit — without meaningful supranational authority and with patchy participation",
+          "text": "A loose intergovernmental organization of most post-Soviet states, providing a framework for managing dissolution without meaningful supranational authority and with patchy participation",
           "correct": true
         },
         {
@@ -8696,7 +8696,7 @@
           "note": "The ruble zone collapsed by mid-1993 as most republics introduced their own currencies. Customs and currency integration were fragmentary and not institutionalized through the CIS in the form described."
         }
       ],
-      "explanation": "The CIS was Belovezha's diplomatic cover for the USSR's dissolution: a soft multilateral frame that made the break more orderly without creating a supranational replacement. Three Baltic states never joined; Ukraine signed but never ratified the CIS charter; Georgia left in 2008; Ukraine left in 2018. As the 1990s wore on, more substantive integration moved into narrower tracks (the EAEU family, CSTO), and the CIS became increasingly a coordinating forum rather than a political project.",
+      "explanation": "The CIS was Belovezha's diplomatic cover for the USSR's dissolution: a soft multilateral frame that made the break more orderly without creating a supranational replacement. It handled debt and asset allocation, military questions, and transit. Three Baltic states never joined; Ukraine signed but never ratified the CIS charter; Georgia left in 2008; Ukraine left in 2018. As the 1990s wore on, more substantive integration moved into narrower tracks (the EAEU family, CSTO).",
       "difficulty": "hard",
       "era": "1990s",
       "country": "both",
@@ -8710,7 +8710,7 @@
       "sources": [
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-21"
+      "last_reviewed_date": "2026-04-25"
     },
     {
       "id": "fp_0090",
@@ -8761,10 +8761,10 @@
       "category": "foreign_policy",
       "subcategory": "foreign_policy",
       "type": "multiple_choice",
-      "prompt": "In July 1994 NATO launched the Partnership for Peace (PfP) program. What was PfP designed to do?",
+      "prompt": "NATO launched the Partnership for Peace (PfP) program at its January 1994 Brussels summit. What was PfP designed to do?",
       "choices": [
         {
-          "text": "Provide a bilateral cooperation framework with non-member states — covering joint exercises, defense-reform assistance, and interoperability — open to most European and post-Soviet states, without guaranteeing membership",
+          "text": "A bilateral cooperation framework with non-member states — joint exercises, defense-reform assistance, interoperability — without guaranteeing membership",
           "correct": true
         },
         {
@@ -8783,7 +8783,7 @@
           "note": "The Warsaw Pact had dissolved in 1991. PfP was a NATO program that reached out to individual former Eastern Bloc and post-Soviet states, not a joint command."
         }
       ],
-      "explanation": "Partnership for Peace launched at the Brussels summit in January 1994 and was formally operational by mid-1994. It became the entry point for most Eastern European and post-Soviet states into regular cooperation with NATO — defense-reform advising, joint exercises, interoperability — and for many (Poland, Czech Republic, Hungary, later the Baltics) a way station toward membership. Russia and Ukraine both joined PfP in 1994, and Ukraine has used it to deepen interoperability independent of membership status.",
+      "explanation": "Partnership for Peace launched at the Brussels summit in January 1994 and was operational by mid-1994. It was open to most European and post-Soviet states. It became the entry point for most Eastern European and post-Soviet states into regular cooperation with NATO and for many a way station toward membership. Russia and Ukraine both joined PfP in 1994.",
       "difficulty": "medium",
       "era": "1990s",
       "country": "both",
@@ -8797,7 +8797,7 @@
       "sources": [
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-21"
+      "last_reviewed_date": "2026-04-25"
     },
     {
       "id": "fp_0092",
@@ -8850,7 +8850,7 @@
       "prompt": "Moldova's Transnistria conflict, which erupted in 1992, has been frozen for three decades under what kind of arrangement?",
       "choices": [
         {
-          "text": "A 1992 ceasefire that established a Joint Control Commission and deployed Russian, Moldovan, and Transnistrian peacekeepers, leaving Transnistria de facto independent but internationally unrecognized and with Russian troops stationed on its territory",
+          "text": "A 1992 ceasefire establishing a Joint Control Commission and tripartite peacekeepers, leaving Transnistria de facto independent with Russian troops on its territory",
           "correct": true
         },
         {
@@ -8869,7 +8869,7 @@
           "note": "Ukraine has not formally managed Transnistria's external relations. The frozen-conflict arrangement is tripartite (Russian-Moldovan-Transnistrian peacekeepers) under the 1992 ceasefire."
         }
       ],
-      "explanation": "Transnistria is the textbook 'frozen conflict' of the post-Soviet 1990s: a short, decisive war in 1992 produced a de facto separation, a tripartite peacekeeping format including Russia's 14th Army (successor forces), and an unresolved status that has persisted through multiple OSCE 5+2 negotiating rounds. It is a core case for the literature on Russia using unresolved secessionist disputes to limit its neighbors' foreign-policy room — alongside Abkhazia, South Ossetia, and Nagorno-Karabakh.",
+      "explanation": "Transnistria is the textbook 'frozen conflict' of the post-Soviet 1990s: a short, decisive war in 1992 produced a de facto separation, a tripartite peacekeeping format including Russia's 14th Army (successor forces), and an unresolved status that has persisted through multiple OSCE 5+2 negotiating rounds. It is a core case for the literature on Russia using unresolved secessionist disputes to limit its neighbors' foreign-policy room.",
       "difficulty": "very_hard",
       "era": "1990s",
       "country": "russia",
@@ -8883,7 +8883,7 @@
       "sources": [
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-21"
+      "last_reviewed_date": "2026-04-25"
     },
     {
       "id": "fp_0094",
@@ -8893,7 +8893,7 @@
       "prompt": "Andrei Kozyrev served as Russia's first foreign minister (1990-1996). His tenure is most associated with:",
       "choices": [
         {
-          "text": "An 'Atlanticist' orientation — rapid integration with the West, cooperation with the U.S. on Balkans and arms control, and acceptance of Western frameworks — which became increasingly unpopular inside Russia as 1990s-era grievances accumulated",
+          "text": "An 'Atlanticist' orientation — rapid integration with the West, U.S. cooperation on Balkans and arms control, and acceptance of Western frameworks",
           "correct": true
         },
         {
@@ -8912,7 +8912,7 @@
           "note": "Equidistance toward oligarchs is a Putin-era domestic posture, not a Kozyrev foreign-policy doctrine."
         }
       ],
-      "explanation": "Kozyrev's Atlanticism — working closely with James Baker, supporting UN-sanctioned enforcement in Iraq and later reluctantly in Yugoslavia, and framing Russia's future as broadly Western — was popular in early-Yeltsin reform circles and unpopular with the Duma and security bureaucracy. His replacement by Primakov in January 1996 and the shift to multipolarity is one of the clearest doctrinal pivots of 1990s Russian foreign policy and a staple organizing contrast in the literature (Kozyrev-to-Primakov-to-Putin).",
+      "explanation": "This orientation became increasingly unpopular inside Russia as 1990s grievances accumulated. Kozyrev's Atlanticism — working closely with James Baker, supporting UN-sanctioned enforcement in Iraq and reluctantly in Yugoslavia, and framing Russia's future as broadly Western — was popular in early-Yeltsin reform circles and unpopular with the Duma and security bureaucracy. His January 1996 replacement by Primakov is one of the clearest doctrinal pivots of 1990s Russian foreign policy.",
       "difficulty": "hard",
       "era": "1990s",
       "country": "russia",
@@ -8926,7 +8926,7 @@
       "sources": [
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-21"
+      "last_reviewed_date": "2026-04-25"
     }
   ]
 }

@@ -8,7 +8,7 @@
       "prompt": "On 14-15 March 1990 the Soviet Congress of People's Deputies created the new office of 'President of the USSR' and elected Mikhail Gorbachev to it. Historians frequently identify the manner of his election as a political misstep because:",
       "choices": [
         {
-          "text": "Gorbachev chose a Congress ballot (won 1,329 to 495) rather than a popular vote — he was not confident of winning a direct election — which left his presidential mandate weaker than Boris Yeltsin's when Yeltsin was directly elected RSFSR president in June 1991",
+          "text": "Gorbachev chose a Congress ballot rather than a popular vote (he was not confident of winning a direct election), leaving his presidential mandate weaker than Yeltsin's once Yeltsin was directly elected RSFSR president in June 1991",
           "correct": true
         },
         {
@@ -27,7 +27,7 @@
           "note": "The new presidency concentrated more power in Gorbachev's office, including treaty-making, emergency powers, and commander-in-chief authority — not less."
         }
       ],
-      "explanation": "The Congress ballot of 15 March 1990 came one day after the same Congress repealed Article 6 of the Constitution, ending the CPSU's formal political monopoly. Creating a USSR presidency was a Gorbachev bid to base authority outside the weakening Party, but he chose a Congress ballot over a popular vote — reportedly because his advisers warned he might lose a direct election. When Yeltsin was directly elected President of the RSFSR on 12 June 1991 with 57 percent in a competitive field, the legitimacy asymmetry became decisive during the August coup (Yeltsin on a tank outside the White House, Gorbachev under house arrest in Foros) and at Belavezha in December 1991.",
+      "explanation": "The Congress vote was 1,329 to 495 on 15 March 1990, a day after the same Congress repealed Article 6 of the Constitution. Creating a USSR presidency was a Gorbachev bid to base authority outside the weakening Party. When Yeltsin was directly elected on 12 June 1991 with 57 percent in a competitive field, the legitimacy asymmetry became decisive during the August coup (Yeltsin on a tank, Gorbachev under house arrest in Foros) and at Belavezha.",
       "difficulty": "hard",
       "era": "soviet",
       "country": "russia",
@@ -42,7 +42,7 @@
         "Course lectures",
         "Archie Brown, The Gorbachev Factor"
       ],
-      "last_reviewed_date": "2026-04-21"
+      "last_reviewed_date": "2026-04-25"
     },
     {
       "id": "pt_0120",
@@ -52,7 +52,7 @@
       "prompt": "At the First Congress of People's Deputies (May-June 1989), which of the following happened?",
       "choices": [
         {
-          "text": "The proceedings were broadcast live on Soviet television; Andrei Sakharov publicly called for repeal of Article 6; and Yeltsin, after losing his Moscow territorial seat, entered the Supreme Soviet when a Siberian deputy ceded his chair",
+          "text": "The proceedings were broadcast live; Sakharov publicly called for repeal of Article 6; and Yeltsin entered the Supreme Soviet only after Aleksei Kazannik voluntarily yielded his chair",
           "correct": true
         },
         {
@@ -71,7 +71,7 @@
           "note": "The Union Treaty debate ran through the 1990-91 Novo-Ogaryovo process; no such treaty was adopted at the First Congress, and in the end no full fifteen-republic treaty was ever signed."
         }
       ],
-      "explanation": "The First Congress was the moment glasnost became irreversible: tens of millions watched live as deputies on the national tribune criticized the KGB, named Stalin-era crimes, and contested Politburo orthodoxy. Sakharov's closing-day demand for Article 6's repeal (over Gorbachev's visible displeasure) became an iconic scene, and Yeltsin's entry to the Supreme Soviet via Kazan deputy Aleksei Kazannik's voluntary withdrawal became the first public signal that institutional workarounds could defeat Party-leadership vetoes.",
+      "explanation": "The First Congress was the moment glasnost became irreversible: tens of millions watched live as deputies on the national tribune criticized the KGB, named Stalin-era crimes, and contested Politburo orthodoxy. Sakharov's closing-day demand for Article 6's repeal (over Gorbachev's visible displeasure) became iconic, and Yeltsin's entry to the Supreme Soviet via Omsk deputy Aleksei Kazannik's voluntary withdrawal — after the Congress's internal selection had denied him one — became the first signal that institutional workarounds could defeat Party-leadership vetoes.",
       "difficulty": "hard",
       "era": "soviet",
       "country": "russia",
@@ -86,7 +86,7 @@
         "Course lectures",
         "Archie Brown, The Rise and Fall of Communism"
       ],
-      "last_reviewed_date": "2026-04-21"
+      "last_reviewed_date": "2026-04-25"
     },
     {
       "id": "pt_0121",
@@ -96,7 +96,7 @@
       "prompt": "During the August 1991 coup attempt, what role did Boris Yeltsin play on 19 August?",
       "choices": [
         {
-          "text": "Having been elected President of the RSFSR two months earlier, he arrived at the Russian White House, climbed onto a tank of the Taman Division, and read a televised decree declaring the GKChP illegal and calling for a general strike",
+          "text": "Already elected RSFSR president, he climbed onto a tank of the Taman Division at the Russian White House and read a televised decree declaring the GKChP illegal",
           "correct": true
         },
         {
@@ -115,7 +115,7 @@
           "note": "Yeltsin stayed at the Russian White House throughout the coup, not any embassy. His public presence at the White House — barricades, tanks, crowds — was the defining image of the resistance."
         }
       ],
-      "explanation": "The Taman Division tank image became the single most reproduced photograph of the coup. Yeltsin's decree declaring the GKChP illegal, combined with defections of parts of the military and mass protests around the White House, collapsed the GKChP's authority within 48 hours. Gorbachev returned from Foros on 21 August diminished; real power had shifted to Yeltsin, who banned the CPSU on Russian soil on 23 August.",
+      "explanation": "The Taman Division tank image became the single most reproduced photograph of the coup. Yeltsin's decree declaring the GKChP illegal — combined with calls for a general strike, defections of parts of the military, and mass protests around the White House — collapsed the GKChP's authority within 48 hours. Gorbachev returned from Foros on 21 August diminished; real power had shifted to Yeltsin, who banned the CPSU on Russian soil on 23 August.",
       "difficulty": "medium",
       "era": "soviet",
       "country": "russia",
@@ -129,7 +129,7 @@
       "sources": [
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-21"
+      "last_reviewed_date": "2026-04-25"
     },
     {
       "id": "pt_0122",
@@ -139,7 +139,7 @@
       "prompt": "Boris Yeltsin was elected President of the Russian Soviet Federative Socialist Republic on 12 June 1991. This election was distinctive because:",
       "choices": [
         {
-          "text": "It was the first direct popular election of an executive head in Russian history, Yeltsin won in the first round with roughly 57 percent against five other candidates including Nikolai Ryzhkov, and it gave Yeltsin a democratic mandate Gorbachev (elected by Congress) did not have",
+          "text": "It was the first direct popular election of an executive head in Russian history; Yeltsin won the first round with about 57 percent and gained a democratic mandate Gorbachev (elected by Congress) lacked",
           "correct": true
         },
         {
@@ -158,7 +158,7 @@
           "note": "No runoff was needed — Yeltsin cleared 50 percent in the first round (~57%). Ryzhkov (~17%) came second; Zhirinovsky placed a surprising third (~8%)."
         }
       ],
-      "explanation": "The June 1991 vote was decisive for the constitutional standoff that followed: Yeltsin held the only direct popular-vote mandate in Soviet or Russian history at that moment, while Gorbachev (elected by Congress in March 1990) did not. When the August coup came, Yeltsin could plausibly claim to be the legitimate elected head of Russia resisting an illegitimate junta — and when the USSR unraveled in autumn 1991, the RSFSR presidency became the platform from which Russian sovereignty was consolidated.",
+      "explanation": "He defeated five other candidates including Nikolai Ryzhkov. The June 1991 vote was decisive for the standoff that followed: Yeltsin held the only direct popular-vote mandate in Soviet or Russian history at that moment, while Gorbachev (elected by Congress in March 1990) did not. When the August coup came, Yeltsin could plausibly claim to be the legitimate elected head of Russia resisting an illegitimate junta, and the RSFSR presidency became the platform from which Russian sovereignty was consolidated.",
       "difficulty": "hard",
       "era": "soviet",
       "country": "russia",
@@ -172,7 +172,7 @@
       "sources": [
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-21"
+      "last_reviewed_date": "2026-04-25"
     },
     {
       "id": "pt_0123",
@@ -313,7 +313,7 @@
       "prompt": "What did Yeltsin's Decree No. 1400 of 21 September 1993 do?",
       "choices": [
         {
-          "text": "It dissolved the Congress of People's Deputies and the Supreme Soviet, called new parliamentary elections for December, and announced a referendum on a new constitution — steps the 1978 Constitution did not authorize the president to take",
+          "text": "It dissolved the Congress of People's Deputies and Supreme Soviet, called December parliamentary elections, and announced a referendum on a new constitution",
           "correct": true
         },
         {
@@ -332,7 +332,7 @@
           "note": "The new constitution was drafted through 1993 and adopted by referendum on 12 December 1993, after the October violence. Decree 1400 called for that process; it did not itself adopt the constitution."
         }
       ],
-      "explanation": "The Constitutional Court promptly declared Decree 1400 unconstitutional, the Congress voted to impeach Yeltsin and named Vice-President Rutskoi 'acting president,' and armed supporters of parliament holed up at the White House. The standoff ended when Yeltsin, after hesitation, ordered the army to shell the White House on 4 October 1993. Between 150 and several hundred died. The new constitution — giving the president sweeping powers — was ratified on 12 December 1993 alongside the first State Duma elections.",
+      "explanation": "These steps were not authorized by the 1978 Constitution. The Constitutional Court declared Decree 1400 unconstitutional, the Congress voted to impeach Yeltsin and named Vice-President Rutskoi 'acting president,' and armed parliamentary supporters holed up at the White House. The standoff ended when Yeltsin ordered the army to shell the White House on 4 October 1993; between 150 and several hundred died. The new constitution was ratified by referendum on 12 December 1993 alongside the first State Duma elections.",
       "difficulty": "hard",
       "era": "1990s",
       "country": "russia",
@@ -347,7 +347,7 @@
         "Course lectures",
         "Archie Brown, The Rise and Fall of Communism"
       ],
-      "last_reviewed_date": "2026-04-21"
+      "last_reviewed_date": "2026-04-25"
     },
     {
       "id": "pt_0127",
@@ -357,7 +357,7 @@
       "prompt": "The December 1993 Russian Constitution concentrates executive authority in the presidency. Which of the following is a power the Constitution expressly grants the Russian president?",
       "choices": [
         {
-          "text": "Unilateral authority to issue decrees with the force of law (provided they do not contradict the Constitution or federal statutes), to nominate the Prime Minister (subject to Duma confirmation), and to dissolve the Duma if it rejects the president's PM nominee three times",
+          "text": "Authority to issue decrees with the force of law, nominate the prime minister, and dissolve the Duma if it rejects the PM three times",
           "correct": true
         },
         {
@@ -376,7 +376,7 @@
           "note": "International treaty ratification generally requires State Duma and Federation Council approval (federal law 'On International Treaties,' 1995). The president signs and represents Russia abroad but does not bypass parliament on treaty ratification."
         }
       ],
-      "explanation": "The 1993 Constitution's 'super-presidential' design is anchored in three levers: wide decree authority (Article 90), control of the PM nominating process (Article 111) with the dissolution threat (if the Duma rejects the same or successive nominees three times, the Duma is dissolved), and de facto control over the Security Council and foreign policy. This architecture was drafted in the shadow of the October 1993 crisis — deliberately preventing a repeat of the Congress-of-People's-Deputies standoff — and became the institutional foundation on which Putin later consolidated power.",
+      "explanation": "The 1993 Constitution's super-presidential design rests on three levers: wide decree authority (Article 90, valid so long as decrees do not contradict the Constitution or federal statutes), control of the PM nominating process (Article 111, with PM nominees subject to Duma confirmation, but the Duma dissolved if it rejects three times), and de facto control over the Security Council and foreign policy. This architecture was drafted in the shadow of the October 1993 crisis to prevent a repeat of the Supreme Soviet standoff.",
       "difficulty": "hard",
       "era": "1990s",
       "country": "russia",
@@ -390,36 +390,36 @@
       "sources": [
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-21"
+      "last_reviewed_date": "2026-04-25"
     },
     {
       "id": "pt_0128",
       "category": "political_transitions",
       "subcategory": "political_transitions",
       "type": "multiple_choice",
-      "prompt": "In late November 1994, on the eve of Russia's invasion of Chechnya, Defense Minister Pavel Grachev publicly boasted that Grozny could be taken by:",
+      "prompt": "On the eve of Russia's December 1994 invasion of Chechnya, Defense Minister Pavel Grachev publicly boasted that Grozny could be taken 'by one airborne regiment in two hours.' What happened during the 31 December 1994 New Year's assault that most decisively discredited this claim?",
       "choices": [
         {
-          "text": "'One airborne regiment in two hours' — a claim refuted by the 31 December 1994 New Year's assault, in which the 131st Maikop Motor Rifle Brigade was largely destroyed in urban combat and effective federal control of central Grozny was not established until February 1995",
+          "text": "The 131st Maikop Motor Rifle Brigade was largely destroyed in urban combat around the railway station and Dudayev's presidential palace; federal forces did not secure central Grozny until February 1995",
           "correct": true
         },
         {
-          "text": "'Three motor-rifle divisions in a week' — a forecast roughly consistent with the 40,000-troop deployment Russia actually used, and broadly borne out by the January 1995 fall of the presidential palace",
+          "text": "Russian airborne units seized Grozny airport within a day, but Grachev himself was briefly captured by Chechen forces before being exchanged",
           "correct": false,
-          "note": "Grachev's public boast was much smaller in scale than this option suggests, and events refuted it: the palace battle was weeks of brutal urban combat, not a clean week-long operation."
+          "note": "Grachev was not captured. He remained defense minister until Yeltsin dismissed him in June 1996 during the presidential campaign."
         },
         {
-          "text": "'A full combined-arms operation of 100,000 troops over three months' — the assessment that led the General Staff to urge postponement until spring 1995",
+          "text": "Yeltsin halted the operation after 48 hours following an appeal by the Moscow Patriarch, forcing a negotiated ceasefire before Grozny was entered",
           "correct": false,
-          "note": "This is closer to the realist General Staff assessment that Grachev overrode, not Grachev's public claim. Grachev was the optimist whose confident forecast pushed Yeltsin to launch in winter."
+          "note": "There was no such ceasefire. The assault went forward and fighting for central Grozny continued through January and February 1995."
         },
         {
-          "text": "'An airborne-special-forces operation without heavy armor to avoid civilian casualties' — the plan Grachev submitted to the Security Council on 29 November 1994",
+          "text": "Russian armored columns entered Grozny unopposed; actual combat began weeks later when Chechen irregulars returned from mountain bases",
           "correct": false,
-          "note": "The 31 December assault relied heavily on armored columns into the city, which suffered catastrophic losses. The plan was the opposite of a light, armor-free operation."
+          "note": "Combat began immediately on 31 December. Armored columns ran into prepared ambushes in the city and suffered catastrophic losses in the first hours."
         }
       ],
-      "explanation": "Grachev — a former paratrooper and Yeltsin loyalist who had backed Yeltsin during both the August 1991 coup and the October 1993 shelling of the White House — publicly dismissed Chechen military capability. The 31 December 1994 assault ended with the 131st Maikop Motor Rifle Brigade effectively destroyed, most of its armored vehicles knocked out in the streets around the railway station and presidential palace. The fight for central Grozny continued through January and February 1995. Grachev's reputation never recovered; Yeltsin dismissed him in June 1996 during the presidential campaign and replaced him with Igor Rodionov. The quip became shorthand in Russia for military overconfidence.",
+      "explanation": "Grachev — a former paratrooper and Yeltsin loyalist who had backed Yeltsin during both the August 1991 coup and the October 1993 shelling of the White House — publicly dismissed Chechen military capability. The 31 December 1994 assault ended with the 131st Maikop Brigade effectively destroyed, most of its armored vehicles knocked out around the railway station and the presidential palace. Fighting for central Grozny continued through January and February 1995. Yeltsin dismissed Grachev in June 1996.",
       "difficulty": "hard",
       "era": "1990s",
       "country": "russia",
@@ -434,7 +434,7 @@
         "Course lectures",
         "John B. Dunlop, Russia Confronts Chechnya"
       ],
-      "last_reviewed_date": "2026-04-21"
+      "last_reviewed_date": "2026-04-25"
     },
     {
       "id": "pt_0129",
@@ -444,7 +444,7 @@
       "prompt": "Under Gennady Zyuganov's leadership in 1993-95, the Communist Party of the Russian Federation (KPRF) rebuilt itself on which kind of platform?",
       "choices": [
         {
-          "text": "A 'national-patriotic' synthesis combining left-economic nostalgia for Soviet welfare with Russian statist and Orthodox-cultural appeals — a formula broad enough to absorb the old CPSU electorate and parts of the nationalist right",
+          "text": "A 'national-patriotic' synthesis combining left-economic nostalgia with Russian-statist and Orthodox-cultural appeals — broad enough to absorb the old CPSU electorate and parts of the nationalist right",
           "correct": true
         },
         {
@@ -463,7 +463,7 @@
           "note": "The KPRF ran in both the 1993 and 1995 Duma elections and in the 1996 presidential race (Zyuganov versus Yeltsin). Boycotting the new institutions was not its strategy."
         }
       ],
-      "explanation": "Yeltsin's November 1991 ban on CPSU activity was partially overturned by the Constitutional Court in November 1992, allowing local organizations to resume. Zyuganov's achievement was fusing the rump CPSU apparatus with 'derzhavnik' (great-power) nationalism — a platform that peaked in the KPRF's 1995 Duma victory (about 22 percent) and Zyuganov's 1996 runoff performance against Yeltsin. The national-patriotic synthesis continues to shape the KPRF's identity; it also helps explain why Russia never developed a genuinely social-democratic successor to the CPSU.",
+      "explanation": "Yeltsin's November 1991 ban on CPSU activity was partially overturned by the Constitutional Court in November 1992, allowing local organizations to resume. Zyuganov's achievement was fusing the rump CPSU apparatus with 'derzhavnik' (great-power) nationalism — a platform that peaked in the KPRF's 1995 Duma victory (about 22 percent) and Zyuganov's 1996 runoff performance against Yeltsin. The synthesis continues to shape the KPRF's identity.",
       "difficulty": "hard",
       "era": "1990s",
       "country": "russia",
@@ -477,7 +477,7 @@
       "sources": [
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-21"
+      "last_reviewed_date": "2026-04-25"
     },
     {
       "id": "pt_0130",
@@ -530,7 +530,7 @@
       "prompt": "General Aleksandr Lebed's role after his third-place showing in the 16 June 1996 first round consisted of which sequence?",
       "choices": [
         {
-          "text": "He endorsed Yeltsin in exchange for appointment as Secretary of the Security Council (18 June), then negotiated and signed the Khasavyurt Accords ending the First Chechen War (August 1996), then was dismissed by Yeltsin in October 1996",
+          "text": "He endorsed Yeltsin in exchange for Security Council secretary on 18 June, then signed the Khasavyurt Accords ending the First Chechen War in August, and was dismissed by Yeltsin in October 1996",
           "correct": true
         },
         {
@@ -549,7 +549,7 @@
           "note": "Russian runoffs offer only the two top first-round finishers; no write-in third-party runoff campaign was possible. Lebed backed Yeltsin for the Security Council portfolio."
         }
       ],
-      "explanation": "Lebed's Security Council appointment was transactional — a bridge to the roughly 15 percent of first-round voters who had wanted a nationalist-authoritarian alternative to both Yeltsin and Zyuganov. Once installed, Lebed negotiated directly with Aslan Maskhadov of the Chechen resistance; the Khasavyurt Accords (31 August 1996) froze Chechnya's political status for five years and ended the first war. But Lebed's visibility and ambition threatened Yeltsin's circle, and he was dismissed on 17 October 1996. He later won the Krasnoyarsk Krai governorship (1998) and died in a 2002 helicopter crash.",
+      "explanation": "Lebed was a Soviet airborne general who had made his name commanding Russia's 14th Army in Moldova during the 1992 Transnistria conflict. He ran in 1996 as a populist law-and-order outsider and finished third with about 15 percent — enough that his endorsement was worth a cabinet seat. He negotiated directly with Aslan Maskhadov of the Chechen resistance to produce the Khasavyurt Accords (31 August 1996), which froze Chechnya's status for five years. He later won the Krasnoyarsk Krai governorship (1998) and died in a 2002 helicopter crash.",
       "difficulty": "hard",
       "era": "1990s",
       "country": "russia",
@@ -563,7 +563,7 @@
       "sources": [
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-21"
+      "last_reviewed_date": "2026-04-25"
     },
     {
       "id": "pt_0132",
@@ -573,7 +573,7 @@
       "prompt": "The Fatherland-All Russia (Otechestvo-Vsya Rossiya, OVR) bloc was formed in August 1999 as a challenger 'party of power.' Which three figures anchored it?",
       "choices": [
         {
-          "text": "Yevgeny Primakov (former PM), Yuri Luzhkov (Moscow mayor), and Mintimer Shaimiev (Tatarstan president) — with a coalition of regional governors joining for the December 1999 Duma run",
+          "text": "Yevgeny Primakov (former PM), Yuri Luzhkov (Moscow mayor), and Mintimer Shaimiev (Tatarstan president), joined by a coalition of regional governors",
           "correct": true
         },
         {
@@ -592,7 +592,7 @@
           "note": "These figures were oriented to the liberal Union of Right Forces (SPS), not to OVR. Nemtsov and Kiriyenko built SPS; Sobchak died in early 2000."
         }
       ],
-      "explanation": "OVR's theory of the 1999 race was that the 'Family' around Yeltsin was exhausted and an alternative elite coalition could take over without a KPRF or liberal presidency. Luzhkov brought Moscow's media and administrative muscle, Shaimiev brought Tatarstan and a bloc of republic presidents, Primakov supplied national-level legitimacy. But the Kremlin countered by constructing Unity (Medved) in September 1999 and using state-TV hostility (Dorenko's program on ORT) to damage Luzhkov and Primakov. OVR placed third in the Duma vote (~13 percent) behind the KPRF and Unity; the 'second party of power' strategy collapsed, and OVR subsequently merged into United Russia in 2001.",
+      "explanation": "OVR's theory of the 1999 race was that the 'Family' around Yeltsin was exhausted and an alternative elite coalition could take over without a KPRF or liberal presidency. Luzhkov brought Moscow's media and administrative muscle, Shaimiev brought Tatarstan and a bloc of republic presidents, Primakov supplied national-level legitimacy. But the Kremlin countered by constructing Unity (Medved) in September 1999. OVR placed third in the Duma vote (~13 percent) and merged into United Russia in 2001.",
       "difficulty": "hard",
       "era": "1990s",
       "country": "russia",
@@ -606,36 +606,36 @@
       "sources": [
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-21"
+      "last_reviewed_date": "2026-04-25"
     },
     {
       "id": "pt_0133",
       "category": "political_transitions",
       "subcategory": "political_transitions",
       "type": "multiple_choice",
-      "prompt": "In June 1995 Ukrainian President Leonid Kuchma and Verkhovna Rada Speaker Oleksandr Moroz signed a 'Constitutional Agreement' (Konstytutsiinyi Dohovir). This agreement is best described as:",
+      "prompt": "Which statement best describes the ethnic composition of the Russian Federation as it emerged from the Soviet collapse?",
       "choices": [
         {
-          "text": "An interim one-year political pact — explicitly not a constitution — that redistributed powers between presidency and parliament while the old 1978 UkrSSR constitution technically remained in force, bridging a stalemate until the permanent 1996 constitution was adopted",
+          "text": "Ethnic Russians make up roughly 80 percent, with the remaining ~20 percent divided among more than 100 other groups — many being titular nationalities of their own ethnic republics inside the federation",
           "correct": true
         },
         {
-          "text": "The final adoption of the Constitution of Ukraine, which took effect immediately on 8 June 1995 and remains Ukraine's founding constitutional document today",
+          "text": "The Russian Federation is over 95 percent ethnic Russian, with only scattered indigenous Siberian and Far-Eastern minorities and no politically significant non-Russian populations",
           "correct": false,
-          "note": "The 1995 agreement was explicitly interim. Ukraine's permanent Constitution was adopted on 28 June 1996 during the 'constitutional night' in the Verkhovna Rada, over a year later."
+          "note": "The non-Russian share is closer to 20 percent, and several titular nationalities (Tatars, Bashkirs, Chechens, Sakha, and others) have their own republics inside Russia with real political weight."
         },
         {
-          "text": "A power-sharing agreement creating a bicameral parliament and a prime-ministerial system modeled on Poland's 1992 'Small Constitution'",
+          "text": "After the USSR's collapse, Russia's non-Russian minorities largely relocated to their titular homelands abroad, producing a near-monoethnic Russian state by the late 1990s",
           "correct": false,
-          "note": "The 1995 agreement did not create a bicameral parliament. It rebalanced executive-legislative powers but kept the unicameral Rada."
+          "note": "No such mass relocation occurred. The largest non-Russian groups inside the federation — Tatars, Chechens, Bashkirs, Chuvash, Sakha — have their titular homeland inside Russia and stayed."
         },
         {
-          "text": "A tripartite agreement among the three major 1994 presidential candidates (Kuchma, Kravchuk, Moroz) to hold early parliamentary elections under a new constitution",
+          "text": "The post-Soviet Russian Federation adopted a purely civic, jus-soli nationalism that dissolved prior ethnic categories entirely — including dropping the 'nationality' line from internal passports in 1992",
           "correct": false,
-          "note": "No such tripartite pact existed. Kravchuk had already lost the July 1994 presidential election to Kuchma; the 1995 agreement was a two-party deal between Kuchma (president) and Moroz (Rada speaker)."
+          "note": "The internal-passport nationality line was eventually dropped (in 1997), but Russia's federal structure continued to recognize titular nationalities through its ethnic republics. Civic and ethnic definitions of Russianness have coexisted uneasily since 1991."
         }
       ],
-      "explanation": "The Constitutional Agreement of 8 June 1995 — formally titled the 'Constitutional Agreement Between the Verkhovna Rada and the President on the Main Principles of Organizing and Functioning State Power and Local Self-Government in Ukraine' — broke a dangerous stalemate in which Kuchma had threatened a consultative referendum to expand his powers. It was valid for one year, during which negotiations produced the permanent 1996 constitution. It strengthened the presidency and is an unusual constitutional-law artifact: a negotiated interim regime bridging an old Soviet-era constitution and a new post-Soviet one, with no clear parallel in Russia's 1993 path.",
+      "explanation": "The largest non-Russian groups are Tatars, Ukrainians, Bashkirs, Chuvash, and Chechens. The Russian Federation is a multinational state, not a monoethnic one. Roughly 20 of Russia's 80-plus federal subjects are 'ethnic republics' named after a titular nationality (Tatarstan, Bashkortostan, Chechnya, Sakha-Yakutia, Dagestan, and others). This ethno-federal structure, inherited from the Soviet system, shaped 1990s bargaining over asymmetric autonomy and continues to shape center-periphery politics.",
       "difficulty": "hard",
       "era": "1990s",
       "country": "ukraine",
@@ -650,7 +650,7 @@
         "Course lectures",
         "Paul D'Anieri, Understanding Ukrainian Politics"
       ],
-      "last_reviewed_date": "2026-04-21"
+      "last_reviewed_date": "2026-04-25"
     },
     {
       "id": "et_0100",
@@ -660,7 +660,7 @@
       "prompt": "The Kosygin reforms (often called the 'Kosygin-Liberman' reforms), launched in September 1965, attempted to:",
       "choices": [
         {
-          "text": "Give Soviet enterprises limited autonomy over output mix and profit retention, shifting some plan-target emphasis from gross output toward realized-sales and profitability indicators, while leaving the command-planning framework intact",
+          "text": "Give Soviet enterprises limited autonomy over output mix and profit retention, shifting plan-target emphasis from gross output toward sales — while leaving central planning intact",
           "correct": true
         },
         {
@@ -679,7 +679,7 @@
           "note": "The USSR did not join GATT and did not pivot trade to Western currencies in 1965. CMEA and transferable-ruble arrangements remained the Soviet-bloc trade architecture."
         }
       ],
-      "explanation": "Drawing on ideas from Kharkov economist Yevsei Liberman (published in Pravda, September 1962), Prime Minister Alexei Kosygin's reforms tried to reduce Gosplan's micromanagement by letting enterprises choose some of their own suppliers and customers, retain a share of profits for bonuses and investment, and orient production toward realized sales rather than gross physical output. The reforms had modest early effects but were wound back by the early 1970s amid Brezhnev-era conservatism and the post-Czechoslovakia (1968) political climate. Their legacy is the clearest late-Soviet precedent for the perestroika-era debates about giving enterprises more autonomy.",
+      "explanation": "Drawing on ideas from Kharkov economist Yevsei Liberman (Pravda, September 1962), Prime Minister Alexei Kosygin's reforms tried to reduce Gosplan's micromanagement by letting enterprises choose some of their own suppliers and customers, retain a share of profits for bonuses and investment, and orient production toward realized sales rather than gross physical output. The reforms had modest effects but were wound back by the early 1970s amid Brezhnev-era conservatism after the 1968 Czechoslovakia crisis.",
       "difficulty": "hard",
       "era": "soviet",
       "country": "russia",
@@ -694,7 +694,7 @@
         "Course lectures",
         "Philip Hanson, The Rise and Fall of the Soviet Economy"
       ],
-      "last_reviewed_date": "2026-04-21"
+      "last_reviewed_date": "2026-04-25"
     },
     {
       "id": "et_0101",
@@ -836,7 +836,7 @@
       "prompt": "Soviet official growth statistics from the early-1970s through the mid-1980s show which broad pattern?",
       "choices": [
         {
-          "text": "A steady decline in reported growth rates from the 1970s into the 1980s — with Western re-estimates (CIA, Gur Ofer) generally lower than Soviet official figures and suggesting near-stagnation or mild contraction in the early 1980s",
+          "text": "A steady decline in reported growth from the 1970s into the 1980s — with Western re-estimates (CIA, Gur Ofer) generally lower than Soviet official figures and suggesting near-stagnation",
           "correct": true
         },
         {
@@ -855,7 +855,7 @@
           "note": "Double-digit growth was characteristic of the 1930s and late 1940s Soviet periods, not Brezhnev-era stagnation. By the 1970s-80s, official Soviet growth had fallen to low single digits and Western re-estimates were lower still."
         }
       ],
-      "explanation": "The 'stagnation' (zastoi) label attached to the late Brezhnev period is rooted in the growth-rate slowdown: official net material product growth falling from ~7-8 percent in the 1960s to ~3-4 percent in the late 1970s, to ~2 percent or below in the early 1980s, with Western re-estimates even lower. Those re-estimates came chiefly from the CIA's Soviet GNP series and from the Hebrew University economist Gur Ofer, whose 1987 Journal of Economic Literature survey 'Soviet Economic Growth: 1928-1985' remains a canonical reconstruction. The slowdown coincided with rising oil-revenue cushioning through the 1970s; the 1986 oil-price collapse then exposed the underlying weakness. This stagnation context is why Gorbachev's 1985 'uskorenie' (acceleration) framing resonated — and why its failure to deliver pushed him toward more radical perestroika reforms by 1987.",
+      "explanation": "The 'stagnation' (zastoi) label attached to the late Brezhnev period is rooted in the growth-rate slowdown: official net material product growth falling from ~7-8 percent in the 1960s to ~3-4 percent in the late 1970s, to ~2 percent or below in the early 1980s. Those re-estimates came chiefly from the CIA's Soviet GNP series and from Gur Ofer's 1987 Journal of Economic Literature survey 'Soviet Economic Growth: 1928-1985.' The slowdown coincided with rising oil-revenue cushioning through the 1970s; the 1986 oil-price collapse exposed the underlying weakness.",
       "difficulty": "medium",
       "era": "soviet",
       "country": "russia",
@@ -870,7 +870,7 @@
         "Course lectures",
         "Philip Hanson, The Rise and Fall of the Soviet Economy"
       ],
-      "last_reviewed_date": "2026-04-23"
+      "last_reviewed_date": "2026-04-25"
     },
     {
       "id": "et_0105",
@@ -924,7 +924,7 @@
       "prompt": "In October 1990 the Soviet government rejected the Shatalin-Yavlinsky '500 Days' plan. Which alternative did Gorbachev then endorse?",
       "choices": [
         {
-          "text": "A compromise 'Presidential Program' (sometimes called the 'Guidelines for the Stabilization of the Economy and Transition to a Market Economy') that merged elements of the Shatalin plan with the more gradualist Ryzhkov-Abalkin government program, while deferring the hardest questions of price liberalization, property reform, and USSR-republic revenue-sharing",
+          "text": "A compromise 'Presidential Program' that blended elements of the Shatalin plan with the gradualist Ryzhkov-Abalkin program, deferring the hardest reform questions",
           "correct": true
         },
         {
@@ -943,7 +943,7 @@
           "note": "Yeltsin's RSFSR government tried something like this by endorsing the Shatalin plan for Russia, but this created a conflict with the all-union Presidential Program. The all-union compromise Gorbachev endorsed was a unified but slower program, not a Russia-only Shatalin plan."
         }
       ],
-      "explanation": "The October 1990 compromise was the last serious all-union attempt at a coordinated transition program. Shatalin-Yavlinsky had proposed rapid stabilization and privatization over 500 days; Ryzhkov-Abalkin (the Council of Ministers' plan) proposed a slower government-led transition over 5-6 years. Gorbachev, caught between republics pushing for more radical reform and his own centrist institutional instincts, endorsed a blended Presidential Program that neither side found credible. Yeltsin then had the RSFSR Supreme Soviet formally adopt the 500 Days plan for Russia — setting up the republic-center collision that became decisive in 1991.",
+      "explanation": "The October 1990 compromise was the last serious all-union attempt at a coordinated transition program. Shatalin-Yavlinsky had proposed rapid stabilization and privatization over 500 days; Ryzhkov-Abalkin (the Council of Ministers' plan) proposed a slower government-led transition over 5-6 years. Gorbachev endorsed a blended program — sometimes called the 'Guidelines for the Stabilization of the Economy and Transition to a Market Economy' — that deferred price liberalization, property reform, and USSR-republic revenue-sharing, and that neither side found credible.",
       "difficulty": "very_hard",
       "era": "soviet",
       "country": "russia",
@@ -958,7 +958,7 @@
         "Course lectures",
         "Philip Hanson, The Rise and Fall of the Soviet Economy"
       ],
-      "last_reviewed_date": "2026-04-21"
+      "last_reviewed_date": "2026-04-25"
     },
     {
       "id": "et_0107",
@@ -968,7 +968,7 @@
       "prompt": "A characteristic feature of the late-Soviet 'deficit economy' was:",
       "choices": [
         {
-          "text": "Widespread shortages of consumer goods at state-fixed low prices, long queues, informal blat-based rationing, and a large parallel 'second economy' — all coexisting with household savings accumulating in Sberbank accounts because there was little to buy",
+          "text": "Widespread consumer-goods shortages at fixed low prices, queues, blat-based informal rationing, and a large 'second economy' — alongside savings piling up in Sberbank for lack of goods",
           "correct": true
         },
         {
@@ -987,7 +987,7 @@
           "note": "CMEA trade did not produce consumer-goods abundance in the USSR; Soviet consumer-goods supply lagged Western Europe significantly, and surveys documented widespread dissatisfaction with queues and shortages."
         }
       ],
-      "explanation": "Kornai's 'shortage economy' concept captures the structural feature: state-fixed prices below market-clearing levels produced persistent excess demand, manifested as queues and shortages rather than price increases. Households accumulated ruble savings they could not easily spend — the monetary 'overhang' that helped drive 1992 hyperinflation once prices were liberalized. Informal allocation through blat (connections), workplace distribution, and the shadow second economy filled the gap. The visibility of queues and empty shelves, especially in the late 1980s as supplies deteriorated further, was politically corrosive in a way Western price-cleared shortages would not have been.",
+      "explanation": "Kornai's 'shortage economy' concept captures the structural feature: state-fixed prices below market-clearing levels produced persistent excess demand, manifested as queues and shortages rather than price increases. Households accumulated ruble savings they could not easily spend — the monetary 'overhang' that helped drive 1992 hyperinflation once prices were liberalized. Informal allocation through blat, workplace distribution, and the shadow second economy filled the gap.",
       "difficulty": "easy",
       "era": "soviet",
       "country": "russia",
@@ -1001,7 +1001,7 @@
       "sources": [
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-21"
+      "last_reviewed_date": "2026-04-25"
     },
     {
       "id": "et_0108",
@@ -1098,7 +1098,7 @@
       "prompt": "Estimates of the Soviet military-industrial complex's share of the economy in the 1980s generally place it at what level?",
       "choices": [
         {
-          "text": "Around 15-25 percent of Soviet GNP devoted to defense — several times the US share (roughly 6-7 percent of GDP at the time) — with Western reassessments after 1991 suggesting the true share was at the higher end of that range",
+          "text": "Around 15-25 percent of Soviet GNP — several times the U.S. share — with post-1991 reassessments suggesting the true share was at the higher end",
           "correct": true
         },
         {
@@ -1117,7 +1117,7 @@
           "note": "The USSR did report a military-spending line item, though Western analysts universally treated the official figure as a dramatic understatement. The issue was under-reporting, not zero reporting."
         }
       ],
-      "explanation": "The defense-burden share is central to Soviet economic history: roughly a fifth of national output was absorbed by military production, tying up the most capable engineers, machine tools, and R&D capacity. The disproportion widened under Reagan-era US buildup pressure. Gorbachev's turn to arms control (INF 1987, CFE 1990, START I 1991) was partly motivated by the need to redirect MIC resources to consumer-goods sectors. Post-Soviet defense-sector conversion (as Yeltsin-era policy) proved slower and more painful than expected; many MIC enterprises became distressed assets in the 1990s privatization wave.",
+      "explanation": "The defense-burden share is central to Soviet economic history: roughly a fifth of national output was absorbed by military production, tying up the most capable engineers, machine tools, and R&D capacity. The disproportion widened under Reagan-era US buildup pressure, with the US sitting around 5-6 percent of GDP at the Reagan-era peak. Gorbachev's turn to arms control (INF 1987, CFE 1990, START I 1991) was partly motivated by the need to redirect MIC resources to consumer-goods sectors.",
       "difficulty": "hard",
       "era": "soviet",
       "country": "russia",
@@ -1132,7 +1132,7 @@
         "Course lectures",
         "Philip Hanson, The Rise and Fall of the Soviet Economy"
       ],
-      "last_reviewed_date": "2026-04-21"
+      "last_reviewed_date": "2026-04-25"
     },
     {
       "id": "et_0111",
@@ -1182,10 +1182,10 @@
       "category": "economic_transitions",
       "subcategory": "economic_transitions",
       "type": "multiple_choice",
-      "prompt": "On 23 March 1998 Boris Yeltsin unexpectedly dismissed Prime Minister Viktor Chernomyrdin and nominated Sergei Kiriyenko — 35 years old and a first deputy fuel-and-energy minister for roughly six months — as his replacement. Kiriyenko's nomination is best understood as:",
+      "prompt": "On 23 March 1998 Boris Yeltsin unexpectedly dismissed Prime Minister Viktor Chernomyrdin and nominated Sergei Kiriyenko — 35 years old and Minister of Fuel and Energy for roughly four months (promoted from First Deputy Minister in November 1997) — as his replacement. Kiriyenko's nomination is best understood as:",
       "choices": [
         {
-          "text": "Yeltsin's attempt to install a young technocratic reformer outside the oligarchic 'Family' and signal fiscal seriousness as Asian-crisis contagion spread toward Russia; the Duma confirmed Kiriyenko on 24 April 1998 only on the third vote, after Yeltsin threatened to dissolve parliament",
+          "text": "Yeltsin's attempt to install a young technocratic reformer outside the oligarchic 'Family' as Asian-crisis contagion approached Russia; the Duma confirmed Kiriyenko only on the third vote, after Yeltsin threatened dissolution",
           "correct": true
         },
         {
@@ -1204,7 +1204,7 @@
           "note": "Kiriyenko was not publicly framed as Yeltsin's successor in 1998. The successor signaling came later, briefly with Stepashin (May-Aug 1999) and then decisively with Putin (from August 1999)."
         }
       ],
-      "explanation": "Kiriyenko — a Nizhny Novgorod banker from Boris Nemtsov's circle — inherited a cascading crisis: Asian contagion, collapsing oil prices (to $10 per barrel by mid-1998), a ballooning GKO pyramid, and federal tax receipts at roughly 10 percent of GDP. On 17 August 1998 his government announced ruble devaluation, a GKO/OFZ default, and a 90-day corporate foreign-debt moratorium. Yeltsin dismissed him on 23 August, five months after appointing him, and eventually installed Primakov. Kiriyenko's brief tenure earned him the nickname 'kamikaze PM.' He later led the short-lived Union of Right Forces (SPS) and then became a senior Rosatom and Kremlin administrator under Putin.",
+      "explanation": "Kiriyenko — a Nizhny Novgorod banker from Boris Nemtsov's circle — inherited a cascading crisis: Asian contagion, collapsing oil prices (to $10 per barrel by mid-1998), a ballooning GKO pyramid, and federal tax receipts at roughly 10 percent of GDP. On 17 August 1998 his government announced ruble devaluation, GKO/OFZ default, and a 90-day corporate foreign-debt moratorium. Yeltsin dismissed him on 23 August, five months after appointing him. Kiriyenko later led the short-lived SPS and became a senior Rosatom and Kremlin administrator under Putin.",
       "difficulty": "hard",
       "era": "1990s",
       "country": "russia",
@@ -1219,7 +1219,7 @@
         "Course lectures",
         "Chrystia Freeland, Sale of the Century"
       ],
-      "last_reviewed_date": "2026-04-21"
+      "last_reviewed_date": "2026-04-25"
     },
     {
       "id": "et_0113",
@@ -1272,7 +1272,7 @@
       "prompt": "The 'ruble zone' of the former Soviet republics effectively collapsed in mid-1993. What triggered the collapse?",
       "choices": [
         {
-          "text": "The Russian Central Bank's surprise July 1993 decision to invalidate all Soviet-era and pre-1993-design ruble notes on Russian soil — forcing other republics, which still circulated those notes, either to adopt Russian-issued new notes under Russian terms or to launch their own currencies",
+          "text": "The Russian Central Bank's surprise July 1993 decision to invalidate Soviet-era and pre-1993-design ruble notes on Russian soil, forcing other republics to choose between Russia's new notes and their own currencies",
           "correct": true
         },
         {
@@ -1291,7 +1291,7 @@
           "note": "National-currency introduction was staggered through 1992-96, not synchronized on 1 January 1993, and was not triggered by EU demands. It was driven by Russian monetary-policy unilateralism combined with republics' divergent macro conditions."
         }
       ],
-      "explanation": "The ruble zone's collapse illustrates how monetary policy can force political separation. Through 1992 several CIS republics kept old ruble notes circulating, giving them a share in what was effectively Russian seigniorage. In July 1993 the Russian CBR under Geraschenko abruptly announced that only new 1993-design ruble notes would be valid on Russian soil, with very short exchange windows. Non-Russian holders of old notes faced value destruction. Within months, Ukraine deepened its use of the karbovanets, Belarus accelerated plans for a national ruble, the Baltic states (already outside the ruble zone) consolidated their separate currencies, and Moldova introduced the leu. The ruble zone as a multi-republic monetary bloc was effectively over by the end of 1993.",
+      "explanation": "Through 1992 several CIS republics kept old ruble notes circulating, giving them a share in Russian seigniorage. In July 1993 the CBR under Geraschenko abruptly announced that only new 1993-design ruble notes would be valid on Russian soil, with very short exchange windows. Within months, Ukraine deepened its use of the karbovanets, Belarus accelerated plans for a national ruble, and Moldova introduced the leu. The ruble zone as a multi-republic monetary bloc was effectively over by the end of 1993.",
       "difficulty": "hard",
       "era": "1990s",
       "country": "russia",
@@ -1305,7 +1305,7 @@
       "sources": [
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-21"
+      "last_reviewed_date": "2026-04-25"
     },
     {
       "id": "et_0115",
@@ -1359,7 +1359,7 @@
       "prompt": "The 'GKO' market that grew in Russia from 1993 and crashed in August 1998 consisted of:",
       "choices": [
         {
-          "text": "Short-term ruble-denominated treasury bills issued by the Russian Ministry of Finance, offering high yields to cover chronic federal budget deficits — attracting both domestic banks and, after a 1996-97 opening, foreign investors",
+          "text": "Short-term ruble-denominated treasury bills issued by the Russian Ministry of Finance, with high yields covering chronic federal deficits",
           "correct": true
         },
         {
@@ -1378,7 +1378,7 @@
           "note": "GKO were short-term (typically 3-12 months) federal securities, not long-term regional infrastructure bonds backed by a corporate issuer. Federal short-term paper, not regional long-term."
         }
       ],
-      "explanation": "GKO (gosudarstvennyye kratkosrochnyye obligatsii) were the federal government's main financing instrument through the mid-1990s. Yields climbed to 50-100 percent by early 1998 as the state rolled over ever-shorter maturities. When the Asian crisis of 1997 and collapsing oil prices in early 1998 cut off access to external financing, Russia faced an unsustainable roll-over burden. The 17 August 1998 package — ruble devaluation, GKO default, 90-day moratorium on corporate foreign-debt payments — ended the GKO market as it had existed. The crisis discredited the financial-reformer wing of the government (Kiriyenko, Chubais), pushed Yeltsin to appoint Primakov as PM in September 1998, and produced a surprisingly fast post-1999 recovery aided by ruble depreciation and rebounding oil prices.",
+      "explanation": "GKO (gosudarstvennyye kratkosrochnyye obligatsii) attracted both domestic banks and, after a 1996-97 opening, foreign investors. Yields climbed to 50-100 percent by early 1998 as the state rolled over ever-shorter maturities. When the Asian crisis of 1997 and collapsing oil prices in early 1998 cut off external financing, Russia faced an unsustainable roll-over burden. The 17 August 1998 package — ruble devaluation, GKO default, 90-day moratorium — ended the GKO market.",
       "difficulty": "hard",
       "era": "1990s",
       "country": "russia",
@@ -1392,7 +1392,7 @@
       "sources": [
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-21"
+      "last_reviewed_date": "2026-04-25"
     },
     {
       "id": "et_0117",
@@ -1402,7 +1402,7 @@
       "prompt": "The 'Davos pact' of February 1996 refers to:",
       "choices": [
         {
-          "text": "A reported agreement at the World Economic Forum between a group of Russian bankers and industrialists (the future 'semibankirshchina' — Berezovsky, Gusinsky, Khodorkovsky, Smolensky, Potanin, and others) and Anatoly Chubais, coordinating media and financial backing for Yeltsin's re-election in exchange for post-election privatization favors",
+          "text": "A reported World Economic Forum agreement among Russian bankers and Anatoly Chubais, coordinating media and financial backing for Yeltsin's re-election in exchange for privatization favors",
           "correct": true
         },
         {
@@ -1421,7 +1421,7 @@
           "note": "No such Davos G-7 debt-write-off pledge existed. Paris Club rescheduling for Russia came in 1996-97 but was not a 60 percent write-off at Davos."
         }
       ],
-      "explanation": "The Davos encounter in February 1996 was a decisive moment in the 1996 re-election story. Yeltsin was trailing Zyuganov badly in polls; the oligarchs feared a Communist return would unwind their loans-for-shares acquisitions. The Davos conversations produced de facto coordination of ORT/NTV/Kommersant/Izvestia coverage behind Yeltsin, heavy cash support for the campaign, and the promise of further privatization access afterward. The phrase 'semibankirshchina' (rule of the seven bankers) for the resulting arrangement was coined by Berezovsky himself in a 1996 Financial Times interview. The Davos pact is the clearest moment at which Russia's 1990s oligarch-state fusion was politically consummated.",
+      "explanation": "The Davos encounter in February 1996 was decisive: Yeltsin was trailing Zyuganov badly, and the future 'semibankirshchina' (Berezovsky, Gusinsky, Khodorkovsky, Smolensky, Potanin, and others) feared a Communist return would unwind their loans-for-shares acquisitions. The Davos conversations produced de facto coordination of ORT/NTV/Kommersant/Izvestia coverage behind Yeltsin, heavy cash support, and the promise of further privatization access afterward. The phrase 'semibankirshchina' for the resulting arrangement was coined by Berezovsky in a 1996 Financial Times interview.",
       "difficulty": "very_hard",
       "era": "1990s",
       "country": "russia",
@@ -1435,7 +1435,7 @@
       "sources": [
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-21"
+      "last_reviewed_date": "2026-04-25"
     },
     {
       "id": "et_0118",
@@ -1486,10 +1486,10 @@
       "category": "economic_transitions",
       "subcategory": "economic_transitions",
       "type": "multiple_choice",
-      "prompt": "Anatoly Chubais's career trajectory in 1991-96 illustrates the 'reformer in the machinery' pattern. Which sequence correctly describes his main roles in that period?",
+      "prompt": "Which sequence correctly describes Anatoly Chubais's main roles in the Russian government in 1991-1996?",
       "choices": [
         {
-          "text": "Head of the State Committee for Property Management (GKI) from late 1991, architect of voucher privatization; then First Deputy PM in Chernomyrdin's government (1994-96); then Chief of the Presidential Administration after the July 1996 Yeltsin re-election",
+          "text": "Head of GKI from late 1991 (architect of voucher privatization), then First Deputy PM under Chernomyrdin (1994-96), then Chief of the Presidential Administration after July 1996",
           "correct": true
         },
         {
@@ -1508,7 +1508,7 @@
           "note": "The mayor of Leningrad/St. Petersburg in 1991-96 was Anatoly Sobchak (Chubais's mentor and Putin's). Chubais worked in Sobchak's administration briefly before moving to Moscow to head GKI, but was never mayor himself."
         }
       ],
-      "explanation": "Chubais's career arc is a useful map of how 1990s Russian reformers moved through the state machinery. As head of GKI from November 1991 through November 1994 he was the main architect of mass voucher privatization (1992-94). As First Deputy PM responsible for the economic bloc under Chernomyrdin (1994-96) he oversaw the macro-stabilization push and the loans-for-shares program. After the 1996 Yeltsin re-election he took over the Presidential Administration (July 1996-March 1997), effectively running the Kremlin while Yeltsin was ill. His career is also a case study in why economic reformers in 1990s Russia were unable to function as a politically coherent force — they survived inside institutions through patronage shifts rather than a stable electoral base.",
+      "explanation": "As head of GKI from November 1991 to November 1994, Chubais was the main architect of mass voucher privatization. As First Deputy PM for the economic bloc under Chernomyrdin he led macro-stabilization; the 1995 loans-for-shares scheme went through on his government's watch but was designed by a bankers' group led by Potanin, and Chubais is generally described as having opposed it. After the 1996 Yeltsin re-election he took over the Presidential Administration (July 1996-March 1997).",
       "difficulty": "hard",
       "era": "1990s",
       "country": "russia",
@@ -1522,7 +1522,7 @@
       "sources": [
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-21"
+      "last_reviewed_date": "2026-04-25"
     },
     {
       "id": "et_0120",
@@ -1532,7 +1532,7 @@
       "prompt": "Viktor Yushchenko — later Ukraine's president (2005-2010) — served as chair of the National Bank of Ukraine (NBU) from January 1993 to December 1999. His central-bank tenure is chiefly remembered for:",
       "choices": [
         {
-          "text": "Stabilizing Ukrainian inflation after the 1993 hyperinflation, overseeing the September 1996 introduction of the permanent hryvnia at a conversion rate of 100,000 karbovanets to 1 hryvnia, and maintaining a managed-float exchange-rate corridor that partially broke under 1998-99 regional contagion",
+          "text": "Stabilizing inflation after the 1993 hyperinflation, overseeing the September 1996 hryvnia conversion (100,000 karbovanets to 1 hryvnia), and managing an exchange-rate corridor that partially broke under 1998-99 contagion",
           "correct": true
         },
         {
@@ -1551,7 +1551,7 @@
           "note": "Ukraine operated a managed float with a moving corridor, not a currency board. The hryvnia's exchange rate drifted from roughly 1.8/USD at introduction toward 5+ UAH/USD after the 1998-99 contagion."
         }
       ],
-      "explanation": "Yushchenko's NBU tenure is the Ukrainian counterpart to Russia's 1990s stabilization effort. After the 1993 hyperinflation (peaking above 10,000 percent annualized), tighter NBU monetary policy, IMF-backed stabilization, and the September 1996 currency conversion to the hryvnia (100,000:1 from karbovanets) brought inflation down substantially. An exchange-rate corridor managed the currency through 1996-98; the 1998 Russian crisis and regional contagion forced a corridor break and roughly 50 percent hryvnia depreciation in 1998-99, but the currency survived. Yushchenko left the NBU in December 1999 to serve as Prime Minister under Kuchma (Dec 1999-Apr 2001) and later became the Orange Revolution president in 2005.",
+      "explanation": "Yushchenko's NBU tenure is the Ukrainian counterpart to Russia's 1990s stabilization effort. After 1993 hyperinflation peaked above 10,000 percent annualized, tighter NBU monetary policy, IMF-backed stabilization, and the September 1996 currency conversion brought inflation down substantially. The 1998 Russian crisis and regional contagion forced a corridor break and roughly 50 percent hryvnia depreciation in 1998-99, but the currency survived. Yushchenko left the NBU in December 1999 to serve as Prime Minister under Kuchma.",
       "difficulty": "hard",
       "era": "1990s",
       "country": "ukraine",
@@ -1566,7 +1566,7 @@
         "Course lectures",
         "Paul D'Anieri, Understanding Ukrainian Politics"
       ],
-      "last_reviewed_date": "2026-04-21"
+      "last_reviewed_date": "2026-04-25"
     },
     {
       "id": "fp_0115",
@@ -1576,7 +1576,7 @@
       "prompt": "On 1 August 1991 U.S. President George H. W. Bush addressed Ukraine's Verkhovna Rada in Kyiv. The speech — dubbed the 'Chicken Kiev' speech by critics in the American press — argued:",
       "choices": [
         {
-          "text": "That Ukrainians should pursue freedom and reform within the framework Gorbachev's new Union Treaty was trying to create, and should resist 'suicidal nationalism' — a position that aged poorly when the USSR collapsed four months later",
+          "text": "That Ukrainians should pursue freedom within Gorbachev's Union Treaty framework and resist 'suicidal nationalism' — a position that aged poorly when the USSR collapsed",
           "correct": true
         },
         {
@@ -1595,7 +1595,7 @@
           "note": "Bush's position on post-Soviet nuclear weapons was the opposite. The U.S. pressed Ukraine toward denuclearization, ultimately embodied in the 1994 Budapest Memorandum and START I protocols."
         }
       ],
-      "explanation": "William Safire's New York Times column coined 'Chicken Kiev' for Bush's address, arguing the administration was timid about Soviet collapse because it feared uncontrolled breakup of a nuclear-armed USSR. Bush's caution reflected a clear preference for Gorbachev and worry about Yugoslav-style disintegration. Three weeks later the August coup shifted the trajectory: Ukraine declared independence on 24 August 1991, confirmed it in the 1 December referendum (92.3 percent yes), and the U.S. recognized Ukraine on 25 December 1991. The speech is often cited as an early example of U.S. misreading of Soviet collapse dynamics.",
+      "explanation": "William Safire's New York Times column coined 'Chicken Kiev' for Bush's address, arguing the administration was timid about Soviet collapse because it feared uncontrolled breakup of a nuclear-armed USSR. Bush's caution reflected a clear preference for Gorbachev. Three weeks later the August coup shifted the trajectory: Ukraine declared independence on 24 August 1991, confirmed it in the 1 December referendum (roughly 90 percent yes), and the U.S. recognized Ukraine on 25 December 1991.",
       "difficulty": "hard",
       "era": "soviet",
       "country": "ukraine",
@@ -1610,7 +1610,7 @@
         "Course lectures",
         "Serhii Plokhy, The Last Empire: The Final Days of the Soviet Union"
       ],
-      "last_reviewed_date": "2026-04-21"
+      "last_reviewed_date": "2026-04-25"
     },
     {
       "id": "fp_0116",
@@ -1663,7 +1663,7 @@
       "prompt": "Gorbachev's May 1989 visit to Beijing — the first Soviet-Chinese summit in thirty years — is historically notable in part because:",
       "choices": [
         {
-          "text": "It normalized Sino-Soviet relations after the 1960s-80s split but was overshadowed by the simultaneous Tiananmen Square protests, which the Chinese leadership had to manage partly out of view of visiting Soviet officials and international press",
+          "text": "It normalized Sino-Soviet relations after the 1960s-80s split but was overshadowed by the simultaneous Tiananmen Square protests amid intense international press coverage",
           "correct": true
         },
         {
@@ -1682,7 +1682,7 @@
           "note": "Deng's explicit view was the opposite — he saw Gorbachev's simultaneous political-and-economic opening as a cautionary example. China's 1989 path was firmer political control combined with economic marketization; Deng treated Gorbachev's model as an anti-pattern."
         }
       ],
-      "explanation": "The Beijing visit (15-18 May 1989) was meant to cap thirty years of Sino-Soviet estrangement — restoring state and party relations after the Brezhnev-era border tensions and the 1969 Zhenbao Island clashes. Its timing was politically disastrous for Deng: protesters at Tiananmen Square used the presence of international press covering the summit to press their democracy demands. The crackdown came three weeks later (3-4 June 1989), and Gorbachev's Beijing visit is often cited as a foil to highlight how differently the two communist systems responded to reform pressure — Gorbachev toward political liberalization, Deng toward economic marketization paired with political repression.",
+      "explanation": "The Beijing visit (15-18 May 1989) was meant to cap thirty years of Sino-Soviet estrangement after the Brezhnev-era border tensions and the 1969 Zhenbao Island clashes. Its timing was politically disastrous for Deng: Tiananmen protesters used the presence of international press covering the summit to press their democracy demands. The crackdown came three weeks later (3-4 June 1989). The visit is often cited as a foil to highlight how differently the two communist systems responded to reform pressure.",
       "difficulty": "hard",
       "era": "soviet",
       "country": "russia",
@@ -1697,7 +1697,7 @@
         "Course lectures",
         "Archie Brown, The Rise and Fall of Communism"
       ],
-      "last_reviewed_date": "2026-04-21"
+      "last_reviewed_date": "2026-04-25"
     },
     {
       "id": "fp_0118",
@@ -1881,7 +1881,7 @@
       "prompt": "The Geneva Accords on Afghanistan — signed on 14 April 1988 by representatives of Afghanistan, Pakistan, the United States, and the USSR — did which of the following?",
       "choices": [
         {
-          "text": "Established a schedule for Soviet troop withdrawal (to be completed within nine months, by 15 February 1989) and committed Kabul and Islamabad to non-interference, but left the legitimacy of the Najibullah government unresolved and did not stop continued U.S. and Soviet arms flows to the Afghan sides",
+          "text": "Established a Soviet troop withdrawal schedule (within nine months, by 15 February 1989) and committed Kabul and Islamabad to non-interference, but left Najibullah's legitimacy unresolved and did not stop continued U.S./Soviet arms flows",
           "correct": true
         },
         {
@@ -1900,7 +1900,7 @@
           "note": "The mujahideen were not parties to the accords and did not recognize Najibullah. There were no compensation or base-transfer provisions; the accords were negotiated among the four governments, not the insurgency."
         }
       ],
-      "explanation": "The Accords were four linked instruments, mediated by UN envoy Diego Cordovez: bilateral Afghan-Pakistani non-interference; U.S.-Soviet guarantees of that non-interference; a refugee-return protocol; and the withdrawal timetable. Soviet withdrawal proceeded on schedule from 15 May 1988 through 15 February 1989 under General Boris Gromov. But because the Accords left Najibullah in place and did not bind the mujahideen, fighting continued — Najibullah held on until April 1992, when Soviet aid finally stopped. The Accords are often cited as a model (and cautionary tale) of 'decent-interval' negotiated withdrawal.",
+      "explanation": "The Accords were four linked instruments, mediated by UN envoy Diego Cordovez: bilateral Afghan-Pakistani non-interference; U.S.-Soviet guarantees of that non-interference; a refugee-return protocol; and the withdrawal timetable. Soviet withdrawal proceeded under General Boris Gromov. Because the Accords left Najibullah in place and did not bind the mujahideen, fighting continued — Najibullah held on until April 1992, when Soviet aid finally stopped. The Accords are often cited as a model of 'decent-interval' negotiated withdrawal.",
       "difficulty": "hard",
       "era": "soviet",
       "country": "russia",
@@ -1915,7 +1915,7 @@
         "Course lectures",
         "Diego Cordovez and Selig Harrison, Out of Afghanistan"
       ],
-      "last_reviewed_date": "2026-04-21"
+      "last_reviewed_date": "2026-04-25"
     },
     {
       "id": "fp_0123",
@@ -1968,7 +1968,7 @@
       "prompt": "The six-month sequence August 1989-December 1989 saw five Eastern European communist regimes transition or collapse. Which correctly orders them by date of the regime-changing moment?",
       "choices": [
         {
-          "text": "Poland (Mazowiecki government, 24 August 1989) → Hungary (opening of fence and HSWP dissolution, September-October) → East Germany (wall falls, 9 November) → Czechoslovakia (Velvet Revolution, late November) → Romania (Ceauşescu executed, 25 December)",
+          "text": "Poland (24 August 1989) → Hungary (September-October) → East Germany (9 November) → Czechoslovakia (late November) → Romania (Ceauşescu executed 25 December)",
           "correct": true
         },
         {
@@ -1987,7 +1987,7 @@
           "note": "Border-fence cutting was Hungary's action in May-September 1989 (Hungary cut the fence on its Austrian border from 2 May, and opened it for East German refugees on 11 September). The Berlin Wall was in East Germany, not Hungary. This ordering scrambles actors and dates."
         }
       ],
-      "explanation": "The sequence matters because each transition cued the next. Poland's Round Table (February-April 1989) produced partially-free elections on 4 June and the Mazowiecki government on 24 August — the first non-communist prime minister in Eastern Europe since 1948. Hungary's fence-opening (June cutting ceremony; full opening to Austrian border 11 September) allowed East German refugees through, draining the GDR and making Honecker's regime unsustainable. Schabowski's 9 November press conference sent the Berlin Wall down. Czechoslovakia's Velvet Revolution (17-29 November) was peaceful. Only Romania's transition (21-25 December 1989) was violent, ending in Ceauşescu's execution. The cascade was tightly chained, with Gorbachev's non-intervention stance (the Sinatra Doctrine) supplying the permissive condition.",
+      "explanation": "The sequence matters because each transition cued the next. Poland's Round Table produced partially-free elections on 4 June and the Mazowiecki government — the first non-communist PM in Eastern Europe since 1948. Hungary's fence-opening allowed East German refugees through, draining the GDR and making Honecker's regime unsustainable. Schabowski's 9 November press conference sent the Berlin Wall down. Czechoslovakia's Velvet Revolution was peaceful. Only Romania's transition was violent. Gorbachev's non-intervention stance (the 'Sinatra Doctrine') supplied the permissive condition.",
       "difficulty": "hard",
       "era": "soviet",
       "country": "russia",
@@ -2001,7 +2001,7 @@
       "sources": [
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-21"
+      "last_reviewed_date": "2026-04-25"
     },
     {
       "id": "fp_0125",
@@ -2011,7 +2011,7 @@
       "prompt": "Russia's assumption of the USSR's permanent seat on the UN Security Council in December 1991 was accomplished through which mechanism?",
       "choices": [
         {
-          "text": "A letter of 24 December 1991 from Boris Yeltsin to the UN Secretary-General — endorsed by the other CIS states via the 21 December Alma-Ata Declaration — asserting that Russia was assuming USSR membership (including the permanent Security Council seat and veto) as the 'continuing state' rather than as a new member",
+          "text": "A 24 December 1991 letter from Yeltsin to the UN Secretary-General — endorsed by the 21 December Alma-Ata Declaration — claiming the USSR's seat as the 'continuing state'",
           "correct": true
         },
         {
@@ -2030,7 +2030,7 @@
           "note": "France, the UK, the US, and China all accepted Russia's claim as continuing state by late December 1991. No US-led 1993 intervention was necessary; the December 1991 letter was sufficient."
         }
       ],
-      "explanation": "The 'continuing state' framing was a deliberate legal choice with major consequences. It allowed Russia to inherit not just the UN Security Council seat but also the USSR's treaty obligations (including START I, CFE, INF), its embassies and diplomatic property abroad, and its external debt. The other thirteen (non-Baltic) successor states joined the UN separately as new members (Ukraine and Belarus retained their 1945 UN seats), accepted their share of Soviet assets through CIS agreements, and implicitly agreed to the asymmetric 'continuing state' status. This framing also preserved the Russian nuclear arsenal under a single command, a concern shared by Washington at the time.",
+      "explanation": "The 'continuing state' framing was a deliberate legal choice with major consequences. It allowed Russia to inherit not just the UN Security Council seat (and veto) but also the USSR's treaty obligations (START I, CFE, INF), embassies, diplomatic property, and external debt. The other thirteen non-Baltic successor states joined the UN as new members (Ukraine and Belarus retained their 1945 UN seats). The framing also preserved the Russian nuclear arsenal under a single command, a concern shared by Washington at the time.",
       "difficulty": "hard",
       "era": "1990s",
       "country": "russia",
@@ -2044,7 +2044,7 @@
       "sources": [
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-21"
+      "last_reviewed_date": "2026-04-25"
     },
     {
       "id": "fp_0126",
@@ -2054,7 +2054,7 @@
       "prompt": "START II, signed in Moscow on 3 January 1993 by George H. W. Bush and Boris Yeltsin, would have done which of the following?",
       "choices": [
         {
-          "text": "Reduced US and Russian strategic warheads to 3,000-3,500 each and banned all MIRVed land-based ICBMs — a step that would have disproportionately constrained Russia's ICBM-heavy force posture relative to the US submarine-heavy posture",
+          "text": "Reduced US/Russian strategic warheads to 3,000-3,500 each and banned all MIRVed land-based ICBMs — disproportionately constraining Russia's ICBM-heavy posture",
           "correct": true
         },
         {
@@ -2073,7 +2073,7 @@
           "note": "No such joint missile-defense system was established. START II was an offensive-arms-reduction treaty. Missile defense was governed separately under the 1972 ABM Treaty until US withdrawal in 2002."
         }
       ],
-      "explanation": "START II's MIRV-ban would have required Russia to either de-MIRV or decommission its heaviest ICBMs (such as the SS-18 'Satan') — a major asymmetric constraint since US strategic forces had shifted to submarine-based forces (which could still MIRV under START II). The Russian Duma resisted ratification throughout the 1990s; it finally ratified in April 2000 with conditions tied to US ABM Treaty compliance. When the US withdrew from the ABM Treaty in 2002, Russia declared itself released from START II, which therefore never entered into force. The follow-on SORT (Moscow Treaty, 2002) and eventually New START (2010) superseded it.",
+      "explanation": "START II's MIRV-ban would have required Russia to either de-MIRV or decommission its heaviest ICBMs (the SS-18 'Satan') — a major asymmetric constraint since US strategic forces had shifted to submarine-based forces (which could still MIRV under START II). The Russian Duma resisted ratification through the 1990s; it ratified in April 2000 with conditions tied to US ABM Treaty compliance. When the US withdrew from the ABM Treaty in 2002, Russia declared itself released from START II, which never entered into force.",
       "difficulty": "hard",
       "era": "1990s",
       "country": "russia",
@@ -2087,7 +2087,7 @@
       "sources": [
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-21"
+      "last_reviewed_date": "2026-04-25"
     },
     {
       "id": "fp_0127",
@@ -2140,26 +2140,26 @@
       "prompt": "The EU-Russia Partnership and Cooperation Agreement (PCA), signed at Corfu on 24 June 1994, did which of the following?",
       "choices": [
         {
-          "text": "Established the first treaty framework for EU-Russia political and economic relations — covering trade in most goods, political dialogue, and cooperation on rule of law — without granting Russia an 'Association Agreement' or any membership perspective",
+          "text": "Established the first treaty framework for EU-Russia political and economic relations — covering trade, political dialogue, and rule-of-law cooperation — without granting an Association Agreement or membership perspective",
           "correct": true
         },
         {
           "text": "Offered Russia an EU Association Agreement comparable to those signed with Poland and Hungary",
           "correct": false,
-          "note": "Russia did not sign an Association Agreement with the EU; the PCA was a lower-tier framework that explicitly did not include the accession perspective that Association Agreements signaled for the Central European candidates."
+          "note": "Russia did not sign an Association Agreement. The PCA was a lower-tier framework that explicitly did not include the accession perspective given to the Central European candidates."
         },
         {
           "text": "Made Russia a full member of the European Economic Area (EEA) with free movement of goods, services, capital, and people",
           "correct": false,
-          "note": "Russia never joined the EEA. The EEA includes EU member states plus Norway, Iceland, and Liechtenstein. The PCA was a bilateral cooperation agreement, not an EEA accession."
+          "note": "Russia never joined the EEA (EU member states plus Norway, Iceland, Liechtenstein). The PCA was a bilateral cooperation agreement, not an EEA accession."
         },
         {
           "text": "Created a Russia-EU customs union that aligned Russian tariffs with the Common External Tariff",
           "correct": false,
-          "note": "No Russia-EU customs union exists. Russia later led the Eurasian Customs Union (2010) with Belarus and Kazakhstan, which was a rival integration project to EU engagement — the opposite of the framing here."
+          "note": "No Russia-EU customs union exists. Russia later led the Eurasian Customs Union (2010) with Belarus and Kazakhstan, which was a rival integration project."
         }
       ],
-      "explanation": "The PCA was signed at Corfu at a 1994 EU summit that also initialed PCAs with other CIS states. Its ratification took longer than expected because of the First Chechen War (1994-96) complicating European approval; it entered into force only in December 1997. Substantively the PCA established most-favored-nation trade treatment (with exceptions), a 'Cooperation Council' political dialogue, and human-rights conditionalities. It is often cited as the high-water mark of 1990s Russia-EU convergence — before the 1999-2004 frictions over NATO and EU enlargements, Kosovo, and energy disputes diluted the framework into what became the 2003 'Four Common Spaces' architecture.",
+      "explanation": "The PCA was signed at Corfu alongside PCAs with other CIS states. Its ratification was delayed by the First Chechen War and entered into force only in December 1997. Substantively it established most-favored-nation trade treatment, a 'Cooperation Council' political dialogue, and human-rights conditionalities. It is often cited as the high-water mark of 1990s Russia-EU convergence before frictions over NATO/EU enlargement, Kosovo, and energy disputes diluted it into the 2003 'Four Common Spaces' architecture.",
       "difficulty": "hard",
       "era": "1990s",
       "country": "russia",
@@ -2173,7 +2173,7 @@
       "sources": [
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-21"
+      "last_reviewed_date": "2026-04-25"
     }
   ]
 }

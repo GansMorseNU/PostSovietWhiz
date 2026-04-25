@@ -53,7 +53,7 @@
       "prompt": "What was the First Five-Year Plan (1928-1932)?",
       "choices": [
         {
-          "text": "A centrally set plan of output targets for heavy industry that launched Stalin's crash industrialization and was paired with forced agricultural collectivization to extract the resources to fund it",
+          "text": "A centrally set plan of heavy-industry output targets that launched Stalin's crash industrialization, paired with forced collectivization to extract the resources to fund it",
           "correct": true
         },
         {
@@ -72,7 +72,7 @@
           "note": "NEP (1921-1928) is the policy the First Five-Year Plan replaced. The plan ended NEP's market tolerance and launched the command economy in earnest."
         }
       ],
-      "explanation": "The First Five-Year Plan was the concrete instrument through which Stalin's 'Revolution from Above' was carried out. It set ambitious output targets for coal, steel, machinery, and electrification; it was paired with forced collectivization to squeeze grain out of the countryside and feed the industrial workforce; and it was declared complete after four years. The plan inaugurated a pattern — successive five-year plans, dominance of heavy industry, output-over-quality metrics — that defined the Soviet command economy until its collapse.",
+      "explanation": "The First Five-Year Plan was the concrete instrument through which Stalin's 'Revolution from Above' was carried out. It set ambitious output targets for coal, steel, machinery, and electrification; it was paired with forced collectivization to squeeze grain out of the countryside; and it was declared complete after four years. The plan inaugurated the pattern — successive plans, dominance of heavy industry, output-over-quality metrics — that defined the Soviet command economy until its collapse.",
       "difficulty": "medium",
       "era": "soviet",
       "country": "russia",
@@ -85,7 +85,7 @@
       "sources": [
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-22"
+      "last_reviewed_date": "2026-04-25"
     },
     {
       "id": "et_0127",
@@ -95,7 +95,7 @@
       "prompt": "Stalin's forced collectivization of Soviet agriculture (beginning in 1929) combined which two campaigns?",
       "choices": [
         {
-          "text": "Consolidation of individual peasant holdings into large collective farms (kolkhozy) and state farms (sovkhozy), plus \"dekulakization\" — the destruction of the wealthier peasant stratum labeled kulaks as a political class",
+          "text": "Consolidation of peasant holdings into collective and state farms, plus 'dekulakization' — destruction of the wealthier peasant stratum as a political class",
           "correct": true
         },
         {
@@ -129,7 +129,7 @@
         "Course lectures",
         "https://en.wikipedia.org/wiki/Dekulakization"
       ],
-      "last_reviewed_date": "2026-04-22"
+      "last_reviewed_date": "2026-04-25"
     },
     {
       "id": "pt_0138",
@@ -181,7 +181,7 @@
       "prompt": "The Great Purge of 1936-1938 is best described as:",
       "choices": [
         {
-          "text": "A wave of NKVD-driven arrests and executions — featuring staged show trials of Old Bolsheviks such as Zinoviev, Kamenev, and Bukharin — that killed roughly 800,000 people and extended through the party, military, and intelligentsia",
+          "text": "A wave of NKVD arrests and executions — including show trials of Old Bolsheviks like Zinoviev, Kamenev, and Bukharin — that killed roughly 800,000 people across party, military, and intelligentsia",
           "correct": true
         },
         {
@@ -200,7 +200,7 @@
           "note": "Late-Soviet dissident repression was far more selective and generally non-lethal. The scale — hundreds of thousands of executions — is the distinguishing feature of the 1936-38 purge."
         }
       ],
-      "explanation": "The Great Purge (or Great Terror) of 1936-38 is the peak of Stalinist mass repression. Nikolai Yezhov, who headed the NKVD during the worst of the period (the 'Yezhovshchina'), oversaw arrests estimated at several million, executions on the order of 800,000, and deportations of many more to the Gulag. Much of the Bolshevik Old Guard was destroyed through show trials whose scripted confessions were later repudiated. The military officer corps was severely thinned on the eve of World War II, with consequences that became visible in 1941. The episode is a core illustration of Stalinist totalitarianism's reliance on mass arbitrary terror as a routine instrument of governance.",
+      "explanation": "The Great Purge (or Great Terror) of 1936-38 is the peak of Stalinist mass repression. Nikolai Yezhov, who headed the NKVD during the worst of the period (the 'Yezhovshchina'), oversaw arrests estimated at several million, executions on the order of 800,000, and deportations to the Gulag. The Bolshevik Old Guard was destroyed through show trials whose scripted confessions were later repudiated. The military officer corps was severely thinned on the eve of WWII, with consequences visible in 1941.",
       "difficulty": "medium",
       "era": "soviet",
       "country": "russia",
@@ -215,7 +215,7 @@
       "sources": [
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-23"
+      "last_reviewed_date": "2026-04-25"
     },
     {
       "id": "pt_0140",
@@ -225,7 +225,7 @@
       "prompt": "The Gulag system, in its Stalinist form, is best described as:",
       "choices": [
         {
-          "text": "A nationwide network of forced-labor camps administered by the NKVD that held millions of prisoners sentenced on political and criminal charges and supplied coerced labor for mining, logging, canal-building, and other industrial projects",
+          "text": "A nationwide network of NKVD-administered forced-labor camps that held millions on political and criminal charges and supplied coerced labor for mining, logging, and canal-building",
           "correct": true
         },
         {
@@ -244,7 +244,7 @@
           "note": "Tsarist Siberian exile did exist, but the Gulag is a Stalinist-era Soviet system that expanded dramatically in the 1930s — not a pre-revolutionary institution that disappeared."
         }
       ],
-      "explanation": "The Russian acronym GULag (Main Administration of Corrective Labor Camps and Colonies) names both the bureaucracy that ran the camps and, by extension, the camp system itself. At peak Stalinist scale, roughly 3.6 million were under NKVD jurisdiction with about 1.36 million in the camps proper. The system did three things at once: it removed perceived political enemies from society, it supplied forced labor for heavy-industry and infrastructure projects in hard-to-populate regions, and — through its sheer scale and arbitrariness — it produced the atmosphere of fear on which Stalinist totalitarianism relied. Solzhenitsyn's literary treatment later turned 'Gulag' into a global synonym for Soviet repression.",
+      "explanation": "The Russian acronym GULag (Main Administration of Corrective Labor Camps and Colonies) names both the bureaucracy that ran the camps and, by extension, the camp system. At peak Stalinist scale, roughly 3.6 million were under NKVD jurisdiction with about 1.36 million in the camps proper. The system removed perceived political enemies, supplied forced labor for heavy-industry and infrastructure projects in hard-to-populate regions, and produced the atmosphere of fear on which Stalinist totalitarianism relied. Solzhenitsyn's literary treatment turned 'Gulag' into a global synonym for Soviet repression.",
       "difficulty": "medium",
       "era": "soviet",
       "country": "russia",
@@ -257,7 +257,7 @@
       "sources": [
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-23"
+      "last_reviewed_date": "2026-04-25"
     },
     {
       "id": "pt_0141",
@@ -309,7 +309,7 @@
       "prompt": "The \"institutional complementarities\" argument about Soviet totalitarianism holds that:",
       "choices": [
         {
-          "text": "The four pillars of the system — ideology, terror, the leading role of the Party, and the command economy — reinforce each other, so weakening any one of them tends to destabilize the whole system rather than producing a tidy partial reform",
+          "text": "The four pillars — ideology, terror, the Party's leading role, and the command economy — reinforce each other, so weakening any one tends to destabilize the whole rather than producing tidy partial reform",
           "correct": true
         },
         {
@@ -328,7 +328,7 @@
           "note": "The standard reading is essentially the opposite: the command economy eventually stopped delivering growth, and its weakening was one of several interacting pressures in the Gorbachev period."
         }
       ],
-      "explanation": "The institutional-complementarities framing helps explain why Gorbachev-era reform unraveled the USSR rather than fine-tuning it. If you accept that ideology, terror, the Party's monopoly, and the command economy reinforce each other, then glasnost (which eroded the ideological monopoly), political reform (which cut into the Party's leading role), the post-Stalin retreat from mass terror, and perestroika (which loosened the command economy) are not four independent adjustments but four coordinated blows to an integrated system. This is an example of an institutional explanation — contrasted with structural and contingent ones — for the collapse.",
+      "explanation": "The institutional-complementarities framing helps explain why Gorbachev-era reform unraveled the USSR rather than fine-tuning it. If you accept that ideology, terror, the Party's monopoly, and the command economy reinforce each other, then glasnost (eroding the ideological monopoly), political reform (cutting the Party's leading role), the post-Stalin retreat from mass terror, and perestroika (loosening the command economy) are not four independent adjustments but four coordinated blows to an integrated system.",
       "difficulty": "hard",
       "era": "soviet",
       "country": "russia",
@@ -342,7 +342,7 @@
         "Course lectures",
         "PS369 handout 'Explaining the Collapse of the Soviet System'"
       ],
-      "last_reviewed_date": "2026-04-23"
+      "last_reviewed_date": "2026-04-25"
     },
     {
       "id": "pt_0143",
@@ -395,7 +395,7 @@
       "prompt": "In analyses of the Soviet collapse, \"structural\" and \"contingent\" explanations differ primarily in that:",
       "choices": [
         {
-          "text": "Structural explanations focus on large-scale factors beyond short-term leader control (such as level of development, military capabilities, or ethnic composition), while contingent explanations focus on the decisions of particular leaders or the confluence of specific events",
+          "text": "Structural explanations focus on factors beyond short-term leader control (development, military capacity, ethnic composition), while contingent explanations focus on particular leaders' decisions or specific events",
           "correct": true
         },
         {
@@ -414,7 +414,7 @@
           "note": "Disciplinary origin is not the criterion. Political scientists deploy both types; the difference is about the kind of factor being named (slow-moving conditions vs specific actors/events)."
         }
       ],
-      "explanation": "Explanations of the Soviet collapse tend to cluster around one pole or the other — structural accounts stressing the long-run crisis of the command economy, ethnic heterogeneity, or imperial overstretch, versus contingent accounts stressing Gorbachev's particular reform choices, the Chernobyl or economic shocks of the late 1980s, or the specific dynamics of 1991. The two families are usually complementary rather than mutually exclusive: structural factors create the preconditions for change, and contingent factors set the process in motion and determine its pace and form. The same logic extends to institutional (e.g., the 'complementarities' of totalitarianism) and chain-reaction (e.g., cycles of mobilization) explanations.",
+      "explanation": "Explanations of the Soviet collapse tend to cluster around one pole or the other — structural accounts stressing the long-run crisis of the command economy, ethnic heterogeneity, or imperial overstretch, versus contingent accounts stressing Gorbachev's particular reform choices, the Chernobyl or economic shocks of the late 1980s, or the dynamics of 1991. The two families are usually complementary: structural factors create preconditions, contingent factors set the process in motion and determine its pace.",
       "difficulty": "hard",
       "era": "soviet",
       "country": "russia",
@@ -428,48 +428,7 @@
         "Course lectures",
         "PS369 handout 'Explaining the Collapse of the Soviet System'"
       ],
-      "last_reviewed_date": "2026-04-23"
-    },
-    {
-      "id": "pt_0145",
-      "category": "political_transitions",
-      "subcategory": "political_transitions",
-      "type": "multiple_choice",
-      "prompt": "In standard treatments of democracy, \"free and fair elections\" require all of the following EXCEPT:",
-      "choices": [
-        {
-          "text": "A single ruling party that supervises the ballot-counting process to ensure political stability",
-          "correct": true
-        },
-        {
-          "text": "Universal adult suffrage with a secret ballot",
-          "correct": false,
-          "note": "This is a standard element — the right to vote extends to essentially all adult citizens and is exercised without observation that could invite coercion."
-        },
-        {
-          "text": "Competitive contests in which multiple parties or candidates can realistically win and have reasonable access to media and campaign resources",
-          "correct": false,
-          "note": "Competition on roughly equal terms is one of the defining elements. Without it, elections can be procedurally held while being substantively uncompetitive."
-        },
-        {
-          "text": "Regular elections held on a predictable schedule with independent administration and counting",
-          "correct": false,
-          "note": "Regularity plus independent administration is another standard element — both block incumbents from postponing or manipulating the count when losses look likely."
-        }
-      ],
-      "explanation": "The standard catalog of elements required for an election to count as 'free and fair' includes universal suffrage, secret ballot, regular and predictable schedules, independent administration and counting, competitive access for multiple parties and candidates, reasonable equality of media and campaign resources, and freedom from intimidation. The point of the list is that Russia and Ukraine in the 1990s held elections on paper — but on some dimensions (Yeltsin's 1996 media advantage, Kuchma's 1998-99 fraud and media control) they fell short on the underlying requirements. A 'single ruling party supervising the count' is a Soviet-era model; it is the opposite of the independent-administration requirement.",
-      "difficulty": "medium",
-      "era": "1990s",
-      "country": "both",
-      "tags": [
-        "free_and_fair_elections",
-        "democracy_elements",
-        "electoral_integrity"
-      ],
-      "sources": [
-        "Course lectures"
-      ],
-      "last_reviewed_date": "2026-04-23"
+      "last_reviewed_date": "2026-04-25"
     },
     {
       "id": "fp_0131",
@@ -479,7 +438,7 @@
       "prompt": "In international-relations theory, \"realism\" and \"liberalism\" differ primarily in that:",
       "choices": [
         {
-          "text": "Realism focuses on national interests and material capabilities (military, economic), while liberalism focuses on norms, ideals, and domestic political institutions — including claims like the 'democratic peace'",
+          "text": "Realism focuses on national interests and material capabilities, while liberalism focuses on norms, institutions, and ideas like the 'democratic peace'",
           "correct": true
         },
         {
@@ -498,7 +457,7 @@
           "note": "Both traditions have prominent American and European theorists. Geography is not the defining axis."
         }
       ],
-      "explanation": "This split frames post-Soviet Russian foreign policy. A realist reading emphasizes that Russia's reduced material capabilities after 1991 (shrunken economy, depleted military, lost territory) should have driven accommodation with a stronger West, while its still-substantial assets (nuclear arsenal, UN veto, size) gave it leverage to resist encirclement. A liberal reading emphasizes domestic political institutions — whether Russia was consolidating as a democracy, how its norms aligned with the West — and invokes claims like the democratic peace (democracies rarely fight each other). Either framework generates ambiguous and sometimes contradictory predictions for 1990s Russia, which is part of why debates over NATO enlargement, the war in Kosovo, and Russia's eventual foreign-policy turn remain contested.",
+      "explanation": "This split frames post-Soviet Russian foreign policy. A realist reading emphasizes that Russia's reduced material capabilities after 1991 should have driven accommodation with a stronger West, while its still-substantial assets (nuclear arsenal, UN veto) gave it leverage to resist encirclement. A liberal reading emphasizes domestic political institutions and invokes claims like the democratic peace. Either framework generates ambiguous predictions for 1990s Russia.",
       "difficulty": "medium",
       "era": "1990s",
       "country": "russia",
@@ -511,7 +470,7 @@
       "sources": [
         "Course lectures"
       ],
-      "last_reviewed_date": "2026-04-23"
+      "last_reviewed_date": "2026-04-25"
     }
   ]
 }

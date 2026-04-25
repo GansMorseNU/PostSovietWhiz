@@ -331,9 +331,9 @@
           "note": "No such 1985 registration law existed. Soviet internal passports recorded natsionalnost (ethnicity), not first language, and self-reports were not tied to workplace location. The language-ethnicity gap in Ukraine came from long-run Russification incentives (school of instruction, urban migration, career paths), not from a specific 1985 statute."
         },
         {
-          "text": "The Soviet census defined 'ethnic Ukrainian' as only those who spoke no Russian at home, making language-ethnicity mismatch statistically impossible",
+          "text": "Sustained labor migration from Russia into eastern Ukraine after 1991 rapidly Russified parts of the population, generating new ethnic Ukrainians whose first language remained Russian",
           "correct": false,
-          "note": "Soviet 'nationality' (natsionalnost) was self-reported and distinct from language use. Individuals routinely reported an ethnic identity that diverged from their everyday language, which is precisely why the mismatch is analytically visible in census data."
+          "note": "The language-ethnicity gap was already visible in the 1989 Soviet census — before any post-1991 migration could have produced it — and reflects ethnic Ukrainians who grew up using Russian under late-Soviet conditions, not post-independence demographic flows."
         }
       ],
       "explanation": "Decades of Soviet Russification — professional advancement through Russian, Russian-medium schooling in many urban areas, and internal migration — meant that many ethnic Ukrainians grew up speaking Russian at home and work while still identifying as Ukrainian on census forms. The result is a systematic gap between ethnic identification (around 73 percent Ukrainian in 1989) and first-language identification (a considerably lower share reporting Ukrainian as native language, with substantial 'Russophone Ukrainians' in between). That mismatch is central to why post-Soviet Ukraine's internal politics has tended to divide along linguistic and regional lines rather than strictly ethnic ones, and why concepts like 'ethnic Russian in Ukraine' versus 'Russian-speaking Ukrainian' are analytically distinct rather than interchangeable.",
@@ -350,7 +350,7 @@
         "Course lectures",
         "Maria Popova & Oxana Shevel, Russia and Ukraine: Entangled Histories, Diverging States (ch. on identity and language)"
       ],
-      "last_reviewed_date": "2026-04-24"
+      "last_reviewed_date": "2026-04-25"
     },
     {
       "id": "pt_0158",

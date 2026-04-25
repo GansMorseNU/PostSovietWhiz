@@ -836,6 +836,126 @@
       "processed_at": "2026-04-23",
       "status": "applied",
       "note": "Removed 'the course uses' from explanation. This submission and 785e0e6c both asked for a full-bank sweep; also fixed 13 other questions with similar 'the lectures/course/JGM's lecture/handout' phrasing: et_0037, et_0052, et_0059, pt_0012, pt_0137, pt_0138, pt_0139, pt_0140, pt_0142, pt_0144, pt_0145, fp_0131, pt_0148."
+    },
+    {
+      "id": "eb24fdff",
+      "question_id": "pt_0157",
+      "submitted_at": "2026-04-25T02:37:45.917Z",
+      "processed_at": "2026-04-25",
+      "status": "applied",
+      "note": "Replaced the logically-inconsistent 'mismatch impossible' distractor with an alternative-cause distractor (post-1991 Russian labor migration into eastern Ukraine), per JGM rule 15. Updated note to explain why the new distractor is wrong (1989 census predates 1991 migration)."
+    },
+    {
+      "id": "23462f8f",
+      "question_id": "pt_0145",
+      "submitted_at": "2026-04-25T02:39:33.260Z",
+      "processed_at": "2026-04-25",
+      "status": "applied",
+      "note": "Cut question entirely from the bank and from proposed_questions_batch5.json per JGM: 'super easy and not directly tied to anything in the post Soviet region'. Bank now 408."
+    },
+    {
+      "id": "14187471",
+      "question_id": "pt_0149",
+      "submitted_at": "2026-04-25T02:41:50.892Z",
+      "processed_at": "2026-04-25",
+      "status": "applied",
+      "note": "Replaced 'roughly 250 deputies' with the exact count: 252 (Council of the Republic + Council of Nationalities, 126 each)."
+    },
+    {
+      "id": "4f00c044",
+      "question_id": "et_0095",
+      "submitted_at": "2026-04-24T15:37:14.596Z",
+      "processed_at": "2026-04-25",
+      "status": "applied",
+      "note": "Trimmed correct option per rule 14 (Matej flagged length asymmetry); moved IMF/hryvnia/inflation specifics to explanation."
+    },
+    {
+      "id": "818249cf",
+      "question_id": "fp_0052",
+      "submitted_at": "2026-04-24T15:32:32.249Z",
+      "processed_at": "2026-04-25",
+      "status": "applied",
+      "note": "Made Russia the explicit subject in correct option ('Russia's own privileged interests in neighboring regions') per Matej."
+    },
+    {
+      "id": "170105d8",
+      "question_id": "fp_0052",
+      "submitted_at": "2026-04-24T15:32:03.815Z",
+      "processed_at": "2026-04-25",
+      "status": "dismissed",
+      "note": "Matej asked 'Privileged or Privilege?' — the correct option already used 'Privileged' (correct adjective form). No edit needed."
+    },
+    {
+      "id": "5fd23c78",
+      "question_id": "et_0085",
+      "submitted_at": "2026-04-24T15:31:05.136Z",
+      "processed_at": "2026-04-25",
+      "status": "applied",
+      "note": "Replaced 'halfway state' with Hellman's actual term 'partial-reform equilibrium' in the correct option, per Matej."
+    },
+    {
+      "id": "69daa5bd",
+      "question_id": "et_0015",
+      "submitted_at": "2026-04-24T15:30:12.089Z",
+      "processed_at": "2026-04-25",
+      "status": "applied",
+      "note": "Reworded correct option to be more descriptive (concentrated vs. broad ownership) instead of evaluative ('notably fairer system'), per Matej's normative-tone observation."
+    },
+    {
+      "id": "5f757d22",
+      "question_id": "et_0127",
+      "submitted_at": "2026-04-24T15:27:43.121Z",
+      "processed_at": "2026-04-25",
+      "status": "applied",
+      "note": "Trimmed correct option (removed Russian-term parentheticals like 'kolkhozy/sovkhozy'); kept the gloss in the explanation. Per Matej + rule 14."
+    },
+    {
+      "id": "e302eb43",
+      "question_id": "pt_0073",
+      "submitted_at": "2026-04-24T15:26:43.240Z",
+      "processed_at": "2026-04-25",
+      "status": "applied",
+      "note": "Glossed 'power vertical' inline with the Russian term (vertikal vlasti) and a one-clause definition, per Matej."
+    },
+    {
+      "id": "e6fa59e6",
+      "question_id": "pt_0040",
+      "submitted_at": "2026-04-24T15:25:52.157Z",
+      "processed_at": "2026-04-25",
+      "status": "applied",
+      "note": "Replaced ambiguous 'They' with explicit 'The 1989 elections' in all four answer options, per Matej."
+    },
+    {
+      "id": "4c74acc4",
+      "question_id": "pt_0047",
+      "submitted_at": "2026-04-24T15:24:29.200Z",
+      "processed_at": "2026-04-25",
+      "status": "applied",
+      "note": "Replaced ambiguous 'republican autonomy' with 'autonomy gains made by the Soviet republics' in correct option, per Matej."
+    },
+    {
+      "id": "b5646ec2",
+      "question_id": "fp_0074",
+      "submitted_at": "2026-04-24T15:22:21.545Z",
+      "processed_at": "2026-04-25",
+      "status": "applied",
+      "note": "Trimmed correct option per rule 14; Matej called out length asymmetry from his SAT-development experience."
+    },
+    {
+      "id": "d29d4dcb",
+      "question_id": "pt_0014",
+      "submitted_at": "2026-04-24T15:21:10.902Z",
+      "processed_at": "2026-04-25",
+      "status": "applied",
+      "note": "Glossed Kuchma in the explanation ('Ukraine's president since 1994') so students don't need to know his role from prior context, per Matej."
+    },
+    {
+      "id": "ae8753e5",
+      "question_id": "pt_0062",
+      "submitted_at": "2026-04-24T15:20:09.792Z",
+      "processed_at": "2026-04-25",
+      "status": "applied",
+      "note": "Expanded explanation to gloss 'Orange Camp' on first mention (Yushchenko's Our Ukraine + Tymoshenko's bloc, post-2004 Orange Revolution), per Matej."
     }
   ]
 }
