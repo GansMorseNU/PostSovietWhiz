@@ -11,3 +11,6 @@ app/tsconfig.tsbuildinfo
 
 # Course source materials stay local
 CourseMaterials/
+
+# Generated analytics output (regenerate with scripts/dashboard.py)
+scripts/dashboard.html

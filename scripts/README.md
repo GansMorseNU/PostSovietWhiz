@@ -116,6 +116,28 @@ python3 scripts/usage_stats.py <token>
 Reports total launches, total unique clients (all-time), and per-day / per-month
 breakdowns of launches and distinct `client_id`s.
 
+### Visual dashboard (HTML)
+```
+python3 scripts/dashboard.py <token>
+open scripts/dashboard.html
+```
+Fetches both stats endpoints, joins answer events with question metadata in
+`content/questions.sample.json`, and writes a self-contained
+`scripts/dashboard.html` with:
+
+- usage KPIs (total launches, unique clients, today, this month, answer events,
+  questions touched) and daily / monthly tables
+- performance rollups by difficulty, era, category, and country (weighted by
+  attempts)
+- calibration flags — easy questions often missed, hard/very-hard questions
+  usually right, medium questions outside the 40-90% band. Thresholds are
+  constants at the top of `scripts/dashboard.py`; edit them to retune.
+- sortable and searchable table of every question that has been answered at
+  least once.
+
+The generated HTML is gitignored. Re-run the script whenever you want fresh
+numbers.
+
 ### How to turn analytics on
 
 Analytics ship **disabled** by default (`ANALYTICS_ENABLED = false` in

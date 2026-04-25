@@ -1,0 +1,1005 @@
+{
+  "_comment": "Batch 2 draft (50 questions) for PS369 soviet+1990s expansion. Pending merge into questions.sample.json after self-critique.",
+  "questions": [
+    {
+      "id": "pt_0086",
+      "category": "political_transitions",
+      "subcategory": "political_transitions",
+      "type": "multiple_choice",
+      "prompt": "The March 1989 elections to the USSR Congress of People's Deputies broke with past Soviet practice in a specific way. What was distinctive about them?",
+      "choices": [
+        {"text": "For the first time in decades, most seats featured contested, multi-candidate races (though one-third were still reserved for seats chosen by 'public organizations' including the Communist Party)", "correct": true},
+        {"text": "They were the first fully free elections in Russia, with all seats contested and the Communist Party formally disqualified from running", "correct": false, "note": "Article 6, which guaranteed the Party's leading role, was not repealed until 1990. The 1989 elections still had reserved seats for the CPSU and other official organizations, and the Party was not banned from running."},
+        {"text": "They were the first Soviet elections to use secret ballots, a practice previously banned by Stalin and left unreformed", "correct": false, "note": "Soviet elections had used secret ballots for decades; the innovation in 1989 was contestation, not balloting procedure."},
+        {"text": "They introduced proportional representation based on the Ukrainian Rukh electoral model adopted across the union", "correct": false, "note": "The 1989 Congress used majoritarian territorial and national-territorial districts plus reserved 'public organization' seats, not proportional representation, and Rukh did not provide an electoral template for the union."}
+      ],
+      "explanation": "The 1989 Congress of People's Deputies elections were a signature glasnost-era reform: genuine contested voting for most seats, producing a legislature that included prominent critics of the regime like Andrei Sakharov and Boris Yeltsin. One-third of seats were still reserved for 'public organizations' (the CPSU got 100), preserving party dominance on paper while letting unprecedented political pluralism into the chamber. The Congress then elected a standing Supreme Soviet from its ranks.",
+      "difficulty": "hard",
+      "era": "soviet",
+      "country": "russia",
+      "tags": ["congress_of_peoples_deputies", "1989_elections", "gorbachev", "glasnost", "political_reform"],
+      "sources": ["Course lectures", "Archie Brown, The Rise and Fall of Communism"],
+      "last_reviewed_date": "2026-04-21"
+    },
+    {
+      "id": "pt_0087",
+      "category": "political_transitions",
+      "subcategory": "political_transitions",
+      "type": "multiple_choice",
+      "prompt": "In March 1990 the Soviet Congress of People's Deputies amended the USSR Constitution to repeal which specific provision, ending the Communist Party's formal monopoly on political power?",
+      "choices": [
+        {"text": "Article 6, which had declared the CPSU 'the leading and guiding force of Soviet society and the nucleus of its political system'", "correct": true},
+        {"text": "Article 70, which defined the USSR as a federation of socialist republics based on the principle of democratic centralism", "correct": false, "note": "Article 70 of the 1977 Constitution addressed federal structure, not party monopoly; it was not the article repealed to open up multiparty politics."},
+        {"text": "Article 39, which subordinated all civic associations to the oversight of the Central Committee", "correct": false, "note": "Article 39 dealt with citizens' rights generally; the party's leading role was anchored in Article 6."},
+        {"text": "Article 1, which proclaimed the USSR a 'socialist state of the whole people' under party guidance", "correct": false, "note": "Article 1 was a general declaration and remained in force; the specific monopoly clause was Article 6."}
+      ],
+      "explanation": "Article 6 of the 1977 ('Brezhnev') Constitution codified the CPSU's leading role. Its March 1990 repeal legalized multiparty politics in the USSR and is a canonical marker of the regime's political liberalization — formally ending what political scientists call the 'party-state' and setting up the short-lived Soviet multiparty period that preceded the August 1991 coup.",
+      "difficulty": "very_hard",
+      "era": "soviet",
+      "country": "russia",
+      "tags": ["article_6", "cpsu_monopoly", "1990_constitutional_amendment", "political_pluralism", "gorbachev"],
+      "sources": ["Archie Brown, The Rise and Fall of Communism", "Course lectures"],
+      "last_reviewed_date": "2026-04-21"
+    },
+    {
+      "id": "pt_0088",
+      "category": "political_transitions",
+      "subcategory": "political_transitions",
+      "type": "multiple_choice",
+      "prompt": "What was the 'parade of sovereignties' (1988-1991) in the late Soviet period?",
+      "choices": [
+        {"text": "A wave of declarations by union republics and some autonomous regions asserting the supremacy of their own laws over USSR laws, beginning with the Baltics and culminating in Russia's own sovereignty declaration of June 1990", "correct": true},
+        {"text": "A series of military parades in Red Square at which each republic's leader symbolically handed back territorial powers to Moscow", "correct": false, "note": "The name is metaphorical — it refers to legal sovereignty declarations, not actual parades, and the direction of transfer was from Moscow to the republics."},
+        {"text": "A coordinated campaign by Gorbachev to grant the republics ceremonial sovereignty while retaining full central control under the Union Treaty", "correct": false, "note": "The declarations were initiated by the republics themselves and substantively challenged central authority; Gorbachev did not orchestrate them, and the new Union Treaty he pushed was precisely an attempt to recontain them."},
+        {"text": "A set of UN recognition proceedings in 1990-91 that individually admitted each Soviet republic as a sovereign state before the USSR formally dissolved", "correct": false, "note": "UN admission of the post-Soviet states came after December 1991; the 'parade of sovereignties' was an internal-law phenomenon about legal supremacy inside the union, not international recognition."}
+      ],
+      "explanation": "The parade of sovereignties names the cascading wave of republic-level declarations that their own laws superseded all-union laws, hollowing out the USSR from within. Estonia opened the wave in November 1988; Russia's declaration of sovereignty on 12 June 1990 (under Yeltsin, as chair of the RSFSR Supreme Soviet) was the tipping point because Russia was the core republic. By mid-1991 virtually every republic had declared sovereignty, setting up the 'war of laws' that preceded the August coup and the union's December 1991 dissolution.",
+      "difficulty": "hard",
+      "era": "soviet",
+      "country": "russia",
+      "tags": ["parade_of_sovereignties", "republic_sovereignty", "yeltsin", "russia_sovereignty_declaration", "soviet_collapse"],
+      "sources": ["Course lectures", "Archie Brown, The Rise and Fall of Communism"],
+      "last_reviewed_date": "2026-04-21"
+    },
+    {
+      "id": "pt_0089",
+      "category": "political_transitions",
+      "subcategory": "political_transitions",
+      "type": "multiple_choice",
+      "prompt": "On 1 December 1991 Ukrainian voters went to the polls in a nationwide referendum. What did they vote on, and what was the result?",
+      "choices": [
+        {"text": "Whether to confirm Ukraine's 24 August 1991 declaration of independence — roughly 92 percent voted yes, with majorities in every region including Crimea", "correct": true},
+        {"text": "Whether to adopt a new Ukrainian constitution separating powers between a president and the Verkhovna Rada — the draft was rejected, delaying constitutional reform until 1996", "correct": false, "note": "Ukraine's post-Soviet constitution was adopted by parliamentary vote in June 1996, not by referendum in December 1991."},
+        {"text": "Whether Ukraine should enter a renewed Union Treaty with Russia and the other Soviet republics — the proposal was narrowly approved but overtaken by events", "correct": false, "note": "The all-union referendum on preserving the USSR was held in March 1991, and Ukraine's December 1 vote moved in the opposite direction: confirming independence."},
+        {"text": "Whether to ratify the Belovezha Accords dissolving the USSR — voters approved ratification alongside the election of Leonid Kravchuk as president", "correct": false, "note": "The Belovezha Accords were signed on 8 December 1991 and ratified by the Verkhovna Rada, not by the December 1 referendum (which preceded them)."}
+      ],
+      "explanation": "The 1 December 1991 referendum was decisive for the USSR's dissolution: every Ukrainian region — including Crimea (where about 54 percent voted yes) and Sevastopol — backed independence, and Leonid Kravchuk was elected president the same day. Without Ukraine, Gorbachev's proposed new Union Treaty was unviable, and the Belovezha Accords formalizing the USSR's dissolution followed one week later.",
+      "difficulty": "medium",
+      "era": "soviet",
+      "country": "ukraine",
+      "tags": ["ukraine_independence_referendum", "december_1991", "kravchuk", "soviet_collapse", "crimea"],
+      "sources": ["Course lectures", "Serhii Plokhy, The Last Empire"],
+      "last_reviewed_date": "2026-04-21"
+    },
+    {
+      "id": "pt_0090",
+      "category": "political_transitions",
+      "subcategory": "political_transitions",
+      "type": "multiple_choice",
+      "prompt": "The August 1991 coup attempt against Gorbachev was launched by a self-declared 'State Committee for the State of Emergency' (GKChP). What was the immediate trigger for its timing?",
+      "choices": [
+        {"text": "The plotters moved to pre-empt the scheduled 20 August 1991 signing of a new Union Treaty that would have devolved substantial powers from Moscow to the republics", "correct": true},
+        {"text": "Gorbachev had announced that he would resign as General Secretary of the CPSU the following week, and the plotters wanted to prevent a Yeltsin succession", "correct": false, "note": "Gorbachev did not resign as General Secretary until after the coup (on 24 August 1991). The plotters' stated objective was preventing the Union Treaty, not forestalling a resignation."},
+        {"text": "NATO had just extended invitations to the Baltic states to join the alliance, and hardliners wanted to intervene militarily before the invitations took effect", "correct": false, "note": "NATO made no such invitations in 1991 — the Baltic states did not join NATO until 2004, and enlargement was not yet on the agenda. This is anachronistic."},
+        {"text": "Yeltsin had introduced a bill in the Russian Supreme Soviet to formally withdraw the RSFSR from the USSR, and the plotters acted to block its passage", "correct": false, "note": "The RSFSR did not pursue unilateral withdrawal in August 1991; the immediate trigger was the impending Union Treaty signing, not a Russian withdrawal bill."}
+      ],
+      "explanation": "The new Union Treaty, negotiated during the Novo-Ogarevo process, was set to be signed on 20 August. It would have sharply weakened the central Soviet state, and conservative elements (defense, KGB, interior ministry, vice-president Yanaev) launched the coup on 19 August to prevent it. The coup collapsed within three days; it accelerated the very outcome it was meant to forestall, discrediting the central institutions and clearing the way for the December dissolution.",
+      "difficulty": "hard",
+      "era": "soviet",
+      "country": "russia",
+      "tags": ["august_1991_coup", "gkchp", "union_treaty", "novo_ogarevo", "gorbachev", "yeltsin"],
+      "sources": ["Archie Brown, The Rise and Fall of Communism", "Course lectures"],
+      "last_reviewed_date": "2026-04-21"
+    },
+    {
+      "id": "pt_0091",
+      "category": "political_transitions",
+      "subcategory": "political_transitions",
+      "type": "multiple_choice",
+      "prompt": "In June 1991 Boris Yeltsin became the first popularly elected leader in Russian history. What office did he win in that election?",
+      "choices": [
+        {"text": "President of the Russian Soviet Federative Socialist Republic (RSFSR) — the presidency of the Russian republic within the still-existing USSR", "correct": true},
+        {"text": "General Secretary of the CPSU, replacing Gorbachev in an upset party vote", "correct": false, "note": "The CPSU General Secretary was never chosen by popular election; Gorbachev held that post until he resigned it after the August coup. Yeltsin had already left the CPSU in 1990."},
+        {"text": "President of the USSR, defeating Gorbachev in the first direct all-union presidential election", "correct": false, "note": "There was no direct popular election for the USSR presidency. Gorbachev had been elected to that post by the Congress of People's Deputies in March 1990."},
+        {"text": "Chairman of the RSFSR Supreme Soviet, taking over the republic's top legislative post from a Communist Party stalwart", "correct": false, "note": "Yeltsin had already been elected chair of the RSFSR Supreme Soviet in 1990; the June 1991 vote was for the newly created presidency of the RSFSR."}
+      ],
+      "explanation": "Yeltsin won the June 1991 RSFSR presidential election with roughly 57 percent of the vote, giving him a democratic mandate that the unelected USSR president (Gorbachev, chosen by the Congress of People's Deputies) lacked. This democratic legitimacy is central to why Yeltsin, rather than Gorbachev, could rally resistance to the August coup and why power drained from the union center to the Russian republic afterward.",
+      "difficulty": "medium",
+      "era": "soviet",
+      "country": "russia",
+      "tags": ["yeltsin", "rsfsr_presidency", "june_1991_election", "dual_power", "soviet_collapse"],
+      "sources": ["Course lectures", "Archie Brown, The Rise and Fall of Communism"],
+      "last_reviewed_date": "2026-04-21"
+    },
+    {
+      "id": "pt_0092",
+      "category": "political_transitions",
+      "subcategory": "political_transitions",
+      "type": "multiple_choice",
+      "prompt": "The 19th Conference of the CPSU in June-July 1988 is considered a pivot point in perestroika because:",
+      "choices": [
+        {"text": "Gorbachev used it to push through a sweeping program of political reform — creating the Congress of People's Deputies, introducing contested elections, and shifting real authority from party organs toward newly empowered soviets", "correct": true},
+        {"text": "It formally dissolved the Communist Party's Politburo and replaced it with a presidential cabinet, merging state and party leadership under Gorbachev", "correct": false, "note": "The Politburo was not dissolved in 1988; Gorbachev remained General Secretary with the Politburo intact. The presidential office was created later, in March 1990."},
+        {"text": "It ratified the Brezhnev-era 'developed socialism' doctrine as the permanent ideological line of the USSR, blocking the market-oriented reforms Gorbachev had proposed", "correct": false, "note": "The 19th Conference moved in the opposite direction — away from Brezhnev-era doctrine — and opened space for political, not closed-off, reform."},
+        {"text": "It authorized the creation of a multiparty system and legalized the registration of non-communist parties for the first time since 1918", "correct": false, "note": "Legal multipartism required repealing Article 6, which did not happen until March 1990. The 19th Conference did not itself authorize opposition parties."}
+      ],
+      "explanation": "The 19th Party Conference was where Gorbachev laid out the plan for a new legislative architecture: a Congress of People's Deputies elected with contested races and a standing Supreme Soviet drawn from it. This was the first time a major political reform was publicly debated at a national party forum with live media coverage (a glasnost innovation), and the resulting constitutional amendments in late 1988 produced the legislature that would convene in 1989.",
+      "difficulty": "medium",
+      "era": "soviet",
+      "country": "russia",
+      "tags": ["19th_party_conference", "perestroika", "political_reform", "congress_of_peoples_deputies", "gorbachev"],
+      "sources": ["Archie Brown, The Rise and Fall of Communism", "Course lectures"],
+      "last_reviewed_date": "2026-04-23"
+    },
+    {
+      "id": "pt_0093",
+      "category": "political_transitions",
+      "subcategory": "political_transitions",
+      "type": "multiple_choice",
+      "prompt": "The October 1993 constitutional crisis in Russia ended when:",
+      "choices": [
+        {"text": "Yeltsin ordered tanks to shell the White House (the Russian parliament building), dispersing the hardline-dominated Supreme Soviet led by Rutskoi and Khasbulatov", "correct": true},
+        {"text": "The Constitutional Court brokered a power-sharing deal between Yeltsin and the Supreme Soviet, preserving the 1978 constitution through 1996", "correct": false, "note": "The crisis ended with force, not negotiation, and the 1978 RSFSR constitution was replaced in December 1993, shortly after the shelling."},
+        {"text": "Yeltsin resigned the presidency in favor of Prime Minister Chernomyrdin, who then called new elections under an interim charter", "correct": false, "note": "Yeltsin did not resign in 1993; he prevailed and pushed through a new constitution in December that concentrated power in the presidency."},
+        {"text": "The Duma impeached Yeltsin and installed Aleksandr Lebed as acting president pending new elections", "correct": false, "note": "There was no successful impeachment and no Duma existed in this form — the Duma was created by the new December 1993 constitution. Lebed did not hold the acting presidency at any point."}
+      ],
+      "explanation": "The fight between Yeltsin and the Supreme Soviet (inherited from the 1978 RSFSR constitution) was a classic super-presidential-vs-super-parliamentary institutional clash. Yeltsin dissolved the parliament by decree in September; the parliament voted to remove him; the stand-off ended on 3-4 October 1993 when troops shelled the White House. The new December 1993 constitution written under Yeltsin's auspices and ratified by referendum locked in strong presidential powers — a legacy that shaped Russian politics through the Putin era.",
+      "difficulty": "medium",
+      "era": "1990s",
+      "country": "russia",
+      "tags": ["october_1993", "white_house_shelling", "constitutional_crisis", "yeltsin", "supreme_soviet", "rutskoi", "khasbulatov"],
+      "sources": ["Course lectures"],
+      "last_reviewed_date": "2026-04-21"
+    },
+    {
+      "id": "pt_0094",
+      "category": "political_transitions",
+      "subcategory": "political_transitions",
+      "type": "multiple_choice",
+      "prompt": "The Russian Constitution adopted by referendum in December 1993 is often described as a 'super-presidential' constitution. Which feature most clearly justifies that label?",
+      "choices": [
+        {"text": "The president can dissolve the Duma if it rejects a prime minister three times or passes two no-confidence votes within three months, while the president's own impeachment requires a supermajority and Constitutional Court sign-off that makes it effectively impossible", "correct": true},
+        {"text": "The president serves an unlimited number of consecutive terms, subject only to a ceremonial vote of the Federation Council at each renewal", "correct": false, "note": "The 1993 constitution originally capped consecutive terms at two (four years each, later six); the 2020 and 2008 amendments changed term length and nullified past terms, but the original document did not permit unlimited consecutive terms."},
+        {"text": "The president personally appoints all 89 regional governors, bypassing any regional election", "correct": false, "note": "Regional governors were popularly elected for most of the 1990s. Centrally appointed governors came in under Putin in 2004 and were partially rolled back later."},
+        {"text": "The president can rewrite the constitution by decree without referendum or parliamentary involvement", "correct": false, "note": "Constitutional amendment requires supermajorities in the Federal Assembly (and in some chapters also regional ratification or a Constitutional Assembly). Decree-level rewriting is not permitted."}
+      ],
+      "explanation": "Scholars call the 1993 charter super-presidential because the president holds overwhelming formal powers — naming the prime minister, dissolving the Duma under several conditions, issuing binding decrees, and being largely insulated from impeachment — while the legislature has few compensating tools. Shugart-Carey-style presidential-power indices place Russia at the high end among presidential systems. This institutional design is one of the structural legacies of the October 1993 showdown with the Supreme Soviet.",
+      "difficulty": "hard",
+      "era": "1990s",
+      "country": "russia",
+      "tags": ["1993_constitution", "super_presidentialism", "yeltsin", "duma", "presidential_powers"],
+      "sources": ["Course lectures"],
+      "last_reviewed_date": "2026-04-21"
+    },
+    {
+      "id": "pt_0095",
+      "category": "political_transitions",
+      "subcategory": "political_transitions",
+      "type": "multiple_choice",
+      "prompt": "Vladimir Zhirinovsky's Liberal Democratic Party of Russia (LDPR) startled observers when it came first in the party-list voting of the December 1993 Duma elections. The LDPR is best characterized as:",
+      "choices": [
+        {"text": "A far-right, ultranationalist party — its name notwithstanding — whose appeal rested on populist grievances and imperial nostalgia, not on classical liberalism", "correct": true},
+        {"text": "A centrist liberal-democratic party in the Western European mold, committed to market reform and EU integration", "correct": false, "note": "Zhirinovsky built a reputation on bombastic nationalism, anti-Western rhetoric, and calls for reviving imperial borders — the opposite of Western European liberal-democratic programs."},
+        {"text": "A social-democratic successor to the CPSU, emphasizing workers' rights and gradual market reform", "correct": false, "note": "The CPSU's social-democratic successor space was occupied by Zyuganov's KPRF, not the LDPR. Zhirinovsky's platform was nationalist rather than socialist."},
+        {"text": "A regional Cossack movement with concentrated support in southern Russia and little presence elsewhere", "correct": false, "note": "The LDPR drew support across Russia, particularly among protest-minded and male voters in provincial Russia — not a regionally confined Cossack movement."}
+      ],
+      "explanation": "The LDPR's 1993 result (about 22.9 percent of the party-list vote) was a shock because it revealed the electoral strength of populist-nationalist protest voting against shock therapy and the Yeltsin reform project. The party name is deliberately misleading; Zhirinovsky campaigned on restoring Russian imperial power, hostility to the 'near abroad' states, and anti-Western rhetoric. The result pushed the Yeltsin government toward slower economic reform and signaled the electoral opening that Putin's more disciplined statism would later fill.",
+      "difficulty": "medium",
+      "era": "1990s",
+      "country": "russia",
+      "tags": ["zhirinovsky", "ldpr", "1993_duma_elections", "nationalism", "populism"],
+      "sources": ["Course lectures"],
+      "last_reviewed_date": "2026-04-21"
+    },
+    {
+      "id": "pt_0096",
+      "category": "political_transitions",
+      "subcategory": "political_transitions",
+      "type": "multiple_choice",
+      "prompt": "In the 1996 Russian presidential election Boris Yeltsin came from single-digit approval earlier in the year to defeat Communist Party leader Gennady Zyuganov in a two-round runoff. Most analysts attribute the turnaround to which combination of factors?",
+      "choices": [
+        {"text": "A massive oligarch-funded media campaign (the 'Davos Pact'), lavish off-budget spending, the co-opting of ex-rival Aleksandr Lebed after the first round, and Kremlin-friendly framing of the contest as a choice between reform and a return to communism", "correct": true},
+        {"text": "A surprise peace agreement with Chechen fighters concluded on election morning, which gave Yeltsin a decisive late surge among military and security voters", "correct": false, "note": "The Khasavyurt ceasefire in Chechnya was negotiated by Lebed in August 1996, after the runoff. It did not swing the vote."},
+        {"text": "A landslide endorsement by Western leaders at a pre-election G7 summit, which dominated Russian television coverage", "correct": false, "note": "Western leaders preferred Yeltsin but the decisive factors were domestic: oligarch-backed media, state resources, and the Lebed deal, not G7 endorsements."},
+        {"text": "Zyuganov's withdrawal from the second round in favor of Yeltsin under an all-parties coalition agreement", "correct": false, "note": "Zyuganov contested and lost the runoff; there was no withdrawal or coalition agreement."}
+      ],
+      "explanation": "The 1996 election is a paradigm case of 'electoral authoritarianism'-adjacent tactics deployed by a hybrid regime to preserve reformist incumbents. Yeltsin's approval in January was in the single digits; by July he had won with 54 percent in the runoff. The oligarchs who backed him (Berezovsky, Gusinsky, Khodorkovsky and others) in exchange for loans-for-shares privatization access produced a one-sided media environment; Lebed's third-place finish (14.5 percent) was converted into an endorsement when Yeltsin appointed him security-council chief between rounds. The campaign is often cited as the moment when oligarchic capture of politics became entrenched.",
+      "difficulty": "hard",
+      "era": "1990s",
+      "country": "russia",
+      "tags": ["1996_presidential_election", "yeltsin", "zyuganov", "lebed", "oligarchs", "davos_pact"],
+      "sources": ["Course lectures"],
+      "last_reviewed_date": "2026-04-21"
+    },
+    {
+      "id": "pt_0097",
+      "category": "political_transitions",
+      "subcategory": "political_transitions",
+      "type": "multiple_choice",
+      "prompt": "On 31 December 1999 Boris Yeltsin resigned the Russian presidency in a surprise televised address. Under the 1993 Constitution, who became acting president, and what follow-on event did the resignation trigger?",
+      "choices": [
+        {"text": "Prime Minister Vladimir Putin became acting president and an early presidential election was triggered, which Putin won in the first round in March 2000", "correct": true},
+        {"text": "Federation Council Chair Yegor Stroyev became acting president for 90 days, and the scheduled June 2000 election proceeded as planned", "correct": false, "note": "The 1993 Constitution places the prime minister, not the Federation Council chair, next in line. Putin, as PM since August 1999, became acting president."},
+        {"text": "Duma Speaker Gennady Seleznyov became acting president pending a joint Federation Council / Duma vote to name a successor", "correct": false, "note": "The acting presidency passes to the prime minister under Article 92, not to the Duma speaker or through a joint legislative vote."},
+        {"text": "A constitutional vacancy required the Constitutional Court to schedule a referendum on Yeltsin's possible return, which failed in March 2000", "correct": false, "note": "There was no such referendum. Putin took over as acting president under the ordinary succession rule and won the shortened election."}
+      ],
+      "explanation": "Yeltsin's resignation elevated his hand-picked successor, Putin (PM since August 1999), to the acting presidency and moved the scheduled election forward from June to 26 March 2000. Putin won in the first round with about 53 percent, riding the wave of the Second Chechen War and the contrast with a frail, unpopular Yeltsin. The episode is a textbook case of managed succession inside a super-presidential constitution.",
+      "difficulty": "easy",
+      "era": "1990s",
+      "country": "russia",
+      "tags": ["yeltsin_resignation", "putin_succession", "1999", "acting_president", "managed_succession"],
+      "sources": ["Course lectures"],
+      "last_reviewed_date": "2026-04-21"
+    },
+    {
+      "id": "pt_0098",
+      "category": "political_transitions",
+      "subcategory": "political_transitions",
+      "type": "multiple_choice",
+      "prompt": "In the July 1994 Ukrainian presidential election, Leonid Kuchma defeated the incumbent Leonid Kravchuk. What regional and programmatic cleavage did that contest expose?",
+      "choices": [
+        {"text": "Kuchma drew disproportionately from the more Russian-speaking east and south and campaigned on closer ties with Russia and upgrading the status of the Russian language, while Kravchuk's base was in the center and west", "correct": true},
+        {"text": "Kuchma ran as the candidate of the far-right Ukrainian nationalist bloc, while Kravchuk represented the Communist Party of Ukraine", "correct": false, "note": "The regional polarity ran the opposite way: Kuchma's support was concentrated in the Russian-speaking east/south, while Kravchuk, an ex-Communist ideology secretary, had re-positioned himself around state-building and drew the Ukrainophone center-west. Neither ran as a KPU candidate."},
+        {"text": "Kuchma campaigned on rapid NATO and EU accession, while Kravchuk favored neutrality and a CIS security pact", "correct": false, "note": "Accession to NATO and the EU was not on the 1994 Ukrainian agenda in anything like that form. The cleavage was over closeness to Russia and language policy, not Western integration."},
+        {"text": "Kuchma ran as a Crimean Tatar rights advocate, with his strongest support in Crimea and among returned deportees", "correct": false, "note": "Kuchma was a former Soviet defense-industry director (Pivdenmash); Crimean Tatar politics was not his platform."}
+      ],
+      "explanation": "The 1994 election crystallized Ukraine's east-west regional cleavage — heavily Russian-speaking Donbas, Odesa, and Kharkiv voting for Kuchma's platform of friendlier ties with Russia, and Galicia and Kyiv-central Ukraine leaning Kravchuk — a pattern that would recur through Ukraine's 1994-2004 elections and that scholars (e.g., Kubicek, D'Anieri) have treated as the defining structural feature of Ukrainian politics in this period.",
+      "difficulty": "medium",
+      "era": "1990s",
+      "country": "ukraine",
+      "tags": ["1994_ukraine_election", "kuchma", "kravchuk", "regional_cleavage", "language_politics"],
+      "sources": ["Course lectures", "Paul D'Anieri, Ukraine and Russia: From Civilized Divorce to Uncivil War"],
+      "last_reviewed_date": "2026-04-21"
+    },
+    {
+      "id": "pt_0099",
+      "category": "political_transitions",
+      "subcategory": "political_transitions",
+      "type": "multiple_choice",
+      "prompt": "Ukraine adopted its post-independence constitution in June 1996, ending a long stalemate between President Kuchma and the Verkhovna Rada. What type of system did it establish?",
+      "choices": [
+        {"text": "A semi-presidential system in which both a popularly elected president and a prime minister (responsible to the parliament) share executive authority", "correct": true},
+        {"text": "A pure parliamentary system modeled on the Czech Republic, with a ceremonial president elected by the Rada", "correct": false, "note": "Ukraine's president has been popularly elected since 1991 and holds substantive executive authority (foreign policy, defense, security nominations). The 1996 constitution did not make the presidency ceremonial."},
+        {"text": "A pure presidential system on the U.S. model, with the president serving as both head of state and head of government without a separate prime minister", "correct": false, "note": "Ukraine has always had a distinct prime minister since independence; the 1996 constitution kept that dual-executive structure, making the system semi-presidential rather than pure presidential."},
+        {"text": "A consociational confederation with rotating ethnic quotas for the presidency", "correct": false, "note": "Ukraine's 1996 system does not use consociational ethnic power-sharing quotas; that model (Lebanon, Bosnia) was not adopted."}
+      ],
+      "explanation": "The 1996 Ukrainian Constitution locked in a semi-presidential design — president and prime minister sharing executive authority — and that design has been a recurring source of institutional conflict ever since. Major constitutional episodes (December 2004 reforms shifting power toward parliament after the Orange Revolution, the 2010 Constitutional Court reversal, the 2014 restoration) all oscillate around whether Ukraine is more presidential or more parliamentary within the semi-presidential frame.",
+      "difficulty": "medium",
+      "era": "1990s",
+      "country": "ukraine",
+      "tags": ["1996_ukraine_constitution", "semi_presidential", "kuchma", "verkhovna_rada", "institutional_design"],
+      "sources": ["Course lectures", "Paul D'Anieri, Ukraine and Russia: From Civilized Divorce to Uncivil War"],
+      "last_reviewed_date": "2026-04-21"
+    },
+    {
+      "id": "pt_0100",
+      "category": "political_transitions",
+      "subcategory": "political_transitions",
+      "type": "multiple_choice",
+      "prompt": "Yevgeny Primakov, who served briefly as Russian foreign minister (1996-98) and then prime minister (Sept 1998 - May 1999), is associated with which foreign-policy orientation?",
+      "choices": [
+        {"text": "'Multipolarity' — positioning Russia as one pole of a multipolar world balancing U.S. primacy, cultivating ties with China and India, and pushing back against NATO enlargement", "correct": true},
+        {"text": "Unconditional alignment with the United States on NATO enlargement and Balkan policy, which earned him the 'Mr. Yes' label in Western diplomatic circles", "correct": false, "note": "Primakov is associated with the opposite stance — pushback against U.S. primacy and NATO expansion. The 'Mr. Yes' framing is closer to Kozyrev's early-1990s Atlanticism."},
+        {"text": "A neo-Eurasianist ideology rooted in the writings of Aleksandr Dugin, with explicit appeals to 'Eurasian civilization' as Russia's distinct geopolitical identity", "correct": false, "note": "Primakov's multipolar doctrine drew on traditional balance-of-power thinking and his own Middle East expertise. Dugin-style neo-Eurasianism was not his frame."},
+        {"text": "Economic integration with the European Union as Russia's overriding priority, including formal EU candidacy", "correct": false, "note": "EU candidacy was never on the Russian agenda, and Primakov's orientation was explicitly about balancing Western power, not integrating into the EU."}
+      ],
+      "explanation": "Primakov's tenure marked a decisive shift away from Kozyrev's early-1990s Atlanticism toward a multipolar doctrine — he cultivated ties with China, India, and Iran, opposed the 1999 NATO enlargement and the NATO bombing of Yugoslavia, and articulated a vision of Russia as a great power checking U.S. primacy. His famous 'Primakov loop' (ordering his plane over the Atlantic to turn back to Moscow upon learning of the imminent NATO strikes on Serbia in March 1999) became the signature image of this turn, which Putin's foreign policy in large part continues.",
+      "difficulty": "very_hard",
+      "era": "1990s",
+      "country": "russia",
+      "tags": ["primakov", "multipolarity", "russian_foreign_policy", "nato_enlargement", "kozyrev"],
+      "sources": ["Course lectures"],
+      "last_reviewed_date": "2026-04-21"
+    },
+    {
+      "id": "pt_0101",
+      "category": "political_transitions",
+      "subcategory": "political_transitions",
+      "type": "multiple_choice",
+      "prompt": "The 1993 Russian Duma elections, held the same day as the constitutional referendum, introduced which electoral formula?",
+      "choices": [
+        {"text": "A mixed system: half of Duma seats filled by proportional representation from nationwide party lists (with a 5% threshold), the other half by single-mandate districts", "correct": true},
+        {"text": "Closed-list proportional representation nationwide with no single-mandate seats", "correct": false, "note": "Pure PR was introduced only in 2007. The 1993 system used a mixed (parallel) design, half list and half single-mandate."},
+        {"text": "First-past-the-post single-mandate districts only, on the British Westminster model", "correct": false, "note": "Half of Duma seats were allocated by proportional list, not just single-mandate districts."},
+        {"text": "Indirect election by regional assemblies, similar to the post-1995 procedure for filling the Federation Council", "correct": false, "note": "Indirect election applies to the Federation Council (upper house). The State Duma (lower house) is directly elected."}
+      ],
+      "explanation": "The 1993 Duma electoral system was a classic mixed or 'parallel' design: 225 seats by party-list PR (with a nationwide 5% threshold) and 225 seats from single-mandate districts. That design persisted with modifications until 2007 (when pure PR replaced it) and was re-introduced in 2016. The mixed formula shaped the 1990s party system by allowing both national party brands (LDPR, Communists, reformist blocs) and locally rooted independents to enter the Duma.",
+      "difficulty": "hard",
+      "era": "1990s",
+      "country": "russia",
+      "tags": ["duma_electoral_system", "mixed_member", "1993_elections", "proportional_representation", "single_mandate"],
+      "sources": ["Course lectures"],
+      "last_reviewed_date": "2026-04-21"
+    },
+    {
+      "id": "pt_0102",
+      "category": "political_transitions",
+      "subcategory": "political_transitions",
+      "type": "multiple_choice",
+      "prompt": "In the 1990s, Russian regional governors acquired substantial political autonomy from the federal center. Which mechanism most directly entrenched that autonomy?",
+      "choices": [
+        {"text": "After 1996 governors were directly elected by their region's voters and ex officio sat in the Federation Council, giving them an independent electoral mandate and a national political platform", "correct": true},
+        {"text": "The 1993 Constitution gave regional governments exclusive jurisdiction over all taxation and the right to maintain their own armed forces", "correct": false, "note": "Tax authority and armed forces are federal competencies; the regions did not have exclusive taxation rights or standing military forces."},
+        {"text": "The Federation Treaty of 1992 included a formal right for any oblast to veto federal legislation affecting its territory", "correct": false, "note": "The 1992 Federation Treaty produced asymmetric bilateral deals (notably with Tatarstan and Bashkortostan) but did not grant any oblast a general veto over federal legislation."},
+        {"text": "Each region was entitled to send a delegate to the Supreme Court of Russia who could block federal rulings affecting the region", "correct": false, "note": "Russia's Supreme Court is not constituted by regional delegates, and no such blocking right exists."}
+      ],
+      "explanation": "By the mid-1990s governors of most 'ordinary' oblasts and krais were popularly elected (the transition from Yeltsin-appointed governors to elected ones was largely complete by late 1996), and until 2000 they also sat ex officio in the Federation Council. Electoral legitimacy plus a formal national platform gave governors real leverage — and made Putin's early-2000s recentralization (federal districts with presidential envoys in 2000, appointed governors in 2004) a substantial institutional change, not a trivial one.",
+      "difficulty": "hard",
+      "era": "1990s",
+      "country": "russia",
+      "tags": ["regional_autonomy", "governors", "federation_council", "1990s_federalism", "yeltsin"],
+      "sources": ["Course lectures"],
+      "last_reviewed_date": "2026-04-21"
+    },
+    {
+      "id": "et_0072",
+      "category": "economic_transitions",
+      "subcategory": "economic_transitions",
+      "type": "multiple_choice",
+      "prompt": "Gorbachev's initial economic program, announced in 1985 and before perestroika deepened, went by what Russian term and what was its core premise?",
+      "choices": [
+        {"text": "'Uskorenie' (acceleration) — a push to raise growth within the existing planned economy through investment in machine-building, labor discipline, and better technology, without structural reform", "correct": true},
+        {"text": "'Khozraschet' (economic accounting) — a full transition of state enterprises to profit-and-loss self-financing on a market basis, replacing central planning", "correct": false, "note": "Khozraschet was an existing Soviet management concept partially expanded in 1987 (Law on State Enterprise) but it was not the label or substance of the initial 1985 program. The 1985 push was uskorenie."},
+        {"text": "'Shokovaya terapiya' (shock therapy) — an immediate price liberalization and currency stabilization plan modeled on Polish reforms", "correct": false, "note": "Shock therapy was the 1992 Gaidar program in Russia — it was not Gorbachev's 1985 framework and used Polish precedent that itself only came in 1990."},
+        {"text": "'Prodrazvyorstka' (requisitioning) — a revival of War-Communism-style grain requisitioning to shore up the state budget", "correct": false, "note": "Prodrazvyorstka is a 1918-21 War Communism policy. It has nothing to do with Gorbachev's 1985 program."}
+      ],
+      "explanation": "Uskorenie was Gorbachev's first economic slogan and reflected a within-system diagnosis: the Soviet economy could be accelerated by pouring resources into machine-building, improving labor discipline (the unpopular anti-alcohol campaign was part of this), and catching up technologically. Its failure — output grew slowly, the budget deficit worsened, and oil-price declines after 1986 blew a hole in revenues — is what convinced Gorbachev's team to move toward more radical perestroika measures like the 1987 Law on State Enterprise and the 1988 Law on Cooperatives.",
+      "difficulty": "hard",
+      "era": "soviet",
+      "country": "russia",
+      "tags": ["uskorenie", "gorbachev", "early_perestroika", "1985", "machine_building"],
+      "sources": ["Archie Brown, The Rise and Fall of Communism", "Course lectures"],
+      "last_reviewed_date": "2026-04-21"
+    },
+    {
+      "id": "et_0073",
+      "category": "economic_transitions",
+      "subcategory": "economic_transitions",
+      "type": "multiple_choice",
+      "prompt": "The 1987 Law on State Enterprise aimed to shift Soviet firms toward greater autonomy. What was its main mechanism, and what unintended macroeconomic effect did it produce?",
+      "choices": [
+        {"text": "It required state enterprises to transition to self-financing ('khozraschet') and gave them control over a portion of their output beyond the state plan — but directors used the new autonomy to raise wages faster than productivity, worsening the repressed-inflation problem", "correct": true},
+        {"text": "It fully privatized state-owned firms by issuing shares to workers, producing a rapid concentration of ownership in a handful of industrial clans", "correct": false, "note": "Privatization of state firms did not happen under Gorbachev; the 1987 law kept ownership state and introduced self-financing, not share issuance."},
+        {"text": "It transferred state firms to republic-level ownership, which indirectly triggered the 'war of laws' between Moscow and the republics in 1990-91", "correct": false, "note": "The 1987 law dealt with firm-level autonomy, not union-vs-republic ownership. The war of laws arose from the parade of sovereignties, not from this statute."},
+        {"text": "It replaced material incentives with non-monetary performance rewards (honorific titles, housing priority), which improved plan fulfilment briefly then collapsed in 1989", "correct": false, "note": "The law leaned toward material incentives and financial autonomy, not a pivot to non-monetary rewards."}
+      ],
+      "explanation": "The 1987 Law on State Enterprise let directors retain more of their firm's surplus and respond partially to market-like signals within a still-planned economy. In practice, enterprise directors used the new autonomy to raise wages — worker councils (STKs) often pressured them in that direction — without matching productivity gains. With consumer prices still fixed, this fuelled large monetary overhang and empty-shelves inflation by 1989-1990, a key channel through which partial reform discredited the planned economy even before full marketization.",
+      "difficulty": "very_hard",
+      "era": "soviet",
+      "country": "russia",
+      "tags": ["law_on_state_enterprise", "1987", "khozraschet", "repressed_inflation", "perestroika"],
+      "sources": ["Anders Åslund, Building Capitalism", "Course lectures"],
+      "last_reviewed_date": "2026-04-21"
+    },
+    {
+      "id": "et_0074",
+      "category": "economic_transitions",
+      "subcategory": "economic_transitions",
+      "type": "multiple_choice",
+      "prompt": "The 1988 Law on Cooperatives legalized a new form of economic organization. Although these entities operated much like private businesses (hiring labor, setting prices, retaining profits), why were they deliberately called 'cooperatives' rather than private firms?",
+      "choices": [
+        {"text": "The 'cooperative' label preserved a socialist facade — the Soviet ideological tradition (going back to Lenin's NEP-era writings) treated cooperatives as compatible with socialism, while calling them 'private enterprises' would have been politically impossible", "correct": true},
+        {"text": "Soviet law required any firm with fewer than 50 employees to register as a cooperative under the international cooperative movement's rules, regardless of ideology", "correct": false, "note": "There was no such international-cooperative registration requirement; the naming was a domestic ideological choice, not a foreign legal constraint."},
+        {"text": "The cooperatives were actually jointly owned by their workers on a one-member-one-vote basis, making the label descriptively accurate", "correct": false, "note": "In practice many cooperatives were effectively owner-operated, hired wage labor, and were closer to small private firms than to member-democratic cooperatives. The label was chosen for political cover rather than organizational reality."},
+        {"text": "The Soviet statistical system had no category for 'private enterprise' and the Cooperative Union had to be used to capture output", "correct": false, "note": "The Soviet statistical apparatus was endlessly modified by decree; the naming was ideological, not a statistical accident."}
+      ],
+      "explanation": "Ideology mattered for nomenclature in late-Soviet reform. 'Cooperative' had warm Leninist associations (via the New Economic Policy of the 1920s) and could be defended within Marxist-Leninist categories, whereas 'private enterprise' was politically toxic. The law thus legalized near-private-business practice under a doctrinally safe banner. The cooperatives grew rapidly (reaching millions of workers and substantial output by 1990) and were important seedbeds of late-Soviet entrepreneurship — including several future oligarchs.",
+      "difficulty": "hard",
+      "era": "soviet",
+      "country": "russia",
+      "tags": ["law_on_cooperatives", "1988", "perestroika", "late_soviet_entrepreneurship", "ideological_framing"],
+      "sources": ["Anders Åslund, Building Capitalism", "Course lectures"],
+      "last_reviewed_date": "2026-04-21"
+    },
+    {
+      "id": "et_0075",
+      "category": "economic_transitions",
+      "subcategory": "economic_transitions",
+      "type": "multiple_choice",
+      "prompt": "Gorbachev's anti-alcohol campaign of 1985-1987 is often cited as an economic as much as a social policy failure. Why?",
+      "choices": [
+        {"text": "Revenues from the state vodka monopoly were a major share of the Soviet budget, and cutting alcohol sales without an alternative revenue source blew a large hole in the budget — feeding the late-Soviet deficit and helping set off the inflation of 1989-91", "correct": true},
+        {"text": "It drove Soviet GDP into a deep recession by 1986 as the food-processing sector (the largest employer in the USSR) shrank sharply", "correct": false, "note": "Food processing was not the USSR's largest employer, and while the campaign hurt that sector, the most important macroeconomic damage was fiscal: the loss of alcohol excise revenue."},
+        {"text": "Soviet citizens responded by demanding state compensation for lost wages, which the Ryzhkov government paid out in a massive social transfer program", "correct": false, "note": "There was no compensation program for alcohol restrictions; the government's problem was losing the revenue, not paying compensation."},
+        {"text": "The campaign doubled the price of grain for bakeries, collapsing bread supplies in 1987", "correct": false, "note": "Grain prices for bakeries were not doubled by this campaign, and there was no 1987 bread-supply collapse of this kind."}
+      ],
+      "explanation": "Vodka excise was a pillar of Soviet state revenue — by some estimates more than a tenth of budget receipts — and the anti-alcohol campaign sharply cut official sales. With oil prices falling after 1986 and defense commitments unchanged, the revenue shortfall widened the budget deficit that the central bank financed by printing rubles, adding to the repressed-inflation overhang. The episode is a stock illustration in Aslund's and Brown's accounts of how well-intentioned Gorbachev initiatives worsened the fiscal picture that later reforms could not fix.",
+      "difficulty": "medium",
+      "era": "soviet",
+      "country": "russia",
+      "tags": ["anti_alcohol_campaign", "gorbachev", "soviet_budget", "1985_1987", "fiscal_policy"],
+      "sources": ["Anders Åslund, Building Capitalism", "Course lectures"],
+      "last_reviewed_date": "2026-04-21"
+    },
+    {
+      "id": "et_0076",
+      "category": "economic_transitions",
+      "subcategory": "economic_transitions",
+      "type": "multiple_choice",
+      "prompt": "The '500 Days Program' (1990) was a widely discussed Soviet-era reform blueprint. What did it propose and what happened to it?",
+      "choices": [
+        {"text": "A rapid marketization plan drafted by an economists' team led by Stanislav Shatalin and Grigory Yavlinsky; Gorbachev initially endorsed it, then shelved it under pressure from Prime Minister Ryzhkov and the conservative wing, opting instead for a cautious hybrid", "correct": true},
+        {"text": "A Central Committee plan to complete the 12th Five-Year Plan on schedule by 1990 through intensified discipline and anti-speculation measures", "correct": false, "note": "This describes late-Soviet plan-fulfilment rhetoric, not the 500 Days Program, which was an economists' marketization blueprint outside the Five-Year Plan framework."},
+        {"text": "A Yeltsin-era Russian privatization program implemented between 1992 and 1994 that distributed vouchers to all citizens", "correct": false, "note": "That is voucher privatization under Chubais in 1992-94, not the 500 Days Program of 1990, which was a Soviet-period blueprint never fully enacted."},
+        {"text": "A reparations and aid program proposed by Western advisers to compensate the USSR for defense cuts tied to the INF Treaty", "correct": false, "note": "The 500 Days Program was a domestic marketization blueprint with no link to INF Treaty reparations."}
+      ],
+      "explanation": "The 500 Days Program became a symbol of the road-not-taken in late-Soviet reform: a quick, sequenced move to markets with private property, price liberalization, macroeconomic stabilization, and monetary reform, drafted by a team around Shatalin and Yavlinsky. Gorbachev first backed it, then under pressure retreated to a compromise blueprint, and the plan was never implemented in the USSR. Its legacy bled into the early Russian reform debate — Gaidar's 1992 shock therapy can be read as a faster, more austere cousin.",
+      "difficulty": "very_hard",
+      "era": "soviet",
+      "country": "russia",
+      "tags": ["500_days_program", "shatalin", "yavlinsky", "ryzhkov", "gorbachev", "marketization"],
+      "sources": ["Anders Åslund, Building Capitalism", "Course lectures"],
+      "last_reviewed_date": "2026-04-21"
+    },
+    {
+      "id": "et_0077",
+      "category": "economic_transitions",
+      "subcategory": "economic_transitions",
+      "type": "multiple_choice",
+      "prompt": "In January 1991 Soviet Prime Minister Valentin Pavlov ordered that 50- and 100-ruble banknotes be withdrawn from circulation within three days and exchanged only up to a strict per-person ceiling. What was the main rationale the authorities gave, and what was the actual effect?",
+      "choices": [
+        {"text": "Officially, to strike at 'speculators' and black-market cash hoards; actually, it wiped out a large share of ordinary savers' holdings while failing to stabilize prices, further eroding trust in the Soviet currency and state", "correct": true},
+        {"text": "Officially, to introduce a new inflation-indexed ruble with higher purchasing power; it succeeded in stabilizing the currency through the August coup", "correct": false, "note": "No new indexed ruble was introduced in 1991, and the confiscation failed to stabilize prices — inflation accelerated through the year."},
+        {"text": "Officially, to fund the new Union Treaty republics through a one-off levy; it was repealed within a week by the Supreme Soviet", "correct": false, "note": "The confiscation was not framed as a republics levy, and it was not repealed within a week; it went through despite public protest."},
+        {"text": "Officially, to finance the Afghanistan withdrawal's settlement costs; it was widely judged a success inside the Kremlin", "correct": false, "note": "The Afghan withdrawal had been completed in 1989, and the confiscation was not presented as related to it."}
+      ],
+      "explanation": "The Pavlov reform is a classic botched confiscatory monetary measure: small savers could not exchange within the tight window and lost value outright while genuine black-market actors largely evaded it. Combined with a 2-3x price rise in April 1991, it convinced many Soviet citizens that their ruble savings were unsafe in the state's hands — a confidence loss that fed the post-collapse preference for dollar holdings and capital flight.",
+      "difficulty": "very_hard",
+      "era": "soviet",
+      "country": "russia",
+      "tags": ["pavlov_reform", "ruble_confiscation", "1991", "soviet_monetary_policy", "inflation"],
+      "sources": ["Anders Åslund, Building Capitalism", "Course lectures"],
+      "last_reviewed_date": "2026-04-21"
+    },
+    {
+      "id": "et_0078",
+      "category": "economic_transitions",
+      "subcategory": "economic_transitions",
+      "type": "multiple_choice",
+      "prompt": "On 2 January 1992 Russia's acting prime minister, Yegor Gaidar, implemented the centerpiece of what Westerners called 'shock therapy'. Which measure was introduced that day?",
+      "choices": [
+        {"text": "Near-complete liberalization of retail prices — most consumer-good prices were freed from state control overnight, producing a sharp one-time price jump and immediate shortages being replaced by high-priced goods on shelves", "correct": true},
+        {"text": "The launch of mass voucher privatization, with every Russian citizen receiving a 10,000-ruble privatization voucher", "correct": false, "note": "Voucher privatization launched later, in October 1992, under Anatoly Chubais — not on 2 January. The January step was price liberalization."},
+        {"text": "A full convertibility of the ruble at a fixed rate against the dollar, backed by IMF reserves", "correct": false, "note": "The ruble did not achieve full convertibility in January 1992; it moved through several partial-convertibility regimes before crashing in 1998. IMF support was modest in early 1992."},
+        {"text": "A capital-controls regime barring any hard-currency purchases by Russian residents", "correct": false, "note": "The January 1992 reforms went in the opposite direction — toward liberalization — not toward capital controls on hard-currency purchases."}
+      ],
+      "explanation": "January 1992 price liberalization is the iconic opening move of Russian shock therapy. Prices roughly tripled in weeks, shortages were replaced by unaffordability rather than empty shelves, and the inflation rate for 1992 as a whole ran in the thousands of percent. The move is intensely contested in the scholarly literature (Åslund defends it as necessary given the monetary overhang; others, e.g., Reddaway and Glinski, argue the sequencing and institutional preparation were wrong), and the political backlash defined 1990s Russian politics.",
+      "difficulty": "easy",
+      "era": "1990s",
+      "country": "russia",
+      "tags": ["gaidar", "shock_therapy", "price_liberalization", "january_1992", "russian_reform"],
+      "sources": ["Anders Åslund, Building Capitalism", "Course lectures"],
+      "last_reviewed_date": "2026-04-21"
+    },
+    {
+      "id": "et_0079",
+      "category": "economic_transitions",
+      "subcategory": "economic_transitions",
+      "type": "multiple_choice",
+      "prompt": "Russia's mass voucher privatization program (1992-94), led by Anatoly Chubais, worked in which basic way?",
+      "choices": [
+        {"text": "Every Russian citizen received a 10,000-ruble voucher that could be used to acquire shares in privatizing state firms or sold for cash; most workers ended up with stakes in their own enterprises, while an active voucher-trading market rapidly concentrated holdings", "correct": true},
+        {"text": "Only sitting employees of a state enterprise could exchange vouchers for shares in that enterprise, and only after meeting a five-year-tenure requirement", "correct": false, "note": "Vouchers were distributed to all citizens, were freely tradeable, and did not require a five-year tenure. The program was universal, not tenure-gated."},
+        {"text": "Vouchers were distributed to each oblast in proportion to population and could be redeemed only for regional-level shares at the oblast investment fund", "correct": false, "note": "The program issued vouchers to individuals, not to oblast governments. Voucher funds were one route but not the only one."},
+        {"text": "Vouchers were backed one-to-one with federal bonds and could only be used to purchase newly issued municipal-bond instruments, not equity", "correct": false, "note": "Vouchers were designed to acquire equity in privatizing state enterprises. They were not bond instruments."}
+      ],
+      "explanation": "Russian voucher privatization distributed approximately 148 million vouchers (one per citizen, including children), with three main redemption channels: insider buyouts (the dominant path), voucher investment funds, and direct auctions. By mid-1994 most medium and large state enterprises had been privatized in nominal terms. Critics note the program was disappointing in both revenue (vouchers were cheap) and governance (insiders dominated, impeding restructuring); defenders note that it made privatization politically irreversible before the loans-for-shares phase.",
+      "difficulty": "medium",
+      "era": "1990s",
+      "country": "russia",
+      "tags": ["voucher_privatization", "chubais", "russian_privatization", "1992_1994", "insider_buyouts"],
+      "sources": ["Anders Åslund, Building Capitalism", "Course lectures"],
+      "last_reviewed_date": "2026-04-21"
+    },
+    {
+      "id": "et_0080",
+      "category": "economic_transitions",
+      "subcategory": "economic_transitions",
+      "type": "multiple_choice",
+      "prompt": "The 1995-96 'loans-for-shares' scheme in Russia transferred ownership of several of the country's largest natural-resource and industrial firms to a small group of private actors. How did it work?",
+      "choices": [
+        {"text": "The Russian government, short of cash before the 1996 election, borrowed from a handful of well-connected banks using shares in crown-jewel state firms as collateral; when the state predictably defaulted, the collateral was auctioned — often to the lending banks themselves at below-market prices — permanently transferring ownership", "correct": true},
+        {"text": "The state issued long-term bonds to foreign investment banks secured against shares in state enterprises, and the foreign banks ultimately took ownership when the bonds matured unpaid", "correct": false, "note": "The scheme's lenders were domestic Russian banks connected to the soon-to-be-named oligarchs, not foreign investment banks. Foreign participation was explicitly limited."},
+        {"text": "Workers in state enterprises collectively purchased majority stakes through payroll deductions, an expansion of the 1992-94 voucher program", "correct": false, "note": "Loans-for-shares did not involve worker-payroll stake purchases. It was a government-to-bank financing arrangement that concentrated ownership rather than distributing it."},
+        {"text": "The Central Bank directly auctioned shares in state firms for hard currency to recapitalize itself after the 1998 crisis", "correct": false, "note": "Loans-for-shares was 1995-96 and ran through the federal government, not the Central Bank. It preceded, rather than followed, the 1998 crisis."}
+      ],
+      "explanation": "Loans-for-shares is the canonical post-voucher-privatization scandal. Banks (Menatep, Oneksim, Alfa, and others) lent to the government with shares in Yukos, Norilsk Nickel, Sidanko, and similar firms as collateral; auctions were rigged so lending banks won, and a small, politically connected oligarchy acquired the commanding heights of the economy at very low valuations. The episode underpins the argument that Russia's 1990s reform produced 'oligarchic capitalism' rather than competitive markets, and it became a defining target of Putin's later 'equidistance' doctrine vis-à-vis oligarchs.",
+      "difficulty": "medium",
+      "era": "1990s",
+      "country": "russia",
+      "tags": ["loans_for_shares", "oligarchs", "1995_1996", "privatization", "chubais", "yeltsin"],
+      "sources": ["Anders Åslund, Building Capitalism", "Course lectures"],
+      "last_reviewed_date": "2026-04-21"
+    },
+    {
+      "id": "et_0081",
+      "category": "economic_transitions",
+      "subcategory": "economic_transitions",
+      "type": "multiple_choice",
+      "prompt": "Russia's August 1998 financial crisis involved which three interacting events?",
+      "choices": [
+        {"text": "A devaluation of the ruble, a default on short-term domestic government debt (GKOs), and a 90-day moratorium on commercial banks' foreign-debt repayments", "correct": true},
+        {"text": "Rejection of an IMF loan package, a nationalization of all commercial banks, and the introduction of a gold-backed new ruble", "correct": false, "note": "The IMF did provide an emergency package in July 1998; commercial banks were not nationalized en masse; no gold-backed new ruble was introduced."},
+        {"text": "A formal sovereign default on all external debt, withdrawal from the IMF, and a shift to a currency board pegged to the dollar", "correct": false, "note": "Russia did not formally default on Paris Club / external Soviet-era debt in 1998 and did not adopt a currency board. The default was specifically on short-term domestic GKOs, coupled with devaluation and a banking moratorium."},
+        {"text": "A state seizure of Yukos assets, a bank run on Sberbank, and a temporary suspension of voucher trading", "correct": false, "note": "The Yukos case was 2003 under Putin, not 1998, and voucher trading had long since wound down. Sberbank did face depositor pressure, but the core crisis mechanics were devaluation, GKO default, and the foreign-debt moratorium."}
+      ],
+      "explanation": "The August 1998 crisis was Russia's post-reform macro disaster: falling oil prices and the Asian crisis contagion combined with a heavy short-term GKO debt rollover burden. On 17 August the government devalued the ruble, defaulted on GKOs, and declared a 90-day moratorium on Russian banks' external private debt — the 'triple' that wiped out many commercial banks, shattered the oligarchic financial system built since 1995, and opened the way for a post-devaluation export-led recovery that Putin inherited.",
+      "difficulty": "hard",
+      "era": "1990s",
+      "country": "russia",
+      "tags": ["1998_crisis", "ruble_devaluation", "gko_default", "kiriyenko", "russian_finance"],
+      "sources": ["Anders Åslund, Building Capitalism", "Course lectures"],
+      "last_reviewed_date": "2026-04-21"
+    },
+    {
+      "id": "et_0082",
+      "category": "economic_transitions",
+      "subcategory": "economic_transitions",
+      "type": "multiple_choice",
+      "prompt": "Ukraine's 1993 experience with hyperinflation — reaching rates estimated above 10,000 percent for the year — was driven mainly by which combination of factors?",
+      "choices": [
+        {"text": "The National Bank of Ukraine financing large subsidies to state enterprises and agriculture by printing karbovanets, while political paralysis in Kyiv delayed any stabilization program", "correct": true},
+        {"text": "A trade war with Russia that cut natural gas imports by 90 percent in one year", "correct": false, "note": "Russia did pressure Ukraine on gas prices and arrears, but the 1993 hyperinflation's primary mechanism was domestic: monetization of subsidies. It was not driven by a 90-percent gas-import cut."},
+        {"text": "A sudden influx of dollar-denominated IMF loans that banks improperly converted into karbovantsi, triggering runaway inflation", "correct": false, "note": "Ukraine's IMF inflows in 1993 were modest, and the inflationary mechanism was domestic printing, not IMF-fuelled dollar conversion."},
+        {"text": "Speculative attacks by Russian currency traders on the interim Ukrainian coupon currency, which forced successive redenominations", "correct": false, "note": "Hyperinflation in 1993 was driven by Ukrainian monetary and fiscal choices. There was no documented large-scale Russian currency speculation responsible for the episode."}
+      ],
+      "explanation": "Ukraine is a case study of delayed stabilization: after leaving the ruble zone in late 1992 it ran the interim karbovanets with little discipline, monetizing large subsidies to agriculture and state industry. Prices rose more than 100-fold over 1993. Stabilization came only with Kuchma's 1994-95 program and the 1996 introduction of the hryvnia at a 1:100,000 ratio to the old karbovanets — the most dramatic redenomination in the post-Soviet space.",
+      "difficulty": "hard",
+      "era": "1990s",
+      "country": "ukraine",
+      "tags": ["ukrainian_hyperinflation", "karbovanets", "1993", "monetary_policy", "stabilization"],
+      "sources": ["Anders Åslund, How Ukraine Became a Market Economy and Democracy", "Course lectures"],
+      "last_reviewed_date": "2026-04-21"
+    },
+    {
+      "id": "et_0083",
+      "category": "economic_transitions",
+      "subcategory": "economic_transitions",
+      "type": "multiple_choice",
+      "prompt": "Ukraine adopted a permanent national currency, the hryvnia, in September 1996. What did it replace, and at what conversion rate?",
+      "choices": [
+        {"text": "The karbovanets (the interim coupon currency introduced after Ukraine left the ruble zone in 1992), exchanged at 100,000 karbovantsi to 1 hryvnia", "correct": true},
+        {"text": "The Soviet ruble, exchanged at 1,000 rubles to 1 hryvnia", "correct": false, "note": "By 1996 Ukraine had long since left the Soviet ruble zone — the hryvnia replaced the karbovanets, not the Soviet ruble directly."},
+        {"text": "The Russian ruble, which had circulated alongside the karbovanets, at 10 rubles to 1 hryvnia", "correct": false, "note": "The Russian ruble did not circulate as legal tender in Ukraine after 1993. The hryvnia replaced the karbovanets."},
+        {"text": "The US dollar, which had been official legal tender in Ukraine 1993-1996, at 1:1", "correct": false, "note": "The US dollar was never Ukraine's official legal tender. The hryvnia replaced the Ukrainian-issued karbovanets."}
+      ],
+      "explanation": "The hryvnia's 1996 introduction at 100,000:1 is iconic both for the scale of the redenomination (a legacy of 1993 hyperinflation) and for locking in Kuchma-era stabilization gains. The name revives the currency of the Ukrainian People's Republic (1917-21) and is part of a broader post-independence symbolic politics. Note that 'karbovanets' (singular) and 'karbovantsi' (plural) name the interim coupons in use 1992-96; questions in the bank often gloss the plural as 'karbovanets coupons' for readability.",
+      "difficulty": "hard",
+      "era": "1990s",
+      "country": "ukraine",
+      "tags": ["hryvnia", "karbovanets", "1996", "currency_reform", "ukrainian_stabilization"],
+      "sources": ["Anders Åslund, How Ukraine Became a Market Economy and Democracy", "Course lectures"],
+      "last_reviewed_date": "2026-04-21"
+    },
+    {
+      "id": "et_0084",
+      "category": "economic_transitions",
+      "subcategory": "economic_transitions",
+      "type": "multiple_choice",
+      "prompt": "What does the term 'nomenklatura privatization' refer to in the post-Soviet context?",
+      "choices": [
+        {"text": "The tendency for former Soviet-era managers, party officials, and bureaucrats to convert their positional control over state assets into private ownership during the privatization process, often without meaningful external competition", "correct": true},
+        {"text": "A formal program of Central European reform in which top party lists ('nomenklaturas') were published and auctioned to the public", "correct": false, "note": "There was no program of public auction of party lists; the term describes the informal appropriation of state assets by sitting managers and officials."},
+        {"text": "The requirement that privatized firms employ the pre-existing Soviet-era nomenklatura on their boards for a transitional period", "correct": false, "note": "There was no statutory requirement of this kind — the point is that ex-nomenklatura took over assets through their positional leverage, not through a mandated board slot."},
+        {"text": "A mass publication campaign by Gorbachev's government listing the names of senior officials entitled to purchase dachas at discount", "correct": false, "note": "This conflates a real late-Soviet perks list with privatization; 'nomenklatura privatization' describes a broader capture phenomenon, not a dacha-purchase program."}
+      ],
+      "explanation": "The phrase 'nomenklatura privatization' (or 'spontaneous privatization' in its late-Soviet phase) captures a core finding across the post-Soviet region: formal privatization programs often ratified pre-existing control by sitting managers and their political patrons rather than creating arm's-length ownership. In Russia it meshes with voucher programs (insider buyouts) and loans-for-shares (oligarchic capture); in Ukraine and Belarus it took related but distinct forms. Scholars like Hellman ('partial reform equilibrium') use it to explain why transitions can stall halfway.",
+      "difficulty": "medium",
+      "era": "1990s",
+      "country": "both",
+      "tags": ["nomenklatura_privatization", "insider_buyouts", "partial_reform", "post_soviet_economies"],
+      "sources": ["Anders Åslund, Building Capitalism", "Course lectures"],
+      "last_reviewed_date": "2026-04-21"
+    },
+    {
+      "id": "et_0085",
+      "category": "economic_transitions",
+      "subcategory": "economic_transitions",
+      "type": "multiple_choice",
+      "prompt": "In Hellman's influential analysis of post-communist economic reform, who emerges as the central obstacle to completing market reforms?",
+      "choices": [
+        {"text": "'Short-term winners' — actors who gained outsized rents from the partial-reform phase (arbitrage between fixed and free prices, access to cheap credit, insider ownership) and then lobbied to lock in the halfway state", "correct": true},
+        {"text": "Net losers of reform — unemployed workers and pensioners who, Hellman argues, successfully blocked further liberalization through street protest", "correct": false, "note": "Hellman's counter-intuitive finding is precisely the opposite: that the main opposition to further reform came from early winners, not early losers, who could organize much more effectively."},
+        {"text": "International organizations (the IMF and World Bank) whose conditionality, Hellman argues, forced reform reversals in the late 1990s", "correct": false, "note": "Hellman's argument focuses on domestic distributive politics, not on IMF/World Bank conditionality as the binding constraint."},
+        {"text": "Hardline communist parties whose electoral successes in 1993-96 rolled back privatization across the region", "correct": false, "note": "Most post-communist countries did not see systematic rollback of privatization, and Hellman's diagnosis emphasizes concentrated gainers of partial reform rather than electoral Communists."}
+      ],
+      "explanation": "Joel Hellman's 'Winners Take All: The Politics of Partial Reform in Postcommunist Transitions' (World Politics, 1998) is a course-standard reading on why reforms stall in the middle. His key move is to show empirically that the states with the slowest further reform were ones where early winners had concentrated benefits to defend, and to argue that the political obstacle was not anti-reform masses but post-reform elites. Ukraine and Russia's 1990s trajectories are both core cases in his analysis.",
+      "difficulty": "very_hard",
+      "era": "1990s",
+      "country": "both",
+      "tags": ["hellman", "partial_reform_equilibrium", "post_communist_transition", "political_economy"],
+      "sources": ["Joel Hellman, 'Winners Take All: The Politics of Partial Reform in Postcommunist Transitions,' World Politics (1998)", "Course lectures"],
+      "last_reviewed_date": "2026-04-21"
+    },
+    {
+      "id": "fp_0076",
+      "category": "foreign_policy",
+      "subcategory": "foreign_policy",
+      "type": "multiple_choice",
+      "prompt": "Gorbachev's foreign-policy doctrine was known as 'New Thinking' (novoye politicheskoye myshlenie). Which of the following best captures its substantive commitments?",
+      "choices": [
+        {"text": "Prioritizing 'universal human values' over class conflict, accepting interdependence with the West, rejecting the inevitability of superpower confrontation, and accepting that other socialist states could choose their own paths", "correct": true},
+        {"text": "Reviving Stalin-era 'two camps' theory to sharpen ideological confrontation with the United States while deepening economic autarky", "correct": false, "note": "New Thinking moved explicitly away from two-camps theory and toward engagement with the West — the opposite of the described stance."},
+        {"text": "Explicitly endorsing Russia's joining NATO by 1995 and the Warsaw Pact's conversion into a collective-defense partner of the alliance", "correct": false, "note": "Gorbachev did not endorse Russian NATO membership on any timeline, and the Warsaw Pact dissolved in 1991 rather than becoming a NATO partner."},
+        {"text": "Codifying the Brezhnev Doctrine as permanent Soviet foreign policy, with a right of military intervention in any socialist state", "correct": false, "note": "The Brezhnev Doctrine was repudiated under Gorbachev — replaced informally by the 'Sinatra Doctrine' — so New Thinking stood against intervention, not for it."}
+      ],
+      "explanation": "New Thinking was Gorbachev's (and Foreign Minister Eduard Shevardnadze's) reorientation of Soviet foreign policy away from Cold War categories. It invoked the salience of 'universal human values,' the non-zero-sum character of security in the nuclear age, and freedom of choice for the USSR's allies — a philosophical framework that enabled concrete moves: INF Treaty, Afghanistan withdrawal, non-intervention as Eastern European regimes fell in 1989, and acquiescence to German reunification.",
+      "difficulty": "medium",
+      "era": "soviet",
+      "country": "russia",
+      "tags": ["new_thinking", "gorbachev", "shevardnadze", "cold_war_end", "soviet_foreign_policy"],
+      "sources": ["Course lectures", "Archie Brown, The Rise and Fall of Communism"],
+      "last_reviewed_date": "2026-04-21"
+    },
+    {
+      "id": "fp_0077",
+      "category": "foreign_policy",
+      "subcategory": "foreign_policy",
+      "type": "multiple_choice",
+      "prompt": "The 1987 Intermediate-Range Nuclear Forces (INF) Treaty between the United States and the Soviet Union was historically significant because:",
+      "choices": [
+        {"text": "It was the first arms-control treaty to eliminate an entire class of nuclear weapons — all ground-launched ballistic and cruise missiles with ranges of 500-5,500 km — on a verified, time-bound basis", "correct": true},
+        {"text": "It was the first treaty to cap the number of deployed strategic warheads below the Cold War peak", "correct": false, "note": "Caps on deployed strategic warheads are the SALT/START family. INF was distinctive for eliminating a full class of shorter/intermediate-range systems, not for strategic-warhead ceilings."},
+        {"text": "It was the first treaty to ban all nuclear testing, including underground testing", "correct": false, "note": "A comprehensive test ban came later and remains incomplete (CTBT opened for signature 1996, not in force globally). INF addressed missile systems, not testing."},
+        {"text": "It was the first to ban anti-ballistic missile systems", "correct": false, "note": "The 1972 ABM Treaty limited anti-ballistic missile systems. INF (1987) addressed offensive intermediate-range missiles."}
+      ],
+      "explanation": "The INF Treaty (signed December 1987, entered into force 1988) verifiably eliminated U.S. Pershing II and GLCM systems and Soviet SS-20 and SS-23 systems — roughly 2,700 missiles total — and pioneered on-site inspections on both sides. It is the canonical arms-control achievement of the Reagan-Gorbachev era and a centerpiece of the end-of-Cold-War narrative. The U.S. withdrew from the treaty in 2019 citing Russian non-compliance, ending its binding force.",
+      "difficulty": "medium",
+      "era": "soviet",
+      "country": "russia",
+      "tags": ["inf_treaty", "1987", "arms_control", "reagan_gorbachev", "cold_war_end"],
+      "sources": ["Course lectures"],
+      "last_reviewed_date": "2026-04-21"
+    },
+    {
+      "id": "fp_0078",
+      "category": "foreign_policy",
+      "subcategory": "foreign_policy",
+      "type": "multiple_choice",
+      "prompt": "Gorbachev's policy of not intervening as Eastern European communist regimes fell in 1989 — the rejection of the Brezhnev Doctrine — was informally dubbed:",
+      "choices": [
+        {"text": "The 'Sinatra Doctrine' — a quip by Soviet foreign-ministry spokesman Gennady Gerasimov in late 1989, riffing on 'I Did It My Way' to signal that each Warsaw Pact state could follow its own path", "correct": true},
+        {"text": "The 'Brezhnev Corollary' — formal language in the 1989 Warsaw Pact declaration codifying non-intervention", "correct": false, "note": "No 'Brezhnev Corollary' formally replaced the Brezhnev Doctrine; the informal label was the Sinatra Doctrine, from Gerasimov's quip."},
+        {"text": "The 'Gorbachev Declaration' — a statement issued to the UN General Assembly in December 1988 prohibiting all future Warsaw Pact interventions", "correct": false, "note": "Gorbachev's December 1988 UN speech stressed freedom of choice and force reductions but the informal label for non-intervention in Eastern Europe is 'Sinatra Doctrine,' not 'Gorbachev Declaration.'"},
+        {"text": "The 'Malta Doctrine' — a formal understanding between Bush and Gorbachev at the December 1989 Malta Summit not to use force in the bloc", "correct": false, "note": "Malta was significant diplomatically but there was no formal 'Malta Doctrine' codifying non-intervention; the informal name remains Sinatra Doctrine."}
+      ],
+      "explanation": "The Sinatra Doctrine is a teachable moment in how informal signalling at the end of the Cold War worked. Gerasimov offered the term on U.S. television in October 1989 as Hungary opened its border, East Germans fled, and the Berlin Wall's fall approached. The underlying policy was Gorbachev's decision not to use Soviet forces in Warsaw Pact states to stop regime change — the reversal of Brezhnev Doctrine that made 1989 possible.",
+      "difficulty": "medium",
+      "era": "soviet",
+      "country": "russia",
+      "tags": ["sinatra_doctrine", "brezhnev_doctrine", "eastern_europe_1989", "gorbachev", "gerasimov"],
+      "sources": ["Course lectures", "Archie Brown, The Rise and Fall of Communism"],
+      "last_reviewed_date": "2026-04-21"
+    },
+    {
+      "id": "fp_0079",
+      "category": "foreign_policy",
+      "subcategory": "foreign_policy",
+      "type": "multiple_choice",
+      "prompt": "Soviet forces began withdrawing from Afghanistan in 1988 and completed the withdrawal in February 1989. The withdrawal was formalized under which international instrument?",
+      "choices": [
+        {"text": "The Geneva Accords of April 1988, negotiated under UN auspices among Afghanistan, Pakistan, the USSR, and the United States", "correct": true},
+        {"text": "A bilateral Soviet-U.S. protocol appended to the INF Treaty in December 1987", "correct": false, "note": "INF addressed intermediate-range missiles, not Afghanistan. The Afghanistan withdrawal was governed by the Geneva Accords of April 1988, a separate multilateral instrument."},
+        {"text": "A unilateral Soviet decree — no international instrument was involved", "correct": false, "note": "Gorbachev's decision was unilateral in substance, but the withdrawal was internationally formalized through the 1988 Geneva Accords, which provided the diplomatic cover and schedule."},
+        {"text": "A UN Security Council resolution authorizing International-Security-Assistance-Force-style replacement of Soviet troops", "correct": false, "note": "No such UN authorization or ISAF-like mandate existed in 1988-89. ISAF itself was a post-2001 NATO-led mission; the 1988 process used the Geneva Accords framework, not a Chapter VII UNSC mandate."}
+      ],
+      "explanation": "The April 1988 Geneva Accords set a schedule for Soviet withdrawal (completed 15 February 1989, when the last Soviet general, Boris Gromov, walked across the Friendship Bridge) and established non-intervention obligations between Afghanistan and Pakistan. The withdrawal was a high-cost departure after nearly a decade of counterinsurgency and is usually treated alongside the INF Treaty as a signature act of the New Thinking period.",
+      "difficulty": "hard",
+      "era": "soviet",
+      "country": "russia",
+      "tags": ["afghanistan_withdrawal", "geneva_accords", "1988", "gorbachev", "new_thinking"],
+      "sources": ["Course lectures"],
+      "last_reviewed_date": "2026-04-21"
+    },
+    {
+      "id": "fp_0080",
+      "category": "foreign_policy",
+      "subcategory": "foreign_policy",
+      "type": "multiple_choice",
+      "prompt": "German reunification (October 1990) was legally accomplished through which diplomatic framework?",
+      "choices": [
+        {"text": "The 'Two Plus Four' Treaty — negotiations among the two German states (East and West) and the four wartime occupying powers (US, UK, France, USSR), producing the Treaty on the Final Settlement with Respect to Germany signed in September 1990", "correct": true},
+        {"text": "A bilateral Soviet-West German protocol on 'internal unification' that bypassed the other occupying powers", "correct": false, "note": "Unification required settling the rights of all four wartime occupying powers, not just Soviet-West German bilateral terms. It went through the Two-Plus-Four framework."},
+        {"text": "A UN Security Council resolution terminating the rights of the Potsdam signatories over German territory", "correct": false, "note": "German reunification was not done through a UNSC resolution; it went through the Two-Plus-Four Treaty signed in Moscow."},
+        {"text": "A plebiscite across both German states on a single unified constitution, under the supervision of the CSCE", "correct": false, "note": "No pan-German plebiscite was held; East Germany acceded to West Germany under Article 23 of the Basic Law. The international side was handled by the Two-Plus-Four negotiations."}
+      ],
+      "explanation": "The Two-Plus-Four Treaty (formally the Treaty on the Final Settlement with Respect to Germany) closed out the post-WWII rights of the four occupying powers and recognized a unified Germany within its post-1945 borders, including the Oder-Neisse line. The USSR's acquiescence was a Gorbachev-era signature move, tied to economic assistance from West Germany and to the broader New Thinking logic. It is the backdrop for the subsequent long-running 'not one inch eastward' debate about NATO enlargement.",
+      "difficulty": "hard",
+      "era": "soviet",
+      "country": "russia",
+      "tags": ["german_reunification", "two_plus_four", "1990", "gorbachev", "cold_war_end"],
+      "sources": ["Course lectures", "Mary Elise Sarotte, Not One Inch"],
+      "last_reviewed_date": "2026-04-21"
+    },
+    {
+      "id": "fp_0081",
+      "category": "foreign_policy",
+      "subcategory": "foreign_policy",
+      "type": "multiple_choice",
+      "prompt": "The long-running 'not one inch eastward' debate concerns assurances allegedly offered to Soviet leaders in early 1990 about NATO expansion. Who famously used the phrase in February 1990, and in what narrow context?",
+      "choices": [
+        {"text": "U.S. Secretary of State James Baker, in a conversation with Gorbachev about whether NATO jurisdiction would extend east of unified Germany's territory — i.e., over East German soil — not about the future membership of Poland, Hungary, or the Czechoslovak state", "correct": true},
+        {"text": "NATO Secretary General Manfred Wörner, in a public communiqué pledging that no former Warsaw Pact state would ever be admitted to the alliance", "correct": false, "note": "Wörner made sympathetic statements but no such blanket public pledge. The iconic 'not one inch' phrase is from Baker's February 1990 private conversation with Gorbachev about NATO jurisdiction on East German soil."},
+        {"text": "President George H.W. Bush, in a joint statement with Gorbachev at the Malta Summit in December 1989 excluding NATO from the former Soviet space", "correct": false, "note": "The Malta Summit did not produce such a joint statement. The phrase is associated with Baker's 9 February 1990 meeting with Gorbachev, and its precise scope (East Germany vs. the broader region) is the subject of historical debate."},
+        {"text": "Chancellor Helmut Kohl, at the Two-Plus-Four signing ceremony in September 1990, in a formal written annex to the treaty", "correct": false, "note": "No such written annex exists; the treaty itself does not promise non-expansion of NATO east of Germany. The 'not one inch' line is oral and from February 1990."}
+      ],
+      "explanation": "Archival work by Mary Elise Sarotte and others shows that Baker's 9 February 1990 meeting with Gorbachev (and a day earlier with Shevardnadze) produced the famous formulation that 'NATO jurisdiction' would not move 'one inch eastward' — in the specific context of unified-Germany negotiations (i.e., East German territory), not a broader promise covering the future Visegrad or Baltic states. Russian officials subsequently interpreted the phrase as a broader pledge; U.S. officials argue the scope was narrower and was superseded by the September 1990 Two-Plus-Four text, which deals only with Germany. The controversy anchors much of the debate over NATO enlargement and Russian grievances through the 1990s-2020s.",
+      "difficulty": "very_hard",
+      "era": "soviet",
+      "country": "both",
+      "tags": ["not_one_inch", "baker_gorbachev", "nato_enlargement", "german_reunification", "1990"],
+      "sources": ["Mary Elise Sarotte, Not One Inch", "Course lectures"],
+      "last_reviewed_date": "2026-04-21"
+    },
+    {
+      "id": "fp_0082",
+      "category": "foreign_policy",
+      "subcategory": "foreign_policy",
+      "type": "multiple_choice",
+      "prompt": "The Conventional Armed Forces in Europe (CFE) Treaty signed in November 1990:",
+      "choices": [
+        {"text": "Set equal ceilings on five categories of conventional military hardware (tanks, armored combat vehicles, artillery, combat aircraft, attack helicopters) across NATO and the Warsaw Pact from the Atlantic to the Urals, with verification and inspection", "correct": true},
+        {"text": "Limited only nuclear-capable aircraft forward-deployed in Europe, leaving tanks and artillery uncapped", "correct": false, "note": "CFE covered five categories of conventional hardware — tanks, armored combat vehicles, artillery, combat aircraft, and attack helicopters — not just nuclear-capable aircraft."},
+        {"text": "Banned chemical weapons stockpiles in Europe, superseding parts of the 1925 Geneva Protocol", "correct": false, "note": "Chemical weapons are the domain of the 1993 Chemical Weapons Convention, not the CFE Treaty."},
+        {"text": "Created NATO's Partnership for Peace program with the former Warsaw Pact states", "correct": false, "note": "Partnership for Peace came in 1994. CFE was a conventional-forces arms-control treaty with ceilings and verification, not a NATO-outreach program."}
+      ],
+      "explanation": "The CFE Treaty is the heaviest-duty conventional-arms-control achievement of the late Cold War: hardware caps, extensive verification, and a shift toward transparency about force structures. Its original architecture depended on the bloc-to-bloc structure that the Warsaw Pact's 1991 dissolution unwound, and the treaty was eventually suspended by Russia in 2007 and formally exited in 2023 — but in 1990 it was a central pillar of the post-Cold-War European security order.",
+      "difficulty": "hard",
+      "era": "soviet",
+      "country": "russia",
+      "tags": ["cfe_treaty", "conventional_forces", "arms_control", "1990", "nato_warsaw_pact"],
+      "sources": ["Course lectures"],
+      "last_reviewed_date": "2026-04-21"
+    },
+    {
+      "id": "fp_0083",
+      "category": "foreign_policy",
+      "subcategory": "foreign_policy",
+      "type": "multiple_choice",
+      "prompt": "The Warsaw Pact — the Eastern Bloc military alliance founded in 1955 — was formally dissolved in which year?",
+      "choices": [
+        {"text": "1991, when its members signed a protocol in Prague on 1 July ending its military structures", "correct": true},
+        {"text": "1989, simultaneously with the fall of the Berlin Wall in November", "correct": false, "note": "The Warsaw Pact was not dissolved in 1989 despite the rapid regime changes across Eastern Europe — it continued to exist on paper through 1990 and was formally dissolved in Prague on 1 July 1991."},
+        {"text": "1990, at the Two-Plus-Four signing ceremony for German reunification", "correct": false, "note": "The Two-Plus-Four Treaty (September 1990) did not dissolve the Warsaw Pact; that came in mid-1991."},
+        {"text": "1992, alongside the formal dissolution of the USSR", "correct": false, "note": "The Pact was dissolved in July 1991, before the USSR's December 1991 dissolution."}
+      ],
+      "explanation": "The Warsaw Treaty Organization's military structures were wound up on 31 March 1991 and the organization was formally dissolved on 1 July 1991 in Prague, with its foreign ministers signing a protocol of termination. This predated the USSR's own December 1991 dissolution by several months and reflected the new Eastern European governments' determination to end the bloc structure rapidly.",
+      "difficulty": "medium",
+      "era": "soviet",
+      "country": "russia",
+      "tags": ["warsaw_pact_dissolution", "1991", "prague_protocol", "eastern_europe", "cold_war_end"],
+      "sources": ["Course lectures"],
+      "last_reviewed_date": "2026-04-21"
+    },
+    {
+      "id": "fp_0084",
+      "category": "foreign_policy",
+      "subcategory": "foreign_policy",
+      "type": "multiple_choice",
+      "prompt": "Under the 1994 Budapest Memorandum, Ukraine transferred its inherited Soviet nuclear arsenal to Russia in exchange for security assurances from which signatories?",
+      "choices": [
+        {"text": "The United States, the United Kingdom, and Russia, with separate matching assurances later from France and China", "correct": true},
+        {"text": "The United Nations Security Council as a whole, through a binding Chapter VII resolution", "correct": false, "note": "The Budapest Memorandum was a political-declaration instrument by specified states (US, UK, Russia), not a UNSC Chapter VII resolution. Scholars debate how strong its legal standing is precisely because it is not a treaty-level commitment."},
+        {"text": "NATO collectively, under an Article 5 extension specifically for Ukraine and Belarus", "correct": false, "note": "There was no Article 5 extension to Ukraine under the memorandum. The assurances were from named states (US, UK, Russia), not from NATO as a collective security guarantee."},
+        {"text": "The European Union, through a joint foreign-policy declaration adopted at Maastricht", "correct": false, "note": "The EU was not a signatory of the Budapest Memorandum. Its signatories on Ukraine were the United States, United Kingdom, and Russia."}
+      ],
+      "explanation": "The Budapest Memorandum (5 December 1994) committed the U.S., U.K., and Russia to respect Ukraine's territorial integrity and sovereignty and not use force or coercive economic pressure against Ukraine, in exchange for Ukraine's accession to the Non-Proliferation Treaty as a non-nuclear-weapon state. France and China provided separate, weaker assurances. The memorandum's status (assurances vs. guarantees), and Russia's 2014 and 2022 actions against Ukraine, have since become central reference points in debates about nonproliferation incentives and security guarantees.",
+      "difficulty": "medium",
+      "era": "1990s",
+      "country": "ukraine",
+      "tags": ["budapest_memorandum", "1994", "ukraine_denuclearization", "security_assurances", "npt"],
+      "sources": ["Course lectures", "Mariana Budjeryn, Inheriting the Bomb"],
+      "last_reviewed_date": "2026-04-21"
+    },
+    {
+      "id": "fp_0085",
+      "category": "foreign_policy",
+      "subcategory": "foreign_policy",
+      "type": "multiple_choice",
+      "prompt": "In 1999 NATO carried out its first wave of post-Cold-War enlargement. Which three countries were admitted?",
+      "choices": [
+        {"text": "Poland, the Czech Republic, and Hungary", "correct": true},
+        {"text": "Estonia, Latvia, and Lithuania", "correct": false, "note": "The Baltic states joined NATO in the 2004 second wave, not the 1999 first wave."},
+        {"text": "Slovakia, Slovenia, and Romania", "correct": false, "note": "These three were added in 2004 alongside the Baltics and Bulgaria — the second wave — not in 1999."},
+        {"text": "Ukraine, Belarus, and Moldova", "correct": false, "note": "None of these three has ever joined NATO. Ukraine and Belarus have a very different trajectory; Moldova remains non-aligned."}
+      ],
+      "explanation": "The 1999 enlargement was the first admission of former Warsaw Pact states into NATO and a central grievance in Russian foreign-policy discourse under Primakov and then Putin. It overlapped with the NATO bombing of Yugoslavia in March-June 1999, producing a sharp downturn in Russian-Western relations after the comparatively cooperative mid-1990s.",
+      "difficulty": "easy",
+      "era": "1990s",
+      "country": "russia",
+      "tags": ["nato_enlargement", "1999", "poland", "czech_republic", "hungary", "first_wave"],
+      "sources": ["Course lectures"],
+      "last_reviewed_date": "2026-04-21"
+    },
+    {
+      "id": "fp_0086",
+      "category": "foreign_policy",
+      "subcategory": "foreign_policy",
+      "type": "multiple_choice",
+      "prompt": "The NATO-Russia Founding Act (May 1997) was intended to manage Russian concerns about NATO enlargement. What did it establish, and what did it NOT establish?",
+      "choices": [
+        {"text": "It established a NATO-Russia Permanent Joint Council for consultation and stated that NATO had 'no intention, no plan, and no reason' to deploy nuclear weapons or substantial combat forces on new members' territory — but it did NOT give Russia a veto over NATO decisions or over enlargement", "correct": true},
+        {"text": "It gave Russia a formal veto over new NATO admissions and over any deployment of NATO forces east of Germany", "correct": false, "note": "The Act explicitly disclaimed any Russian veto. The 'no veto' language is repeatedly emphasized in NATO statements around the document."},
+        {"text": "It admitted Russia as a full NATO member with all Article 5 obligations and voting rights", "correct": false, "note": "Russia was never offered and never accepted NATO membership. The Act created consultation, not membership."},
+        {"text": "It required NATO to withdraw all forces from Germany as a precondition for Russia accepting enlargement in 1999", "correct": false, "note": "No such withdrawal was required or carried out; the Act did commit NATO to certain force-posture restraints on new members' territory but not to withdrawing from existing members like Germany."}
+      ],
+      "explanation": "The NATO-Russia Founding Act was a 1997 political document (not a treaty) designed to offer Russia a structured voice as the 1999 first-wave enlargement approached. Its key substantive commitments were about NATO posture on new members' territory ('no intention, no plan, no reason' — the 'three no's') and the establishment of the Permanent Joint Council. Russian officials later argued the 2004 and 2022 force dispositions violated the Act's spirit; NATO argues the force-posture language was explicitly conditional on the security environment at the time.",
+      "difficulty": "hard",
+      "era": "1990s",
+      "country": "russia",
+      "tags": ["nato_russia_founding_act", "1997", "permanent_joint_council", "three_noes", "enlargement"],
+      "sources": ["Course lectures"],
+      "last_reviewed_date": "2026-04-21"
+    },
+    {
+      "id": "fp_0087",
+      "category": "foreign_policy",
+      "subcategory": "foreign_policy",
+      "type": "multiple_choice",
+      "prompt": "The First Chechen War (1994-1996) ended with which settlement?",
+      "choices": [
+        {"text": "The Khasavyurt Accords, negotiated for the Russian side by Aleksandr Lebed and for the Chechen side by Aslan Maskhadov in August 1996 — a ceasefire that postponed the question of Chechnya's status for five years and was widely read as a Russian military defeat", "correct": true},
+        {"text": "A Russian military victory in which Chechen forces were decisively crushed and the region formally incorporated as a new federal district", "correct": false, "note": "The First Chechen War ended in a Russian military setback, not a decisive victory. The region remained de facto independent from 1996 to 1999 under Maskhadov."},
+        {"text": "A UN-brokered peace plan that placed Chechnya under a five-year international administration", "correct": false, "note": "There was no UN-administered trusteeship in Chechnya. The war ended through the bilateral Khasavyurt Accords."},
+        {"text": "A treaty of association with Georgia signed in Tbilisi", "correct": false, "note": "No such treaty existed. Chechnya did not sign an association treaty with Georgia; the war ended by the Khasavyurt Accords with Russia."}
+      ],
+      "explanation": "The First Chechen War saw poorly prepared Russian forces mount a disastrous invasion in December 1994, suffer heavy casualties in the January 1995 storming of Grozny, and face a mobile, motivated Chechen resistance. Aleksandr Lebed's Khasavyurt Accords (August 1996) ended hostilities on terms favorable to the Chechen side, leaving the status question open. The settlement became a major talking point for critics of Yeltsin and set the stage for the Second Chechen War (1999-), which Putin used as a foundational success.",
+      "difficulty": "medium",
+      "era": "1990s",
+      "country": "russia",
+      "tags": ["first_chechen_war", "khasavyurt_accords", "lebed", "maskhadov", "1994_1996"],
+      "sources": ["Course lectures"],
+      "last_reviewed_date": "2026-04-21"
+    },
+    {
+      "id": "fp_0088",
+      "category": "foreign_policy",
+      "subcategory": "foreign_policy",
+      "type": "multiple_choice",
+      "prompt": "In March-June 1999 NATO carried out a 78-day air campaign against Yugoslavia over Kosovo. What was Russia's role and reaction?",
+      "choices": [
+        {"text": "Russia sharply opposed the bombing, withdrew from NATO-Russia structures temporarily, and famously staged the 'Pristina dash' — a surprise deployment of paratroopers to Pristina airport ahead of NATO forces in June — before ultimately cooperating in the Kosovo Force (KFOR) arrangement", "correct": true},
+        {"text": "Russia participated in the air campaign as a NATO partner, contributing combat aircraft from Russian bases", "correct": false, "note": "Russia did not fly combat missions alongside NATO. It opposed the bombing sharply and only joined the KFOR post-conflict stabilization after the 'Pristina dash' and subsequent negotiations."},
+        {"text": "Russia brokered a peace plan with NATO in late March 1999, averting any bombing campaign", "correct": false, "note": "No peace plan was brokered in March 1999; the bombing campaign ran from 24 March through 10 June. Russian diplomacy (Chernomyrdin, Primakov's U-turn, Ahtisaari) was involved in the June endgame."},
+        {"text": "Russia vetoed the campaign at the UN Security Council, forcing NATO to suspend operations within ten days", "correct": false, "note": "The campaign proceeded without a specific UNSC authorizing resolution (NATO cited humanitarian grounds), and Russia's objections at the UNSC did not stop it."}
+      ],
+      "explanation": "The 1999 Kosovo campaign is a major inflection point in Russian perceptions of the post-Cold-War order: NATO using force against a sovereign state without UNSC authorization, over Russian objections, and against a fellow Slavic-Orthodox state that Moscow saw as within its traditional sphere. Primakov's famous 'Atlantic loop' (ordering his plane to return to Moscow on learning of the impending strikes) and the Pristina dash became symbols of the shift from cooperative to competitive Russian-Western relations.",
+      "difficulty": "hard",
+      "era": "1990s",
+      "country": "russia",
+      "tags": ["kosovo_1999", "nato_bombing", "pristina_dash", "primakov_loop", "russia_west_relations"],
+      "sources": ["Course lectures"],
+      "last_reviewed_date": "2026-04-21"
+    },
+    {
+      "id": "fp_0089",
+      "category": "foreign_policy",
+      "subcategory": "foreign_policy",
+      "type": "multiple_choice",
+      "prompt": "The Commonwealth of Independent States (CIS) was created in December 1991. Which of the following best describes what it actually was (and was not) in the 1990s?",
+      "choices": [
+        {"text": "A loose intergovernmental organization of most post-Soviet states, providing a framework for managing the dissolution — debt and asset allocation, military questions, transit — without meaningful supranational authority and with patchy participation", "correct": true},
+        {"text": "A formal federation under Moscow's leadership, with a common parliament and president elected by all member publics", "correct": false, "note": "The CIS never had a common parliament or directly elected president. It has always been an intergovernmental coordination body with limited authority."},
+        {"text": "A NATO-style military alliance binding all successor states to collective defense under Article 5-style obligations", "correct": false, "note": "Collective-security commitments were attempted separately (the 1992 Tashkent Treaty / CSTO) and with narrower membership. The CIS itself was not a collective-defense alliance."},
+        {"text": "A customs union and monetary union introduced in 1992 with a common ruble zone extending through 1998", "correct": false, "note": "The ruble zone collapsed by mid-1993 as most republics introduced their own currencies. Customs and currency integration were fragmentary and not institutionalized through the CIS in the form described."}
+      ],
+      "explanation": "The CIS was Belovezha's diplomatic cover for the USSR's dissolution: a soft multilateral frame that made the break more orderly without creating a supranational replacement. Three Baltic states never joined; Ukraine signed but never ratified the CIS charter; Georgia left in 2008; Ukraine left in 2018. As the 1990s wore on, more substantive integration moved into narrower tracks (the EAEU family, CSTO), and the CIS became increasingly a coordinating forum rather than a political project.",
+      "difficulty": "hard",
+      "era": "1990s",
+      "country": "both",
+      "tags": ["cis", "commonwealth_of_independent_states", "post_soviet_institutions", "belovezha", "1991_1992"],
+      "sources": ["Course lectures"],
+      "last_reviewed_date": "2026-04-21"
+    },
+    {
+      "id": "fp_0090",
+      "category": "foreign_policy",
+      "subcategory": "foreign_policy",
+      "type": "multiple_choice",
+      "prompt": "Russia's 1997 Treaty on Friendship, Cooperation, and Partnership with Ukraine, signed by Yeltsin and Kuchma, did which of the following?",
+      "choices": [
+        {"text": "Formally recognized existing Ukrainian-Russian borders (including Crimea as Ukrainian) and paired with agreements partitioning the Black Sea Fleet and leasing the Sevastopol naval base to Russia", "correct": true},
+        {"text": "Transferred Crimea from Ukraine to Russia effective January 1998", "correct": false, "note": "The 1997 treaty explicitly recognized Crimea as Ukrainian territory. Crimea was annexed by Russia in 2014 — two decades after the treaty was signed."},
+        {"text": "Created a full political and currency union between Russia and Ukraine modeled on the EU-Maastricht framework", "correct": false, "note": "There was no Russia-Ukraine currency union. The 1997 treaty managed a separation of the post-Soviet inheritance, not a political-currency union."},
+        {"text": "Committed both states to joint NATO accession by 2002", "correct": false, "note": "Neither state committed to joint NATO accession; Russia was decidedly not NATO-bound, and the treaty was a bilateral inter-state settlement, not a NATO-bound one."}
+      ],
+      "explanation": "The 1997 treaty — together with the three Black Sea Fleet agreements — closed out the hardest bilateral legacies from the 1991 dissolution: the fleet's division (roughly 80/20 in Russia's favor), the lease of Sevastopol base facilities, and Russian recognition of Ukraine's post-1991 borders including Crimea. The package was a central 1990s stabilizer of Russian-Ukrainian relations and a counter-example for scholars arguing about whether Russian revisionism was always inevitable.",
+      "difficulty": "hard",
+      "era": "1990s",
+      "country": "both",
+      "tags": ["russia_ukraine_treaty_1997", "black_sea_fleet", "sevastopol_lease", "kuchma", "yeltsin"],
+      "sources": ["Course lectures", "Paul D'Anieri, Ukraine and Russia: From Civilized Divorce to Uncivil War"],
+      "last_reviewed_date": "2026-04-21"
+    },
+    {
+      "id": "fp_0091",
+      "category": "foreign_policy",
+      "subcategory": "foreign_policy",
+      "type": "multiple_choice",
+      "prompt": "In July 1994 NATO launched the Partnership for Peace (PfP) program. What was PfP designed to do?",
+      "choices": [
+        {"text": "Provide a bilateral cooperation framework with non-member states — covering joint exercises, defense-reform assistance, and interoperability — open to most European and post-Soviet states, without guaranteeing membership", "correct": true},
+        {"text": "Automatically admit any European state that met democratic standards within five years", "correct": false, "note": "PfP explicitly did not come with an automatic membership track. Enlargement decisions remained separate and case-by-case."},
+        {"text": "Withdraw NATO forces from Europe in exchange for Russian compliance with the CFE Treaty", "correct": false, "note": "PfP was not a withdrawal program; it was a cooperation framework to broaden outreach and interoperability."},
+        {"text": "Establish a joint NATO-Warsaw-Pact command structure for out-of-area peacekeeping", "correct": false, "note": "The Warsaw Pact had dissolved in 1991. PfP was a NATO program that reached out to individual former Eastern Bloc and post-Soviet states, not a joint command."}
+      ],
+      "explanation": "Partnership for Peace launched at the Brussels summit in January 1994 and was formally operational by mid-1994. It became the entry point for most Eastern European and post-Soviet states into regular cooperation with NATO — defense-reform advising, joint exercises, interoperability — and for many (Poland, Czech Republic, Hungary, later the Baltics) a way station toward membership. Russia and Ukraine both joined PfP in 1994, and Ukraine has used it to deepen interoperability independent of membership status.",
+      "difficulty": "medium",
+      "era": "1990s",
+      "country": "both",
+      "tags": ["partnership_for_peace", "1994", "nato_outreach", "interoperability", "cooperation"],
+      "sources": ["Course lectures"],
+      "last_reviewed_date": "2026-04-21"
+    },
+    {
+      "id": "fp_0092",
+      "category": "foreign_policy",
+      "subcategory": "foreign_policy",
+      "type": "multiple_choice",
+      "prompt": "The Tajik Civil War (1992-1997) was ended by a peace agreement signed in Moscow. What basic compromise did it reflect?",
+      "choices": [
+        {"text": "A 30-percent power-sharing quota for the United Tajik Opposition (primarily the Islamic Renaissance Party) in government positions, combined with demobilization of opposition fighters and Russia-led CIS peacekeeping", "correct": true},
+        {"text": "Full victory of the opposition, with the exile of President Rahmon and the establishment of an Islamic republic", "correct": false, "note": "President Rahmon stayed in power. The settlement was power-sharing, not opposition victory."},
+        {"text": "Partition of Tajikistan into a secular northern republic and a southern Islamic republic", "correct": false, "note": "No partition occurred. Tajikistan remained a single state under the 1997 General Agreement."},
+        {"text": "Annexation of Tajikistan by Uzbekistan under a CIS mandate", "correct": false, "note": "No annexation occurred. Tajikistan remained independent, with Russia as the principal external security guarantor."}
+      ],
+      "explanation": "The 1997 General Agreement on the Establishment of Peace and National Accord in Tajikistan is the only post-Soviet civil war to end in a formal power-sharing settlement that included an Islamist movement. The 30-percent government-positions quota for the UTO, combined with amnesty and demobilization, held for years before being gradually rolled back. The war and its settlement are an important counterpoint to the Chechen cases and a test case for CIS peacekeeping under Russian leadership.",
+      "difficulty": "very_hard",
+      "era": "1990s",
+      "country": "russia",
+      "tags": ["tajik_civil_war", "1997_peace_agreement", "uto", "rahmon", "cis_peacekeeping"],
+      "sources": ["Course lectures"],
+      "last_reviewed_date": "2026-04-21"
+    },
+    {
+      "id": "fp_0093",
+      "category": "foreign_policy",
+      "subcategory": "foreign_policy",
+      "type": "multiple_choice",
+      "prompt": "Moldova's Transnistria conflict, which erupted in 1992, has been frozen for three decades under what kind of arrangement?",
+      "choices": [
+        {"text": "A 1992 ceasefire that established a Joint Control Commission and deployed Russian, Moldovan, and Transnistrian peacekeepers, leaving Transnistria de facto independent but internationally unrecognized and with Russian troops stationed on its territory", "correct": true},
+        {"text": "A UN trusteeship that administered Transnistria under Security Council supervision through 2010", "correct": false, "note": "Transnistria was never under UN trusteeship. The ceasefire was managed by the tripartite Joint Control Commission, not the UNSC."},
+        {"text": "A formal annexation by Russia in 2003 that the international community quietly accepted", "correct": false, "note": "Russia did not annex Transnistria; it remains an internationally unrecognized entity, with Russian troops present but without formal Russian sovereignty."},
+        {"text": "A confederation with Ukraine in which Kyiv manages Transnistria's external relations", "correct": false, "note": "Ukraine has not formally managed Transnistria's external relations. The frozen-conflict arrangement is tripartite (Russian-Moldovan-Transnistrian peacekeepers) under the 1992 ceasefire."}
+      ],
+      "explanation": "Transnistria is the textbook 'frozen conflict' of the post-Soviet 1990s: a short, decisive war in 1992 produced a de facto separation, a tripartite peacekeeping format including Russia's 14th Army (successor forces), and an unresolved status that has persisted through multiple OSCE 5+2 negotiating rounds. It is a core case for the literature on Russia using unresolved secessionist disputes to limit its neighbors' foreign-policy room — alongside Abkhazia, South Ossetia, and Nagorno-Karabakh.",
+      "difficulty": "very_hard",
+      "era": "1990s",
+      "country": "russia",
+      "tags": ["transnistria", "moldova", "frozen_conflict", "1992_ceasefire", "russian_peacekeepers"],
+      "sources": ["Course lectures"],
+      "last_reviewed_date": "2026-04-21"
+    },
+    {
+      "id": "fp_0094",
+      "category": "foreign_policy",
+      "subcategory": "foreign_policy",
+      "type": "multiple_choice",
+      "prompt": "Andrei Kozyrev served as Russia's first foreign minister (1990-1996). His tenure is most associated with:",
+      "choices": [
+        {"text": "An 'Atlanticist' orientation — rapid integration with the West, cooperation with the U.S. on Balkans and arms control, and acceptance of Western frameworks — which became increasingly unpopular inside Russia as 1990s-era grievances accumulated", "correct": true},
+        {"text": "A 'multipolarity' doctrine that cultivated ties with China and India to balance American primacy", "correct": false, "note": "Multipolarity is Primakov's doctrine (1996-). Kozyrev's tenure is remembered for the opposite orientation — Atlanticism — and his replacement by Primakov in 1996 marked the doctrinal pivot."},
+        {"text": "A 'Eurasianist' program rooted in the writings of Aleksandr Dugin", "correct": false, "note": "Kozyrev's profile is explicitly Western-leaning; Eurasianism is a later, distinct tradition that Kozyrev's critics (not he himself) embraced."},
+        {"text": "An 'equidistance' doctrine toward oligarchs and a rejection of shock therapy in economic policy", "correct": false, "note": "Equidistance toward oligarchs is a Putin-era domestic posture, not a Kozyrev foreign-policy doctrine."}
+      ],
+      "explanation": "Kozyrev's Atlanticism — working closely with James Baker, supporting UN-sanctioned enforcement in Iraq and later reluctantly in Yugoslavia, and framing Russia's future as broadly Western — was popular in early-Yeltsin reform circles and unpopular with the Duma and security bureaucracy. His replacement by Primakov in January 1996 and the shift to multipolarity is one of the clearest doctrinal pivots of 1990s Russian foreign policy and a staple organizing contrast in the literature (Kozyrev-to-Primakov-to-Putin).",
+      "difficulty": "hard",
+      "era": "1990s",
+      "country": "russia",
+      "tags": ["kozyrev", "atlanticism", "russian_foreign_policy", "yeltsin_era", "1990_1996"],
+      "sources": ["Course lectures"],
+      "last_reviewed_date": "2026-04-21"
+    }
+  ]
+}
