@@ -18,8 +18,6 @@ export type CountryFilter = Country | 'all';
 
 export type Cohort = 'vintage' | 'classic' | 'recent' | 'fresh';
 
-export type CohortFilter = Cohort | 'all';
-
 export type Visual = {
   kind: 'image';
   url: string;
